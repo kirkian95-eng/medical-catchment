@@ -210,12 +210,14 @@ export default function MapView({
               'circle-radius': [
                 'interpolate', ['linear'],
                 ['sqrt', ['get', 'beds']],
-                5, 2,      // 25 beds → 2px
-                10, 3.5,   // 100 beds → 3.5px
-                17, 5.5,   // ~300 beds → 5.5px
-                26, 8,     // ~700 beds → 8px
-                39, 12,    // ~1500 beds → 12px
-                55, 18,    // ~3000 beds → 18px
+                5, 1.5,    // 25 beds → 1.5px
+                10, 2.5,   // 100 beds → 2.5px
+                17, 3.5,   // ~300 beds → 3.5px
+                26, 5,     // ~700 beds → 5px
+                39, 7.5,   // ~1500 beds → 7.5px
+                55, 11,    // ~3000 beds → 11px
+                80, 16,    // ~6400 beds → 16px
+                155, 24,   // ~24000 beds (Chicago) → 24px
               ],
               'circle-color': catchmentFillColorExpr(),
               'circle-stroke-color': '#fff',
