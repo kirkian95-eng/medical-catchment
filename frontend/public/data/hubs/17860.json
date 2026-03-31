@@ -1,0 +1,154 @@
+{
+  "cbsa_code": "17860",
+  "cbsa_name": "Columbia, MO",
+  "mdi": 0.7,
+  "bbox": [
+    -93.83,
+    37.83,
+    -90.82,
+    40.06
+  ],
+  "hospitals": [
+    {
+      "facility_id": "260141",
+      "name": "UNIVERSITY OF MISSOURI HEALTH CARE",
+      "beds": 596,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 38.9377,
+      "lon": -92.3296,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "260068",
+      "name": "BOONE HOSPITAL CENTER",
+      "beds": 394,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 38.9506,
+      "lon": -92.317,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "29019",
+      "county_name": "Boone",
+      "state": "MO",
+      "pop_total": 184043,
+      "pop_65_plus": 23766,
+      "distance_to_hub_miles": 3.4
+    },
+    {
+      "county_fips": "29113",
+      "county_name": "Lincoln",
+      "state": "MO",
+      "pop_total": 60172,
+      "pop_65_plus": 8403,
+      "distance_to_hub_miles": 73.7
+    },
+    {
+      "county_fips": "29027",
+      "county_name": "Callaway",
+      "state": "MO",
+      "pop_total": 44517,
+      "pop_65_plus": 7528,
+      "distance_to_hub_miles": 22.7
+    },
+    {
+      "county_fips": "29219",
+      "county_name": "Warren",
+      "state": "MO",
+      "pop_total": 35729,
+      "pop_65_plus": 6292,
+      "distance_to_hub_miles": 63.9
+    },
+    {
+      "county_fips": "29007",
+      "county_name": "Audrain",
+      "state": "MO",
+      "pop_total": 24873,
+      "pop_65_plus": 4469,
+      "distance_to_hub_miles": 32.0
+    },
+    {
+      "county_fips": "29175",
+      "county_name": "Randolph",
+      "state": "MO",
+      "pop_total": 24652,
+      "pop_65_plus": 4168,
+      "distance_to_hub_miles": 35.6
+    },
+    {
+      "county_fips": "29053",
+      "county_name": "Cooper",
+      "state": "MO",
+      "pop_total": 16893,
+      "pop_65_plus": 3135,
+      "distance_to_hub_miles": 27.0
+    },
+    {
+      "county_fips": "29121",
+      "county_name": "Macon",
+      "state": "MO",
+      "pop_total": 15173,
+      "pop_65_plus": 3340,
+      "distance_to_hub_miles": 62.7
+    },
+    {
+      "county_fips": "29115",
+      "county_name": "Linn",
+      "state": "MO",
+      "pop_total": 11892,
+      "pop_65_plus": 2549,
+      "distance_to_hub_miles": 76.5
+    },
+    {
+      "county_fips": "29139",
+      "county_name": "Montgomery",
+      "state": "MO",
+      "pop_total": 11421,
+      "pop_65_plus": 2321,
+      "distance_to_hub_miles": 46.0
+    },
+    {
+      "county_fips": "29089",
+      "county_name": "Howard",
+      "state": "MO",
+      "pop_total": 10142,
+      "pop_65_plus": 1961,
+      "distance_to_hub_miles": 24.3
+    },
+    {
+      "county_fips": "29137",
+      "county_name": "Monroe",
+      "state": "MO",
+      "pop_total": 8668,
+      "pop_65_plus": 2109,
+      "distance_to_hub_miles": 42.0
+    },
+    {
+      "county_fips": "29041",
+      "county_name": "Chariton",
+      "state": "MO",
+      "pop_total": 7417,
+      "pop_65_plus": 1852,
+      "distance_to_hub_miles": 52.2
+    }
+  ],
+  "summary": {
+    "total_beds": 990,
+    "catchment_pop": 455592,
+    "catchment_pop_65_plus": 71893,
+    "catchment_pct_65_plus": 0.1578,
+    "max_catchment_radius_miles": 76.5,
+    "avg_catchment_distance_miles": 30.4,
+    "num_counties": 13,
+    "hospital_employment": 10489,
+    "msa_total_employment": 98458,
+    "hospital_emp_share": 0.0994,
+    "avg_govt_payer_share": 0.65
+  }
+}

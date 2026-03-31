@@ -1,0 +1,74 @@
+{
+  "cbsa_code": "41780",
+  "cbsa_name": "Sandusky, OH",
+  "mdi": 0.3818,
+  "bbox": [
+    -84.45,
+    40.45,
+    -81.21,
+    42.51
+  ],
+  "hospitals": [
+    {
+      "facility_id": "360025",
+      "name": "FIRELANDS REGIONAL MEDICAL CENTER",
+      "beds": 400,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.4455,
+      "lon": -82.7092,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "361314",
+      "name": "MAGRUDER HOSPITAL",
+      "beds": 15,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.5065,
+      "lon": -82.9533,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "39093",
+      "county_name": "Lorain",
+      "state": "OH",
+      "pop_total": 313101,
+      "pop_65_plus": 59383,
+      "distance_to_hub_miles": 28.9
+    },
+    {
+      "county_fips": "39043",
+      "county_name": "Erie",
+      "state": "OH",
+      "pop_total": 75299,
+      "pop_65_plus": 16944,
+      "distance_to_hub_miles": 7.1
+    },
+    {
+      "county_fips": "39123",
+      "county_name": "Ottawa",
+      "state": "OH",
+      "pop_total": 40367,
+      "pop_65_plus": 10523,
+      "distance_to_hub_miles": 19.1
+    }
+  ],
+  "summary": {
+    "total_beds": 415,
+    "catchment_pop": 428767,
+    "catchment_pop_65_plus": 86850,
+    "catchment_pct_65_plus": 0.2026,
+    "max_catchment_radius_miles": 28.9,
+    "avg_catchment_distance_miles": 24.1,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 50123,
+    "hospital_emp_share": 0.0483,
+    "avg_govt_payer_share": 0.6536
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "46860",
+  "cbsa_name": "Vernal, UT",
+  "mdi": 0.1313,
+  "bbox": [
+    -111.03,
+    39.46,
+    -108.03,
+    41.46
+  ],
+  "hospitals": [
+    {
+      "facility_id": "460030",
+      "name": "ASHLEY REGIONAL MEDICAL CENTER",
+      "beds": 39,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.4572,
+      "lon": -109.5314,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "49047",
+      "county_name": "Uintah",
+      "state": "UT",
+      "pop_total": 35951,
+      "pop_65_plus": 4055,
+      "distance_to_hub_miles": 23.0
+    },
+    {
+      "county_fips": "49009",
+      "county_name": "Daggett",
+      "state": "UT",
+      "pop_total": 638,
+      "pop_65_plus": 118,
+      "distance_to_hub_miles": 29.7
+    }
+  ],
+  "summary": {
+    "total_beds": 39,
+    "catchment_pop": 36589,
+    "catchment_pop_65_plus": 4173,
+    "catchment_pct_65_plus": 0.1141,
+    "max_catchment_radius_miles": 29.7,
+    "avg_catchment_distance_miles": 23.1,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 14320,
+    "hospital_emp_share": 0.0225,
+    "avg_govt_payer_share": 0.65
+  }
+}

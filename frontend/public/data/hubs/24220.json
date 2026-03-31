@@ -1,0 +1,192 @@
+{
+  "cbsa_code": "24220",
+  "cbsa_name": "Grand Forks, ND-MN",
+  "mdi": 0.393,
+  "bbox": [
+    -99.44,
+    46.13,
+    -93.92,
+    49.35
+  ],
+  "hospitals": [
+    {
+      "facility_id": "350019",
+      "name": "ALTRU HOSPITAL",
+      "beds": 267,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 47.9097,
+      "lon": -97.0666,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "241357",
+      "name": "ESSENTIA HEALTH FOSSTON",
+      "beds": 50,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.5681,
+      "lon": -95.7278,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "241320",
+      "name": "RIVERVIEW HOSPITAL",
+      "beds": 49,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.7432,
+      "lon": -96.5554,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "351312",
+      "name": "NORTHWOOD DEACONESS HEALTH CENTER",
+      "beds": 7,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 47.755,
+      "lon": -97.6291,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "38035",
+      "county_name": "Grand Forks",
+      "state": "ND",
+      "pop_total": 72927,
+      "pop_65_plus": 9859,
+      "distance_to_hub_miles": 30.3
+    },
+    {
+      "county_fips": "27119",
+      "county_name": "Polk",
+      "state": "MN",
+      "pop_total": 31128,
+      "pop_65_plus": 5823,
+      "distance_to_hub_miles": 19.7
+    },
+    {
+      "county_fips": "27135",
+      "county_name": "Roseau",
+      "state": "MN",
+      "pop_total": 15294,
+      "pop_65_plus": 2788,
+      "distance_to_hub_miles": 79.4
+    },
+    {
+      "county_fips": "27113",
+      "county_name": "Pennington",
+      "state": "MN",
+      "pop_total": 13995,
+      "pop_65_plus": 2581,
+      "distance_to_hub_miles": 39.3
+    },
+    {
+      "county_fips": "38071",
+      "county_name": "Ramsey",
+      "state": "ND",
+      "pop_total": 11613,
+      "pop_65_plus": 2500,
+      "distance_to_hub_miles": 92.8
+    },
+    {
+      "county_fips": "38099",
+      "county_name": "Walsh",
+      "state": "ND",
+      "pop_total": 10553,
+      "pop_65_plus": 2280,
+      "distance_to_hub_miles": 55.5
+    },
+    {
+      "county_fips": "27089",
+      "county_name": "Marshall",
+      "state": "MN",
+      "pop_total": 9017,
+      "pop_65_plus": 2003,
+      "distance_to_hub_miles": 41.2
+    },
+    {
+      "county_fips": "38097",
+      "county_name": "Traill",
+      "state": "ND",
+      "pop_total": 8004,
+      "pop_65_plus": 1568,
+      "distance_to_hub_miles": 31.2
+    },
+    {
+      "county_fips": "38067",
+      "county_name": "Pembina",
+      "state": "ND",
+      "pop_total": 6853,
+      "pop_65_plus": 1700,
+      "distance_to_hub_miles": 72.4
+    },
+    {
+      "county_fips": "27069",
+      "county_name": "Kittson",
+      "state": "MN",
+      "pop_total": 4191,
+      "pop_65_plus": 1101,
+      "distance_to_hub_miles": 64.7
+    },
+    {
+      "county_fips": "27125",
+      "county_name": "Red Lake",
+      "state": "MN",
+      "pop_total": 3912,
+      "pop_65_plus": 852,
+      "distance_to_hub_miles": 33.4
+    },
+    {
+      "county_fips": "38019",
+      "county_name": "Cavalier",
+      "state": "ND",
+      "pop_total": 3691,
+      "pop_65_plus": 1041,
+      "distance_to_hub_miles": 99.4
+    },
+    {
+      "county_fips": "38063",
+      "county_name": "Nelson",
+      "state": "ND",
+      "pop_total": 3025,
+      "pop_65_plus": 828,
+      "distance_to_hub_miles": 64.0
+    },
+    {
+      "county_fips": "38027",
+      "county_name": "Eddy",
+      "state": "ND",
+      "pop_total": 2345,
+      "pop_65_plus": 649,
+      "distance_to_hub_miles": 97.3
+    },
+    {
+      "county_fips": "38091",
+      "county_name": "Steele",
+      "state": "ND",
+      "pop_total": 1774,
+      "pop_65_plus": 469,
+      "distance_to_hub_miles": 50.0
+    }
+  ],
+  "summary": {
+    "total_beds": 373,
+    "catchment_pop": 198322,
+    "catchment_pop_65_plus": 36042,
+    "catchment_pct_65_plus": 0.1817,
+    "max_catchment_radius_miles": 99.4,
+    "avg_catchment_distance_miles": 43.6,
+    "num_counties": 15,
+    "hospital_employment": 542,
+    "msa_total_employment": 51741,
+    "hospital_emp_share": 0.0449,
+    "avg_govt_payer_share": 0.6784
+  }
+}

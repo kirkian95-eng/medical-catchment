@@ -1,0 +1,96 @@
+{
+  "cbsa_code": "24660",
+  "cbsa_name": "Greensboro-High Point, NC",
+  "mdi": 0.3089,
+  "bbox": [
+    -81.51,
+    34.71,
+    -78.24,
+    37.49
+  ],
+  "hospitals": [
+    {
+      "facility_id": "340091",
+      "name": "MOSES H. CONE MEMORIAL HOSPITAL, THE",
+      "beds": 1232,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.0918,
+      "lon": -79.7886,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "340004",
+      "name": "HIGH POINT REGIONAL HEALTH SYSTEM",
+      "beds": 354,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.9631,
+      "lon": -80.0123,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "340123",
+      "name": "RANDOLPH HOSPITAL",
+      "beds": 145,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.7112,
+      "lon": -79.8149,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "340060",
+      "name": "UNC ROCKINGHAM",
+      "beds": 108,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.4934,
+      "lon": -79.7398,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "37081",
+      "county_name": "Guilford",
+      "state": "NC",
+      "pop_total": 539557,
+      "pop_65_plus": 83813,
+      "distance_to_hub_miles": 2.7
+    },
+    {
+      "county_fips": "37151",
+      "county_name": "Randolph",
+      "state": "NC",
+      "pop_total": 144403,
+      "pop_65_plus": 25926,
+      "distance_to_hub_miles": 24.3
+    },
+    {
+      "county_fips": "37157",
+      "county_name": "Rockingham",
+      "state": "NC",
+      "pop_total": 91209,
+      "pop_65_plus": 18961,
+      "distance_to_hub_miles": 23.4
+    }
+  ],
+  "summary": {
+    "total_beds": 1839,
+    "catchment_pop": 775169,
+    "catchment_pop_65_plus": 128700,
+    "catchment_pct_65_plus": 0.166,
+    "max_catchment_radius_miles": 24.3,
+    "avg_catchment_distance_miles": 9.2,
+    "num_counties": 3,
+    "hospital_employment": 4,
+    "msa_total_employment": 354145,
+    "hospital_emp_share": 0.0415,
+    "avg_govt_payer_share": 0.65
+  }
+}

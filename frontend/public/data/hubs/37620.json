@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "37620",
+  "cbsa_name": "Parkersburg-Vienna, WV",
+  "mdi": 0.4246,
+  "bbox": [
+    -83.06,
+    38.27,
+    -80.06,
+    40.27
+  ],
+  "hospitals": [
+    {
+      "facility_id": "510058",
+      "name": "CAMDEN CLARK MEDICAL CENTER",
+      "beds": 343,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.2706,
+      "lon": -81.5602,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "54107",
+      "county_name": "Wood",
+      "state": "WV",
+      "pop_total": 84272,
+      "pop_65_plus": 17715,
+      "distance_to_hub_miles": 4.8
+    },
+    {
+      "county_fips": "54085",
+      "county_name": "Ritchie",
+      "state": "WV",
+      "pop_total": 8507,
+      "pop_65_plus": 1930,
+      "distance_to_hub_miles": 27.4
+    },
+    {
+      "county_fips": "54105",
+      "county_name": "Wirt",
+      "state": "WV",
+      "pop_total": 5202,
+      "pop_65_plus": 1104,
+      "distance_to_hub_miles": 19.7
+    }
+  ],
+  "summary": {
+    "total_beds": 343,
+    "catchment_pop": 97981,
+    "catchment_pop_65_plus": 20749,
+    "catchment_pct_65_plus": 0.2118,
+    "max_catchment_radius_miles": 27.4,
+    "avg_catchment_distance_miles": 7.6,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 35271,
+    "hospital_emp_share": 0.0541,
+    "avg_govt_payer_share": 0.65
+  }
+}

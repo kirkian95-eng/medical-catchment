@@ -1,0 +1,79 @@
+{
+  "cbsa_code": "24740",
+  "cbsa_name": "Greenville, MS",
+  "mdi": 0.7,
+  "bbox": [
+    -92.53,
+    32.41,
+    -89.53,
+    34.41
+  ],
+  "hospitals": [
+    {
+      "facility_id": "250082",
+      "name": "DELTA HEALTH SYSTEM - THE MEDICAL CENTER",
+      "beds": 268,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 33.4099,
+      "lon": -91.0349,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "28151",
+      "county_name": "Washington",
+      "state": "MS",
+      "pop_total": 44604,
+      "pop_65_plus": 7612,
+      "distance_to_hub_miles": 10.1
+    },
+    {
+      "county_fips": "05043",
+      "county_name": "Drew",
+      "state": "AR",
+      "pop_total": 17309,
+      "pop_65_plus": 3085,
+      "distance_to_hub_miles": 41.4
+    },
+    {
+      "county_fips": "05041",
+      "county_name": "Desha",
+      "state": "AR",
+      "pop_total": 11285,
+      "pop_65_plus": 2162,
+      "distance_to_hub_miles": 31.8
+    },
+    {
+      "county_fips": "05017",
+      "county_name": "Chicot",
+      "state": "AR",
+      "pop_total": 10234,
+      "pop_65_plus": 2176,
+      "distance_to_hub_miles": 17.9
+    },
+    {
+      "county_fips": "28053",
+      "county_name": "Humphreys",
+      "state": "MS",
+      "pop_total": 7744,
+      "pop_65_plus": 1345,
+      "distance_to_hub_miles": 35.2
+    }
+  ],
+  "summary": {
+    "total_beds": 268,
+    "catchment_pop": 91176,
+    "catchment_pop_65_plus": 16380,
+    "catchment_pct_65_plus": 0.1797,
+    "max_catchment_radius_miles": 41.4,
+    "avg_catchment_distance_miles": 21.7,
+    "num_counties": 5,
+    "hospital_employment": 492,
+    "msa_total_employment": 14525,
+    "hospital_emp_share": 0.1021,
+    "avg_govt_payer_share": 0.65
+  }
+}

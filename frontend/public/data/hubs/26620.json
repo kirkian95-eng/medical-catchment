@@ -1,0 +1,69 @@
+{
+  "cbsa_code": "26620",
+  "cbsa_name": "Huntsville, AL",
+  "mdi": 0.1673,
+  "bbox": [
+    -88.48,
+    33.72,
+    -85.07,
+    35.8
+  ],
+  "hospitals": [
+    {
+      "facility_id": "010039",
+      "name": "HUNTSVILLE HOSPITAL",
+      "beds": 881,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 34.721,
+      "lon": -86.5819,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "010131",
+      "name": "CRESTWOOD MEDICAL CENTER",
+      "beds": 147,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.7268,
+      "lon": -86.5731,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "010079",
+      "name": "ATHENS LIMESTONE HOSPITAL",
+      "beds": 71,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 34.8038,
+      "lon": -86.979,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "01089",
+      "county_name": "Madison",
+      "state": "AL",
+      "pop_total": 389781,
+      "pop_65_plus": 59906,
+      "distance_to_hub_miles": 4.0
+    }
+  ],
+  "summary": {
+    "total_beds": 1099,
+    "catchment_pop": 389781,
+    "catchment_pop_65_plus": 59906,
+    "catchment_pct_65_plus": 0.1537,
+    "max_catchment_radius_miles": 4.0,
+    "avg_catchment_distance_miles": 4.0,
+    "num_counties": 1,
+    "hospital_employment": 1637,
+    "msa_total_employment": 257426,
+    "hospital_emp_share": 0.0307,
+    "avg_govt_payer_share": 0.65
+  }
+}

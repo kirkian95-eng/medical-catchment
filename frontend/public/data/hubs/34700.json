@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "34700",
+  "cbsa_name": "Muscatine, IA",
+  "mdi": 0.1133,
+  "bbox": [
+    -92.56,
+    40.44,
+    -89.56,
+    42.44
+  ],
+  "hospitals": [
+    {
+      "facility_id": "160013",
+      "name": "TRINITY MUSCATINE",
+      "beds": 80,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.4399,
+      "lon": -91.0643,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "19139",
+      "county_name": "Muscatine",
+      "state": "IA",
+      "pop_total": 42968,
+      "pop_65_plus": 7364,
+      "distance_to_hub_miles": 3.9
+    },
+    {
+      "county_fips": "19115",
+      "county_name": "Louisa",
+      "state": "IA",
+      "pop_total": 10823,
+      "pop_65_plus": 2115,
+      "distance_to_hub_miles": 18.4
+    }
+  ],
+  "summary": {
+    "total_beds": 80,
+    "catchment_pop": 53791,
+    "catchment_pop_65_plus": 9479,
+    "catchment_pct_65_plus": 0.1762,
+    "max_catchment_radius_miles": 18.4,
+    "avg_catchment_distance_miles": 6.8,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 21766,
+    "hospital_emp_share": 0.0214,
+    "avg_govt_payer_share": 0.65
+  }
+}

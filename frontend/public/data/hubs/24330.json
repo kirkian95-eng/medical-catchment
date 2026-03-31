@@ -1,0 +1,69 @@
+{
+  "cbsa_code": "24330",
+  "cbsa_name": "Grand Rapids, MN",
+  "mdi": 0.5378,
+  "bbox": [
+    -95.35,
+    46.22,
+    -92.03,
+    48.7
+  ],
+  "hospitals": [
+    {
+      "facility_id": "240064",
+      "name": "GRAND ITASCA CLINIC AND HOSPITAL",
+      "beds": 64,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.2209,
+      "lon": -93.5572,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "241316",
+      "name": "BIGFORK VALLEY HOSPITAL",
+      "beds": 20,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 47.7021,
+      "lon": -93.5337,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "241360",
+      "name": "ESSENTIA HEALTH DEER RIVER",
+      "beds": 20,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.3905,
+      "lon": -93.8487,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "27061",
+      "county_name": "Itasca",
+      "state": "MN",
+      "pop_total": 45054,
+      "pop_65_plus": 11104,
+      "distance_to_hub_miles": 20.3
+    }
+  ],
+  "summary": {
+    "total_beds": 104,
+    "catchment_pop": 45054,
+    "catchment_pop_65_plus": 11104,
+    "catchment_pct_65_plus": 0.2465,
+    "max_catchment_radius_miles": 20.3,
+    "avg_catchment_distance_miles": 20.3,
+    "num_counties": 1,
+    "hospital_employment": 177,
+    "msa_total_employment": 15831,
+    "hospital_emp_share": 0.0597,
+    "avg_govt_payer_share": 0.6885
+  }
+}

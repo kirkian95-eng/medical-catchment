@@ -1,0 +1,74 @@
+{
+  "cbsa_code": "26140",
+  "cbsa_name": "Homosassa Springs, FL",
+  "mdi": 0.3311,
+  "bbox": [
+    -84.15,
+    27.83,
+    -80.84,
+    29.96
+  ],
+  "hospitals": [
+    {
+      "facility_id": "100023",
+      "name": "HCA FLORIDA CITRUS HOSPITAL",
+      "beds": 204,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 28.8322,
+      "lon": -82.3353,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100249",
+      "name": "TAMPA GENERAL HOSPITAL CRYSTAL RIVER",
+      "beds": 128,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.9567,
+      "lon": -82.6476,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "12053",
+      "county_name": "Hernando",
+      "state": "FL",
+      "pop_total": 196621,
+      "pop_65_plus": 52781,
+      "distance_to_hub_miles": 22.7
+    },
+    {
+      "county_fips": "12017",
+      "county_name": "Citrus",
+      "state": "FL",
+      "pop_total": 155173,
+      "pop_65_plus": 56413,
+      "distance_to_hub_miles": 8.5
+    },
+    {
+      "county_fips": "12119",
+      "county_name": "Sumter",
+      "state": "FL",
+      "pop_total": 131832,
+      "pop_65_plus": 76345,
+      "distance_to_hub_miles": 25.7
+    }
+  ],
+  "summary": {
+    "total_beds": 332,
+    "catchment_pop": 483626,
+    "catchment_pop_65_plus": 185539,
+    "catchment_pct_65_plus": 0.3836,
+    "max_catchment_radius_miles": 25.7,
+    "avg_catchment_distance_miles": 19.0,
+    "num_counties": 3,
+    "hospital_employment": 1566,
+    "msa_total_employment": 34490,
+    "hospital_emp_share": 0.0454,
+    "avg_govt_payer_share": 0.65
+  }
+}

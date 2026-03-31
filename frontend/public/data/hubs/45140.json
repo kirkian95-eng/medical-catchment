@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "45140",
+  "cbsa_name": "Tahlequah, OK",
+  "mdi": 0.4273,
+  "bbox": [
+    -96.45,
+    34.91,
+    -93.45,
+    36.92
+  ],
+  "hospitals": [
+    {
+      "facility_id": "370089",
+      "name": "NORTHEASTERN HEALTH SYSTEM",
+      "beds": 98,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.9153,
+      "lon": -94.95,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "370171",
+      "name": "CHEROKEE NATION W W HASTINGS INDIAN HOSPITAL",
+      "beds": 60,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 35.9132,
+      "lon": -94.9489,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "40021",
+      "county_name": "Cherokee",
+      "state": "OK",
+      "pop_total": 47412,
+      "pop_65_plus": 8174,
+      "distance_to_hub_miles": 2.9
+    },
+    {
+      "county_fips": "40001",
+      "county_name": "Adair",
+      "state": "OK",
+      "pop_total": 19726,
+      "pop_65_plus": 3087,
+      "distance_to_hub_miles": 16.4
+    }
+  ],
+  "summary": {
+    "total_beds": 158,
+    "catchment_pop": 67138,
+    "catchment_pop_65_plus": 11261,
+    "catchment_pct_65_plus": 0.1677,
+    "max_catchment_radius_miles": 16.4,
+    "avg_catchment_distance_miles": 6.9,
+    "num_counties": 2,
+    "hospital_employment": 77,
+    "msa_total_employment": 17552,
+    "hospital_emp_share": 0.0479,
+    "avg_govt_payer_share": 0.65
+  }
+}

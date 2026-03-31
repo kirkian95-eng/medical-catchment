@@ -1,0 +1,74 @@
+{
+  "cbsa_code": "24980",
+  "cbsa_name": "Grenada, MS",
+  "mdi": 0.3443,
+  "bbox": [
+    -91.32,
+    32.46,
+    -88.22,
+    34.76
+  ],
+  "hospitals": [
+    {
+      "facility_id": "250168",
+      "name": "UNIVERSITY OF MISSISSIPPI MEDICAL CENTER- GRENADA",
+      "beds": 156,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 33.7632,
+      "lon": -89.8185,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "251312",
+      "name": "TYLER HOLMES MEMORIAL HOSPITAL CAH",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 33.4595,
+      "lon": -89.7182,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "28043",
+      "county_name": "Grenada",
+      "state": "MS",
+      "pop_total": 21474,
+      "pop_65_plus": 3906,
+      "distance_to_hub_miles": 3.4
+    },
+    {
+      "county_fips": "28135",
+      "county_name": "Tallahatchie",
+      "state": "MS",
+      "pop_total": 12621,
+      "pop_65_plus": 2078,
+      "distance_to_hub_miles": 26.4
+    },
+    {
+      "county_fips": "28097",
+      "county_name": "Montgomery",
+      "state": "MS",
+      "pop_total": 9803,
+      "pop_65_plus": 2166,
+      "distance_to_hub_miles": 19.1
+    }
+  ],
+  "summary": {
+    "total_beds": 181,
+    "catchment_pop": 43898,
+    "catchment_pop_65_plus": 8150,
+    "catchment_pct_65_plus": 0.1857,
+    "max_catchment_radius_miles": 26.4,
+    "avg_catchment_distance_miles": 13.5,
+    "num_counties": 3,
+    "hospital_employment": 460,
+    "msa_total_employment": 11826,
+    "hospital_emp_share": 0.0389,
+    "avg_govt_payer_share": 0.6638
+  }
+}

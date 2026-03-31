@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "16540",
+  "cbsa_name": "Chambersburg, PA",
+  "mdi": 0.2531,
+  "bbox": [
+    -79.15,
+    38.77,
+    -76.08,
+    40.94
+  ],
+  "hospitals": [
+    {
+      "facility_id": "390151",
+      "name": "WELLSPAN CHAMBERSBURG HOSPITAL",
+      "beds": 274,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9351,
+      "lon": -77.6472,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "390138",
+      "name": "WELLSPAN WAYNESBORO HOSPITAL",
+      "beds": 57,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.7749,
+      "lon": -77.5756,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42055",
+      "county_name": "Franklin",
+      "state": "PA",
+      "pop_total": 156084,
+      "pop_65_plus": 30901,
+      "distance_to_hub_miles": 4.8
+    },
+    {
+      "county_fips": "42057",
+      "county_name": "Fulton",
+      "state": "PA",
+      "pop_total": 14545,
+      "pop_65_plus": 3177,
+      "distance_to_hub_miles": 25.4
+    }
+  ],
+  "summary": {
+    "total_beds": 331,
+    "catchment_pop": 170629,
+    "catchment_pop_65_plus": 34078,
+    "catchment_pct_65_plus": 0.1997,
+    "max_catchment_radius_miles": 25.4,
+    "avg_catchment_distance_miles": 6.6,
+    "num_counties": 2,
+    "hospital_employment": 2197,
+    "msa_total_employment": 59064,
+    "hospital_emp_share": 0.0372,
+    "avg_govt_payer_share": 0.65
+  }
+}

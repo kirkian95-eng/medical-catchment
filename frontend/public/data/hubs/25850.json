@@ -1,0 +1,88 @@
+{
+  "cbsa_code": "25850",
+  "cbsa_name": "Hermitage, PA",
+  "mdi": 0.2574,
+  "bbox": [
+    -82.0,
+    40.17,
+    -78.57,
+    42.41
+  ],
+  "hospitals": [
+    {
+      "facility_id": "390211",
+      "name": "SHARON REGIONAL MEDICAL CENTER",
+      "beds": 220,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.2348,
+      "lon": -80.4994,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "390178",
+      "name": "UPMC HORIZON",
+      "beds": 201,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.4112,
+      "lon": -80.3724,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "390266",
+      "name": "GROVE CITY MEDICAL CENTER",
+      "beds": 67,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.173,
+      "lon": -80.073,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "390307",
+      "name": "EDGEWOOD SURGICAL HOSPITAL",
+      "beds": 10,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 41.3259,
+      "lon": -80.4201,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42019",
+      "county_name": "Butler",
+      "state": "PA",
+      "pop_total": 194562,
+      "pop_65_plus": 38240,
+      "distance_to_hub_miles": 36.5
+    },
+    {
+      "county_fips": "42085",
+      "county_name": "Mercer",
+      "state": "PA",
+      "pop_total": 110600,
+      "pop_65_plus": 24777,
+      "distance_to_hub_miles": 6.8
+    }
+  ],
+  "summary": {
+    "total_beds": 498,
+    "catchment_pop": 305162,
+    "catchment_pop_65_plus": 63017,
+    "catchment_pct_65_plus": 0.2065,
+    "max_catchment_radius_miles": 36.5,
+    "avg_catchment_distance_miles": 25.7,
+    "num_counties": 2,
+    "hospital_employment": 1703,
+    "msa_total_employment": 43140,
+    "hospital_emp_share": 0.0395,
+    "avg_govt_payer_share": 0.65
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "cbsa_code": "49020",
+  "cbsa_name": "Winchester, VA-WV",
+  "mdi": 0.3041,
+  "bbox": [
+    -80.27,
+    38.19,
+    -76.7,
+    40.32
+  ],
+  "hospitals": [
+    {
+      "facility_id": "490005",
+      "name": "WINCHESTER MEDICAL CENTER",
+      "beds": 399,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.1913,
+      "lon": -78.1959,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "511311",
+      "name": "HAMPSHIRE MEMORIAL HOSPITAL",
+      "beds": 44,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.3207,
+      "lon": -78.7679,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "51153",
+      "county_name": "Prince William",
+      "state": "VA",
+      "pop_total": 481114,
+      "pop_65_plus": 50434,
+      "distance_to_hub_miles": 54.2
+    },
+    {
+      "county_fips": "51069",
+      "county_name": "Frederick",
+      "state": "VA",
+      "pop_total": 92007,
+      "pop_65_plus": 16636,
+      "distance_to_hub_miles": 0.6
+    },
+    {
+      "county_fips": "51061",
+      "county_name": "Fauquier",
+      "state": "VA",
+      "pop_total": 73290,
+      "pop_65_plus": 12262,
+      "distance_to_hub_miles": 40.0
+    },
+    {
+      "county_fips": "51171",
+      "county_name": "Shenandoah",
+      "state": "VA",
+      "pop_total": 44337,
+      "pop_65_plus": 9705,
+      "distance_to_hub_miles": 29.4
+    },
+    {
+      "county_fips": "51683",
+      "county_name": "Manassas",
+      "state": "VA",
+      "pop_total": 42620,
+      "pop_65_plus": 4569,
+      "distance_to_hub_miles": 51.9
+    },
+    {
+      "county_fips": "51187",
+      "county_name": "Warren",
+      "state": "VA",
+      "pop_total": 40800,
+      "pop_65_plus": 6772,
+      "distance_to_hub_miles": 20.5
+    },
+    {
+      "county_fips": "51840",
+      "county_name": "Winchester",
+      "state": "VA",
+      "pop_total": 28103,
+      "pop_65_plus": 4615,
+      "distance_to_hub_miles": 4.8
+    },
+    {
+      "county_fips": "54027",
+      "county_name": "Hampshire",
+      "state": "WV",
+      "pop_total": 23275,
+      "pop_65_plus": 5412,
+      "distance_to_hub_miles": 20.9
+    },
+    {
+      "county_fips": "51685",
+      "county_name": "Manassas Park",
+      "state": "VA",
+      "pop_total": 17123,
+      "pop_65_plus": 1679,
+      "distance_to_hub_miles": 52.8
+    },
+    {
+      "county_fips": "51043",
+      "county_name": "Clarke",
+      "state": "VA",
+      "pop_total": 14882,
+      "pop_65_plus": 3196,
+      "distance_to_hub_miles": 15.2
+    },
+    {
+      "county_fips": "54031",
+      "county_name": "Hardy",
+      "state": "WV",
+      "pop_total": 14249,
+      "pop_65_plus": 3280,
+      "distance_to_hub_miles": 35.2
+    },
+    {
+      "county_fips": "51157",
+      "county_name": "Rappahannock",
+      "state": "VA",
+      "pop_total": 7422,
+      "pop_65_plus": 1968,
+      "distance_to_hub_miles": 36.2
+    }
+  ],
+  "summary": {
+    "total_beds": 443,
+    "catchment_pop": 879222,
+    "catchment_pop_65_plus": 120528,
+    "catchment_pct_65_plus": 0.1371,
+    "max_catchment_radius_miles": 54.2,
+    "avg_catchment_distance_miles": 40.9,
+    "num_counties": 12,
+    "hospital_employment": 0,
+    "msa_total_employment": 28893,
+    "hospital_emp_share": 0.0387,
+    "avg_govt_payer_share": 0.6599
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "cbsa_code": "24540",
+  "cbsa_name": "Greeley, CO",
+  "mdi": 0.1274,
+  "bbox": [
+    -106.98,
+    38.62,
+    -102.45,
+    42.22
+  ],
+  "hospitals": [
+    {
+      "facility_id": "060001",
+      "name": "BANNER NORTH COLORADO MEDICAL CENTER",
+      "beds": 378,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.4148,
+      "lon": -104.7089,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "060131",
+      "name": "UCHEALTH GREELEY HOSPITAL",
+      "beds": 88,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.4206,
+      "lon": -104.7248,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "08123",
+      "county_name": "Weld",
+      "state": "CO",
+      "pop_total": 331466,
+      "pop_65_plus": 41300,
+      "distance_to_hub_miles": 19.3
+    },
+    {
+      "county_fips": "08087",
+      "county_name": "Morgan",
+      "state": "CO",
+      "pop_total": 29045,
+      "pop_65_plus": 4552,
+      "distance_to_hub_miles": 48.7
+    },
+    {
+      "county_fips": "08075",
+      "county_name": "Logan",
+      "state": "CO",
+      "pop_total": 21302,
+      "pop_65_plus": 3923,
+      "distance_to_hub_miles": 86.7
+    },
+    {
+      "county_fips": "08125",
+      "county_name": "Yuma",
+      "state": "CO",
+      "pop_total": 9938,
+      "pop_65_plus": 1795,
+      "distance_to_hub_miles": 124.0
+    },
+    {
+      "county_fips": "31033",
+      "county_name": "Cheyenne",
+      "state": "NE",
+      "pop_total": 9489,
+      "pop_65_plus": 1972,
+      "distance_to_hub_miles": 105.6
+    },
+    {
+      "county_fips": "08121",
+      "county_name": "Washington",
+      "state": "CO",
+      "pop_total": 4817,
+      "pop_65_plus": 1028,
+      "distance_to_hub_miles": 85.5
+    }
+  ],
+  "summary": {
+    "total_beds": 466,
+    "catchment_pop": 406057,
+    "catchment_pop_65_plus": 54570,
+    "catchment_pct_65_plus": 0.1344,
+    "max_catchment_radius_miles": 124.0,
+    "avg_catchment_distance_miles": 30.3,
+    "num_counties": 6,
+    "hospital_employment": 0,
+    "msa_total_employment": 116173,
+    "hospital_emp_share": 0.0238,
+    "avg_govt_payer_share": 0.65
+  }
+}

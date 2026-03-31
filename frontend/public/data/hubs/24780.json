@@ -1,0 +1,79 @@
+{
+  "cbsa_code": "24780",
+  "cbsa_name": "Greenville, NC",
+  "mdi": 0.7,
+  "bbox": [
+    -78.9,
+    34.61,
+    -75.9,
+    36.61
+  ],
+  "hospitals": [
+    {
+      "facility_id": "340040",
+      "name": "ECU HEALTH MEDICAL CENTER",
+      "beds": 909,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.6056,
+      "lon": -77.4034,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "37147",
+      "county_name": "Pitt",
+      "state": "NC",
+      "pop_total": 171196,
+      "pop_65_plus": 24072,
+      "distance_to_hub_miles": 1.8
+    },
+    {
+      "county_fips": "37013",
+      "county_name": "Beaufort",
+      "state": "NC",
+      "pop_total": 44711,
+      "pop_65_plus": 10927,
+      "distance_to_hub_miles": 32.4
+    },
+    {
+      "county_fips": "37117",
+      "county_name": "Martin",
+      "state": "NC",
+      "pop_total": 21992,
+      "pop_65_plus": 5351,
+      "distance_to_hub_miles": 23.3
+    },
+    {
+      "county_fips": "37079",
+      "county_name": "Greene",
+      "state": "NC",
+      "pop_total": 20407,
+      "pop_65_plus": 3376,
+      "distance_to_hub_miles": 17.4
+    },
+    {
+      "county_fips": "37015",
+      "county_name": "Bertie",
+      "state": "NC",
+      "pop_total": 17818,
+      "pop_65_plus": 4253,
+      "distance_to_hub_miles": 40.1
+    }
+  ],
+  "summary": {
+    "total_beds": 909,
+    "catchment_pop": 276124,
+    "catchment_pop_65_plus": 47979,
+    "catchment_pct_65_plus": 0.1738,
+    "max_catchment_radius_miles": 40.1,
+    "avg_catchment_distance_miles": 12.1,
+    "num_counties": 5,
+    "hospital_employment": 8769,
+    "msa_total_employment": 80183,
+    "hospital_emp_share": 0.1094,
+    "avg_govt_payer_share": 0.65
+  }
+}

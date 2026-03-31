@@ -1,0 +1,99 @@
+{
+  "cbsa_code": "18880",
+  "cbsa_name": "Crestview-Fort Walton Beach-Destin, FL",
+  "mdi": 0.0661,
+  "bbox": [
+    -88.13,
+    29.38,
+    -84.63,
+    31.74
+  ],
+  "hospitals": [
+    {
+      "facility_id": "100223",
+      "name": "HCA FLORIDA FORT WALTON-DESTIN HOSPITAL",
+      "beds": 331,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 30.4545,
+      "lon": -86.6336,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100122",
+      "name": "NORTH OKALOOSA MEDICAL CENTER",
+      "beds": 110,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.7369,
+      "lon": -86.5627,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100054",
+      "name": "HCA FLORIDA TWIN CITIES HOSPITAL",
+      "beds": 65,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 30.5078,
+      "lon": -86.4484,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100292",
+      "name": "SACRED HEART HOSPITAL ON THE EMERALD COAST",
+      "beds": 58,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 30.3768,
+      "lon": -86.307,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100365",
+      "name": "NORTH WALTON DOCTORS HOSPITAL",
+      "beds": 2,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 30.6486,
+      "lon": -86.1302,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "12091",
+      "county_name": "Okaloosa",
+      "state": "FL",
+      "pop_total": 212021,
+      "pop_65_plus": 34564,
+      "distance_to_hub_miles": 7.6
+    },
+    {
+      "county_fips": "12131",
+      "county_name": "Walton",
+      "state": "FL",
+      "pop_total": 76618,
+      "pop_65_plus": 15309,
+      "distance_to_hub_miles": 23.6
+    }
+  ],
+  "summary": {
+    "total_beds": 566,
+    "catchment_pop": 288639,
+    "catchment_pop_65_plus": 49873,
+    "catchment_pct_65_plus": 0.1728,
+    "max_catchment_radius_miles": 23.6,
+    "avg_catchment_distance_miles": 11.8,
+    "num_counties": 2,
+    "hospital_employment": 2025,
+    "msa_total_employment": 124230,
+    "hospital_emp_share": 0.0163,
+    "avg_govt_payer_share": 0.65
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "cbsa_code": "12900",
+  "cbsa_name": "Batesville, AR",
+  "mdi": 0.5701,
+  "bbox": [
+    -93.13,
+    34.77,
+    -90.13,
+    36.77
+  ],
+  "hospitals": [
+    {
+      "facility_id": "040119",
+      "name": "WHITE RIVER MEDICAL CENTER",
+      "beds": 224,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.7695,
+      "lon": -91.6343,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "05063",
+      "county_name": "Independence",
+      "state": "AR",
+      "pop_total": 37910,
+      "pop_65_plus": 6599,
+      "distance_to_hub_miles": 4.1
+    },
+    {
+      "county_fips": "05135",
+      "county_name": "Sharp",
+      "state": "AR",
+      "pop_total": 17422,
+      "pop_65_plus": 4409,
+      "distance_to_hub_miles": 28.4
+    },
+    {
+      "county_fips": "05067",
+      "county_name": "Jackson",
+      "state": "AR",
+      "pop_total": 16784,
+      "pop_65_plus": 2983,
+      "distance_to_hub_miles": 26.4
+    },
+    {
+      "county_fips": "05065",
+      "county_name": "Izard",
+      "state": "AR",
+      "pop_total": 13748,
+      "pop_65_plus": 3489,
+      "distance_to_hub_miles": 27.4
+    },
+    {
+      "county_fips": "05137",
+      "county_name": "Stone",
+      "state": "AR",
+      "pop_total": 12393,
+      "pop_65_plus": 3387,
+      "distance_to_hub_miles": 30.0
+    }
+  ],
+  "summary": {
+    "total_beds": 224,
+    "catchment_pop": 98257,
+    "catchment_pop_65_plus": 20867,
+    "catchment_pct_65_plus": 0.2124,
+    "max_catchment_radius_miles": 30.0,
+    "avg_catchment_distance_miles": 18.7,
+    "num_counties": 5,
+    "hospital_employment": 0,
+    "msa_total_employment": 17381,
+    "hospital_emp_share": 0.0702,
+    "avg_govt_payer_share": 0.65
+  }
+}

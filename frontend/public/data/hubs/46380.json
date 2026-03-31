@@ -1,0 +1,69 @@
+{
+  "cbsa_code": "46380",
+  "cbsa_name": "Ukiah, CA",
+  "mdi": 0.4375,
+  "bbox": [
+    -125.19,
+    38.15,
+    -121.7,
+    40.48
+  ],
+  "hospitals": [
+    {
+      "facility_id": "050301",
+      "name": "ADVENTIST HEALTH UKIAH VALLEY",
+      "beds": 127,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.1538,
+      "lon": -123.2038,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "051310",
+      "name": "ADVENTIST HEALTH HOWARD MEMORIAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.4793,
+      "lon": -123.3482,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "051325",
+      "name": "ADVENTIST HEALTH MENDOCINO COAST",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.4439,
+      "lon": -123.6859,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "06045",
+      "county_name": "Mendocino",
+      "state": "CA",
+      "pop_total": 91145,
+      "pop_65_plus": 21197,
+      "distance_to_hub_miles": 15.3
+    }
+  ],
+  "summary": {
+    "total_beds": 177,
+    "catchment_pop": 91145,
+    "catchment_pop_65_plus": 21197,
+    "catchment_pct_65_plus": 0.2326,
+    "max_catchment_radius_miles": 15.3,
+    "avg_catchment_distance_miles": 15.3,
+    "num_counties": 1,
+    "hospital_employment": 1395,
+    "msa_total_employment": 32162,
+    "hospital_emp_share": 0.0434,
+    "avg_govt_payer_share": 0.6782
+  }
+}

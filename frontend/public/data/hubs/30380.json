@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "30380",
+  "cbsa_name": "Lewistown, PA",
+  "mdi": 0.4347,
+  "bbox": [
+    -79.07,
+    39.62,
+    -76.07,
+    41.62
+  ],
+  "hospitals": [
+    {
+      "facility_id": "390048",
+      "name": "GEISINGER-LEWISTOWN HOSPITAL",
+      "beds": 123,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.6181,
+      "lon": -77.567,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42087",
+      "county_name": "Mifflin",
+      "state": "PA",
+      "pop_total": 46146,
+      "pop_65_plus": 9980,
+      "distance_to_hub_miles": 2.7
+    },
+    {
+      "county_fips": "42067",
+      "county_name": "Juniata",
+      "state": "PA",
+      "pop_total": 23535,
+      "pop_65_plus": 4839,
+      "distance_to_hub_miles": 10.6
+    }
+  ],
+  "summary": {
+    "total_beds": 123,
+    "catchment_pop": 69681,
+    "catchment_pop_65_plus": 14819,
+    "catchment_pct_65_plus": 0.2127,
+    "max_catchment_radius_miles": 10.6,
+    "avg_catchment_distance_miles": 5.4,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 16202,
+    "hospital_emp_share": 0.0554,
+    "avg_govt_payer_share": 0.65
+  }
+}

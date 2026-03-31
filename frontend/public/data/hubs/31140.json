@@ -1,0 +1,248 @@
+{
+  "cbsa_code": "31140",
+  "cbsa_name": "Louisville/Jefferson County, KY-IN",
+  "mdi": 0.3667,
+  "bbox": [
+    -87.62,
+    36.86,
+    -83.71,
+    39.61
+  ],
+  "hospitals": [
+    {
+      "facility_id": "180088",
+      "name": "NORTON HOSPITALS, INC",
+      "beds": 1730,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.2482,
+      "lon": -85.7518,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "180040",
+      "name": "UOFL HEALTH - JEWISH HOSPITAL and Mary & Elizabeth Hospital",
+      "beds": 1261,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.2528,
+      "lon": -85.7519,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "180130",
+      "name": "BAPTIST HEALTH LOUISVILLE",
+      "beds": 519,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.2396,
+      "lon": -85.6383,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "180141",
+      "name": "UNIVERSITY OF LOUISVILLE HOSPITAL",
+      "beds": 404,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.2491,
+      "lon": -85.745,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "150009",
+      "name": "NORTON CLARK HOSPITAL",
+      "beds": 241,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 38.2829,
+      "lon": -85.7492,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "150044",
+      "name": "BAPTIST HEALTH FLOYD",
+      "beds": 225,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.3005,
+      "lon": -85.8349,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "180138",
+      "name": "BAPTIST HEALTH LAGRANGE",
+      "beds": 90,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.3961,
+      "lon": -85.3759,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "180016",
+      "name": "UOFL HEALTH - SHELBYVILLE HOSPITAL",
+      "beds": 68,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.2129,
+      "lon": -85.2086,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "180025",
+      "name": "CHI SAINT JOSEPH FLAGET MEMORIAL HOSPITAL",
+      "beds": 40,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.863,
+      "lon": -85.5228,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "151314",
+      "name": "ASCENSION ST VINCENT SALEM",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.607,
+      "lon": -86.0935,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "151331",
+      "name": "HARRISON COUNTY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 38.2062,
+      "lon": -86.1226,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "150172",
+      "name": "PHYSICIANS' MEDICAL CENTER LLC",
+      "beds": 12,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 38.2838,
+      "lon": -85.8477,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "21111",
+      "county_name": "Jefferson",
+      "state": "KY",
+      "pop_total": 779232,
+      "pop_65_plus": 130328,
+      "distance_to_hub_miles": 6.0
+    },
+    {
+      "county_fips": "18019",
+      "county_name": "Clark",
+      "state": "IN",
+      "pop_total": 121484,
+      "pop_65_plus": 19765,
+      "distance_to_hub_miles": 15.5
+    },
+    {
+      "county_fips": "21029",
+      "county_name": "Bullitt",
+      "state": "KY",
+      "pop_total": 82482,
+      "pop_65_plus": 13630,
+      "distance_to_hub_miles": 19.7
+    },
+    {
+      "county_fips": "18043",
+      "county_name": "Floyd",
+      "state": "IN",
+      "pop_total": 80191,
+      "pop_65_plus": 13408,
+      "distance_to_hub_miles": 10.6
+    },
+    {
+      "county_fips": "21185",
+      "county_name": "Oldham",
+      "state": "KY",
+      "pop_total": 67997,
+      "pop_65_plus": 9369,
+      "distance_to_hub_miles": 18.3
+    },
+    {
+      "county_fips": "18061",
+      "county_name": "Harrison",
+      "state": "IN",
+      "pop_total": 39684,
+      "pop_65_plus": 7269,
+      "distance_to_hub_miles": 21.1
+    },
+    {
+      "county_fips": "21163",
+      "county_name": "Meade",
+      "state": "KY",
+      "pop_total": 29964,
+      "pop_65_plus": 4413,
+      "distance_to_hub_miles": 33.0
+    },
+    {
+      "county_fips": "18175",
+      "county_name": "Washington",
+      "state": "IN",
+      "pop_total": 28133,
+      "pop_65_plus": 5005,
+      "distance_to_hub_miles": 31.4
+    },
+    {
+      "county_fips": "18143",
+      "county_name": "Scott",
+      "state": "IN",
+      "pop_total": 24403,
+      "pop_65_plus": 4168,
+      "distance_to_hub_miles": 29.8
+    },
+    {
+      "county_fips": "21215",
+      "county_name": "Spencer",
+      "state": "KY",
+      "pop_total": 19549,
+      "pop_65_plus": 2817,
+      "distance_to_hub_miles": 26.6
+    },
+    {
+      "county_fips": "18025",
+      "county_name": "Crawford",
+      "state": "IN",
+      "pop_total": 10511,
+      "pop_65_plus": 2105,
+      "distance_to_hub_miles": 39.3
+    }
+  ],
+  "summary": {
+    "total_beds": 4640,
+    "catchment_pop": 1283630,
+    "catchment_pop_65_plus": 212277,
+    "catchment_pct_65_plus": 0.1654,
+    "max_catchment_radius_miles": 39.3,
+    "avg_catchment_distance_miles": 11.4,
+    "num_counties": 11,
+    "hospital_employment": 32233,
+    "msa_total_employment": 637146,
+    "hospital_emp_share": 0.0477,
+    "avg_govt_payer_share": 0.6511
+  }
+}

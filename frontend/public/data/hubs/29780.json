@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "29780",
+  "cbsa_name": "Las Vegas, NM",
+  "mdi": 0.8757,
+  "bbox": [
+    -106.43,
+    34.54,
+    -103.43,
+    36.54
+  ],
+  "hospitals": [
+    {
+      "facility_id": "321312",
+      "name": "ALTA VISTA REGIONAL HOSPITAL",
+      "beds": 62,
+      "type": "Critical Access Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.5421,
+      "lon": -104.9335,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "35047",
+      "county_name": "San Miguel",
+      "state": "NM",
+      "pop_total": 27215,
+      "pop_65_plus": 6224,
+      "distance_to_hub_miles": 7.9
+    },
+    {
+      "county_fips": "35019",
+      "county_name": "Guadalupe",
+      "state": "NM",
+      "pop_total": 4413,
+      "pop_65_plus": 859,
+      "distance_to_hub_miles": 47.6
+    },
+    {
+      "county_fips": "35033",
+      "county_name": "Mora",
+      "state": "NM",
+      "pop_total": 4208,
+      "pop_65_plus": 1398,
+      "distance_to_hub_miles": 32.4
+    },
+    {
+      "county_fips": "35021",
+      "county_name": "Harding",
+      "state": "NM",
+      "pop_total": 671,
+      "pop_65_plus": 163,
+      "distance_to_hub_miles": 66.2
+    }
+  ],
+  "summary": {
+    "total_beds": 62,
+    "catchment_pop": 36507,
+    "catchment_pop_65_plus": 8644,
+    "catchment_pct_65_plus": 0.2368,
+    "max_catchment_radius_miles": 66.2,
+    "avg_catchment_distance_miles": 16.6,
+    "num_counties": 4,
+    "hospital_employment": 569,
+    "msa_total_employment": 7600,
+    "hospital_emp_share": 0.0689,
+    "avg_govt_payer_share": 0.75
+  }
+}

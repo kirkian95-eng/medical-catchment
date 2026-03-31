@@ -1,0 +1,77 @@
+{
+  "cbsa_code": "18180",
+  "cbsa_name": "Concord, NH",
+  "mdi": 0.2948,
+  "bbox": [
+    -73.49,
+    42.2,
+    -70.06,
+    44.45
+  ],
+  "hospitals": [
+    {
+      "facility_id": "300001",
+      "name": "CONCORD HOSPITAL",
+      "beds": 295,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.1965,
+      "lon": -71.5627,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "301304",
+      "name": "NEW LONDON HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.4177,
+      "lon": -71.9906,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "301306",
+      "name": "CONCORD HOSPITAL- FRANKLIN",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.449,
+      "lon": -71.6742,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "33013",
+      "county_name": "Merrimack",
+      "state": "NH",
+      "pop_total": 153918,
+      "pop_65_plus": 29128,
+      "distance_to_hub_miles": 6.0
+    },
+    {
+      "county_fips": "33017",
+      "county_name": "Strafford",
+      "state": "NH",
+      "pop_total": 130965,
+      "pop_65_plus": 20990,
+      "distance_to_hub_miles": 29.2
+    }
+  ],
+  "summary": {
+    "total_beds": 345,
+    "catchment_pop": 284883,
+    "catchment_pop_65_plus": 50118,
+    "catchment_pct_65_plus": 0.1759,
+    "max_catchment_radius_miles": 29.2,
+    "avg_catchment_distance_miles": 16.7,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 76731,
+    "hospital_emp_share": 0.0391,
+    "avg_govt_payer_share": 0.6645
+  }
+}

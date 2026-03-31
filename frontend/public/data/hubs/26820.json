@@ -1,0 +1,96 @@
+{
+  "cbsa_code": "26820",
+  "cbsa_name": "Idaho Falls, ID",
+  "mdi": 0.2902,
+  "bbox": [
+    -114.86,
+    42.43,
+    -110.49,
+    44.47
+  ],
+  "hospitals": [
+    {
+      "facility_id": "130018",
+      "name": "EASTERN IDAHO REGIONAL MEDICAL CENTER",
+      "beds": 330,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 43.4696,
+      "lon": -111.9904,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "130074",
+      "name": "IDAHO FALLS COMMUNITY HOSPITAL, LLC",
+      "beds": 88,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 43.4268,
+      "lon": -112.0155,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "130065",
+      "name": "MOUNTAIN VIEW HOSPITAL",
+      "beds": 43,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 43.4724,
+      "lon": -111.9879,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "131324",
+      "name": "LOST RIVERS MEDICAL CENTER",
+      "beds": 14,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 43.4439,
+      "lon": -113.3643,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "16019",
+      "county_name": "Bonneville",
+      "state": "ID",
+      "pop_total": 124490,
+      "pop_65_plus": 16643,
+      "distance_to_hub_miles": 19.8
+    },
+    {
+      "county_fips": "16051",
+      "county_name": "Jefferson",
+      "state": "ID",
+      "pop_total": 31383,
+      "pop_65_plus": 3593,
+      "distance_to_hub_miles": 29.4
+    },
+    {
+      "county_fips": "16023",
+      "county_name": "Butte",
+      "state": "ID",
+      "pop_total": 2605,
+      "pop_65_plus": 572,
+      "distance_to_hub_miles": 61.6
+    }
+  ],
+  "summary": {
+    "total_beds": 475,
+    "catchment_pop": 158478,
+    "catchment_pop_65_plus": 20808,
+    "catchment_pct_65_plus": 0.1313,
+    "max_catchment_radius_miles": 61.6,
+    "avg_catchment_distance_miles": 22.4,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 71718,
+    "hospital_emp_share": 0.043,
+    "avg_govt_payer_share": 0.6529
+  }
+}

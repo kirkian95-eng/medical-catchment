@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "25200",
+  "cbsa_name": "Hailey, ID",
+  "mdi": 0.3651,
+  "bbox": [
+    -116.08,
+    42.74,
+    -113.08,
+    44.74
+  ],
+  "hospitals": [
+    {
+      "facility_id": "131323",
+      "name": "ST LUKE'S WOOD RIVER MEDICAL CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.7361,
+      "lon": -114.5819,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "16037",
+      "county_name": "Custer",
+      "state": "ID",
+      "pop_total": 4344,
+      "pop_65_plus": 1459,
+      "distance_to_hub_miles": 38.0
+    },
+    {
+      "county_fips": "16025",
+      "county_name": "Camas",
+      "state": "ID",
+      "pop_total": 1133,
+      "pop_65_plus": 152,
+      "distance_to_hub_miles": 21.9
+    }
+  ],
+  "summary": {
+    "total_beds": 25,
+    "catchment_pop": 5477,
+    "catchment_pop_65_plus": 1611,
+    "catchment_pct_65_plus": 0.2941,
+    "max_catchment_radius_miles": 38.0,
+    "avg_catchment_distance_miles": 34.7,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 14249,
+    "hospital_emp_share": 0.0151,
+    "avg_govt_payer_share": 0.75
+  }
+}

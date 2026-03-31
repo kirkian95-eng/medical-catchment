@@ -1,0 +1,82 @@
+{
+  "cbsa_code": "31930",
+  "cbsa_name": "Marietta, OH",
+  "mdi": 0.4272,
+  "bbox": [
+    -82.96,
+    38.43,
+    -79.93,
+    40.43
+  ],
+  "hospitals": [
+    {
+      "facility_id": "360147",
+      "name": "MARIETTA MEMORIAL HOSPITAL",
+      "beds": 204,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.432,
+      "lon": -81.4647,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "361319",
+      "name": "SELBY GENERAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.4298,
+      "lon": -81.4321,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "39167",
+      "county_name": "Washington",
+      "state": "OH",
+      "pop_total": 59639,
+      "pop_65_plus": 12712,
+      "distance_to_hub_miles": 2.5
+    },
+    {
+      "county_fips": "39115",
+      "county_name": "Morgan",
+      "state": "OH",
+      "pop_total": 13851,
+      "pop_65_plus": 3023,
+      "distance_to_hub_miles": 24.6
+    },
+    {
+      "county_fips": "54095",
+      "county_name": "Tyler",
+      "state": "WV",
+      "pop_total": 8336,
+      "pop_65_plus": 1950,
+      "distance_to_hub_miles": 30.8
+    },
+    {
+      "county_fips": "54073",
+      "county_name": "Pleasants",
+      "state": "WV",
+      "pop_total": 7622,
+      "pop_65_plus": 1405,
+      "distance_to_hub_miles": 16.5
+    }
+  ],
+  "summary": {
+    "total_beds": 229,
+    "catchment_pop": 89448,
+    "catchment_pop_65_plus": 19090,
+    "catchment_pct_65_plus": 0.2134,
+    "max_catchment_radius_miles": 30.8,
+    "avg_catchment_distance_miles": 9.8,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 25162,
+    "hospital_emp_share": 0.054,
+    "avg_govt_payer_share": 0.6609
+  }
+}

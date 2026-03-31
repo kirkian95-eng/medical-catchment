@@ -1,0 +1,216 @@
+{
+  "cbsa_code": "30780",
+  "cbsa_name": "Little Rock-North Little Rock-Conway, AR",
+  "mdi": 0.6966,
+  "bbox": [
+    -94.2,
+    33.57,
+    -90.64,
+    36.08
+  ],
+  "hospitals": [
+    {
+      "facility_id": "040114",
+      "name": "BAPTIST HEALTH MEDICAL CENTER-LITTLE ROCK",
+      "beds": 807,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.7457,
+      "lon": -92.3825,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "040007",
+      "name": "CHI-ST VINCENT INFIRMARY",
+      "beds": 615,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.7495,
+      "lon": -92.3514,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "040016",
+      "name": "University of Arkansas Medical Sciences",
+      "beds": 450,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 34.7515,
+      "lon": -92.3207,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "040036",
+      "name": "BAPTIST HEALTH MEDICAL CENTER NORTH LITTLE ROCK",
+      "beds": 225,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.7832,
+      "lon": -92.218,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "040084",
+      "name": "SALINE MEMORIAL HOSPITAL",
+      "beds": 177,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.5749,
+      "lon": -92.5845,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "040029",
+      "name": "CONWAY REGIONAL MEDICAL CENTER, INC",
+      "beds": 150,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.0849,
+      "lon": -92.4583,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "040154",
+      "name": "BAPTIST HEALTH MEDICAL CENTER- CONWAY",
+      "beds": 111,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.0564,
+      "lon": -92.4193,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "040134",
+      "name": "ARKANSAS HEART HOSPITAL, LLC",
+      "beds": 110,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.7463,
+      "lon": -92.4172,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "040137",
+      "name": "ST VINCENT MEDICAL CENTER/NORTH",
+      "beds": 69,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 34.9022,
+      "lon": -92.2408,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "040147",
+      "name": "ARKANSAS SURGICAL HOSPITAL",
+      "beds": 47,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 34.8405,
+      "lon": -92.326,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "040164",
+      "name": "UNITY HEALTH - JACKSONVILLE",
+      "beds": 29,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.9121,
+      "lon": -92.1377,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "040161",
+      "name": "ARKANSAS HEART HOSPITAL-ENCORE",
+      "beds": 25,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.6338,
+      "lon": -92.699,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "05119",
+      "county_name": "Pulaski",
+      "state": "AR",
+      "pop_total": 398322,
+      "pop_65_plus": 64386,
+      "distance_to_hub_miles": 3.2
+    },
+    {
+      "county_fips": "05045",
+      "county_name": "Faulkner",
+      "state": "AR",
+      "pop_total": 124611,
+      "pop_65_plus": 16523,
+      "distance_to_hub_miles": 25.7
+    },
+    {
+      "county_fips": "05125",
+      "county_name": "Saline",
+      "state": "AR",
+      "pop_total": 123988,
+      "pop_65_plus": 22633,
+      "distance_to_hub_miles": 19.7
+    },
+    {
+      "county_fips": "05085",
+      "county_name": "Lonoke",
+      "state": "AR",
+      "pop_total": 74292,
+      "pop_65_plus": 10411,
+      "distance_to_hub_miles": 27.2
+    },
+    {
+      "county_fips": "05029",
+      "county_name": "Conway",
+      "state": "AR",
+      "pop_total": 20782,
+      "pop_65_plus": 4048,
+      "distance_to_hub_miles": 38.5
+    },
+    {
+      "county_fips": "05141",
+      "county_name": "Van Buren",
+      "state": "AR",
+      "pop_total": 15900,
+      "pop_65_plus": 4257,
+      "distance_to_hub_miles": 56.2
+    },
+    {
+      "county_fips": "05105",
+      "county_name": "Perry",
+      "state": "AR",
+      "pop_total": 10055,
+      "pop_65_plus": 2044,
+      "distance_to_hub_miles": 34.0
+    }
+  ],
+  "summary": {
+    "total_beds": 2815,
+    "catchment_pop": 767950,
+    "catchment_pop_65_plus": 124302,
+    "catchment_pct_65_plus": 0.1619,
+    "max_catchment_radius_miles": 56.2,
+    "avg_catchment_distance_miles": 14.3,
+    "num_counties": 7,
+    "hospital_employment": 28862,
+    "msa_total_employment": 328266,
+    "hospital_emp_share": 0.0827,
+    "avg_govt_payer_share": 0.65
+  }
+}

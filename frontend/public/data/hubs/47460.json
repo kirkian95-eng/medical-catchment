@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "47460",
+  "cbsa_name": "Walla Walla, WA",
+  "mdi": 0.0934,
+  "bbox": [
+    -119.84,
+    45.06,
+    -116.84,
+    47.06
+  ],
+  "hospitals": [
+    {
+      "facility_id": "500002",
+      "name": "PROVIDENCE ST MARY MEDICAL CENTER",
+      "beds": 146,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 46.0626,
+      "lon": -118.3438,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "53071",
+      "county_name": "Walla Walla",
+      "state": "WA",
+      "pop_total": 62150,
+      "pop_65_plus": 11990,
+      "distance_to_hub_miles": 13.2
+    },
+    {
+      "county_fips": "41061",
+      "county_name": "Union",
+      "state": "OR",
+      "pop_total": 26286,
+      "pop_65_plus": 5483,
+      "distance_to_hub_miles": 54.4
+    },
+    {
+      "county_fips": "53013",
+      "county_name": "Columbia",
+      "state": "WA",
+      "pop_total": 3980,
+      "pop_65_plus": 1150,
+      "distance_to_hub_miles": 26.4
+    }
+  ],
+  "summary": {
+    "total_beds": 146,
+    "catchment_pop": 92416,
+    "catchment_pop_65_plus": 18623,
+    "catchment_pct_65_plus": 0.2015,
+    "max_catchment_radius_miles": 54.4,
+    "avg_catchment_distance_miles": 25.5,
+    "num_counties": 3,
+    "hospital_employment": 483,
+    "msa_total_employment": 29009,
+    "hospital_emp_share": 0.0167,
+    "avg_govt_payer_share": 0.65
+  }
+}

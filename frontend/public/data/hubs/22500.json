@@ -1,0 +1,101 @@
+{
+  "cbsa_code": "22500",
+  "cbsa_name": "Florence, SC",
+  "mdi": 0.5792,
+  "bbox": [
+    -81.61,
+    33.16,
+    -78.25,
+    35.35
+  ],
+  "hospitals": [
+    {
+      "facility_id": "420051",
+      "name": "MCLEOD REGIONAL MEDICAL CENTER-PEE DEE",
+      "beds": 461,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.196,
+      "lon": -79.7593,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "420091",
+      "name": "MUSC HEALTH FLORENCE MEDICAL CENTER",
+      "beds": 420,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 34.1574,
+      "lon": -79.7524,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "420010",
+      "name": "CAROLINA PINES REGIONAL MEDICAL CENTER",
+      "beds": 116,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.3488,
+      "lon": -80.1058,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "45041",
+      "county_name": "Florence",
+      "state": "SC",
+      "pop_total": 137015,
+      "pop_65_plus": 23955,
+      "distance_to_hub_miles": 13.1
+    },
+    {
+      "county_fips": "45031",
+      "county_name": "Darlington",
+      "state": "SC",
+      "pop_total": 63025,
+      "pop_65_plus": 12089,
+      "distance_to_hub_miles": 13.1
+    },
+    {
+      "county_fips": "45025",
+      "county_name": "Chesterfield",
+      "state": "SC",
+      "pop_total": 43536,
+      "pop_65_plus": 8218,
+      "distance_to_hub_miles": 36.8
+    },
+    {
+      "county_fips": "45067",
+      "county_name": "Marion",
+      "state": "SC",
+      "pop_total": 29212,
+      "pop_65_plus": 5943,
+      "distance_to_hub_miles": 26.1
+    },
+    {
+      "county_fips": "45033",
+      "county_name": "Dillon",
+      "state": "SC",
+      "pop_total": 28255,
+      "pop_65_plus": 4784,
+      "distance_to_hub_miles": 27.4
+    }
+  ],
+  "summary": {
+    "total_beds": 997,
+    "catchment_pop": 301043,
+    "catchment_pop_65_plus": 54989,
+    "catchment_pct_65_plus": 0.1827,
+    "max_catchment_radius_miles": 36.8,
+    "avg_catchment_distance_miles": 19.1,
+    "num_counties": 5,
+    "hospital_employment": 353,
+    "msa_total_employment": 88217,
+    "hospital_emp_share": 0.079,
+    "avg_govt_payer_share": 0.65
+  }
+}

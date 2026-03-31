@@ -1,0 +1,98 @@
+{
+  "cbsa_code": "15540",
+  "cbsa_name": "Burlington-South Burlington, VT",
+  "mdi": 0.2744,
+  "bbox": [
+    -74.7,
+    43.48,
+    -71.57,
+    45.81
+  ],
+  "hospitals": [
+    {
+      "facility_id": "470003",
+      "name": "UNIV. OF VERMONT - FLETCHER ALLEN HEALTH CARE",
+      "beds": 615,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 44.4806,
+      "lon": -73.1967,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "470024",
+      "name": "NORTHWESTERN MEDICAL CENTER INC",
+      "beds": 70,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 44.8074,
+      "lon": -73.0747,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "50007",
+      "county_name": "Chittenden",
+      "state": "VT",
+      "pop_total": 168309,
+      "pop_65_plus": 26697,
+      "distance_to_hub_miles": 6.3
+    },
+    {
+      "county_fips": "50011",
+      "county_name": "Franklin",
+      "state": "VT",
+      "pop_total": 50101,
+      "pop_65_plus": 8425,
+      "distance_to_hub_miles": 27.2
+    },
+    {
+      "county_fips": "50001",
+      "county_name": "Addison",
+      "state": "VT",
+      "pop_total": 37434,
+      "pop_65_plus": 8012,
+      "distance_to_hub_miles": 33.5
+    },
+    {
+      "county_fips": "36031",
+      "county_name": "Essex",
+      "state": "NY",
+      "pop_total": 37314,
+      "pop_65_plus": 9264,
+      "distance_to_hub_miles": 40.0
+    },
+    {
+      "county_fips": "50019",
+      "county_name": "Orleans",
+      "state": "VT",
+      "pop_total": 27459,
+      "pop_65_plus": 6370,
+      "distance_to_hub_miles": 51.1
+    },
+    {
+      "county_fips": "50015",
+      "county_name": "Lamoille",
+      "state": "VT",
+      "pop_total": 25977,
+      "pop_65_plus": 4612,
+      "distance_to_hub_miles": 27.5
+    }
+  ],
+  "summary": {
+    "total_beds": 685,
+    "catchment_pop": 346594,
+    "catchment_pop_65_plus": 63380,
+    "catchment_pct_65_plus": 0.1829,
+    "max_catchment_radius_miles": 51.1,
+    "avg_catchment_distance_miles": 21.0,
+    "num_counties": 6,
+    "hospital_employment": 0,
+    "msa_total_employment": 120451,
+    "hospital_emp_share": 0.0404,
+    "avg_govt_payer_share": 0.65
+  }
+}

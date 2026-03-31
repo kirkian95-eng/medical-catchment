@@ -1,0 +1,125 @@
+{
+  "cbsa_code": "25180",
+  "cbsa_name": "Hagerstown-Martinsburg, MD-WV",
+  "mdi": 0.1616,
+  "bbox": [
+    -79.72,
+    38.48,
+    -76.19,
+    40.62
+  ],
+  "hospitals": [
+    {
+      "facility_id": "210001",
+      "name": "MERITUS MEDICAL CENTER",
+      "beds": 271,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.6226,
+      "lon": -77.6855,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "510008",
+      "name": "BERKELEY MEDICAL CENTER",
+      "beds": 241,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.4765,
+      "lon": -77.9809,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "511309",
+      "name": "VALLEY HEALTH WAR MEMORIAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.5487,
+      "lon": -78.2215,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "24031",
+      "county_name": "Montgomery",
+      "state": "MD",
+      "pop_total": 1056910,
+      "pop_65_plus": 170697,
+      "distance_to_hub_miles": 44.7
+    },
+    {
+      "county_fips": "51107",
+      "county_name": "Loudoun",
+      "state": "VA",
+      "pop_total": 420773,
+      "pop_65_plus": 41972,
+      "distance_to_hub_miles": 33.8
+    },
+    {
+      "county_fips": "24021",
+      "county_name": "Frederick",
+      "state": "MD",
+      "pop_total": 273829,
+      "pop_65_plus": 40796,
+      "distance_to_hub_miles": 24.4
+    },
+    {
+      "county_fips": "24043",
+      "county_name": "Washington",
+      "state": "MD",
+      "pop_total": 154645,
+      "pop_65_plus": 27391,
+      "distance_to_hub_miles": 3.8
+    },
+    {
+      "county_fips": "54003",
+      "county_name": "Berkeley",
+      "state": "WV",
+      "pop_total": 123283,
+      "pop_65_plus": 18452,
+      "distance_to_hub_miles": 11.6
+    },
+    {
+      "county_fips": "54037",
+      "county_name": "Jefferson",
+      "state": "WV",
+      "pop_total": 58043,
+      "pop_65_plus": 9673,
+      "distance_to_hub_miles": 17.0
+    },
+    {
+      "county_fips": "51600",
+      "county_name": "Fairfax",
+      "state": "VA",
+      "pop_total": 24242,
+      "pop_65_plus": 3498,
+      "distance_to_hub_miles": 56.5
+    },
+    {
+      "county_fips": "54065",
+      "county_name": "Morgan",
+      "state": "WV",
+      "pop_total": 17237,
+      "pop_65_plus": 4158,
+      "distance_to_hub_miles": 22.1
+    }
+  ],
+  "summary": {
+    "total_beds": 537,
+    "catchment_pop": 2128962,
+    "catchment_pop_65_plus": 316637,
+    "catchment_pct_65_plus": 0.1487,
+    "max_catchment_radius_miles": 56.5,
+    "avg_catchment_distance_miles": 34.2,
+    "num_counties": 8,
+    "hospital_employment": 2081,
+    "msa_total_employment": 102872,
+    "hospital_emp_share": 0.0202,
+    "avg_govt_payer_share": 0.6547
+  }
+}

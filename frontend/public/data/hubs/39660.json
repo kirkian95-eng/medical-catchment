@@ -1,0 +1,267 @@
+{
+  "cbsa_code": "39660",
+  "cbsa_name": "Rapid City, SD",
+  "mdi": 0.4196,
+  "bbox": [
+    -106.17,
+    41.72,
+    -100.52,
+    46.41
+  ],
+  "hospitals": [
+    {
+      "facility_id": "430077",
+      "name": "MONUMENT HEALTH RAPID CITY HOSPITAL",
+      "beds": 417,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.0586,
+      "lon": -103.2245,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "430091",
+      "name": "BLACK HILLS SURGICAL HOSPITAL LLC",
+      "beds": 26,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 44.0046,
+      "lon": -103.0426,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "431321",
+      "name": "MONUMENT HEALTH STURGIS HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 44.4025,
+      "lon": -103.1888,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "431323",
+      "name": "MONUMENT HEALTH CUSTER HOSPITAL",
+      "beds": 12,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.7266,
+      "lon": -103.6486,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "430093",
+      "name": "SAME DAY SURGERY CENTER LLC",
+      "beds": 6,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 44.1218,
+      "lon": -103.2012,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "46103",
+      "county_name": "Pennington",
+      "state": "SD",
+      "pop_total": 110386,
+      "pop_65_plus": 21126,
+      "distance_to_hub_miles": 19.9
+    },
+    {
+      "county_fips": "46093",
+      "county_name": "Meade",
+      "state": "SD",
+      "pop_total": 29970,
+      "pop_65_plus": 4755,
+      "distance_to_hub_miles": 41.9
+    },
+    {
+      "county_fips": "46081",
+      "county_name": "Lawrence",
+      "state": "SD",
+      "pop_total": 26047,
+      "pop_65_plus": 6087,
+      "distance_to_hub_miles": 34.8
+    },
+    {
+      "county_fips": "46102",
+      "county_name": "Oglala Lakota",
+      "state": "SD",
+      "pop_total": 13695,
+      "pop_65_plus": 1025,
+      "distance_to_hub_miles": 60.8
+    },
+    {
+      "county_fips": "31013",
+      "county_name": "Box Butte",
+      "state": "NE",
+      "pop_total": 10778,
+      "pop_65_plus": 2058,
+      "distance_to_hub_miles": 128.2
+    },
+    {
+      "county_fips": "46019",
+      "county_name": "Butte",
+      "state": "SD",
+      "pop_total": 10369,
+      "pop_65_plus": 2033,
+      "distance_to_hub_miles": 59.3
+    },
+    {
+      "county_fips": "46121",
+      "county_name": "Todd",
+      "state": "SD",
+      "pop_total": 9353,
+      "pop_65_plus": 681,
+      "distance_to_hub_miles": 138.8
+    },
+    {
+      "county_fips": "46033",
+      "county_name": "Custer",
+      "state": "SD",
+      "pop_total": 8515,
+      "pop_65_plus": 2678,
+      "distance_to_hub_miles": 29.9
+    },
+    {
+      "county_fips": "31045",
+      "county_name": "Dawes",
+      "state": "NE",
+      "pop_total": 8279,
+      "pop_65_plus": 1566,
+      "distance_to_hub_miles": 93.6
+    },
+    {
+      "county_fips": "46047",
+      "county_name": "Fall River",
+      "state": "SD",
+      "pop_total": 7079,
+      "pop_65_plus": 2222,
+      "distance_to_hub_miles": 59.8
+    },
+    {
+      "county_fips": "56045",
+      "county_name": "Weston",
+      "state": "WY",
+      "pop_total": 6870,
+      "pop_65_plus": 1430,
+      "distance_to_hub_miles": 69.3
+    },
+    {
+      "county_fips": "31161",
+      "county_name": "Sheridan",
+      "state": "NE",
+      "pop_total": 5102,
+      "pop_65_plus": 1326,
+      "distance_to_hub_miles": 115.7
+    },
+    {
+      "county_fips": "46007",
+      "county_name": "Bennett",
+      "state": "SD",
+      "pop_total": 3391,
+      "pop_65_plus": 432,
+      "distance_to_hub_miles": 98.4
+    },
+    {
+      "county_fips": "46117",
+      "county_name": "Stanley",
+      "state": "SD",
+      "pop_total": 2979,
+      "pop_65_plus": 655,
+      "distance_to_hub_miles": 124.8
+    },
+    {
+      "county_fips": "46105",
+      "county_name": "Perkins",
+      "state": "SD",
+      "pop_total": 2970,
+      "pop_65_plus": 765,
+      "distance_to_hub_miles": 104.4
+    },
+    {
+      "county_fips": "46071",
+      "county_name": "Jackson",
+      "state": "SD",
+      "pop_total": 2838,
+      "pop_65_plus": 415,
+      "distance_to_hub_miles": 83.1
+    },
+    {
+      "county_fips": "56027",
+      "county_name": "Niobrara",
+      "state": "WY",
+      "pop_total": 2460,
+      "pop_65_plus": 593,
+      "distance_to_hub_miles": 94.5
+    },
+    {
+      "county_fips": "46137",
+      "county_name": "Ziebach",
+      "state": "SD",
+      "pop_total": 2455,
+      "pop_65_plus": 250,
+      "distance_to_hub_miles": 98.6
+    },
+    {
+      "county_fips": "46095",
+      "county_name": "Mellette",
+      "state": "SD",
+      "pop_total": 1989,
+      "pop_65_plus": 313,
+      "distance_to_hub_miles": 126.9
+    },
+    {
+      "county_fips": "46055",
+      "county_name": "Haakon",
+      "state": "SD",
+      "pop_total": 1755,
+      "pop_65_plus": 468,
+      "distance_to_hub_miles": 84.3
+    },
+    {
+      "county_fips": "46063",
+      "county_name": "Harding",
+      "state": "SD",
+      "pop_total": 1176,
+      "pop_65_plus": 223,
+      "distance_to_hub_miles": 105.0
+    },
+    {
+      "county_fips": "31165",
+      "county_name": "Sioux",
+      "state": "NE",
+      "pop_total": 1162,
+      "pop_65_plus": 265,
+      "distance_to_hub_miles": 113.0
+    },
+    {
+      "county_fips": "46075",
+      "county_name": "Jones",
+      "state": "SD",
+      "pop_total": 1006,
+      "pop_65_plus": 217,
+      "distance_to_hub_miles": 125.6
+    }
+  ],
+  "summary": {
+    "total_beds": 486,
+    "catchment_pop": 270624,
+    "catchment_pop_65_plus": 51583,
+    "catchment_pct_65_plus": 0.1906,
+    "max_catchment_radius_miles": 138.8,
+    "avg_catchment_distance_miles": 49.9,
+    "num_counties": 23,
+    "hospital_employment": 930,
+    "msa_total_employment": 72343,
+    "hospital_emp_share": 0.0453,
+    "avg_govt_payer_share": 0.6576
+  }
+}

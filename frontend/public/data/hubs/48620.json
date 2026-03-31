@@ -1,0 +1,253 @@
+{
+  "cbsa_code": "48620",
+  "cbsa_name": "Wichita, KS",
+  "mdi": 0.1914,
+  "bbox": [
+    -99.19,
+    35.83,
+    -95.29,
+    39.27
+  ],
+  "hospitals": [
+    {
+      "facility_id": "170122",
+      "name": "ASCENSION VIA CHRISTI HOSPITALS WICHITA, INC.",
+      "beds": 1412,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.7003,
+      "lon": -97.3315,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "170123",
+      "name": "WESLEY MEDICAL CENTER",
+      "beds": 859,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 37.6943,
+      "lon": -97.2989,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "170103",
+      "name": "NMC HEALTH",
+      "beds": 99,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.0222,
+      "lon": -97.3333,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "170017",
+      "name": "SUSAN B ALLEN MEMORIAL HOSPITAL",
+      "beds": 80,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.8175,
+      "lon": -96.8589,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "170200",
+      "name": "VIA CHRISTI HOSPITAL WICHITA ST TERESA, INC",
+      "beds": 68,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 37.689,
+      "lon": -97.5,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "170197",
+      "name": "KANSAS MEDICAL CENTER LLC",
+      "beds": 58,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 37.7008,
+      "lon": -97.1069,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "170186",
+      "name": "KANSAS HEART HOSPITAL",
+      "beds": 54,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 37.7687,
+      "lon": -97.2203,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "170196",
+      "name": "KANSAS SPINE & SPECIALTY HOSPITAL, LLC",
+      "beds": 36,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 37.7687,
+      "lon": -97.2203,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "170204",
+      "name": "ROCK REGIONAL HOSPITAL, LLC",
+      "beds": 31,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 37.5718,
+      "lon": -97.2172,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "170183",
+      "name": "KANSAS SURGERY & RECOVERY CENTER",
+      "beds": 28,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.7687,
+      "lon": -97.2203,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "171329",
+      "name": "CALDWELL REGIONAL MEDICAL CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 37.0769,
+      "lon": -97.6269,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "20173",
+      "county_name": "Sedgwick",
+      "state": "KS",
+      "pop_total": 522700,
+      "pop_65_plus": 79224,
+      "distance_to_hub_miles": 8.8
+    },
+    {
+      "county_fips": "20015",
+      "county_name": "Butler",
+      "state": "KS",
+      "pop_total": 67618,
+      "pop_65_plus": 10518,
+      "distance_to_hub_miles": 25.9
+    },
+    {
+      "county_fips": "20079",
+      "county_name": "Harvey",
+      "state": "KS",
+      "pop_total": 33959,
+      "pop_65_plus": 6945,
+      "distance_to_hub_miles": 24.1
+    },
+    {
+      "county_fips": "20191",
+      "county_name": "Sumner",
+      "state": "KS",
+      "pop_total": 22517,
+      "pop_65_plus": 4354,
+      "distance_to_hub_miles": 34.0
+    },
+    {
+      "county_fips": "20115",
+      "county_name": "Marion",
+      "state": "KS",
+      "pop_total": 11867,
+      "pop_65_plus": 2738,
+      "distance_to_hub_miles": 46.3
+    },
+    {
+      "county_fips": "20151",
+      "county_name": "Pratt",
+      "state": "KS",
+      "pop_total": 9175,
+      "pop_65_plus": 1863,
+      "distance_to_hub_miles": 78.6
+    },
+    {
+      "county_fips": "20205",
+      "county_name": "Wilson",
+      "state": "KS",
+      "pop_total": 8667,
+      "pop_65_plus": 1931,
+      "distance_to_hub_miles": 86.0
+    },
+    {
+      "county_fips": "20095",
+      "county_name": "Kingman",
+      "state": "KS",
+      "pop_total": 7369,
+      "pop_65_plus": 1466,
+      "distance_to_hub_miles": 46.7
+    },
+    {
+      "county_fips": "20073",
+      "county_name": "Greenwood",
+      "state": "KS",
+      "pop_total": 6001,
+      "pop_65_plus": 1544,
+      "distance_to_hub_miles": 59.6
+    },
+    {
+      "county_fips": "20077",
+      "county_name": "Harper",
+      "state": "KS",
+      "pop_total": 5457,
+      "pop_65_plus": 1194,
+      "distance_to_hub_miles": 55.4
+    },
+    {
+      "county_fips": "20007",
+      "county_name": "Barber",
+      "state": "KS",
+      "pop_total": 4081,
+      "pop_65_plus": 929,
+      "distance_to_hub_miles": 82.7
+    },
+    {
+      "county_fips": "20207",
+      "county_name": "Woodson",
+      "state": "KS",
+      "pop_total": 3134,
+      "pop_65_plus": 782,
+      "distance_to_hub_miles": 86.2
+    },
+    {
+      "county_fips": "20049",
+      "county_name": "Elk",
+      "state": "KS",
+      "pop_total": 2453,
+      "pop_65_plus": 675,
+      "distance_to_hub_miles": 60.7
+    }
+  ],
+  "summary": {
+    "total_beds": 2750,
+    "catchment_pop": 704998,
+    "catchment_pop_65_plus": 114163,
+    "catchment_pct_65_plus": 0.1619,
+    "max_catchment_radius_miles": 86.2,
+    "avg_catchment_distance_miles": 16.6,
+    "num_counties": 13,
+    "hospital_employment": 9229,
+    "msa_total_employment": 302161,
+    "hospital_emp_share": 0.0305,
+    "avg_govt_payer_share": 0.6509
+  }
+}

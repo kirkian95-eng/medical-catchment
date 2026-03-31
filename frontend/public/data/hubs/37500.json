@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "37500",
+  "cbsa_name": "Paragould, AR",
+  "mdi": 0.3322,
+  "bbox": [
+    -92.0,
+    35.05,
+    -89.0,
+    37.05
+  ],
+  "hospitals": [
+    {
+      "facility_id": "040039",
+      "name": "ARKANSAS METHODIST MEDICAL CENTER",
+      "beds": 129,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.0525,
+      "lon": -90.4989,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "05055",
+      "county_name": "Greene",
+      "state": "AR",
+      "pop_total": 45954,
+      "pop_65_plus": 7429,
+      "distance_to_hub_miles": 5.6
+    },
+    {
+      "county_fips": "05021",
+      "county_name": "Clay",
+      "state": "AR",
+      "pop_total": 14537,
+      "pop_65_plus": 3206,
+      "distance_to_hub_miles": 22.3
+    }
+  ],
+  "summary": {
+    "total_beds": 129,
+    "catchment_pop": 60491,
+    "catchment_pop_65_plus": 10635,
+    "catchment_pct_65_plus": 0.1758,
+    "max_catchment_radius_miles": 22.3,
+    "avg_catchment_distance_miles": 9.6,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 15882,
+    "hospital_emp_share": 0.0427,
+    "avg_govt_payer_share": 0.65
+  }
+}

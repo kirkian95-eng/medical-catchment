@@ -1,0 +1,355 @@
+{
+  "cbsa_code": "47260",
+  "cbsa_name": "Virginia Beach-Chesapeake-Norfolk, VA-NC",
+  "mdi": 0.0229,
+  "bbox": [
+    -78.24,
+    35.75,
+    -74.56,
+    38.43
+  ],
+  "hospitals": [
+    {
+      "facility_id": "490052",
+      "name": "RIVERSIDE REGIONAL MEDICAL CENTER",
+      "beds": 566,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.0727,
+      "lon": -76.4772,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "490007",
+      "name": "SENTARA NORFOLK GENERAL HOSPITAL",
+      "beds": 525,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 36.8626,
+      "lon": -76.3049,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "490017",
+      "name": "BON SECOURS MARYVIEW MEDICAL CENTER",
+      "beds": 346,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.8418,
+      "lon": -76.3403,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "490120",
+      "name": "CHESAPEAKE GENERAL HOSPITAL",
+      "beds": 310,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 36.7466,
+      "lon": -76.245,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "490057",
+      "name": "SENTARA VIRGINIA BEACH GENERAL HOSPITAL",
+      "beds": 276,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 36.8646,
+      "lon": -76.0551,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "490046",
+      "name": "SENTARA LEIGH HOSPITAL",
+      "beds": 247,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 36.8508,
+      "lon": -76.1916,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "490093",
+      "name": "SENTARA CAREPLEX HOSPITAL",
+      "beds": 224,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.0631,
+      "lon": -76.3975,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "490044",
+      "name": "SENTARA OBICI HOSPITAL",
+      "beds": 168,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 36.7765,
+      "lon": -76.5826,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "490119",
+      "name": "SENTARA PRINCESS ANNE HOSPITAL",
+      "beds": 160,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 36.7461,
+      "lon": -76.071,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "490066",
+      "name": "SENTARA WILLIAMSBURG REGIONAL MEDICAL CENTER",
+      "beds": 145,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.3367,
+      "lon": -76.7382,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "490041",
+      "name": "MARY IMMACULATE HOSPITAL",
+      "beds": 110,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.145,
+      "lon": -76.512,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "490130",
+      "name": "RIVERSIDE WALTER REED HOSPITAL",
+      "beds": 67,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.4277,
+      "lon": -76.5376,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "490143",
+      "name": "RIVERSIDE DOCTORS' HOSPITAL OF WILLIAMSBURG",
+      "beds": 40,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.2397,
+      "lon": -76.7014,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "51810",
+      "county_name": "Virginia Beach",
+      "state": "VA",
+      "pop_total": 457900,
+      "pop_65_plus": 68485,
+      "distance_to_hub_miles": 21.5
+    },
+    {
+      "county_fips": "51550",
+      "county_name": "Chesapeake",
+      "state": "VA",
+      "pop_total": 249377,
+      "pop_65_plus": 34375,
+      "distance_to_hub_miles": 18.1
+    },
+    {
+      "county_fips": "51710",
+      "county_name": "Norfolk",
+      "state": "VA",
+      "pop_total": 236973,
+      "pop_65_plus": 29116,
+      "distance_to_hub_miles": 5.8
+    },
+    {
+      "county_fips": "51700",
+      "county_name": "Newport News",
+      "state": "VA",
+      "pop_total": 185118,
+      "pop_65_plus": 24794,
+      "distance_to_hub_miles": 13.3
+    },
+    {
+      "county_fips": "51650",
+      "county_name": "Hampton",
+      "state": "VA",
+      "pop_total": 137217,
+      "pop_65_plus": 21761,
+      "distance_to_hub_miles": 8.3
+    },
+    {
+      "county_fips": "51740",
+      "county_name": "Portsmouth",
+      "state": "VA",
+      "pop_total": 97384,
+      "pop_65_plus": 14703,
+      "distance_to_hub_miles": 5.4
+    },
+    {
+      "county_fips": "51800",
+      "county_name": "Suffolk",
+      "state": "VA",
+      "pop_total": 94856,
+      "pop_65_plus": 14013,
+      "distance_to_hub_miles": 22.6
+    },
+    {
+      "county_fips": "51095",
+      "county_name": "James City",
+      "state": "VA",
+      "pop_total": 78818,
+      "pop_65_plus": 20608,
+      "distance_to_hub_miles": 34.9
+    },
+    {
+      "county_fips": "51199",
+      "county_name": "York",
+      "state": "VA",
+      "pop_total": 70238,
+      "pop_65_plus": 11958,
+      "distance_to_hub_miles": 21.4
+    },
+    {
+      "county_fips": "51093",
+      "county_name": "Isle of Wight",
+      "state": "VA",
+      "pop_total": 38898,
+      "pop_65_plus": 7496,
+      "distance_to_hub_miles": 20.0
+    },
+    {
+      "county_fips": "51073",
+      "county_name": "Gloucester",
+      "state": "VA",
+      "pop_total": 38875,
+      "pop_65_plus": 7602,
+      "distance_to_hub_miles": 33.5
+    },
+    {
+      "county_fips": "37091",
+      "county_name": "Hertford",
+      "state": "NC",
+      "pop_total": 21633,
+      "pop_65_plus": 4413,
+      "distance_to_hub_miles": 53.1
+    },
+    {
+      "county_fips": "51175",
+      "county_name": "Southampton",
+      "state": "VA",
+      "pop_total": 18003,
+      "pop_65_plus": 3752,
+      "distance_to_hub_miles": 44.4
+    },
+    {
+      "county_fips": "51830",
+      "county_name": "Williamsburg",
+      "state": "VA",
+      "pop_total": 15486,
+      "pop_65_plus": 2597,
+      "distance_to_hub_miles": 30.4
+    },
+    {
+      "county_fips": "51735",
+      "county_name": "Poquoson",
+      "state": "VA",
+      "pop_total": 12479,
+      "pop_65_plus": 2454,
+      "distance_to_hub_miles": 15.3
+    },
+    {
+      "county_fips": "51131",
+      "county_name": "Northampton",
+      "state": "VA",
+      "pop_total": 12132,
+      "pop_65_plus": 3349,
+      "distance_to_hub_miles": 34.1
+    },
+    {
+      "county_fips": "51133",
+      "county_name": "Northumberland",
+      "state": "VA",
+      "pop_total": 12007,
+      "pop_65_plus": 4423,
+      "distance_to_hub_miles": 63.5
+    },
+    {
+      "county_fips": "51103",
+      "county_name": "Lancaster",
+      "state": "VA",
+      "pop_total": 10866,
+      "pop_65_plus": 4277,
+      "distance_to_hub_miles": 53.1
+    },
+    {
+      "county_fips": "51119",
+      "county_name": "Middlesex",
+      "state": "VA",
+      "pop_total": 10738,
+      "pop_65_plus": 3604,
+      "distance_to_hub_miles": 48.1
+    },
+    {
+      "county_fips": "37073",
+      "county_name": "Gates",
+      "state": "NC",
+      "pop_total": 10509,
+      "pop_65_plus": 2229,
+      "distance_to_hub_miles": 39.2
+    },
+    {
+      "county_fips": "51115",
+      "county_name": "Mathews",
+      "state": "VA",
+      "pop_total": 8537,
+      "pop_65_plus": 2623,
+      "distance_to_hub_miles": 33.5
+    },
+    {
+      "county_fips": "51620",
+      "county_name": "Franklin",
+      "state": "VA",
+      "pop_total": 8194,
+      "pop_65_plus": 1553,
+      "distance_to_hub_miles": 37.1
+    },
+    {
+      "county_fips": "51181",
+      "county_name": "Surry",
+      "state": "VA",
+      "pop_total": 6546,
+      "pop_65_plus": 1572,
+      "distance_to_hub_miles": 32.2
+    }
+  ],
+  "summary": {
+    "total_beds": 3184,
+    "catchment_pop": 1832784,
+    "catchment_pop_65_plus": 291757,
+    "catchment_pct_65_plus": 0.1592,
+    "max_catchment_radius_miles": 63.5,
+    "avg_catchment_distance_miles": 18.8,
+    "num_counties": 23,
+    "hospital_employment": 7021,
+    "msa_total_employment": 691638,
+    "hospital_emp_share": 0.0094,
+    "avg_govt_payer_share": 0.65
+  }
+}

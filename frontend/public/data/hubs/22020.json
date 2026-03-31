@@ -1,0 +1,138 @@
+{
+  "cbsa_code": "22020",
+  "cbsa_name": "Fargo, ND-MN",
+  "mdi": 0.6182,
+  "bbox": [
+    -98.76,
+    45.3,
+    -94.86,
+    48.42
+  ],
+  "hospitals": [
+    {
+      "facility_id": "350011",
+      "name": "SANFORD MEDICAL CENTER FARGO",
+      "beds": 639,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 46.8845,
+      "lon": -96.7886,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "350070",
+      "name": "ESSENTIA HEALTH",
+      "beds": 142,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 46.8316,
+      "lon": -96.8281,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "38017",
+      "county_name": "Cass",
+      "state": "ND",
+      "pop_total": 186328,
+      "pop_65_plus": 23344,
+      "distance_to_hub_miles": 21.7
+    },
+    {
+      "county_fips": "27027",
+      "county_name": "Clay",
+      "state": "MN",
+      "pop_total": 65307,
+      "pop_65_plus": 8830,
+      "distance_to_hub_miles": 14.5
+    },
+    {
+      "county_fips": "38077",
+      "county_name": "Richland",
+      "state": "ND",
+      "pop_total": 16548,
+      "pop_65_plus": 3150,
+      "distance_to_hub_miles": 42.8
+    },
+    {
+      "county_fips": "38003",
+      "county_name": "Barnes",
+      "state": "ND",
+      "pop_total": 10826,
+      "pop_65_plus": 2445,
+      "distance_to_hub_miles": 60.4
+    },
+    {
+      "county_fips": "46109",
+      "county_name": "Roberts",
+      "state": "SD",
+      "pop_total": 10242,
+      "pop_65_plus": 2041,
+      "distance_to_hub_miles": 86.4
+    },
+    {
+      "county_fips": "27107",
+      "county_name": "Norman",
+      "state": "MN",
+      "pop_total": 6457,
+      "pop_65_plus": 1373,
+      "distance_to_hub_miles": 35.1
+    },
+    {
+      "county_fips": "38073",
+      "county_name": "Ransom",
+      "state": "ND",
+      "pop_total": 5663,
+      "pop_65_plus": 1199,
+      "distance_to_hub_miles": 50.1
+    },
+    {
+      "county_fips": "38045",
+      "county_name": "LaMoure",
+      "state": "ND",
+      "pop_total": 4135,
+      "pop_65_plus": 1107,
+      "distance_to_hub_miles": 87.4
+    },
+    {
+      "county_fips": "38081",
+      "county_name": "Sargent",
+      "state": "ND",
+      "pop_total": 3828,
+      "pop_65_plus": 866,
+      "distance_to_hub_miles": 66.2
+    },
+    {
+      "county_fips": "38031",
+      "county_name": "Foster",
+      "state": "ND",
+      "pop_total": 3388,
+      "pop_65_plus": 803,
+      "distance_to_hub_miles": 106.0
+    },
+    {
+      "county_fips": "38039",
+      "county_name": "Griggs",
+      "state": "ND",
+      "pop_total": 2309,
+      "pop_65_plus": 690,
+      "distance_to_hub_miles": 78.7
+    }
+  ],
+  "summary": {
+    "total_beds": 781,
+    "catchment_pop": 315031,
+    "catchment_pop_65_plus": 45848,
+    "catchment_pct_65_plus": 0.1455,
+    "max_catchment_radius_miles": 106.0,
+    "avg_catchment_distance_miles": 28.3,
+    "num_counties": 11,
+    "hospital_employment": 11772,
+    "msa_total_employment": 126108,
+    "hospital_emp_share": 0.0807,
+    "avg_govt_payer_share": 0.65
+  }
+}

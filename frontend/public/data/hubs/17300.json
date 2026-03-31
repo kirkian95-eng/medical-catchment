@@ -1,0 +1,141 @@
+{
+  "cbsa_code": "17300",
+  "cbsa_name": "Clarksville, TN-KY",
+  "mdi": 0.0849,
+  "bbox": [
+    -89.33,
+    35.58,
+    -85.77,
+    37.86
+  ],
+  "hospitals": [
+    {
+      "facility_id": "440035",
+      "name": "TENNOVA HEALTHCARE-CLARKSVILLE",
+      "beds": 270,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.5801,
+      "lon": -87.27,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "180051",
+      "name": "JENNIE STUART MEDICAL CENTER",
+      "beds": 194,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.8605,
+      "lon": -87.4957,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "181304",
+      "name": "TRIGG COUNTY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.8177,
+      "lon": -87.8337,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "47037",
+      "county_name": "Davidson",
+      "state": "TN",
+      "pop_total": 709786,
+      "pop_65_plus": 90770,
+      "distance_to_hub_miles": 49.9
+    },
+    {
+      "county_fips": "47125",
+      "county_name": "Montgomery",
+      "state": "TN",
+      "pop_total": 222305,
+      "pop_65_plus": 21227,
+      "distance_to_hub_miles": 14.3
+    },
+    {
+      "county_fips": "47147",
+      "county_name": "Robertson",
+      "state": "TN",
+      "pop_total": 73297,
+      "pop_65_plus": 10946,
+      "distance_to_hub_miles": 31.3
+    },
+    {
+      "county_fips": "21047",
+      "county_name": "Christian",
+      "state": "KY",
+      "pop_total": 72766,
+      "pop_65_plus": 9056,
+      "distance_to_hub_miles": 14.3
+    },
+    {
+      "county_fips": "47043",
+      "county_name": "Dickson",
+      "state": "TN",
+      "pop_total": 54563,
+      "pop_65_plus": 8889,
+      "distance_to_hub_miles": 38.4
+    },
+    {
+      "county_fips": "47021",
+      "county_name": "Cheatham",
+      "state": "TN",
+      "pop_total": 41184,
+      "pop_65_plus": 6389,
+      "distance_to_hub_miles": 34.8
+    },
+    {
+      "county_fips": "21221",
+      "county_name": "Trigg",
+      "state": "KY",
+      "pop_total": 14154,
+      "pop_65_plus": 3206,
+      "distance_to_hub_miles": 27.8
+    },
+    {
+      "county_fips": "47161",
+      "county_name": "Stewart",
+      "state": "TN",
+      "pop_total": 13724,
+      "pop_65_plus": 2816,
+      "distance_to_hub_miles": 28.6
+    },
+    {
+      "county_fips": "21219",
+      "county_name": "Todd",
+      "state": "KY",
+      "pop_total": 12281,
+      "pop_65_plus": 2037,
+      "distance_to_hub_miles": 14.8
+    },
+    {
+      "county_fips": "47083",
+      "county_name": "Houston",
+      "state": "TN",
+      "pop_total": 8253,
+      "pop_65_plus": 1659,
+      "distance_to_hub_miles": 34.2
+    }
+  ],
+  "summary": {
+    "total_beds": 489,
+    "catchment_pop": 1222313,
+    "catchment_pop_65_plus": 156995,
+    "catchment_pct_65_plus": 0.1284,
+    "max_catchment_radius_miles": 49.9,
+    "avg_catchment_distance_miles": 38.2,
+    "num_counties": 10,
+    "hospital_employment": 1438,
+    "msa_total_employment": 96743,
+    "hospital_emp_share": 0.0144,
+    "avg_govt_payer_share": 0.6551
+  }
+}

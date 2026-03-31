@@ -1,0 +1,98 @@
+{
+  "cbsa_code": "25620",
+  "cbsa_name": "Hattiesburg, MS",
+  "mdi": 0.4456,
+  "bbox": [
+    -90.86,
+    30.32,
+    -87.84,
+    32.35
+  ],
+  "hospitals": [
+    {
+      "facility_id": "250078",
+      "name": "FORREST GENERAL HOSPITAL",
+      "beds": 537,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 31.3516,
+      "lon": -89.3406,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "250094",
+      "name": "MERIT HEALTH WESLEY",
+      "beds": 211,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 31.3235,
+      "lon": -89.3641,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "28035",
+      "county_name": "Forrest",
+      "state": "MS",
+      "pop_total": 77917,
+      "pop_65_plus": 10594,
+      "distance_to_hub_miles": 11.9
+    },
+    {
+      "county_fips": "28073",
+      "county_name": "Lamar",
+      "state": "MS",
+      "pop_total": 64425,
+      "pop_65_plus": 9294,
+      "distance_to_hub_miles": 13.5
+    },
+    {
+      "county_fips": "28091",
+      "county_name": "Marion",
+      "state": "MS",
+      "pop_total": 24362,
+      "pop_65_plus": 4511,
+      "distance_to_hub_miles": 29.1
+    },
+    {
+      "county_fips": "28031",
+      "county_name": "Covington",
+      "state": "MS",
+      "pop_total": 18323,
+      "pop_65_plus": 3177,
+      "distance_to_hub_miles": 23.4
+    },
+    {
+      "county_fips": "28111",
+      "county_name": "Perry",
+      "state": "MS",
+      "pop_total": 11511,
+      "pop_65_plus": 2140,
+      "distance_to_hub_miles": 24.1
+    },
+    {
+      "county_fips": "28065",
+      "county_name": "Jefferson Davis",
+      "state": "MS",
+      "pop_total": 11291,
+      "pop_65_plus": 2622,
+      "distance_to_hub_miles": 32.1
+    }
+  ],
+  "summary": {
+    "total_beds": 748,
+    "catchment_pop": 207829,
+    "catchment_pop_65_plus": 32338,
+    "catchment_pct_65_plus": 0.1556,
+    "max_catchment_radius_miles": 32.1,
+    "avg_catchment_distance_miles": 17.2,
+    "num_counties": 6,
+    "hospital_employment": 3626,
+    "msa_total_employment": 59988,
+    "hospital_emp_share": 0.0591,
+    "avg_govt_payer_share": 0.65
+  }
+}

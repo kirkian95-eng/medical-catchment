@@ -1,0 +1,88 @@
+{
+  "cbsa_code": "29540",
+  "cbsa_name": "Lancaster, PA",
+  "mdi": 0.2823,
+  "bbox": [
+    -77.88,
+    39.05,
+    -74.68,
+    41.19
+  ],
+  "hospitals": [
+    {
+      "facility_id": "390100",
+      "name": "LANCASTER GENERAL HOSPITAL",
+      "beds": 632,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.047,
+      "lon": -76.3052,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "390068",
+      "name": "UPMC LITITZ",
+      "beds": 148,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 40.1314,
+      "lon": -76.3107,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "390339",
+      "name": "PENN STATE HEALTH LANCASTER MEDICAL CENTER",
+      "beds": 142,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.0813,
+      "lon": -76.3821,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "390225",
+      "name": "WELLSPAN EPHRATA COMMUNITY HOSPITAL",
+      "beds": 130,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 40.1871,
+      "lon": -76.1818,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42071",
+      "county_name": "Lancaster",
+      "state": "PA",
+      "pop_total": 553202,
+      "pop_65_plus": 104082,
+      "distance_to_hub_miles": 3.9
+    },
+    {
+      "county_fips": "24015",
+      "county_name": "Cecil",
+      "state": "MD",
+      "pop_total": 103876,
+      "pop_65_plus": 17005,
+      "distance_to_hub_miles": 40.4
+    }
+  ],
+  "summary": {
+    "total_beds": 1052,
+    "catchment_pop": 657078,
+    "catchment_pop_65_plus": 121087,
+    "catchment_pct_65_plus": 0.1843,
+    "max_catchment_radius_miles": 40.4,
+    "avg_catchment_distance_miles": 9.7,
+    "num_counties": 2,
+    "hospital_employment": 9892,
+    "msa_total_employment": 249580,
+    "hospital_emp_share": 0.0396,
+    "avg_govt_payer_share": 0.65
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "cbsa_code": "42580",
+  "cbsa_name": "Seaford, DE",
+  "mdi": 0.2644,
+  "bbox": [
+    -77.11,
+    37.64,
+    -73.64,
+    39.89
+  ],
+  "hospitals": [
+    {
+      "facility_id": "080009",
+      "name": "BAYHEALTH HOSPITAL, SUSSEX CAMPUS",
+      "beds": 168,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.8858,
+      "lon": -75.3891,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "080007",
+      "name": "BEEBE MEDICAL CENTER",
+      "beds": 155,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.7712,
+      "lon": -75.1426,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "080006",
+      "name": "TIDALHEALTH NANTICOKE, INC.",
+      "beds": 119,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.6422,
+      "lon": -75.6053,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "10005",
+      "county_name": "Sussex",
+      "state": "DE",
+      "pop_total": 240668,
+      "pop_65_plus": 70195,
+      "distance_to_hub_miles": 6.8
+    }
+  ],
+  "summary": {
+    "total_beds": 442,
+    "catchment_pop": 240668,
+    "catchment_pop_65_plus": 70195,
+    "catchment_pct_65_plus": 0.2917,
+    "max_catchment_radius_miles": 6.8,
+    "avg_catchment_distance_miles": 6.8,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 90842,
+    "hospital_emp_share": 0.0375,
+    "avg_govt_payer_share": 0.65
+  }
+}

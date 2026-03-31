@@ -1,0 +1,103 @@
+{
+  "cbsa_code": "21020",
+  "cbsa_name": "Elizabeth City, NC",
+  "mdi": 0.4975,
+  "bbox": [
+    -77.73,
+    35.29,
+    -74.73,
+    37.29
+  ],
+  "hospitals": [
+    {
+      "facility_id": "340109",
+      "name": "SENTARA ALBEMARLE MEDICAL CENTER",
+      "beds": 182,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 36.2927,
+      "lon": -76.2316,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "37139",
+      "county_name": "Pasquotank",
+      "state": "NC",
+      "pop_total": 40454,
+      "pop_65_plus": 7139,
+      "distance_to_hub_miles": 2.1
+    },
+    {
+      "county_fips": "37055",
+      "county_name": "Dare",
+      "state": "NC",
+      "pop_total": 37160,
+      "pop_65_plus": 8538,
+      "distance_to_hub_miles": 53.1
+    },
+    {
+      "county_fips": "37053",
+      "county_name": "Currituck",
+      "state": "NC",
+      "pop_total": 28616,
+      "pop_65_plus": 4792,
+      "distance_to_hub_miles": 17.2
+    },
+    {
+      "county_fips": "37041",
+      "county_name": "Chowan",
+      "state": "NC",
+      "pop_total": 13835,
+      "pop_65_plus": 3544,
+      "distance_to_hub_miles": 23.6
+    },
+    {
+      "county_fips": "37143",
+      "county_name": "Perquimans",
+      "state": "NC",
+      "pop_total": 13053,
+      "pop_65_plus": 3662,
+      "distance_to_hub_miles": 12.6
+    },
+    {
+      "county_fips": "37187",
+      "county_name": "Washington",
+      "state": "NC",
+      "pop_total": 11051,
+      "pop_65_plus": 2873,
+      "distance_to_hub_miles": 36.6
+    },
+    {
+      "county_fips": "37029",
+      "county_name": "Camden",
+      "state": "NC",
+      "pop_total": 10547,
+      "pop_65_plus": 1662,
+      "distance_to_hub_miles": 5.1
+    },
+    {
+      "county_fips": "37177",
+      "county_name": "Tyrrell",
+      "state": "NC",
+      "pop_total": 3389,
+      "pop_65_plus": 760,
+      "distance_to_hub_miles": 29.4
+    }
+  ],
+  "summary": {
+    "total_beds": 182,
+    "catchment_pop": 158105,
+    "catchment_pop_65_plus": 32970,
+    "catchment_pct_65_plus": 0.2085,
+    "max_catchment_radius_miles": 53.1,
+    "avg_catchment_distance_miles": 22.8,
+    "num_counties": 8,
+    "hospital_employment": 0,
+    "msa_total_employment": 15883,
+    "hospital_emp_share": 0.0615,
+    "avg_govt_payer_share": 0.65
+  }
+}

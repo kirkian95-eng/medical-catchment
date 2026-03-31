@@ -1,0 +1,144 @@
+{
+  "cbsa_code": "26580",
+  "cbsa_name": "Huntington-Ashland, WV-KY-OH",
+  "mdi": 0.5058,
+  "bbox": [
+    -84.17,
+    37.06,
+    -80.81,
+    39.48
+  ],
+  "hospitals": [
+    {
+      "facility_id": "180009",
+      "name": "KING'S DAUGHTERS' MEDICAL CENTER",
+      "beds": 455,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.4775,
+      "lon": -82.6505,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "510007",
+      "name": "ST MARYS MEDICAL CENTER",
+      "beds": 440,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 38.4347,
+      "lon": -82.3144,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "510055",
+      "name": "CABELL HUNTINGTON HOSPITAL, INC",
+      "beds": 322,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.409,
+      "lon": -82.4281,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "180128",
+      "name": "THREE RIVERS MEDICAL CENTER",
+      "beds": 90,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 38.0633,
+      "lon": -82.6684,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "54011",
+      "county_name": "Cabell",
+      "state": "WV",
+      "pop_total": 93965,
+      "pop_65_plus": 18192,
+      "distance_to_hub_miles": 13.1
+    },
+    {
+      "county_fips": "39087",
+      "county_name": "Lawrence",
+      "state": "OH",
+      "pop_total": 57994,
+      "pop_65_plus": 10824,
+      "distance_to_hub_miles": 12.8
+    },
+    {
+      "county_fips": "21019",
+      "county_name": "Boyd",
+      "state": "KY",
+      "pop_total": 48242,
+      "pop_65_plus": 9619,
+      "distance_to_hub_miles": 11.8
+    },
+    {
+      "county_fips": "54099",
+      "county_name": "Wayne",
+      "state": "WV",
+      "pop_total": 38933,
+      "pop_65_plus": 8352,
+      "distance_to_hub_miles": 19.0
+    },
+    {
+      "county_fips": "39053",
+      "county_name": "Gallia",
+      "state": "OH",
+      "pop_total": 29276,
+      "pop_65_plus": 5610,
+      "distance_to_hub_miles": 29.5
+    },
+    {
+      "county_fips": "21043",
+      "county_name": "Carter",
+      "state": "KY",
+      "pop_total": 26671,
+      "pop_65_plus": 5221,
+      "distance_to_hub_miles": 31.3
+    },
+    {
+      "county_fips": "54053",
+      "county_name": "Mason",
+      "state": "WV",
+      "pop_total": 25488,
+      "pop_65_plus": 5520,
+      "distance_to_hub_miles": 34.6
+    },
+    {
+      "county_fips": "21127",
+      "county_name": "Lawrence",
+      "state": "KY",
+      "pop_total": 16228,
+      "pop_65_plus": 2952,
+      "distance_to_hub_miles": 27.7
+    },
+    {
+      "county_fips": "21063",
+      "county_name": "Elliott",
+      "state": "KY",
+      "pop_total": 7378,
+      "pop_65_plus": 1510,
+      "distance_to_hub_miles": 39.2
+    }
+  ],
+  "summary": {
+    "total_beds": 1307,
+    "catchment_pop": 344175,
+    "catchment_pop_65_plus": 67800,
+    "catchment_pct_65_plus": 0.197,
+    "max_catchment_radius_miles": 39.2,
+    "avg_catchment_distance_miles": 19.2,
+    "num_counties": 9,
+    "hospital_employment": 6305,
+    "msa_total_employment": 80816,
+    "hospital_emp_share": 0.0585,
+    "avg_govt_payer_share": 0.65
+  }
+}

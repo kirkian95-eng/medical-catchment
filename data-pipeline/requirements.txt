@@ -1,0 +1,10 @@
+requests
+pandas
+numpy
+geopandas
+shapely
+scipy
+scikit-learn
+pyogrio
+tqdm
+openpyxl

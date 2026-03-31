@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "16180",
+  "cbsa_name": "Carson City, NV",
+  "mdi": 0.2337,
+  "bbox": [
+    -121.28,
+    38.16,
+    -118.28,
+    40.16
+  ],
+  "hospitals": [
+    {
+      "facility_id": "290019",
+      "name": "CARSON TAHOE REGIONAL MEDICAL CENTER",
+      "beds": 211,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.1626,
+      "lon": -119.777,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "32019",
+      "county_name": "Lyon",
+      "state": "NV",
+      "pop_total": 59435,
+      "pop_65_plus": 12604,
+      "distance_to_hub_miles": 33.1
+    },
+    {
+      "county_fips": "32510",
+      "county_name": "Carson City",
+      "state": "NV",
+      "pop_total": 58249,
+      "pop_65_plus": 12003,
+      "distance_to_hub_miles": 1.8
+    },
+    {
+      "county_fips": "32005",
+      "county_name": "Douglas",
+      "state": "NV",
+      "pop_total": 49476,
+      "pop_65_plus": 14970,
+      "distance_to_hub_miles": 19.3
+    },
+    {
+      "county_fips": "06003",
+      "county_name": "Alpine",
+      "state": "CA",
+      "pop_total": 1515,
+      "pop_65_plus": 386,
+      "distance_to_hub_miles": 39.2
+    }
+  ],
+  "summary": {
+    "total_beds": 211,
+    "catchment_pop": 168675,
+    "catchment_pop_65_plus": 39963,
+    "catchment_pct_65_plus": 0.2369,
+    "max_catchment_radius_miles": 39.2,
+    "avg_catchment_distance_miles": 18.3,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 31327,
+    "hospital_emp_share": 0.0365,
+    "avg_govt_payer_share": 0.65
+  }
+}

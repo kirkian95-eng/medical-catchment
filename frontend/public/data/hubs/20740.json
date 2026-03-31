@@ -1,0 +1,123 @@
+{
+  "cbsa_code": "20740",
+  "cbsa_name": "Eau Claire, WI",
+  "mdi": 0.4241,
+  "bbox": [
+    -93.02,
+    43.79,
+    -89.43,
+    46.11
+  ],
+  "hospitals": [
+    {
+      "facility_id": "520070",
+      "name": "MAYO CLINIC HEALTH SYSTEM EAU CLAIRE HOSPITAL",
+      "beds": 304,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.8121,
+      "lon": -91.5136,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "520210",
+      "name": "MARSHFIELD MEDICAL CENTER - EAU CLAIRE",
+      "beds": 44,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.7939,
+      "lon": -91.5192,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "521311",
+      "name": "ASPIRUS STANLEY HOSPITAL",
+      "beds": 24,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.9671,
+      "lon": -90.9271,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "521314",
+      "name": "MAYO CLINIC HEALTH SYSTEM CHIPPEWA VALLEY",
+      "beds": 15,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.1078,
+      "lon": -91.4844,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "520196",
+      "name": "OAKLEAF SURGICAL HOSPITAL",
+      "beds": 13,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 44.805,
+      "lon": -91.437,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "55035",
+      "county_name": "Eau Claire",
+      "state": "WI",
+      "pop_total": 105697,
+      "pop_65_plus": 17229,
+      "distance_to_hub_miles": 12.6
+    },
+    {
+      "county_fips": "55109",
+      "county_name": "St. Croix",
+      "state": "WI",
+      "pop_total": 93752,
+      "pop_65_plus": 13982,
+      "distance_to_hub_miles": 48.4
+    },
+    {
+      "county_fips": "55017",
+      "county_name": "Chippewa",
+      "state": "WI",
+      "pop_total": 66254,
+      "pop_65_plus": 12336,
+      "distance_to_hub_miles": 21.3
+    },
+    {
+      "county_fips": "55011",
+      "county_name": "Buffalo",
+      "state": "WI",
+      "pop_total": 13329,
+      "pop_65_plus": 3051,
+      "distance_to_hub_miles": 32.0
+    },
+    {
+      "county_fips": "55091",
+      "county_name": "Pepin",
+      "state": "WI",
+      "pop_total": 7363,
+      "pop_65_plus": 1697,
+      "distance_to_hub_miles": 28.6
+    }
+  ],
+  "summary": {
+    "total_beds": 400,
+    "catchment_pop": 286395,
+    "catchment_pop_65_plus": 48295,
+    "catchment_pct_65_plus": 0.1686,
+    "max_catchment_radius_miles": 48.4,
+    "avg_catchment_distance_miles": 27.6,
+    "num_counties": 5,
+    "hospital_employment": 4583,
+    "msa_total_employment": 84379,
+    "hospital_emp_share": 0.0543,
+    "avg_govt_payer_share": 0.6597
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "10660",
+  "cbsa_name": "Albert Lea, MN",
+  "mdi": 0.6711,
+  "bbox": [
+    -94.87,
+    42.65,
+    -91.87,
+    44.65
+  ],
+  "hospitals": [
+    {
+      "facility_id": "240043",
+      "name": "MAYO CLINIC HEALTH SYSTEM - ALBERT LEA AND AUSTIN",
+      "beds": 181,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.6517,
+      "lon": -93.3707,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "27047",
+      "county_name": "Freeborn",
+      "state": "MN",
+      "pop_total": 30857,
+      "pop_65_plus": 6900,
+      "distance_to_hub_miles": 1.9
+    },
+    {
+      "county_fips": "27043",
+      "county_name": "Faribault",
+      "state": "MN",
+      "pop_total": 13931,
+      "pop_65_plus": 3182,
+      "distance_to_hub_miles": 28.9
+    },
+    {
+      "county_fips": "19189",
+      "county_name": "Winnebago",
+      "state": "IA",
+      "pop_total": 10704,
+      "pop_65_plus": 2280,
+      "distance_to_hub_miles": 26.3
+    }
+  ],
+  "summary": {
+    "total_beds": 181,
+    "catchment_pop": 55492,
+    "catchment_pop_65_plus": 12362,
+    "catchment_pct_65_plus": 0.2228,
+    "max_catchment_radius_miles": 28.9,
+    "avg_catchment_distance_miles": 13.4,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 11781,
+    "hospital_emp_share": 0.0824,
+    "avg_govt_payer_share": 0.65
+  }
+}

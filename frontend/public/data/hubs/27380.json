@@ -1,0 +1,58 @@
+{
+  "cbsa_code": "27380",
+  "cbsa_name": "Jacksonville, TX",
+  "mdi": 0.3684,
+  "bbox": [
+    -96.77,
+    30.95,
+    -93.75,
+    32.96
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450194",
+      "name": "UT HEALTH EAST TEXAS JACKSONVILLE HOSPITAL",
+      "beds": 74,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 31.9605,
+      "lon": -95.2702,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "451319",
+      "name": "CHRISTUS MOTHER FRANCES HOSPITAL- JACKSONVILLE",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 31.9463,
+      "lon": -95.2519,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48073",
+      "county_name": "Cherokee",
+      "state": "TX",
+      "pop_total": 50824,
+      "pop_65_plus": 8997,
+      "distance_to_hub_miles": 10.1
+    }
+  ],
+  "summary": {
+    "total_beds": 99,
+    "catchment_pop": 50824,
+    "catchment_pop_65_plus": 8997,
+    "catchment_pct_65_plus": 0.177,
+    "max_catchment_radius_miles": 10.1,
+    "avg_catchment_distance_miles": 10.1,
+    "num_counties": 1,
+    "hospital_employment": 490,
+    "msa_total_employment": 14703,
+    "hospital_emp_share": 0.0333,
+    "avg_govt_payer_share": 0.6753
+  }
+}

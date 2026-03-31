@@ -1,0 +1,181 @@
+{
+  "cbsa_code": "28260",
+  "cbsa_name": "Kearney, NE",
+  "mdi": 0.4372,
+  "bbox": [
+    -100.97,
+    39.0,
+    -97.06,
+    42.2
+  ],
+  "hospitals": [
+    {
+      "facility_id": "280009",
+      "name": "CHI HEALTH GOOD SAMARITAN",
+      "beds": 165,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 40.6992,
+      "lon": -99.0747,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "280134",
+      "name": "KEARNEY REGIONAL MEDICAL CENTER",
+      "beds": 44,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.7122,
+      "lon": -99.108,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "281306",
+      "name": "KEARNEY COUNTY HEALTH SERVICES HOSPITAL",
+      "beds": 10,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 40.4855,
+      "lon": -98.9231,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "31019",
+      "county_name": "Buffalo",
+      "state": "NE",
+      "pop_total": 50103,
+      "pop_65_plus": 7835,
+      "distance_to_hub_miles": 10.6
+    },
+    {
+      "county_fips": "31047",
+      "county_name": "Dawson",
+      "state": "NE",
+      "pop_total": 24037,
+      "pop_65_plus": 4032,
+      "distance_to_hub_miles": 40.3
+    },
+    {
+      "county_fips": "31041",
+      "county_name": "Custer",
+      "state": "NE",
+      "pop_total": 10566,
+      "pop_65_plus": 2340,
+      "distance_to_hub_miles": 58.4
+    },
+    {
+      "county_fips": "31137",
+      "county_name": "Phelps",
+      "state": "NE",
+      "pop_total": 8966,
+      "pop_65_plus": 1859,
+      "distance_to_hub_miles": 21.9
+    },
+    {
+      "county_fips": "31099",
+      "county_name": "Kearney",
+      "state": "NE",
+      "pop_total": 6655,
+      "pop_65_plus": 1331,
+      "distance_to_hub_miles": 15.2
+    },
+    {
+      "county_fips": "20137",
+      "county_name": "Norton",
+      "state": "KS",
+      "pop_total": 5431,
+      "pop_65_plus": 1107,
+      "distance_to_hub_miles": 76.8
+    },
+    {
+      "county_fips": "20147",
+      "county_name": "Phillips",
+      "state": "KS",
+      "pop_total": 4960,
+      "pop_65_plus": 1208,
+      "distance_to_hub_miles": 64.9
+    },
+    {
+      "county_fips": "31065",
+      "county_name": "Furnas",
+      "state": "NE",
+      "pop_total": 4630,
+      "pop_65_plus": 1175,
+      "distance_to_hub_miles": 56.8
+    },
+    {
+      "county_fips": "31083",
+      "county_name": "Harlan",
+      "state": "NE",
+      "pop_total": 3094,
+      "pop_65_plus": 824,
+      "distance_to_hub_miles": 40.1
+    },
+    {
+      "county_fips": "31163",
+      "county_name": "Sherman",
+      "state": "NE",
+      "pop_total": 2970,
+      "pop_65_plus": 821,
+      "distance_to_hub_miles": 36.3
+    },
+    {
+      "county_fips": "31061",
+      "county_name": "Franklin",
+      "state": "NE",
+      "pop_total": 2901,
+      "pop_65_plus": 800,
+      "distance_to_hub_miles": 36.9
+    },
+    {
+      "county_fips": "20039",
+      "county_name": "Decatur",
+      "state": "KS",
+      "pop_total": 2771,
+      "pop_65_plus": 781,
+      "distance_to_hub_miles": 96.4
+    },
+    {
+      "county_fips": "20065",
+      "county_name": "Graham",
+      "state": "KS",
+      "pop_total": 2430,
+      "pop_65_plus": 638,
+      "distance_to_hub_miles": 102.6
+    },
+    {
+      "county_fips": "31073",
+      "county_name": "Gosper",
+      "state": "NE",
+      "pop_total": 1873,
+      "pop_65_plus": 479,
+      "distance_to_hub_miles": 41.3
+    },
+    {
+      "county_fips": "31115",
+      "county_name": "Loup",
+      "state": "NE",
+      "pop_total": 629,
+      "pop_65_plus": 161,
+      "distance_to_hub_miles": 85.9
+    }
+  ],
+  "summary": {
+    "total_beds": 219,
+    "catchment_pop": 132016,
+    "catchment_pop_65_plus": 25391,
+    "catchment_pct_65_plus": 0.1923,
+    "max_catchment_radius_miles": 102.6,
+    "avg_catchment_distance_miles": 33.4,
+    "num_counties": 15,
+    "hospital_employment": 1692,
+    "msa_total_employment": 29848,
+    "hospital_emp_share": 0.0567,
+    "avg_govt_payer_share": 0.6546
+  }
+}

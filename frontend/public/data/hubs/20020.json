@@ -1,0 +1,136 @@
+{
+  "cbsa_code": "20020",
+  "cbsa_name": "Dothan, AL",
+  "mdi": 0.1812,
+  "bbox": [
+    -87.39,
+    30.06,
+    -83.86,
+    32.24
+  ],
+  "hospitals": [
+    {
+      "facility_id": "010001",
+      "name": "SOUTHEAST HEALTH MEDICAL CENTER",
+      "beds": 420,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 31.2133,
+      "lon": -85.362,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "010055",
+      "name": "FLOWERS HOSPITAL",
+      "beds": 235,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 31.2381,
+      "lon": -85.4571,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "010062",
+      "name": "WIREGRASS MEDICAL CENTER",
+      "beds": 87,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 31.0563,
+      "lon": -85.8941,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "011309",
+      "name": "WIREGRASS MEDICAL CENTER",
+      "beds": 35,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 31.0563,
+      "lon": -85.8941,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "01069",
+      "county_name": "Houston",
+      "state": "AL",
+      "pop_total": 107040,
+      "pop_65_plus": 19450,
+      "distance_to_hub_miles": 10.6
+    },
+    {
+      "county_fips": "12063",
+      "county_name": "Jackson",
+      "state": "FL",
+      "pop_total": 47704,
+      "pop_65_plus": 10058,
+      "distance_to_hub_miles": 31.7
+    },
+    {
+      "county_fips": "12059",
+      "county_name": "Holmes",
+      "state": "FL",
+      "pop_total": 19529,
+      "pop_65_plus": 3946,
+      "distance_to_hub_miles": 30.3
+    },
+    {
+      "county_fips": "01067",
+      "county_name": "Henry",
+      "state": "AL",
+      "pop_total": 17282,
+      "pop_65_plus": 3953,
+      "distance_to_hub_miles": 26.0
+    },
+    {
+      "county_fips": "13099",
+      "county_name": "Early",
+      "state": "GA",
+      "pop_total": 10753,
+      "pop_65_plus": 2060,
+      "distance_to_hub_miles": 34.8
+    },
+    {
+      "county_fips": "13253",
+      "county_name": "Seminole",
+      "state": "GA",
+      "pop_total": 9117,
+      "pop_65_plus": 2171,
+      "distance_to_hub_miles": 40.0
+    },
+    {
+      "county_fips": "13201",
+      "county_name": "Miller",
+      "state": "GA",
+      "pop_total": 5923,
+      "pop_65_plus": 1270,
+      "distance_to_hub_miles": 44.0
+    },
+    {
+      "county_fips": "13061",
+      "county_name": "Clay",
+      "state": "GA",
+      "pop_total": 2855,
+      "pop_65_plus": 712,
+      "distance_to_hub_miles": 41.6
+    }
+  ],
+  "summary": {
+    "total_beds": 777,
+    "catchment_pop": 220203,
+    "catchment_pop_65_plus": 43620,
+    "catchment_pct_65_plus": 0.1981,
+    "max_catchment_radius_miles": 44.0,
+    "avg_catchment_distance_miles": 21.8,
+    "num_counties": 8,
+    "hospital_employment": 1698,
+    "msa_total_employment": 56058,
+    "hospital_emp_share": 0.0283,
+    "avg_govt_payer_share": 0.6545
+  }
+}

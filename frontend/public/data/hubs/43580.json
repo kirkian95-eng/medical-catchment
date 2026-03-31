@@ -1,0 +1,173 @@
+{
+  "cbsa_code": "43580",
+  "cbsa_name": "Sioux City, IA-NE-SD",
+  "mdi": 0.2733,
+  "bbox": [
+    -98.01,
+    41.41,
+    -94.89,
+    43.61
+  ],
+  "hospitals": [
+    {
+      "facility_id": "160153",
+      "name": "MERCYONE SIOUXLAND MEDICAL CENTER",
+      "beds": 267,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.4937,
+      "lon": -96.3942,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "160146",
+      "name": "ST LUKES REGIONAL MEDICAL CENTER",
+      "beds": 201,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.5179,
+      "lon": -96.4052,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "430089",
+      "name": "DUNES SURGICAL HOSPITAL",
+      "beds": 38,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.5233,
+      "lon": -96.5097,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "19193",
+      "county_name": "Woodbury",
+      "state": "IA",
+      "pop_total": 105526,
+      "pop_65_plus": 16302,
+      "distance_to_hub_miles": 20.1
+    },
+    {
+      "county_fips": "19167",
+      "county_name": "Sioux",
+      "state": "IA",
+      "pop_total": 35815,
+      "pop_65_plus": 5762,
+      "distance_to_hub_miles": 41.5
+    },
+    {
+      "county_fips": "19149",
+      "county_name": "Plymouth",
+      "state": "IA",
+      "pop_total": 25621,
+      "pop_65_plus": 4853,
+      "distance_to_hub_miles": 18.8
+    },
+    {
+      "county_fips": "31043",
+      "county_name": "Dakota",
+      "state": "NE",
+      "pop_total": 21308,
+      "pop_65_plus": 2815,
+      "distance_to_hub_miles": 11.3
+    },
+    {
+      "county_fips": "46127",
+      "county_name": "Union",
+      "state": "SD",
+      "pop_total": 16700,
+      "pop_65_plus": 3072,
+      "distance_to_hub_miles": 25.9
+    },
+    {
+      "county_fips": "19041",
+      "county_name": "Clay",
+      "state": "IA",
+      "pop_total": 16423,
+      "pop_65_plus": 3554,
+      "distance_to_hub_miles": 75.1
+    },
+    {
+      "county_fips": "46027",
+      "county_name": "Clay",
+      "state": "SD",
+      "pop_total": 14953,
+      "pop_65_plus": 1775,
+      "distance_to_hub_miles": 40.4
+    },
+    {
+      "county_fips": "19141",
+      "county_name": "O'Brien",
+      "state": "IA",
+      "pop_total": 14138,
+      "pop_65_plus": 3037,
+      "distance_to_hub_miles": 56.3
+    },
+    {
+      "county_fips": "19035",
+      "county_name": "Cherokee",
+      "state": "IA",
+      "pop_total": 11601,
+      "pop_65_plus": 2810,
+      "distance_to_hub_miles": 42.9
+    },
+    {
+      "county_fips": "19133",
+      "county_name": "Monona",
+      "state": "IA",
+      "pop_total": 8671,
+      "pop_65_plus": 2089,
+      "distance_to_hub_miles": 38.9
+    },
+    {
+      "county_fips": "31027",
+      "county_name": "Cedar",
+      "state": "NE",
+      "pop_total": 8375,
+      "pop_65_plus": 1807,
+      "distance_to_hub_miles": 43.5
+    },
+    {
+      "county_fips": "19093",
+      "county_name": "Ida",
+      "state": "IA",
+      "pop_total": 6969,
+      "pop_65_plus": 1531,
+      "distance_to_hub_miles": 46.3
+    },
+    {
+      "county_fips": "31173",
+      "county_name": "Thurston",
+      "state": "NE",
+      "pop_total": 6716,
+      "pop_65_plus": 828,
+      "distance_to_hub_miles": 25.0
+    },
+    {
+      "county_fips": "31051",
+      "county_name": "Dixon",
+      "state": "NE",
+      "pop_total": 5579,
+      "pop_65_plus": 1157,
+      "distance_to_hub_miles": 23.5
+    }
+  ],
+  "summary": {
+    "total_beds": 506,
+    "catchment_pop": 298395,
+    "catchment_pop_65_plus": 51392,
+    "catchment_pct_65_plus": 0.1722,
+    "max_catchment_radius_miles": 75.1,
+    "avg_catchment_distance_miles": 30.9,
+    "num_counties": 14,
+    "hospital_employment": 0,
+    "msa_total_employment": 61358,
+    "hospital_emp_share": 0.0406,
+    "avg_govt_payer_share": 0.65
+  }
+}

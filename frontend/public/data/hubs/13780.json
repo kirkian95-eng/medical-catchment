@@ -1,0 +1,82 @@
+{
+  "cbsa_code": "13780",
+  "cbsa_name": "Binghamton, NY",
+  "mdi": 0.373,
+  "bbox": [
+    -77.44,
+    41.09,
+    -74.41,
+    43.09
+  ],
+  "hospitals": [
+    {
+      "facility_id": "330394",
+      "name": "UNITED HEALTH SERVICES HOSPITALS, INC",
+      "beds": 500,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.0882,
+      "lon": -75.9143,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "330011",
+      "name": "OUR LADY OF LOURDES MEMORIAL HOSPITAL, INC",
+      "beds": 267,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.0926,
+      "lon": -75.936,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36007",
+      "county_name": "Broome",
+      "state": "NY",
+      "pop_total": 198365,
+      "pop_65_plus": 39154,
+      "distance_to_hub_miles": 7.2
+    },
+    {
+      "county_fips": "36107",
+      "county_name": "Tioga",
+      "state": "NY",
+      "pop_total": 48344,
+      "pop_65_plus": 10080,
+      "distance_to_hub_miles": 20.5
+    },
+    {
+      "county_fips": "36017",
+      "county_name": "Chenango",
+      "state": "NY",
+      "pop_total": 47096,
+      "pop_65_plus": 10043,
+      "distance_to_hub_miles": 32.1
+    },
+    {
+      "county_fips": "42115",
+      "county_name": "Susquehanna",
+      "state": "PA",
+      "pop_total": 38540,
+      "pop_65_plus": 9317,
+      "distance_to_hub_miles": 19.6
+    }
+  ],
+  "summary": {
+    "total_beds": 767,
+    "catchment_pop": 332345,
+    "catchment_pop_65_plus": 68594,
+    "catchment_pct_65_plus": 0.2064,
+    "max_catchment_radius_miles": 32.1,
+    "avg_catchment_distance_miles": 14.1,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 81278,
+    "hospital_emp_share": 0.0531,
+    "avg_govt_payer_share": 0.65
+  }
+}

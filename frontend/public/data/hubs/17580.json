@@ -1,0 +1,90 @@
+{
+  "cbsa_code": "17580",
+  "cbsa_name": "Clovis, NM",
+  "mdi": 0.0551,
+  "bbox": [
+    -104.83,
+    33.13,
+    -101.72,
+    35.41
+  ],
+  "hospitals": [
+    {
+      "facility_id": "320022",
+      "name": "PLAINS REGIONAL MEDICAL CENTER",
+      "beds": 106,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.4138,
+      "lon": -103.2214,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "320084",
+      "name": "ROOSEVELT GENERAL HOSPITAL",
+      "beds": 24,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 34.1315,
+      "lon": -103.3267,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "35009",
+      "county_name": "Curry",
+      "state": "NM",
+      "pop_total": 48327,
+      "pop_65_plus": 6185,
+      "distance_to_hub_miles": 13.2
+    },
+    {
+      "county_fips": "35041",
+      "county_name": "Roosevelt",
+      "state": "NM",
+      "pop_total": 19142,
+      "pop_65_plus": 2832,
+      "distance_to_hub_miles": 30.9
+    },
+    {
+      "county_fips": "48369",
+      "county_name": "Parmer",
+      "state": "TX",
+      "pop_total": 9809,
+      "pop_65_plus": 1504,
+      "distance_to_hub_miles": 26.2
+    },
+    {
+      "county_fips": "35037",
+      "county_name": "Quay",
+      "state": "NM",
+      "pop_total": 8641,
+      "pop_65_plus": 2157,
+      "distance_to_hub_miles": 51.2
+    },
+    {
+      "county_fips": "48017",
+      "county_name": "Bailey",
+      "state": "TX",
+      "pop_total": 6902,
+      "pop_65_plus": 855,
+      "distance_to_hub_miles": 32.7
+    }
+  ],
+  "summary": {
+    "total_beds": 130,
+    "catchment_pop": 92821,
+    "catchment_pop_65_plus": 13533,
+    "catchment_pct_65_plus": 0.1458,
+    "max_catchment_radius_miles": 51.2,
+    "avg_catchment_distance_miles": 23.2,
+    "num_counties": 5,
+    "hospital_employment": 295,
+    "msa_total_employment": 23866,
+    "hospital_emp_share": 0.0124,
+    "avg_govt_payer_share": 0.65
+  }
+}

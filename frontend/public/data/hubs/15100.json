@@ -1,0 +1,79 @@
+{
+  "cbsa_code": "15100",
+  "cbsa_name": "Brookings, SD",
+  "mdi": 0.0489,
+  "bbox": [
+    -98.27,
+    43.3,
+    -95.27,
+    45.3
+  ],
+  "hospitals": [
+    {
+      "facility_id": "430008",
+      "name": "BROOKINGS HEALTH SYSTEM",
+      "beds": 49,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 44.3026,
+      "lon": -96.7683,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "46011",
+      "county_name": "Brookings",
+      "state": "SD",
+      "pop_total": 34631,
+      "pop_65_plus": 4480,
+      "distance_to_hub_miles": 4.8
+    },
+    {
+      "county_fips": "46029",
+      "county_name": "Codington",
+      "state": "SD",
+      "pop_total": 28402,
+      "pop_65_plus": 5229,
+      "distance_to_hub_miles": 51.0
+    },
+    {
+      "county_fips": "46057",
+      "county_name": "Hamlin",
+      "state": "SD",
+      "pop_total": 6196,
+      "pop_65_plus": 885,
+      "distance_to_hub_miles": 33.0
+    },
+    {
+      "county_fips": "27081",
+      "county_name": "Lincoln",
+      "state": "MN",
+      "pop_total": 5630,
+      "pop_65_plus": 1370,
+      "distance_to_hub_miles": 25.9
+    },
+    {
+      "county_fips": "46039",
+      "county_name": "Deuel",
+      "state": "SD",
+      "pop_total": 4298,
+      "pop_65_plus": 941,
+      "distance_to_hub_miles": 32.0
+    }
+  ],
+  "summary": {
+    "total_beds": 49,
+    "catchment_pop": 79157,
+    "catchment_pop_65_plus": 12905,
+    "catchment_pct_65_plus": 0.163,
+    "max_catchment_radius_miles": 51.0,
+    "avg_catchment_distance_miles": 26.6,
+    "num_counties": 5,
+    "hospital_employment": 0,
+    "msa_total_employment": 19122,
+    "hospital_emp_share": 0.0132,
+    "avg_govt_payer_share": 0.65
+  }
+}

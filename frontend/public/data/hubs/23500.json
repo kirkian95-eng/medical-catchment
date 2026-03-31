@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "23500",
+  "cbsa_name": "Gaffney, SC",
+  "mdi": 0.2607,
+  "bbox": [
+    -83.09,
+    33.97,
+    -80.09,
+    35.97
+  ],
+  "hospitals": [
+    {
+      "facility_id": "420043",
+      "name": "CHEROKEE MEDICAL CENTER",
+      "beds": 125,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 34.9723,
+      "lon": -81.5859,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "45091",
+      "county_name": "York",
+      "state": "SC",
+      "pop_total": 282987,
+      "pop_65_plus": 41680,
+      "distance_to_hub_miles": 22.7
+    },
+    {
+      "county_fips": "45021",
+      "county_name": "Cherokee",
+      "state": "SC",
+      "pop_total": 56200,
+      "pop_65_plus": 9495,
+      "distance_to_hub_miles": 5.6
+    }
+  ],
+  "summary": {
+    "total_beds": 125,
+    "catchment_pop": 339187,
+    "catchment_pop_65_plus": 51175,
+    "catchment_pct_65_plus": 0.1509,
+    "max_catchment_radius_miles": 22.7,
+    "avg_catchment_distance_miles": 19.9,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 18952,
+    "hospital_emp_share": 0.0346,
+    "avg_govt_payer_share": 0.65
+  }
+}

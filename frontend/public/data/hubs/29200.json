@@ -1,0 +1,93 @@
+{
+  "cbsa_code": "29200",
+  "cbsa_name": "Lafayette-West Lafayette, IN",
+  "mdi": 0.3245,
+  "bbox": [
+    -88.91,
+    39.31,
+    -85.31,
+    41.4
+  ],
+  "hospitals": [
+    {
+      "facility_id": "150173",
+      "name": "INDIANA UNIVERSITY HEALTH ARNETT HOSPITAL",
+      "beds": 191,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.4006,
+      "lon": -86.805,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "150109",
+      "name": "FRANCISCAN HEALTH LAFAYETTE",
+      "beds": 186,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 40.3927,
+      "lon": -86.8383,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "151307",
+      "name": "ASCENSION ST VINCENT WILLIAMSPORT",
+      "beds": 16,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 40.309,
+      "lon": -87.4127,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "18157",
+      "county_name": "Tippecanoe",
+      "state": "IN",
+      "pop_total": 186955,
+      "pop_65_plus": 22025,
+      "distance_to_hub_miles": 3.9
+    },
+    {
+      "county_fips": "18181",
+      "county_name": "White",
+      "state": "IN",
+      "pop_total": 24630,
+      "pop_65_plus": 5000,
+      "distance_to_hub_miles": 24.5
+    },
+    {
+      "county_fips": "18015",
+      "county_name": "Carroll",
+      "state": "IN",
+      "pop_total": 20397,
+      "pop_65_plus": 4122,
+      "distance_to_hub_miles": 18.7
+    },
+    {
+      "county_fips": "18007",
+      "county_name": "Benton",
+      "state": "IN",
+      "pop_total": 8709,
+      "pop_65_plus": 1507,
+      "distance_to_hub_miles": 29.5
+    }
+  ],
+  "summary": {
+    "total_beds": 393,
+    "catchment_pop": 240691,
+    "catchment_pop_65_plus": 32654,
+    "catchment_pct_65_plus": 0.1357,
+    "max_catchment_radius_miles": 29.5,
+    "avg_catchment_distance_miles": 8.2,
+    "num_counties": 4,
+    "hospital_employment": 4647,
+    "msa_total_employment": 94482,
+    "hospital_emp_share": 0.0455,
+    "avg_govt_payer_share": 0.6541
+  }
+}

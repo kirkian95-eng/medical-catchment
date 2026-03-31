@@ -1,0 +1,87 @@
+{
+  "cbsa_code": "36980",
+  "cbsa_name": "Owensboro, KY",
+  "mdi": 0.4688,
+  "bbox": [
+    -88.57,
+    36.78,
+    -85.57,
+    38.78
+  ],
+  "hospitals": [
+    {
+      "facility_id": "180038",
+      "name": "OWENSBORO HEALTH REGIONAL HOSPITAL",
+      "beds": 469,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.7769,
+      "lon": -87.0694,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "21059",
+      "county_name": "Daviess",
+      "state": "KY",
+      "pop_total": 102916,
+      "pop_65_plus": 17681,
+      "distance_to_hub_miles": 3.2
+    },
+    {
+      "county_fips": "21183",
+      "county_name": "Ohio",
+      "state": "KY",
+      "pop_total": 23782,
+      "pop_65_plus": 4319,
+      "distance_to_hub_miles": 23.9
+    },
+    {
+      "county_fips": "21027",
+      "county_name": "Breckinridge",
+      "state": "KY",
+      "pop_total": 20528,
+      "pop_65_plus": 3972,
+      "distance_to_hub_miles": 35.0
+    },
+    {
+      "county_fips": "18147",
+      "county_name": "Spencer",
+      "state": "IN",
+      "pop_total": 19935,
+      "pop_65_plus": 4013,
+      "distance_to_hub_miles": 16.7
+    },
+    {
+      "county_fips": "18123",
+      "county_name": "Perry",
+      "state": "IN",
+      "pop_total": 19186,
+      "pop_65_plus": 3579,
+      "distance_to_hub_miles": 31.5
+    },
+    {
+      "county_fips": "21091",
+      "county_name": "Hancock",
+      "state": "KY",
+      "pop_total": 9058,
+      "pop_65_plus": 1605,
+      "distance_to_hub_miles": 16.6
+    }
+  ],
+  "summary": {
+    "total_beds": 469,
+    "catchment_pop": 195405,
+    "catchment_pop_65_plus": 35169,
+    "catchment_pct_65_plus": 0.18,
+    "max_catchment_radius_miles": 35.0,
+    "avg_catchment_distance_miles": 13.8,
+    "num_counties": 6,
+    "hospital_employment": 0,
+    "msa_total_employment": 46146,
+    "hospital_emp_share": 0.0581,
+    "avg_govt_payer_share": 0.65
+  }
+}

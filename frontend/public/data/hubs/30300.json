@@ -1,0 +1,90 @@
+{
+  "cbsa_code": "30300",
+  "cbsa_name": "Lewiston, ID-WA",
+  "mdi": 0.3749,
+  "bbox": [
+    -118.79,
+    45.38,
+    -115.52,
+    47.42
+  ],
+  "hospitals": [
+    {
+      "facility_id": "130003",
+      "name": "ST JOSEPH REGIONAL MEDICAL CENTER",
+      "beds": 145,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 46.4151,
+      "lon": -117.0249,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "501332",
+      "name": "TRI-STATE MEMORIAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 46.3755,
+      "lon": -117.2903,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "16069",
+      "county_name": "Nez Perce",
+      "state": "ID",
+      "pop_total": 42200,
+      "pop_65_plus": 8568,
+      "distance_to_hub_miles": 16.0
+    },
+    {
+      "county_fips": "53003",
+      "county_name": "Asotin",
+      "state": "WA",
+      "pop_total": 22370,
+      "pop_65_plus": 5333,
+      "distance_to_hub_miles": 16.5
+    },
+    {
+      "county_fips": "41063",
+      "county_name": "Wallowa",
+      "state": "OR",
+      "pop_total": 7439,
+      "pop_65_plus": 2150,
+      "distance_to_hub_miles": 57.6
+    },
+    {
+      "county_fips": "16061",
+      "county_name": "Lewis",
+      "state": "ID",
+      "pop_total": 3630,
+      "pop_65_plus": 1013,
+      "distance_to_hub_miles": 32.6
+    },
+    {
+      "county_fips": "53023",
+      "county_name": "Garfield",
+      "state": "WA",
+      "pop_total": 2310,
+      "pop_65_plus": 643,
+      "distance_to_hub_miles": 23.0
+    }
+  ],
+  "summary": {
+    "total_beds": 170,
+    "catchment_pop": 77949,
+    "catchment_pop_65_plus": 17707,
+    "catchment_pct_65_plus": 0.2272,
+    "max_catchment_radius_miles": 57.6,
+    "avg_catchment_distance_miles": 21.1,
+    "num_counties": 5,
+    "hospital_employment": 0,
+    "msa_total_employment": 28453,
+    "hospital_emp_share": 0.0447,
+    "avg_govt_payer_share": 0.6647
+  }
+}

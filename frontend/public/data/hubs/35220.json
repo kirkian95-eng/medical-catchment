@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "35220",
+  "cbsa_name": "New Castle, IN",
+  "mdi": 0.5973,
+  "bbox": [
+    -86.87,
+    38.94,
+    -83.87,
+    40.94
+  ],
+  "hospitals": [
+    {
+      "facility_id": "150030",
+      "name": "HENRY COUNTY MEMORIAL HOSPITAL",
+      "beds": 90,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 39.9412,
+      "lon": -85.3652,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "18059",
+      "county_name": "Hancock",
+      "state": "IN",
+      "pop_total": 80170,
+      "pop_65_plus": 13701,
+      "distance_to_hub_miles": 23.1
+    },
+    {
+      "county_fips": "18065",
+      "county_name": "Henry",
+      "state": "IN",
+      "pop_total": 48913,
+      "pop_65_plus": 9341,
+      "distance_to_hub_miles": 1.8
+    },
+    {
+      "county_fips": "18139",
+      "county_name": "Rush",
+      "state": "IN",
+      "pop_total": 16716,
+      "pop_65_plus": 3101,
+      "distance_to_hub_miles": 22.8
+    }
+  ],
+  "summary": {
+    "total_beds": 90,
+    "catchment_pop": 145799,
+    "catchment_pop_65_plus": 26143,
+    "catchment_pct_65_plus": 0.1793,
+    "max_catchment_radius_miles": 23.1,
+    "avg_catchment_distance_miles": 15.9,
+    "num_counties": 3,
+    "hospital_employment": 891,
+    "msa_total_employment": 13206,
+    "hospital_emp_share": 0.0675,
+    "avg_govt_payer_share": 0.65
+  }
+}

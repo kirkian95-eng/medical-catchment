@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "36100",
+  "cbsa_name": "Ocala, FL",
+  "mdi": 0.31,
+  "bbox": [
+    -83.64,
+    28.16,
+    -80.63,
+    30.17
+  ],
+  "hospitals": [
+    {
+      "facility_id": "100212",
+      "name": "MARION COMMUNTIY HOSPITAL",
+      "beds": 545,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 29.1618,
+      "lon": -82.1268,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100062",
+      "name": "ADVENTHEALTH OCALA",
+      "beds": 385,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 29.1737,
+      "lon": -82.138,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "12069",
+      "county_name": "Lake",
+      "state": "FL",
+      "pop_total": 386829,
+      "pop_65_plus": 103276,
+      "distance_to_hub_miles": 37.8
+    },
+    {
+      "county_fips": "12083",
+      "county_name": "Marion",
+      "state": "FL",
+      "pop_total": 378225,
+      "pop_65_plus": 109251,
+      "distance_to_hub_miles": 5.4
+    }
+  ],
+  "summary": {
+    "total_beds": 930,
+    "catchment_pop": 765054,
+    "catchment_pop_65_plus": 212527,
+    "catchment_pct_65_plus": 0.2778,
+    "max_catchment_radius_miles": 37.8,
+    "avg_catchment_distance_miles": 21.8,
+    "num_counties": 2,
+    "hospital_employment": 4927,
+    "msa_total_employment": 117386,
+    "hospital_emp_share": 0.042,
+    "avg_govt_payer_share": 0.65
+  }
+}

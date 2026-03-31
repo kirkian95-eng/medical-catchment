@@ -1,0 +1,143 @@
+{
+  "cbsa_code": "36900",
+  "cbsa_name": "Ottumwa, IA",
+  "mdi": 0.6213,
+  "bbox": [
+    -93.89,
+    40.03,
+    -90.89,
+    42.03
+  ],
+  "hospitals": [
+    {
+      "facility_id": "160089",
+      "name": "OTTUMWA REGIONAL HEALTH CENTER",
+      "beds": 235,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.0276,
+      "lon": -92.3905,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "19179",
+      "county_name": "Wapello",
+      "state": "IA",
+      "pop_total": 35292,
+      "pop_65_plus": 6285,
+      "distance_to_hub_miles": 1.0
+    },
+    {
+      "county_fips": "29001",
+      "county_name": "Adair",
+      "state": "MO",
+      "pop_total": 25299,
+      "pop_65_plus": 3760,
+      "distance_to_hub_miles": 58.9
+    },
+    {
+      "county_fips": "19123",
+      "county_name": "Mahaska",
+      "state": "IA",
+      "pop_total": 22059,
+      "pop_65_plus": 4189,
+      "distance_to_hub_miles": 24.9
+    },
+    {
+      "county_fips": "19101",
+      "county_name": "Jefferson",
+      "state": "IA",
+      "pop_total": 15785,
+      "pop_65_plus": 3990,
+      "distance_to_hub_miles": 23.0
+    },
+    {
+      "county_fips": "19007",
+      "county_name": "Appanoose",
+      "state": "IA",
+      "pop_total": 12279,
+      "pop_65_plus": 2881,
+      "distance_to_hub_miles": 31.8
+    },
+    {
+      "county_fips": "19107",
+      "county_name": "Keokuk",
+      "state": "IA",
+      "pop_total": 10026,
+      "pop_65_plus": 2191,
+      "distance_to_hub_miles": 24.0
+    },
+    {
+      "county_fips": "19051",
+      "county_name": "Davis",
+      "state": "IA",
+      "pop_total": 9093,
+      "pop_65_plus": 1617,
+      "distance_to_hub_miles": 19.4
+    },
+    {
+      "county_fips": "19135",
+      "county_name": "Monroe",
+      "state": "IA",
+      "pop_total": 7574,
+      "pop_65_plus": 1480,
+      "distance_to_hub_miles": 24.9
+    },
+    {
+      "county_fips": "19177",
+      "county_name": "Van Buren",
+      "state": "IA",
+      "pop_total": 7207,
+      "pop_65_plus": 1700,
+      "distance_to_hub_miles": 29.8
+    },
+    {
+      "county_fips": "29211",
+      "county_name": "Sullivan",
+      "state": "MO",
+      "pop_total": 5983,
+      "pop_65_plus": 1205,
+      "distance_to_hub_miles": 68.0
+    },
+    {
+      "county_fips": "29199",
+      "county_name": "Scotland",
+      "state": "MO",
+      "pop_total": 4720,
+      "pop_65_plus": 872,
+      "distance_to_hub_miles": 41.8
+    },
+    {
+      "county_fips": "29171",
+      "county_name": "Putnam",
+      "state": "MO",
+      "pop_total": 4698,
+      "pop_65_plus": 1187,
+      "distance_to_hub_miles": 50.1
+    },
+    {
+      "county_fips": "29197",
+      "county_name": "Schuyler",
+      "state": "MO",
+      "pop_total": 4066,
+      "pop_65_plus": 779,
+      "distance_to_hub_miles": 39.1
+    }
+  ],
+  "summary": {
+    "total_beds": 235,
+    "catchment_pop": 164081,
+    "catchment_pop_65_plus": 32136,
+    "catchment_pct_65_plus": 0.1959,
+    "max_catchment_radius_miles": 68.0,
+    "avg_catchment_distance_miles": 28.3,
+    "num_counties": 13,
+    "hospital_employment": 373,
+    "msa_total_employment": 15210,
+    "hospital_emp_share": 0.0845,
+    "avg_govt_payer_share": 0.65
+  }
+}

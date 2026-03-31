@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "32540",
+  "cbsa_name": "McAlester, OK",
+  "mdi": 0.5332,
+  "bbox": [
+    -97.25,
+    33.93,
+    -94.25,
+    35.93
+  ],
+  "hospitals": [
+    {
+      "facility_id": "370034",
+      "name": "MCALESTER REGIONAL HEALTH CENTER",
+      "beds": 149,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 34.9347,
+      "lon": -95.7504,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "40121",
+      "county_name": "Pittsburg",
+      "state": "OK",
+      "pop_total": 43758,
+      "pop_65_plus": 8704,
+      "distance_to_hub_miles": 0.8
+    },
+    {
+      "county_fips": "40127",
+      "county_name": "Pushmataha",
+      "state": "OK",
+      "pop_total": 10845,
+      "pop_65_plus": 2471,
+      "distance_to_hub_miles": 41.7
+    },
+    {
+      "county_fips": "40077",
+      "county_name": "Latimer",
+      "state": "OK",
+      "pop_total": 9537,
+      "pop_65_plus": 2005,
+      "distance_to_hub_miles": 28.6
+    }
+  ],
+  "summary": {
+    "total_beds": 149,
+    "catchment_pop": 64140,
+    "catchment_pop_65_plus": 13180,
+    "catchment_pct_65_plus": 0.2055,
+    "max_catchment_radius_miles": 41.7,
+    "avg_catchment_distance_miles": 11.8,
+    "num_counties": 3,
+    "hospital_employment": 11,
+    "msa_total_employment": 15093,
+    "hospital_emp_share": 0.0523,
+    "avg_govt_payer_share": 0.65
+  }
+}

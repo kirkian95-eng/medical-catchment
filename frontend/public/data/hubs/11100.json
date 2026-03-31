@@ -1,0 +1,269 @@
+{
+  "cbsa_code": "11100",
+  "cbsa_name": "Amarillo, TX",
+  "mdi": 0.3051,
+  "bbox": [
+    -104.3,
+    33.4,
+    -99.67,
+    37.05
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450209",
+      "name": "NORTHWEST TEXAS HOSPITAL",
+      "beds": 495,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.198,
+      "lon": -101.922,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450231",
+      "name": "BSA HOSPITAL",
+      "beds": 445,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.1949,
+      "lon": -101.9208,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450875",
+      "name": "QUAIL CREEK SURGICAL HOSPITAL",
+      "beds": 39,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.2593,
+      "lon": -102.0474,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48381",
+      "county_name": "Randall",
+      "state": "TX",
+      "pop_total": 141489,
+      "pop_65_plus": 21850,
+      "distance_to_hub_miles": 16.2
+    },
+    {
+      "county_fips": "48375",
+      "county_name": "Potter",
+      "state": "TX",
+      "pop_total": 117905,
+      "pop_65_plus": 15870,
+      "distance_to_hub_miles": 14.1
+    },
+    {
+      "county_fips": "48341",
+      "county_name": "Moore",
+      "state": "TX",
+      "pop_total": 21284,
+      "pop_65_plus": 2394,
+      "distance_to_hub_miles": 44.2
+    },
+    {
+      "county_fips": "48179",
+      "county_name": "Gray",
+      "state": "TX",
+      "pop_total": 21272,
+      "pop_65_plus": 3430,
+      "distance_to_hub_miles": 64.3
+    },
+    {
+      "county_fips": "40139",
+      "county_name": "Texas",
+      "state": "OK",
+      "pop_total": 21144,
+      "pop_65_plus": 2504,
+      "distance_to_hub_miles": 109.8
+    },
+    {
+      "county_fips": "48233",
+      "county_name": "Hutchinson",
+      "state": "TX",
+      "pop_total": 20595,
+      "pop_65_plus": 3534,
+      "distance_to_hub_miles": 54.7
+    },
+    {
+      "county_fips": "48117",
+      "county_name": "Deaf Smith",
+      "state": "TX",
+      "pop_total": 18585,
+      "pop_65_plus": 2390,
+      "distance_to_hub_miles": 41.6
+    },
+    {
+      "county_fips": "48357",
+      "county_name": "Ochiltree",
+      "state": "TX",
+      "pop_total": 9924,
+      "pop_65_plus": 1061,
+      "distance_to_hub_miles": 97.2
+    },
+    {
+      "county_fips": "48069",
+      "county_name": "Castro",
+      "state": "TX",
+      "pop_total": 7381,
+      "pop_65_plus": 1211,
+      "distance_to_hub_miles": 50.0
+    },
+    {
+      "county_fips": "48111",
+      "county_name": "Dallam",
+      "state": "TX",
+      "pop_total": 7165,
+      "pop_65_plus": 681,
+      "distance_to_hub_miles": 83.6
+    },
+    {
+      "county_fips": "48075",
+      "county_name": "Childress",
+      "state": "TX",
+      "pop_total": 6781,
+      "pop_65_plus": 940,
+      "distance_to_hub_miles": 107.9
+    },
+    {
+      "county_fips": "48065",
+      "county_name": "Carson",
+      "state": "TX",
+      "pop_total": 5801,
+      "pop_65_plus": 1218,
+      "distance_to_hub_miles": 35.2
+    },
+    {
+      "county_fips": "48205",
+      "county_name": "Hartley",
+      "state": "TX",
+      "pop_total": 5369,
+      "pop_65_plus": 870,
+      "distance_to_hub_miles": 58.4
+    },
+    {
+      "county_fips": "48195",
+      "county_name": "Hansford",
+      "state": "TX",
+      "pop_total": 5270,
+      "pop_65_plus": 718,
+      "distance_to_hub_miles": 81.1
+    },
+    {
+      "county_fips": "48483",
+      "county_name": "Wheeler",
+      "state": "TX",
+      "pop_total": 4980,
+      "pop_65_plus": 996,
+      "distance_to_hub_miles": 94.5
+    },
+    {
+      "county_fips": "35059",
+      "county_name": "Union",
+      "state": "NM",
+      "pop_total": 4074,
+      "pop_65_plus": 898,
+      "distance_to_hub_miles": 123.8
+    },
+    {
+      "county_fips": "48211",
+      "county_name": "Hemphill",
+      "state": "TX",
+      "pop_total": 3371,
+      "pop_65_plus": 635,
+      "distance_to_hub_miles": 103.1
+    },
+    {
+      "county_fips": "48129",
+      "county_name": "Donley",
+      "state": "TX",
+      "pop_total": 3298,
+      "pop_65_plus": 786,
+      "distance_to_hub_miles": 64.9
+    },
+    {
+      "county_fips": "48295",
+      "county_name": "Lipscomb",
+      "state": "TX",
+      "pop_total": 3038,
+      "pop_65_plus": 507,
+      "distance_to_hub_miles": 119.0
+    },
+    {
+      "county_fips": "48087",
+      "county_name": "Collingsworth",
+      "state": "TX",
+      "pop_total": 2865,
+      "pop_65_plus": 584,
+      "distance_to_hub_miles": 95.0
+    },
+    {
+      "county_fips": "48191",
+      "county_name": "Hall",
+      "state": "TX",
+      "pop_total": 2847,
+      "pop_65_plus": 641,
+      "distance_to_hub_miles": 84.4
+    },
+    {
+      "county_fips": "48421",
+      "county_name": "Sherman",
+      "state": "TX",
+      "pop_total": 2414,
+      "pop_65_plus": 394,
+      "distance_to_hub_miles": 74.5
+    },
+    {
+      "county_fips": "40025",
+      "county_name": "Cimarron",
+      "state": "OK",
+      "pop_total": 2272,
+      "pop_65_plus": 548,
+      "distance_to_hub_miles": 112.1
+    },
+    {
+      "county_fips": "48359",
+      "county_name": "Oldham",
+      "state": "TX",
+      "pop_total": 2171,
+      "pop_65_plus": 274,
+      "distance_to_hub_miles": 40.7
+    },
+    {
+      "county_fips": "48011",
+      "county_name": "Armstrong",
+      "state": "TX",
+      "pop_total": 1912,
+      "pop_65_plus": 549,
+      "distance_to_hub_miles": 36.0
+    },
+    {
+      "county_fips": "48393",
+      "county_name": "Roberts",
+      "state": "TX",
+      "pop_total": 764,
+      "pop_65_plus": 108,
+      "distance_to_hub_miles": 76.6
+    }
+  ],
+  "summary": {
+    "total_beds": 979,
+    "catchment_pop": 443971,
+    "catchment_pop_65_plus": 65591,
+    "catchment_pct_65_plus": 0.1477,
+    "max_catchment_radius_miles": 123.8,
+    "avg_catchment_distance_miles": 38.6,
+    "num_counties": 26,
+    "hospital_employment": 5281,
+    "msa_total_employment": 77367,
+    "hospital_emp_share": 0.0453,
+    "avg_govt_payer_share": 0.65
+  }
+}

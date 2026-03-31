@@ -1,0 +1,88 @@
+{
+  "cbsa_code": "41500",
+  "cbsa_name": "Salinas, CA",
+  "mdi": 0.1051,
+  "bbox": [
+    -123.41,
+    35.2,
+    -119.58,
+    37.7
+  ],
+  "hospitals": [
+    {
+      "facility_id": "050145",
+      "name": "COMMUNITY HOSPITAL OF THE MONTEREY PENINSULA",
+      "beds": 286,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.5786,
+      "lon": -121.9149,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "050334",
+      "name": "SALINAS VALLEY MEMORIAL HOSPITAL",
+      "beds": 263,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 36.6602,
+      "lon": -121.6478,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "050248",
+      "name": "NATIVIDAD MEDICAL CENTER",
+      "beds": 172,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 36.6953,
+      "lon": -121.6315,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "051336",
+      "name": "SOUTHERN MONTEREY COUNTY MEMORIAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 36.1998,
+      "lon": -121.0823,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "06053",
+      "county_name": "Monterey",
+      "state": "CA",
+      "pop_total": 437609,
+      "pop_65_plus": 62381,
+      "distance_to_hub_miles": 35.2
+    },
+    {
+      "county_fips": "06069",
+      "county_name": "San Benito",
+      "state": "CA",
+      "pop_total": 64753,
+      "pop_65_plus": 8524,
+      "distance_to_hub_miles": 36.3
+    }
+  ],
+  "summary": {
+    "total_beds": 746,
+    "catchment_pop": 502362,
+    "catchment_pop_65_plus": 70905,
+    "catchment_pct_65_plus": 0.1411,
+    "max_catchment_radius_miles": 36.3,
+    "avg_catchment_distance_miles": 35.3,
+    "num_counties": 2,
+    "hospital_employment": 3130,
+    "msa_total_employment": 196972,
+    "hospital_emp_share": 0.0159,
+    "avg_govt_payer_share": 0.6534
+  }
+}

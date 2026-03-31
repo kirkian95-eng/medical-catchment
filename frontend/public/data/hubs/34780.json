@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "34780",
+  "cbsa_name": "Muskogee, OK",
+  "mdi": 0.4378,
+  "bbox": [
+    -96.91,
+    34.75,
+    -93.91,
+    36.75
+  ],
+  "hospitals": [
+    {
+      "facility_id": "370025",
+      "name": "SAINT FRANCIS HOSPITAL MUSKOGEE",
+      "beds": 325,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.7538,
+      "lon": -95.4061,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "40145",
+      "county_name": "Wagoner",
+      "state": "OK",
+      "pop_total": 82269,
+      "pop_65_plus": 13813,
+      "distance_to_hub_miles": 15.7
+    },
+    {
+      "county_fips": "40101",
+      "county_name": "Muskogee",
+      "state": "OK",
+      "pop_total": 66606,
+      "pop_65_plus": 11281,
+      "distance_to_hub_miles": 9.6
+    },
+    {
+      "county_fips": "40091",
+      "county_name": "McIntosh",
+      "state": "OK",
+      "pop_total": 19159,
+      "pop_65_plus": 4858,
+      "distance_to_hub_miles": 30.1
+    }
+  ],
+  "summary": {
+    "total_beds": 325,
+    "catchment_pop": 168034,
+    "catchment_pop_65_plus": 29952,
+    "catchment_pct_65_plus": 0.1782,
+    "max_catchment_radius_miles": 30.1,
+    "avg_catchment_distance_miles": 14.9,
+    "num_counties": 3,
+    "hospital_employment": 1367,
+    "msa_total_employment": 27852,
+    "hospital_emp_share": 0.0491,
+    "avg_govt_payer_share": 0.65
+  }
+}

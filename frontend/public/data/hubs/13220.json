@@ -1,0 +1,120 @@
+{
+  "cbsa_code": "13220",
+  "cbsa_name": "Beckley, WV",
+  "mdi": 0.2948,
+  "bbox": [
+    -82.81,
+    36.79,
+    -79.64,
+    39.15
+  ],
+  "hospitals": [
+    {
+      "facility_id": "510070",
+      "name": "RALEIGH GENERAL HOSPITAL",
+      "beds": 300,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 37.7861,
+      "lon": -81.203,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "510062",
+      "name": "BECKLEY ARH HOSPITAL",
+      "beds": 173,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.8406,
+      "lon": -81.2707,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "511318",
+      "name": "MONTGOMERY GENERAL HOSPITAL",
+      "beds": 69,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 38.1544,
+      "lon": -81.3148,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "511317",
+      "name": "CAMC PLATEAU MEDICAL CENTER, INC",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Proprietary",
+      "lat": 37.9748,
+      "lon": -81.1439,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "54081",
+      "county_name": "Raleigh",
+      "state": "WV",
+      "pop_total": 74303,
+      "pop_65_plus": 15906,
+      "distance_to_hub_miles": 5.9
+    },
+    {
+      "county_fips": "54019",
+      "county_name": "Fayette",
+      "state": "WV",
+      "pop_total": 40545,
+      "pop_65_plus": 8878,
+      "distance_to_hub_miles": 14.6
+    },
+    {
+      "county_fips": "54025",
+      "county_name": "Greenbrier",
+      "state": "WV",
+      "pop_total": 32995,
+      "pop_65_plus": 7785,
+      "distance_to_hub_miles": 43.1
+    },
+    {
+      "county_fips": "54067",
+      "county_name": "Nicholas",
+      "state": "WV",
+      "pop_total": 24624,
+      "pop_65_plus": 5604,
+      "distance_to_hub_miles": 38.3
+    },
+    {
+      "county_fips": "54109",
+      "county_name": "Wyoming",
+      "state": "WV",
+      "pop_total": 21237,
+      "pop_65_plus": 4789,
+      "distance_to_hub_miles": 24.2
+    },
+    {
+      "county_fips": "54089",
+      "county_name": "Summers",
+      "state": "WV",
+      "pop_total": 11985,
+      "pop_65_plus": 3157,
+      "distance_to_hub_miles": 24.8
+    }
+  ],
+  "summary": {
+    "total_beds": 567,
+    "catchment_pop": 205689,
+    "catchment_pop_65_plus": 46119,
+    "catchment_pct_65_plus": 0.2242,
+    "max_catchment_radius_miles": 43.1,
+    "avg_catchment_distance_miles": 20.5,
+    "num_counties": 6,
+    "hospital_employment": 1404,
+    "msa_total_employment": 41657,
+    "hospital_emp_share": 0.0337,
+    "avg_govt_payer_share": 0.6666
+  }
+}

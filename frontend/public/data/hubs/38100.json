@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "38100",
+  "cbsa_name": "Picayune, MS",
+  "mdi": 0.4015,
+  "bbox": [
+    -91.11,
+    29.53,
+    -88.07,
+    31.82
+  ],
+  "hospitals": [
+    {
+      "facility_id": "250117",
+      "name": "HIGHLAND COMMUNITY  HOSPITAL",
+      "beds": 60,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 30.5256,
+      "lon": -89.6052,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "251333",
+      "name": "PEARL RIVER COUNTY HOSPITAL",
+      "beds": 24,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 30.8229,
+      "lon": -89.5689,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "28109",
+      "county_name": "Pearl River",
+      "state": "MS",
+      "pop_total": 56351,
+      "pop_65_plus": 10780,
+      "distance_to_hub_miles": 16.8
+    },
+    {
+      "county_fips": "28045",
+      "county_name": "Hancock",
+      "state": "MS",
+      "pop_total": 46010,
+      "pop_65_plus": 9866,
+      "distance_to_hub_miles": 12.0
+    }
+  ],
+  "summary": {
+    "total_beds": 84,
+    "catchment_pop": 102361,
+    "catchment_pop_65_plus": 20646,
+    "catchment_pct_65_plus": 0.2017,
+    "max_catchment_radius_miles": 16.8,
+    "avg_catchment_distance_miles": 14.6,
+    "num_counties": 2,
+    "hospital_employment": 472,
+    "msa_total_employment": 11405,
+    "hospital_emp_share": 0.0414,
+    "avg_govt_payer_share": 0.6786
+  }
+}

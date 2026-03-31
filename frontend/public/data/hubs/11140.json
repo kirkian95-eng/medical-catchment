@@ -1,0 +1,79 @@
+{
+  "cbsa_code": "11140",
+  "cbsa_name": "Americus, GA",
+  "mdi": 0.5532,
+  "bbox": [
+    -85.75,
+    31.07,
+    -82.75,
+    33.07
+  ],
+  "hospitals": [
+    {
+      "facility_id": "110044",
+      "name": "PHOEBE SUMTER MEDICAL CENTER",
+      "beds": 143,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.0651,
+      "lon": -84.2532,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "13261",
+      "county_name": "Sumter",
+      "state": "GA",
+      "pop_total": 29378,
+      "pop_65_plus": 4973,
+      "distance_to_hub_miles": 3.8
+    },
+    {
+      "county_fips": "13193",
+      "county_name": "Macon",
+      "state": "GA",
+      "pop_total": 12099,
+      "pop_65_plus": 2170,
+      "distance_to_hub_miles": 23.7
+    },
+    {
+      "county_fips": "13093",
+      "county_name": "Dooly",
+      "state": "GA",
+      "pop_total": 11236,
+      "pop_65_plus": 2411,
+      "distance_to_hub_miles": 27.3
+    },
+    {
+      "county_fips": "13249",
+      "county_name": "Schley",
+      "state": "GA",
+      "pop_total": 4565,
+      "pop_65_plus": 609,
+      "distance_to_hub_miles": 14.0
+    },
+    {
+      "county_fips": "13307",
+      "county_name": "Webster",
+      "state": "GA",
+      "pop_total": 2354,
+      "pop_65_plus": 420,
+      "distance_to_hub_miles": 17.5
+    }
+  ],
+  "summary": {
+    "total_beds": 143,
+    "catchment_pop": 59632,
+    "catchment_pop_65_plus": 10583,
+    "catchment_pct_65_plus": 0.1775,
+    "max_catchment_radius_miles": 27.3,
+    "avg_catchment_distance_miles": 13.6,
+    "num_counties": 5,
+    "hospital_employment": 0,
+    "msa_total_employment": 10387,
+    "hospital_emp_share": 0.0656,
+    "avg_govt_payer_share": 0.65
+  }
+}

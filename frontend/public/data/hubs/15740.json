@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "15740",
+  "cbsa_name": "Cambridge, OH",
+  "mdi": 0.681,
+  "bbox": [
+    -83.08,
+    39.04,
+    -80.08,
+    41.04
+  ],
+  "hospitals": [
+    {
+      "facility_id": "360203",
+      "name": "SOUTHEASTERN OHIO REGIONAL MEDICAL CENTER",
+      "beds": 221,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.0394,
+      "lon": -81.5768,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "39059",
+      "county_name": "Guernsey",
+      "state": "OH",
+      "pop_total": 38409,
+      "pop_65_plus": 7586,
+      "distance_to_hub_miles": 4.5
+    },
+    {
+      "county_fips": "39121",
+      "county_name": "Noble",
+      "state": "OH",
+      "pop_total": 14216,
+      "pop_65_plus": 4041,
+      "distance_to_hub_miles": 20.0
+    }
+  ],
+  "summary": {
+    "total_beds": 221,
+    "catchment_pop": 52625,
+    "catchment_pop_65_plus": 11627,
+    "catchment_pct_65_plus": 0.2209,
+    "max_catchment_radius_miles": 20.0,
+    "avg_catchment_distance_miles": 8.7,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 14529,
+    "hospital_emp_share": 0.0828,
+    "avg_govt_payer_share": 0.65
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "cbsa_code": "39300",
+  "cbsa_name": "Providence-Warwick, RI-MA",
+  "mdi": 0.2903,
+  "bbox": [
+    -73.42,
+    40.06,
+    -69.49,
+    43.3
+  ],
+  "hospitals": [
+    {
+      "facility_id": "220074",
+      "name": "SOUTHCOAST HOSPITALS GROUP",
+      "beds": 695,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.7104,
+      "lon": -71.1466,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "410009",
+      "name": "KENT COUNTY MEMORIAL HOSPITAL",
+      "beds": 359,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.705,
+      "lon": -71.4788,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "410005",
+      "name": "OUR LADY OF FATIMA HOSPITAL",
+      "beds": 312,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.8583,
+      "lon": -71.4363,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "410012",
+      "name": "THE MIRIAM HOSPITAL",
+      "beds": 247,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.8395,
+      "lon": -71.3892,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "410004",
+      "name": "ROGER WILLIAMS MEDICAL CENTER",
+      "beds": 220,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.839,
+      "lon": -71.4393,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "410011",
+      "name": "LANDMARK MEDICAL CENTER",
+      "beds": 214,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.0052,
+      "lon": -71.4962,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "410010",
+      "name": "WOMEN & INFANTS HOSPITAL OF RHODE ISLAND",
+      "beds": 167,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.81,
+      "lon": -71.4136,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "220020",
+      "name": "SAINT ANNE'S HOSPITAL",
+      "beds": 160,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.6744,
+      "lon": -71.1485,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "220073",
+      "name": "BROWN UNIVERSITY HEALTH MORTON HOSPITAL",
+      "beds": 133,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.9091,
+      "lon": -71.1183,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "410006",
+      "name": "NEWPORT HOSPITAL",
+      "beds": 129,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.498,
+      "lon": -71.3072,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "220008",
+      "name": "STURDY MEMORIAL HOSPITAL",
+      "beds": 126,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 41.9426,
+      "lon": -71.2755,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "410013",
+      "name": "WESTERLY HOSPITAL",
+      "beds": 116,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.3578,
+      "lon": -71.7896,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "410008",
+      "name": "SOUTH COUNTY HOSPITAL INC",
+      "beds": 100,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.4322,
+      "lon": -71.4963,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36103",
+      "county_name": "Suffolk",
+      "state": "NY",
+      "pop_total": 1524486,
+      "pop_65_plus": 263382,
+      "distance_to_hub_miles": 89.5
+    },
+    {
+      "county_fips": "25025",
+      "county_name": "Suffolk",
+      "state": "MA",
+      "pop_total": 785443,
+      "pop_65_plus": 98735,
+      "distance_to_hub_miles": 44.8
+    },
+    {
+      "county_fips": "25021",
+      "county_name": "Norfolk",
+      "state": "MA",
+      "pop_total": 722112,
+      "pop_65_plus": 124003,
+      "distance_to_hub_miles": 29.9
+    },
+    {
+      "county_fips": "44007",
+      "county_name": "Providence",
+      "state": "RI",
+      "pop_total": 657984,
+      "pop_65_plus": 103181,
+      "distance_to_hub_miles": 14.3
+    },
+    {
+      "county_fips": "25005",
+      "county_name": "Bristol",
+      "state": "MA",
+      "pop_total": 576699,
+      "pop_65_plus": 99426,
+      "distance_to_hub_miles": 13.3
+    },
+    {
+      "county_fips": "25023",
+      "county_name": "Plymouth",
+      "state": "MA",
+      "pop_total": 529548,
+      "pop_65_plus": 99368,
+      "distance_to_hub_miles": 35.2
+    },
+    {
+      "county_fips": "09180",
+      "county_name": "Southeastern Connecticut",
+      "state": "CT",
+      "pop_total": 280293,
+      "pop_65_plus": 52957,
+      "distance_to_hub_miles": 43.2
+    },
+    {
+      "county_fips": "44003",
+      "county_name": "Kent",
+      "state": "RI",
+      "pop_total": 170168,
+      "pop_65_plus": 33169,
+      "distance_to_hub_miles": 13.3
+    },
+    {
+      "county_fips": "44009",
+      "county_name": "Washington",
+      "state": "RI",
+      "pop_total": 129998,
+      "pop_65_plus": 28459,
+      "distance_to_hub_miles": 28.5
+    },
+    {
+      "county_fips": "09150",
+      "county_name": "Northeastern Connecticut",
+      "state": "CT",
+      "pop_total": 95687,
+      "pop_65_plus": 16375,
+      "distance_to_hub_miles": 32.8
+    },
+    {
+      "county_fips": "44005",
+      "county_name": "Newport",
+      "state": "RI",
+      "pop_total": 85442,
+      "pop_65_plus": 20421,
+      "distance_to_hub_miles": 18.0
+    },
+    {
+      "county_fips": "44001",
+      "county_name": "Bristol",
+      "state": "RI",
+      "pop_total": 50658,
+      "pop_65_plus": 10148,
+      "distance_to_hub_miles": 4.7
+    }
+  ],
+  "summary": {
+    "total_beds": 2978,
+    "catchment_pop": 5608518,
+    "catchment_pop_65_plus": 949624,
+    "catchment_pct_65_plus": 0.1693,
+    "max_catchment_radius_miles": 89.5,
+    "avg_catchment_distance_miles": 44.9,
+    "num_counties": 12,
+    "hospital_employment": 28317,
+    "msa_total_employment": 687284,
+    "hospital_emp_share": 0.0403,
+    "avg_govt_payer_share": 0.65
+  }
+}

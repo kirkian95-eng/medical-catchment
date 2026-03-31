@@ -1,0 +1,144 @@
+{
+  "cbsa_code": "28700",
+  "cbsa_name": "Kingsport-Bristol, TN-VA",
+  "mdi": 0.246,
+  "bbox": [
+    -84.44,
+    35.42,
+    -80.41,
+    37.71
+  ],
+  "hospitals": [
+    {
+      "facility_id": "440012",
+      "name": "WELLMONT BRISTOL REGIONAL MEDICAL CENTER",
+      "beds": 282,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 36.5893,
+      "lon": -82.2539,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "440176",
+      "name": "INDIAN PATH COMMUNITY HOSPITAL",
+      "beds": 239,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.5516,
+      "lon": -82.5175,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "490053",
+      "name": "JOHNSTON MEMORIAL HOSPITAL",
+      "beds": 116,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.7099,
+      "lon": -81.9121,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "440032",
+      "name": "HAWKINS COUNTY MEMORIAL HOSPITAL",
+      "beds": 50,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.4243,
+      "lon": -82.9414,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "47163",
+      "county_name": "Sullivan",
+      "state": "TN",
+      "pop_total": 158722,
+      "pop_65_plus": 34884,
+      "distance_to_hub_miles": 5.3
+    },
+    {
+      "county_fips": "51191",
+      "county_name": "Washington",
+      "state": "VA",
+      "pop_total": 53985,
+      "pop_65_plus": 12936,
+      "distance_to_hub_miles": 23.1
+    },
+    {
+      "county_fips": "51195",
+      "county_name": "Wise",
+      "state": "VA",
+      "pop_total": 36105,
+      "pop_65_plus": 6909,
+      "distance_to_hub_miles": 31.2
+    },
+    {
+      "county_fips": "51167",
+      "county_name": "Russell",
+      "state": "VA",
+      "pop_total": 25763,
+      "pop_65_plus": 5822,
+      "distance_to_hub_miles": 27.6
+    },
+    {
+      "county_fips": "51105",
+      "county_name": "Lee",
+      "state": "VA",
+      "pop_total": 22287,
+      "pop_65_plus": 4954,
+      "distance_to_hub_miles": 44.5
+    },
+    {
+      "county_fips": "51169",
+      "county_name": "Scott",
+      "state": "VA",
+      "pop_total": 21536,
+      "pop_65_plus": 5348,
+      "distance_to_hub_miles": 17.2
+    },
+    {
+      "county_fips": "47091",
+      "county_name": "Johnson",
+      "state": "TN",
+      "pop_total": 17982,
+      "pop_65_plus": 4153,
+      "distance_to_hub_miles": 28.4
+    },
+    {
+      "county_fips": "51520",
+      "county_name": "Bristol",
+      "state": "VA",
+      "pop_total": 17036,
+      "pop_65_plus": 4000,
+      "distance_to_hub_miles": 10.1
+    },
+    {
+      "county_fips": "51720",
+      "county_name": "Norton",
+      "state": "VA",
+      "pop_total": 3668,
+      "pop_65_plus": 790,
+      "distance_to_hub_miles": 28.8
+    }
+  ],
+  "summary": {
+    "total_beds": 687,
+    "catchment_pop": 357084,
+    "catchment_pop_65_plus": 79796,
+    "catchment_pct_65_plus": 0.2235,
+    "max_catchment_radius_miles": 44.5,
+    "avg_catchment_distance_miles": 17.0,
+    "num_counties": 9,
+    "hospital_employment": 4236,
+    "msa_total_employment": 101321,
+    "hospital_emp_share": 0.0365,
+    "avg_govt_payer_share": 0.65
+  }
+}

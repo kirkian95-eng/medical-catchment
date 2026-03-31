@@ -1,0 +1,79 @@
+{
+  "cbsa_code": "23180",
+  "cbsa_name": "Frankfort, KY",
+  "mdi": 0.1459,
+  "bbox": [
+    -86.37,
+    37.23,
+    -83.37,
+    39.23
+  ],
+  "hospitals": [
+    {
+      "facility_id": "180127",
+      "name": "FRANKFORT REGIONAL MEDICAL CENTER",
+      "beds": 173,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 38.2349,
+      "lon": -84.8688,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "21073",
+      "county_name": "Franklin",
+      "state": "KY",
+      "pop_total": 51475,
+      "pop_65_plus": 9299,
+      "distance_to_hub_miles": 0.5
+    },
+    {
+      "county_fips": "21211",
+      "county_name": "Shelby",
+      "state": "KY",
+      "pop_total": 48105,
+      "pop_65_plus": 7848,
+      "distance_to_hub_miles": 17.7
+    },
+    {
+      "county_fips": "21005",
+      "county_name": "Anderson",
+      "state": "KY",
+      "pop_total": 23839,
+      "pop_65_plus": 3859,
+      "distance_to_hub_miles": 17.3
+    },
+    {
+      "county_fips": "21103",
+      "county_name": "Henry",
+      "state": "KY",
+      "pop_total": 15731,
+      "pop_65_plus": 2773,
+      "distance_to_hub_miles": 20.0
+    },
+    {
+      "county_fips": "21187",
+      "county_name": "Owen",
+      "state": "KY",
+      "pop_total": 11229,
+      "pop_65_plus": 2203,
+      "distance_to_hub_miles": 19.8
+    }
+  ],
+  "summary": {
+    "total_beds": 173,
+    "catchment_pop": 150379,
+    "catchment_pop_65_plus": 25982,
+    "catchment_pct_65_plus": 0.1728,
+    "max_catchment_radius_miles": 20.0,
+    "avg_catchment_distance_miles": 12.1,
+    "num_counties": 5,
+    "hospital_employment": 0,
+    "msa_total_employment": 33687,
+    "hospital_emp_share": 0.0239,
+    "avg_govt_payer_share": 0.65
+  }
+}

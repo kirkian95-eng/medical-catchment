@@ -1,0 +1,47 @@
+{
+  "cbsa_code": "22300",
+  "cbsa_name": "Findlay, OH",
+  "mdi": 0.2006,
+  "bbox": [
+    -85.15,
+    40.02,
+    -82.15,
+    42.02
+  ],
+  "hospitals": [
+    {
+      "facility_id": "360095",
+      "name": "BLANCHARD VALLEY HOSPITAL",
+      "beds": 239,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 41.0166,
+      "lon": -83.6505,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "39063",
+      "county_name": "Hancock",
+      "state": "OH",
+      "pop_total": 75072,
+      "pop_65_plus": 13417,
+      "distance_to_hub_miles": 1.3
+    }
+  ],
+  "summary": {
+    "total_beds": 239,
+    "catchment_pop": 75072,
+    "catchment_pop_65_plus": 13417,
+    "catchment_pct_65_plus": 0.1787,
+    "max_catchment_radius_miles": 1.3,
+    "avg_catchment_distance_miles": 1.3,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 44290,
+    "hospital_emp_share": 0.0322,
+    "avg_govt_payer_share": 0.65
+  }
+}

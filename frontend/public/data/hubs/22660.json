@@ -1,0 +1,91 @@
+{
+  "cbsa_code": "22660",
+  "cbsa_name": "Fort Collins-Loveland, CO",
+  "mdi": 0.3616,
+  "bbox": [
+    -107.11,
+    39.4,
+    -103.49,
+    41.57
+  ],
+  "hospitals": [
+    {
+      "facility_id": "060010",
+      "name": "POUDRE VALLEY HOSPITAL",
+      "beds": 255,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.5717,
+      "lon": -105.0578,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "060119",
+      "name": "MEDICAL CENTER OF THE ROCKIES",
+      "beds": 180,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.4327,
+      "lon": -104.9911,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "060030",
+      "name": "BANNER MCKEE MEDICAL CENTER",
+      "beds": 118,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.5446,
+      "lon": -105.2451,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "060126",
+      "name": "BANNER FORT COLLINS MEDICAL CENTER",
+      "beds": 23,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 40.5204,
+      "lon": -105.0107,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "061312",
+      "name": "ESTES PARK MEDICAL CENTER",
+      "beds": 23,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 40.3979,
+      "lon": -105.6149,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "08069",
+      "county_name": "Larimer",
+      "state": "CO",
+      "pop_total": 359363,
+      "pop_65_plus": 59020,
+      "distance_to_hub_miles": 22.6
+    }
+  ],
+  "summary": {
+    "total_beds": 599,
+    "catchment_pop": 359363,
+    "catchment_pop_65_plus": 59020,
+    "catchment_pct_65_plus": 0.1642,
+    "max_catchment_radius_miles": 22.6,
+    "avg_catchment_distance_miles": 22.6,
+    "num_counties": 1,
+    "hospital_employment": 9594,
+    "msa_total_employment": 174756,
+    "hospital_emp_share": 0.0549,
+    "avg_govt_payer_share": 0.6538
+  }
+}

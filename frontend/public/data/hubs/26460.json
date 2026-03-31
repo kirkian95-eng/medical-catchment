@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "26460",
+  "cbsa_name": "Hudson, NY",
+  "mdi": 0.3371,
+  "bbox": [
+    -75.25,
+    41.23,
+    -72.25,
+    43.23
+  ],
+  "hospitals": [
+    {
+      "facility_id": "330094",
+      "name": "COLUMBIA MEMORIAL HOSPITAL",
+      "beds": 124,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.2264,
+      "lon": -73.7536,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36021",
+      "county_name": "Columbia",
+      "state": "NY",
+      "pop_total": 61469,
+      "pop_65_plus": 15226,
+      "distance_to_hub_miles": 6.4
+    },
+    {
+      "county_fips": "36039",
+      "county_name": "Greene",
+      "state": "NY",
+      "pop_total": 48067,
+      "pop_65_plus": 11132,
+      "distance_to_hub_miles": 19.2
+    }
+  ],
+  "summary": {
+    "total_beds": 124,
+    "catchment_pop": 109536,
+    "catchment_pop_65_plus": 26358,
+    "catchment_pct_65_plus": 0.2406,
+    "max_catchment_radius_miles": 19.2,
+    "avg_catchment_distance_miles": 12.0,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 20853,
+    "hospital_emp_share": 0.0463,
+    "avg_govt_payer_share": 0.65
+  }
+}

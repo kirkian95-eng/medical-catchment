@@ -1,0 +1,87 @@
+{
+  "cbsa_code": "19260",
+  "cbsa_name": "Danville, VA",
+  "mdi": 0.3454,
+  "bbox": [
+    -80.9,
+    35.58,
+    -77.9,
+    37.58
+  ],
+  "hospitals": [
+    {
+      "facility_id": "490075",
+      "name": "SOVAH HEALTH DANVILLE",
+      "beds": 250,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.5774,
+      "lon": -79.4048,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "51143",
+      "county_name": "Pittsylvania",
+      "state": "VA",
+      "pop_total": 60541,
+      "pop_65_plus": 14247,
+      "distance_to_hub_miles": 16.9
+    },
+    {
+      "county_fips": "51089",
+      "county_name": "Henry",
+      "state": "VA",
+      "pop_total": 50760,
+      "pop_65_plus": 12389,
+      "distance_to_hub_miles": 27.0
+    },
+    {
+      "county_fips": "51590",
+      "county_name": "Danville",
+      "state": "VA",
+      "pop_total": 42507,
+      "pop_65_plus": 8948,
+      "distance_to_hub_miles": 0.4
+    },
+    {
+      "county_fips": "51083",
+      "county_name": "Halifax",
+      "state": "VA",
+      "pop_total": 34013,
+      "pop_65_plus": 8474,
+      "distance_to_hub_miles": 29.1
+    },
+    {
+      "county_fips": "37033",
+      "county_name": "Caswell",
+      "state": "NC",
+      "pop_total": 22747,
+      "pop_65_plus": 5005,
+      "distance_to_hub_miles": 13.3
+    },
+    {
+      "county_fips": "51690",
+      "county_name": "Martinsville",
+      "state": "VA",
+      "pop_total": 13539,
+      "pop_65_plus": 2401,
+      "distance_to_hub_miles": 26.4
+    }
+  ],
+  "summary": {
+    "total_beds": 250,
+    "catchment_pop": 224107,
+    "catchment_pop_65_plus": 51464,
+    "catchment_pct_65_plus": 0.2296,
+    "max_catchment_radius_miles": 29.1,
+    "avg_catchment_distance_miles": 18.1,
+    "num_counties": 6,
+    "hospital_employment": 186,
+    "msa_total_employment": 24326,
+    "hospital_emp_share": 0.0475,
+    "avg_govt_payer_share": 0.65
+  }
+}

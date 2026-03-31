@@ -1,0 +1,134 @@
+{
+  "cbsa_code": "43340",
+  "cbsa_name": "Shreveport-Bossier City, LA",
+  "mdi": 0.7056,
+  "bbox": [
+    -95.48,
+    31.02,
+    -92.16,
+    33.84
+  ],
+  "hospitals": [
+    {
+      "facility_id": "190111",
+      "name": "WILLIS KNIGHTON MEDICAL CENTER",
+      "beds": 926,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.4838,
+      "lon": -93.7794,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190041",
+      "name": "CHRISTUS SHREVEPORT-BOSSIER HEALTH SYSTEM",
+      "beds": 242,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.424,
+      "lon": -93.7201,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190317",
+      "name": "OCHSNER LSU HEALTH SHREVEPORT-ST MARY MEDICAL CENT",
+      "beds": 93,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.4948,
+      "lon": -93.7512,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190118",
+      "name": "DESOTO REGIONAL HEALTH SYSTEM",
+      "beds": 34,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.0154,
+      "lon": -93.6564,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "191304",
+      "name": "NORTH CADDO MEDICAL CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.8422,
+      "lon": -93.9784,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190278",
+      "name": "SPECIALISTS HOSPITAL SHREVEPORT",
+      "beds": 15,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.5054,
+      "lon": -93.7487,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "22017",
+      "county_name": "Caddo",
+      "state": "LA",
+      "pop_total": 236259,
+      "pop_65_plus": 42364,
+      "distance_to_hub_miles": 10.2
+    },
+    {
+      "county_fips": "22015",
+      "county_name": "Bossier",
+      "state": "LA",
+      "pop_total": 128877,
+      "pop_65_plus": 19042,
+      "distance_to_hub_miles": 17.3
+    },
+    {
+      "county_fips": "22031",
+      "county_name": "De Soto",
+      "state": "LA",
+      "pop_total": 26821,
+      "pop_65_plus": 4870,
+      "distance_to_hub_miles": 28.6
+    },
+    {
+      "county_fips": "22013",
+      "county_name": "Bienville",
+      "state": "LA",
+      "pop_total": 12958,
+      "pop_65_plus": 2706,
+      "distance_to_hub_miles": 42.3
+    },
+    {
+      "county_fips": "22081",
+      "county_name": "Red River",
+      "state": "LA",
+      "pop_total": 7631,
+      "pop_65_plus": 1464,
+      "distance_to_hub_miles": 36.0
+    }
+  ],
+  "summary": {
+    "total_beds": 1335,
+    "catchment_pop": 412546,
+    "catchment_pop_65_plus": 70446,
+    "catchment_pct_65_plus": 0.1708,
+    "max_catchment_radius_miles": 42.3,
+    "avg_catchment_distance_miles": 15.1,
+    "num_counties": 5,
+    "hospital_employment": 13684,
+    "msa_total_employment": 116165,
+    "hospital_emp_share": 0.0942,
+    "avg_govt_payer_share": 0.6519
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "cbsa_code": "45060",
+  "cbsa_name": "Syracuse, NY",
+  "mdi": 0.3808,
+  "bbox": [
+    -77.88,
+    41.82,
+    -74.05,
+    44.33
+  ],
+  "hospitals": [
+    {
+      "facility_id": "330241",
+      "name": "UNIVERSITY HOSPITAL S U N Y HEALTH SCIENCE CENTER",
+      "beds": 511,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 43.0426,
+      "lon": -76.1406,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "330203",
+      "name": "CROUSE HOSPITAL",
+      "beds": 466,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.0415,
+      "lon": -76.138,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "330140",
+      "name": "ST JOSEPH'S HOSPITAL HEALTH CENTER",
+      "beds": 431,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.061,
+      "lon": -76.1349,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "330218",
+      "name": "OSWEGO HOSPITAL",
+      "beds": 132,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.3293,
+      "lon": -76.3807,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "330115",
+      "name": "ONEIDA HEALTH HOSPITAL",
+      "beds": 101,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.0781,
+      "lon": -75.6618,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "331316",
+      "name": "COMMUNITY MEMORIAL HOSPITAL, INC",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.8208,
+      "lon": -75.5464,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36067",
+      "county_name": "Onondaga",
+      "state": "NY",
+      "pop_total": 472637,
+      "pop_65_plus": 84343,
+      "distance_to_hub_miles": 5.8
+    },
+    {
+      "county_fips": "36075",
+      "county_name": "Oswego",
+      "state": "NY",
+      "pop_total": 118037,
+      "pop_65_plus": 20150,
+      "distance_to_hub_miles": 27.7
+    },
+    {
+      "county_fips": "36053",
+      "county_name": "Madison",
+      "state": "NY",
+      "pop_total": 68020,
+      "pop_65_plus": 13025,
+      "distance_to_hub_miles": 25.2
+    }
+  ],
+  "summary": {
+    "total_beds": 1666,
+    "catchment_pop": 658694,
+    "catchment_pop_65_plus": 117518,
+    "catchment_pct_65_plus": 0.1784,
+    "max_catchment_radius_miles": 27.7,
+    "avg_catchment_distance_miles": 11.7,
+    "num_counties": 3,
+    "hospital_employment": 1859,
+    "msa_total_employment": 293463,
+    "hospital_emp_share": 0.0454,
+    "avg_govt_payer_share": 0.6515
+  }
+}

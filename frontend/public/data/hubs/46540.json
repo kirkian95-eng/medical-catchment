@@ -1,0 +1,77 @@
+{
+  "cbsa_code": "46540",
+  "cbsa_name": "Utica-Rome, NY",
+  "mdi": 0.2621,
+  "bbox": [
+    -76.94,
+    42.1,
+    -73.35,
+    44.23
+  ],
+  "hospitals": [
+    {
+      "facility_id": "330044",
+      "name": "WYNN HOSPITAL",
+      "beds": 372,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.0988,
+      "lon": -75.2757,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "330215",
+      "name": "ROME MEMORIAL HOSPITAL, INC",
+      "beds": 144,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.2296,
+      "lon": -75.4437,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "331311",
+      "name": "LITTLE FALLS HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.0982,
+      "lon": -74.8484,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36065",
+      "county_name": "Oneida",
+      "state": "NY",
+      "pop_total": 231055,
+      "pop_65_plus": 44289,
+      "distance_to_hub_miles": 10.1
+    },
+    {
+      "county_fips": "36043",
+      "county_name": "Herkimer",
+      "state": "NY",
+      "pop_total": 60293,
+      "pop_65_plus": 12856,
+      "distance_to_hub_miles": 26.0
+    }
+  ],
+  "summary": {
+    "total_beds": 541,
+    "catchment_pop": 291348,
+    "catchment_pop_65_plus": 57145,
+    "catchment_pct_65_plus": 0.1961,
+    "max_catchment_radius_miles": 26.0,
+    "avg_catchment_distance_miles": 13.4,
+    "num_counties": 2,
+    "hospital_employment": 4069,
+    "msa_total_employment": 116420,
+    "hospital_emp_share": 0.035,
+    "avg_govt_payer_share": 0.6546
+  }
+}

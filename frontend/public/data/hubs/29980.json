@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "29980",
+  "cbsa_name": "Lawrenceburg, TN",
+  "mdi": 0.3391,
+  "bbox": [
+    -88.84,
+    34.22,
+    -85.84,
+    36.22
+  ],
+  "hospitals": [
+    {
+      "facility_id": "440175",
+      "name": "SOUTHERN TENNESSEE REGIONAL HEALTH SYSTEM LAWRENCE",
+      "beds": 96,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 35.2195,
+      "lon": -87.3375,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "47099",
+      "county_name": "Lawrence",
+      "state": "TN",
+      "pop_total": 44377,
+      "pop_65_plus": 7795,
+      "distance_to_hub_miles": 3.2
+    },
+    {
+      "county_fips": "47055",
+      "county_name": "Giles",
+      "state": "TN",
+      "pop_total": 30317,
+      "pop_65_plus": 6262,
+      "distance_to_hub_miles": 17.1
+    },
+    {
+      "county_fips": "47081",
+      "county_name": "Hickman",
+      "state": "TN",
+      "pop_total": 24996,
+      "pop_65_plus": 4338,
+      "distance_to_hub_miles": 41.0
+    },
+    {
+      "county_fips": "47101",
+      "county_name": "Lewis",
+      "state": "TN",
+      "pop_total": 12637,
+      "pop_65_plus": 2574,
+      "distance_to_hub_miles": 23.0
+    }
+  ],
+  "summary": {
+    "total_beds": 96,
+    "catchment_pop": 112327,
+    "catchment_pop_65_plus": 20969,
+    "catchment_pct_65_plus": 0.1867,
+    "max_catchment_radius_miles": 41.0,
+    "avg_catchment_distance_miles": 17.6,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 11684,
+    "hospital_emp_share": 0.0427,
+    "avg_govt_payer_share": 0.65
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "42820",
+  "cbsa_name": "Selma, AL",
+  "mdi": 0.7,
+  "bbox": [
+    -88.55,
+    31.42,
+    -85.55,
+    33.42
+  ],
+  "hospitals": [
+    {
+      "facility_id": "010118",
+      "name": "VAUGHAN REGIONAL MEDICAL CENTER PARKWAY CAMPUS",
+      "beds": 214,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.4241,
+      "lon": -87.0494,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "01047",
+      "county_name": "Dallas",
+      "state": "AL",
+      "pop_total": 38326,
+      "pop_65_plus": 7440,
+      "distance_to_hub_miles": 7.5
+    },
+    {
+      "county_fips": "01131",
+      "county_name": "Wilcox",
+      "state": "AL",
+      "pop_total": 10441,
+      "pop_65_plus": 2169,
+      "distance_to_hub_miles": 33.7
+    },
+    {
+      "county_fips": "01105",
+      "county_name": "Perry",
+      "state": "AL",
+      "pop_total": 8479,
+      "pop_65_plus": 1737,
+      "distance_to_hub_miles": 20.6
+    }
+  ],
+  "summary": {
+    "total_beds": 214,
+    "catchment_pop": 57246,
+    "catchment_pop_65_plus": 11346,
+    "catchment_pct_65_plus": 0.1982,
+    "max_catchment_radius_miles": 33.7,
+    "avg_catchment_distance_miles": 14.2,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 11404,
+    "hospital_emp_share": 0.1019,
+    "avg_govt_payer_share": 0.65
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "cbsa_code": "31420",
+  "cbsa_name": "Macon-Bibb County, GA",
+  "mdi": 0.4438,
+  "bbox": [
+    -85.44,
+    31.83,
+    -82.12,
+    34.04
+  ],
+  "hospitals": [
+    {
+      "facility_id": "110107",
+      "name": "ATRIUM HEALTH NAVICENT THE MEDICAL CENTER",
+      "beds": 637,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.8331,
+      "lon": -83.6361,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "110164",
+      "name": "COLISEUM MEDICAL CENTERS, LLC, DBA",
+      "beds": 250,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.8457,
+      "lon": -83.6181,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "110201",
+      "name": "PIEDMONT MACON NORTH HOSPITAL",
+      "beds": 103,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.9076,
+      "lon": -83.7351,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "111318",
+      "name": "MONROE COUNTY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.0436,
+      "lon": -83.9353,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "13063",
+      "county_name": "Clayton",
+      "state": "GA",
+      "pop_total": 296312,
+      "pop_65_plus": 29607,
+      "distance_to_hub_miles": 63.0
+    },
+    {
+      "county_fips": "13151",
+      "county_name": "Henry",
+      "state": "GA",
+      "pop_total": 240853,
+      "pop_65_plus": 28988,
+      "distance_to_hub_miles": 50.9
+    },
+    {
+      "county_fips": "13021",
+      "county_name": "Bibb",
+      "state": "GA",
+      "pop_total": 156554,
+      "pop_65_plus": 25285,
+      "distance_to_hub_miles": 4.1
+    },
+    {
+      "county_fips": "13255",
+      "county_name": "Spalding",
+      "state": "GA",
+      "pop_total": 67415,
+      "pop_65_plus": 12423,
+      "distance_to_hub_miles": 46.5
+    },
+    {
+      "county_fips": "13169",
+      "county_name": "Jones",
+      "state": "GA",
+      "pop_total": 28382,
+      "pop_65_plus": 5094,
+      "distance_to_hub_miles": 13.2
+    },
+    {
+      "county_fips": "13207",
+      "county_name": "Monroe",
+      "state": "GA",
+      "pop_total": 28287,
+      "pop_65_plus": 5286,
+      "distance_to_hub_miles": 19.4
+    },
+    {
+      "county_fips": "13293",
+      "county_name": "Upson",
+      "state": "GA",
+      "pop_total": 27638,
+      "pop_65_plus": 5042,
+      "distance_to_hub_miles": 37.8
+    },
+    {
+      "county_fips": "13035",
+      "county_name": "Butts",
+      "state": "GA",
+      "pop_total": 25522,
+      "pop_65_plus": 4072,
+      "distance_to_hub_miles": 35.2
+    },
+    {
+      "county_fips": "13231",
+      "county_name": "Pike",
+      "state": "GA",
+      "pop_total": 19145,
+      "pop_65_plus": 3010,
+      "distance_to_hub_miles": 46.1
+    },
+    {
+      "county_fips": "13171",
+      "county_name": "Lamar",
+      "state": "GA",
+      "pop_total": 18676,
+      "pop_65_plus": 3266,
+      "distance_to_hub_miles": 32.5
+    },
+    {
+      "county_fips": "13159",
+      "county_name": "Jasper",
+      "state": "GA",
+      "pop_total": 14882,
+      "pop_65_plus": 2572,
+      "distance_to_hub_miles": 32.4
+    },
+    {
+      "county_fips": "13079",
+      "county_name": "Crawford",
+      "state": "GA",
+      "pop_total": 12156,
+      "pop_65_plus": 2279,
+      "distance_to_hub_miles": 21.7
+    },
+    {
+      "county_fips": "13319",
+      "county_name": "Wilkinson",
+      "state": "GA",
+      "pop_total": 8852,
+      "pop_65_plus": 1760,
+      "distance_to_hub_miles": 28.0
+    },
+    {
+      "county_fips": "13269",
+      "county_name": "Taylor",
+      "state": "GA",
+      "pop_total": 7799,
+      "pop_65_plus": 1629,
+      "distance_to_hub_miles": 40.5
+    }
+  ],
+  "summary": {
+    "total_beds": 1015,
+    "catchment_pop": 952473,
+    "catchment_pop_65_plus": 130313,
+    "catchment_pct_65_plus": 0.1368,
+    "max_catchment_radius_miles": 63.0,
+    "avg_catchment_distance_miles": 42.4,
+    "num_counties": 14,
+    "hospital_employment": 5826,
+    "msa_total_employment": 87519,
+    "hospital_emp_share": 0.0616,
+    "avg_govt_payer_share": 0.6525
+  }
+}

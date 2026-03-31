@@ -1,0 +1,131 @@
+{
+  "cbsa_code": "37900",
+  "cbsa_name": "Peoria, IL",
+  "mdi": 0.5085,
+  "bbox": [
+    -91.12,
+    39.42,
+    -87.76,
+    41.71
+  ],
+  "hospitals": [
+    {
+      "facility_id": "140067",
+      "name": "SAINT FRANCIS MEDICAL CENTER",
+      "beds": 730,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.7021,
+      "lon": -89.5911,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "140209",
+      "name": "CARLE HEALTH METHODIST HOSPITAL",
+      "beds": 485,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.6999,
+      "lon": -89.5952,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "140120",
+      "name": "CARLE HEALTH PEKIN HOSPITAL",
+      "beds": 132,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.5436,
+      "lon": -89.6206,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "141330",
+      "name": "HOPEDALE HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.4161,
+      "lon": -89.4353,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "141309",
+      "name": "CARLE EUREKA  HOSPITAL",
+      "beds": 18,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.7087,
+      "lon": -89.2649,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "17143",
+      "county_name": "Peoria",
+      "state": "IL",
+      "pop_total": 181186,
+      "pop_65_plus": 32044,
+      "distance_to_hub_miles": 11.5
+    },
+    {
+      "county_fips": "17113",
+      "county_name": "McLean",
+      "state": "IL",
+      "pop_total": 171284,
+      "pop_65_plus": 23884,
+      "distance_to_hub_miles": 41.2
+    },
+    {
+      "county_fips": "17179",
+      "county_name": "Tazewell",
+      "state": "IL",
+      "pop_total": 131276,
+      "pop_65_plus": 25399,
+      "distance_to_hub_miles": 12.7
+    },
+    {
+      "county_fips": "17203",
+      "county_name": "Woodford",
+      "state": "IL",
+      "pop_total": 38414,
+      "pop_65_plus": 7074,
+      "distance_to_hub_miles": 21.3
+    },
+    {
+      "county_fips": "17123",
+      "county_name": "Marshall",
+      "state": "IL",
+      "pop_total": 11740,
+      "pop_65_plus": 2758,
+      "distance_to_hub_miles": 27.6
+    },
+    {
+      "county_fips": "17175",
+      "county_name": "Stark",
+      "state": "IL",
+      "pop_total": 5395,
+      "pop_65_plus": 1225,
+      "distance_to_hub_miles": 30.4
+    }
+  ],
+  "summary": {
+    "total_beds": 1390,
+    "catchment_pop": 539295,
+    "catchment_pop_65_plus": 92384,
+    "catchment_pct_65_plus": 0.1713,
+    "max_catchment_radius_miles": 41.2,
+    "avg_catchment_distance_miles": 22.5,
+    "num_counties": 6,
+    "hospital_employment": 11029,
+    "msa_total_employment": 161053,
+    "hospital_emp_share": 0.0667,
+    "avg_govt_payer_share": 0.6531
+  }
+}

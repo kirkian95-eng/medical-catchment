@@ -1,0 +1,120 @@
+{
+  "cbsa_code": "13980",
+  "cbsa_name": "Blacksburg-Christiansburg-Radford, VA",
+  "mdi": 0.2784,
+  "bbox": [
+    -82.32,
+    36.06,
+    -78.92,
+    38.26
+  ],
+  "hospitals": [
+    {
+      "facility_id": "490116",
+      "name": "LEWISGALE HOSPITAL PULASKI",
+      "beds": 147,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 37.065,
+      "lon": -80.8183,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "490042",
+      "name": "CARILION NEW RIVER VALLEY MEDICAL CENTER",
+      "beds": 146,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.0892,
+      "lon": -80.5073,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "490110",
+      "name": "LEWISGALE HOSPITAL MONTGOMERY",
+      "beds": 146,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 37.2605,
+      "lon": -80.4167,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "491302",
+      "name": "CARILION GILES COMMUNITY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.2479,
+      "lon": -80.7776,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "51121",
+      "county_name": "Montgomery",
+      "state": "VA",
+      "pop_total": 99373,
+      "pop_65_plus": 13136,
+      "distance_to_hub_miles": 11.5
+    },
+    {
+      "county_fips": "51155",
+      "county_name": "Pulaski",
+      "state": "VA",
+      "pop_total": 33841,
+      "pop_65_plus": 7631,
+      "distance_to_hub_miles": 8.7
+    },
+    {
+      "county_fips": "51071",
+      "county_name": "Giles",
+      "state": "VA",
+      "pop_total": 16711,
+      "pop_65_plus": 3623,
+      "distance_to_hub_miles": 13.3
+    },
+    {
+      "county_fips": "51750",
+      "county_name": "Radford",
+      "state": "VA",
+      "pop_total": 16379,
+      "pop_65_plus": 1528,
+      "distance_to_hub_miles": 2.4
+    },
+    {
+      "county_fips": "51063",
+      "county_name": "Floyd",
+      "state": "VA",
+      "pop_total": 15532,
+      "pop_65_plus": 3766,
+      "distance_to_hub_miles": 19.4
+    },
+    {
+      "county_fips": "54063",
+      "county_name": "Monroe",
+      "state": "WV",
+      "pop_total": 12438,
+      "pop_65_plus": 3054,
+      "distance_to_hub_miles": 28.9
+    }
+  ],
+  "summary": {
+    "total_beds": 464,
+    "catchment_pop": 194274,
+    "catchment_pop_65_plus": 32738,
+    "catchment_pct_65_plus": 0.1685,
+    "max_catchment_radius_miles": 28.9,
+    "avg_catchment_distance_miles": 12.1,
+    "num_counties": 6,
+    "hospital_employment": 0,
+    "msa_total_employment": 64168,
+    "hospital_emp_share": 0.0373,
+    "avg_govt_payer_share": 0.6554
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "40820",
+  "cbsa_name": "Ruston, LA",
+  "mdi": 0.1871,
+  "bbox": [
+    -94.13,
+    31.52,
+    -91.13,
+    33.52
+  ],
+  "hospitals": [
+    {
+      "facility_id": "190086",
+      "name": "NORTHERN LOUISIANA MEDICAL CENTER",
+      "beds": 65,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.5157,
+      "lon": -92.6328,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "22061",
+      "county_name": "Lincoln",
+      "state": "LA",
+      "pop_total": 48323,
+      "pop_65_plus": 6664,
+      "distance_to_hub_miles": 6.2
+    },
+    {
+      "county_fips": "22049",
+      "county_name": "Jackson",
+      "state": "LA",
+      "pop_total": 15093,
+      "pop_65_plus": 3099,
+      "distance_to_hub_miles": 15.3
+    }
+  ],
+  "summary": {
+    "total_beds": 65,
+    "catchment_pop": 63416,
+    "catchment_pop_65_plus": 9763,
+    "catchment_pct_65_plus": 0.154,
+    "max_catchment_radius_miles": 15.3,
+    "avg_catchment_distance_miles": 8.4,
+    "num_counties": 2,
+    "hospital_employment": 585,
+    "msa_total_employment": 18501,
+    "hospital_emp_share": 0.0316,
+    "avg_govt_payer_share": 0.65
+  }
+}

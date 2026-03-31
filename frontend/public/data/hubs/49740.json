@@ -1,0 +1,58 @@
+{
+  "cbsa_code": "49740",
+  "cbsa_name": "Yuma, AZ",
+  "mdi": 0.2057,
+  "bbox": [
+    -116.13,
+    31.68,
+    -112.61,
+    34.02
+  ],
+  "hospitals": [
+    {
+      "facility_id": "030013",
+      "name": "YUMA REGIONAL MEDICAL CENTER",
+      "beds": 369,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.6833,
+      "lon": -114.6333,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "030154",
+      "name": "EXCEPTIONAL COMMUNITY HOSPITAL YUMA",
+      "beds": 9,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.0176,
+      "lon": -114.1105,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "04027",
+      "county_name": "Yuma",
+      "state": "AZ",
+      "pop_total": 204374,
+      "pop_65_plus": 40225,
+      "distance_to_hub_miles": 42.7
+    }
+  ],
+  "summary": {
+    "total_beds": 378,
+    "catchment_pop": 204374,
+    "catchment_pop_65_plus": 40225,
+    "catchment_pct_65_plus": 0.1968,
+    "max_catchment_radius_miles": 42.7,
+    "avg_catchment_distance_miles": 42.7,
+    "num_counties": 1,
+    "hospital_employment": 23,
+    "msa_total_employment": 71370,
+    "hospital_emp_share": 0.0305,
+    "avg_govt_payer_share": 0.65
+  }
+}

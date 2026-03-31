@@ -1,0 +1,74 @@
+{
+  "cbsa_code": "10220",
+  "cbsa_name": "Ada, OK",
+  "mdi": 0.3525,
+  "bbox": [
+    -98.19,
+    33.78,
+    -95.13,
+    35.78
+  ],
+  "hospitals": [
+    {
+      "facility_id": "370020",
+      "name": "MERCY HOSPITAL ADA",
+      "beds": 159,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.7774,
+      "lon": -96.6346,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "370180",
+      "name": "CHICKASAW NATION MEDICAL CENTER",
+      "beds": 48,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 34.7799,
+      "lon": -96.6925,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "40123",
+      "county_name": "Pontotoc",
+      "state": "OK",
+      "pop_total": 38116,
+      "pop_65_plus": 6436,
+      "distance_to_hub_miles": 4.0
+    },
+    {
+      "county_fips": "40063",
+      "county_name": "Hughes",
+      "state": "OK",
+      "pop_total": 13409,
+      "pop_65_plus": 2539,
+      "distance_to_hub_miles": 29.3
+    },
+    {
+      "county_fips": "40029",
+      "county_name": "Coal",
+      "state": "OK",
+      "pop_total": 5287,
+      "pop_65_plus": 1096,
+      "distance_to_hub_miles": 23.8
+    }
+  ],
+  "summary": {
+    "total_beds": 207,
+    "catchment_pop": 56812,
+    "catchment_pop_65_plus": 10071,
+    "catchment_pct_65_plus": 0.1773,
+    "max_catchment_radius_miles": 29.3,
+    "avg_catchment_distance_miles": 11.8,
+    "num_counties": 3,
+    "hospital_employment": 1029,
+    "msa_total_employment": 19594,
+    "hospital_emp_share": 0.0525,
+    "avg_govt_payer_share": 0.65
+  }
+}

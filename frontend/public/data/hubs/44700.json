@@ -1,0 +1,129 @@
+{
+  "cbsa_code": "44700",
+  "cbsa_name": "Stockton-Lodi, CA",
+  "mdi": 0.1798,
+  "bbox": [
+    -122.93,
+    36.74,
+    -119.7,
+    39.12
+  ],
+  "hospitals": [
+    {
+      "facility_id": "050084",
+      "name": "ST JOSEPH'S MEDICAL CENTER OF STOCKTON",
+      "beds": 335,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.9737,
+      "lon": -121.3192,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "050748",
+      "name": "KAISER FOUNDATION HOSPITAL MANTECA",
+      "beds": 251,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.7974,
+      "lon": -121.2449,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "050122",
+      "name": "DAMERON HOSPITAL",
+      "beds": 211,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 37.9543,
+      "lon": -121.3293,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "050336",
+      "name": "ADVENTIST HEALTH LODI MEMORIAL",
+      "beds": 190,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 38.1219,
+      "lon": -121.2866,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "050167",
+      "name": "SAN JOAQUIN GENERAL HOSPITAL",
+      "beds": 152,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 37.8866,
+      "lon": -121.2831,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "050313",
+      "name": "SUTTER TRACY COMMUNITY HOSPITAL",
+      "beds": 82,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.7439,
+      "lon": -121.434,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "050118",
+      "name": "DOCTORS HOSPITAL OF MANTECA",
+      "beds": 73,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 37.8303,
+      "lon": -121.201,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "06067",
+      "county_name": "Sacramento",
+      "state": "CA",
+      "pop_total": 1579211,
+      "pop_65_plus": 230399,
+      "distance_to_hub_miles": 36.3
+    },
+    {
+      "county_fips": "06077",
+      "county_name": "San Joaquin",
+      "state": "CA",
+      "pop_total": 779445,
+      "pop_65_plus": 101414,
+      "distance_to_hub_miles": 1.6
+    },
+    {
+      "county_fips": "06005",
+      "county_name": "Amador",
+      "state": "CA",
+      "pop_total": 40577,
+      "pop_65_plus": 10925,
+      "distance_to_hub_miles": 50.3
+    }
+  ],
+  "summary": {
+    "total_beds": 1294,
+    "catchment_pop": 2399233,
+    "catchment_pop_65_plus": 342738,
+    "catchment_pct_65_plus": 0.1429,
+    "max_catchment_radius_miles": 50.3,
+    "avg_catchment_distance_miles": 25.3,
+    "num_counties": 3,
+    "hospital_employment": 7236,
+    "msa_total_employment": 282753,
+    "hospital_emp_share": 0.0256,
+    "avg_govt_payer_share": 0.65
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "cbsa_code": "19980",
+  "cbsa_name": "Dodge City, KS",
+  "mdi": 0.3154,
+  "bbox": [
+    -101.53,
+    36.23,
+    -98.46,
+    38.99
+  ],
+  "hospitals": [
+    {
+      "facility_id": "170175",
+      "name": "CENTURA ST. CATHERINE-DODGE CITY",
+      "beds": 99,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 37.7863,
+      "lon": -100.015,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "171368",
+      "name": "MINNEOLA DISTRICT HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 37.4355,
+      "lon": -99.9684,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "20057",
+      "county_name": "Ford",
+      "state": "KS",
+      "pop_total": 34212,
+      "pop_65_plus": 3890,
+      "distance_to_hub_miles": 6.5
+    },
+    {
+      "county_fips": "20145",
+      "county_name": "Pawnee",
+      "state": "KS",
+      "pop_total": 6288,
+      "pop_65_plus": 1379,
+      "distance_to_hub_miles": 52.8
+    },
+    {
+      "county_fips": "20069",
+      "county_name": "Gray",
+      "state": "KS",
+      "pop_total": 5719,
+      "pop_65_plus": 865,
+      "distance_to_hub_miles": 23.7
+    },
+    {
+      "county_fips": "40007",
+      "county_name": "Beaver",
+      "state": "OK",
+      "pop_total": 5071,
+      "pop_65_plus": 949,
+      "distance_to_hub_miles": 71.6
+    },
+    {
+      "county_fips": "20119",
+      "county_name": "Meade",
+      "state": "KS",
+      "pop_total": 4019,
+      "pop_65_plus": 652,
+      "distance_to_hub_miles": 38.4
+    },
+    {
+      "county_fips": "40059",
+      "county_name": "Harper",
+      "state": "OK",
+      "pop_total": 3272,
+      "pop_65_plus": 615,
+      "distance_to_hub_miles": 66.7
+    },
+    {
+      "county_fips": "20165",
+      "county_name": "Rush",
+      "state": "KS",
+      "pop_total": 2939,
+      "pop_65_plus": 714,
+      "distance_to_hub_miles": 67.4
+    },
+    {
+      "county_fips": "20047",
+      "county_name": "Edwards",
+      "state": "KS",
+      "pop_total": 2849,
+      "pop_65_plus": 624,
+      "distance_to_hub_miles": 39.7
+    },
+    {
+      "county_fips": "20195",
+      "county_name": "Trego",
+      "state": "KS",
+      "pop_total": 2798,
+      "pop_65_plus": 773,
+      "distance_to_hub_miles": 83.2
+    },
+    {
+      "county_fips": "20135",
+      "county_name": "Ness",
+      "state": "KS",
+      "pop_total": 2677,
+      "pop_65_plus": 624,
+      "distance_to_hub_miles": 53.0
+    },
+    {
+      "county_fips": "20097",
+      "county_name": "Kiowa",
+      "state": "KS",
+      "pop_total": 2445,
+      "pop_65_plus": 554,
+      "distance_to_hub_miles": 40.9
+    },
+    {
+      "county_fips": "20025",
+      "county_name": "Clark",
+      "state": "KS",
+      "pop_total": 1977,
+      "pop_65_plus": 460,
+      "distance_to_hub_miles": 34.7
+    },
+    {
+      "county_fips": "20033",
+      "county_name": "Comanche",
+      "state": "KS",
+      "pop_total": 1825,
+      "pop_65_plus": 488,
+      "distance_to_hub_miles": 54.2
+    },
+    {
+      "county_fips": "20083",
+      "county_name": "Hodgeman",
+      "state": "KS",
+      "pop_total": 1770,
+      "pop_65_plus": 404,
+      "distance_to_hub_miles": 26.4
+    }
+  ],
+  "summary": {
+    "total_beds": 124,
+    "catchment_pop": 77861,
+    "catchment_pop_65_plus": 12991,
+    "catchment_pct_65_plus": 0.1668,
+    "max_catchment_radius_miles": 83.2,
+    "avg_catchment_distance_miles": 31.2,
+    "num_counties": 14,
+    "hospital_employment": 0,
+    "msa_total_employment": 17780,
+    "hospital_emp_share": 0.0366,
+    "avg_govt_payer_share": 0.6702
+  }
+}

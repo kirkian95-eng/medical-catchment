@@ -1,0 +1,47 @@
+{
+  "cbsa_code": "47700",
+  "cbsa_name": "Warsaw, IN",
+  "mdi": 0.1352,
+  "bbox": [
+    -87.33,
+    40.25,
+    -84.33,
+    42.25
+  ],
+  "hospitals": [
+    {
+      "facility_id": "150133",
+      "name": "KOSCIUSKO COMMUNITY HOSPITAL",
+      "beds": 72,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.2465,
+      "lon": -85.8256,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "18085",
+      "county_name": "Kosciusko",
+      "state": "IN",
+      "pop_total": 80442,
+      "pop_65_plus": 13965,
+      "distance_to_hub_miles": 1.8
+    }
+  ],
+  "summary": {
+    "total_beds": 72,
+    "catchment_pop": 80442,
+    "catchment_pop_65_plus": 13965,
+    "catchment_pct_65_plus": 0.1736,
+    "max_catchment_radius_miles": 1.8,
+    "avg_catchment_distance_miles": 1.8,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 37174,
+    "hospital_emp_share": 0.0236,
+    "avg_govt_payer_share": 0.65
+  }
+}

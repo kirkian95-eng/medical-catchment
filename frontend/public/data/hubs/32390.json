@@ -1,0 +1,69 @@
+{
+  "cbsa_code": "32390",
+  "cbsa_name": "Massena-Ogdensburg, NY",
+  "mdi": 0.6191,
+  "bbox": [
+    -76.97,
+    43.33,
+    -73.39,
+    45.94
+  ],
+  "hospitals": [
+    {
+      "facility_id": "330197",
+      "name": "CANTON-POTSDAM HOSPITAL",
+      "beds": 94,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.6761,
+      "lon": -74.9816,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "331315",
+      "name": "GOUVERNEUR HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.3267,
+      "lon": -75.4676,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "331322",
+      "name": "SLHS MASSENA, INC",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.9373,
+      "lon": -74.8942,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36089",
+      "county_name": "St. Lawrence",
+      "state": "NY",
+      "pop_total": 108670,
+      "pop_65_plus": 19575,
+      "distance_to_hub_miles": 11.4
+    }
+  ],
+  "summary": {
+    "total_beds": 144,
+    "catchment_pop": 108670,
+    "catchment_pop_65_plus": 19575,
+    "catchment_pct_65_plus": 0.1801,
+    "max_catchment_radius_miles": 11.4,
+    "avg_catchment_distance_miles": 11.4,
+    "num_counties": 1,
+    "hospital_employment": 2154,
+    "msa_total_employment": 34614,
+    "hospital_emp_share": 0.0622,
+    "avg_govt_payer_share": 0.6847
+  }
+}

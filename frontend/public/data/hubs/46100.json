@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "46100",
+  "cbsa_name": "Tullahoma-Manchester, TN",
+  "mdi": 0.2241,
+  "bbox": [
+    -87.73,
+    34.38,
+    -84.58,
+    36.51
+  ],
+  "hospitals": [
+    {
+      "facility_id": "440144",
+      "name": "VANDERBILT TULLAHOMA-HARTON HOSPITAL",
+      "beds": 135,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 35.3835,
+      "lon": -86.2312,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "440007",
+      "name": "UNITY MEDICAL CENTER",
+      "beds": 49,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.5093,
+      "lon": -86.0793,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "47031",
+      "county_name": "Coffee",
+      "state": "TN",
+      "pop_total": 58080,
+      "pop_65_plus": 10117,
+      "distance_to_hub_miles": 8.3
+    },
+    {
+      "county_fips": "47127",
+      "county_name": "Moore",
+      "state": "TN",
+      "pop_total": 6558,
+      "pop_65_plus": 1393,
+      "distance_to_hub_miles": 13.2
+    }
+  ],
+  "summary": {
+    "total_beds": 184,
+    "catchment_pop": 64638,
+    "catchment_pop_65_plus": 11510,
+    "catchment_pct_65_plus": 0.1781,
+    "max_catchment_radius_miles": 13.2,
+    "avg_catchment_distance_miles": 8.8,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 26677,
+    "hospital_emp_share": 0.0339,
+    "avg_govt_payer_share": 0.65
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "cbsa_code": "35380",
+  "cbsa_name": "New Orleans-Metairie, LA",
+  "mdi": 0.429,
+  "bbox": [
+    -92.2,
+    28.83,
+    -88.46,
+    31.05
+  ],
+  "hospitals": [
+    {
+      "facility_id": "190036",
+      "name": "OCHSNER MEDICAL CENTER ACUTE",
+      "beds": 959,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 29.962,
+      "lon": -90.1472,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190176",
+      "name": "EAST JEFFERSON GENERAL HOSPITAL",
+      "beds": 665,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.0144,
+      "lon": -90.1815,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190005",
+      "name": "UNIVERSITY MEDICAL CENTER NEW ORLEANS",
+      "beds": 446,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 29.9561,
+      "lon": -90.0773,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190046",
+      "name": "TOURO INFIRMARY",
+      "beds": 341,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 29.9255,
+      "lon": -90.0928,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190039",
+      "name": "WEST JEFFERSON MEDICAL CENTER",
+      "beds": 318,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 29.8939,
+      "lon": -90.096,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190274",
+      "name": "OCHSNER MEDICAL CENTER-KENNER",
+      "beds": 110,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.0237,
+      "lon": -90.2784,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190079",
+      "name": "ST CHARLES PARISH HOSPITAL",
+      "beds": 57,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 29.8298,
+      "lon": -90.3106,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190313",
+      "name": "NEW ORLEANS EAST HOSPITAL",
+      "beds": 50,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 30.0284,
+      "lon": -89.9742,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190308",
+      "name": "ST BERNARD PARISH HOSPITAL",
+      "beds": 40,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 29.9562,
+      "lon": -89.9644,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190300",
+      "name": "ST CHARLES SURGICAL HOSPITAL",
+      "beds": 39,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 29.9364,
+      "lon": -90.0699,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "191305",
+      "name": "ST JAMES PARISH HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 30.0519,
+      "lon": -90.7033,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190302",
+      "name": "OMEGA HOSPITAL, LLC",
+      "beds": 16,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 30.0102,
+      "lon": -90.1626,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "22051",
+      "county_name": "Jefferson",
+      "state": "LA",
+      "pop_total": 436171,
+      "pop_65_plus": 77781,
+      "distance_to_hub_miles": 20.0
+    },
+    {
+      "county_fips": "22071",
+      "county_name": "Orleans",
+      "state": "LA",
+      "pop_total": 380408,
+      "pop_65_plus": 60419,
+      "distance_to_hub_miles": 14.6
+    },
+    {
+      "county_fips": "22089",
+      "county_name": "St. Charles",
+      "state": "LA",
+      "pop_total": 52191,
+      "pop_65_plus": 7513,
+      "distance_to_hub_miles": 13.6
+    },
+    {
+      "county_fips": "22095",
+      "county_name": "St. John the Baptist",
+      "state": "LA",
+      "pop_total": 41986,
+      "pop_65_plus": 6185,
+      "distance_to_hub_miles": 22.9
+    },
+    {
+      "county_fips": "22075",
+      "county_name": "Plaquemines",
+      "state": "LA",
+      "pop_total": 23305,
+      "pop_65_plus": 3111,
+      "distance_to_hub_miles": 56.3
+    }
+  ],
+  "summary": {
+    "total_beds": 3066,
+    "catchment_pop": 934061,
+    "catchment_pop_65_plus": 155009,
+    "catchment_pct_65_plus": 0.166,
+    "max_catchment_radius_miles": 56.3,
+    "avg_catchment_distance_miles": 18.5,
+    "num_counties": 5,
+    "hospital_employment": 25024,
+    "msa_total_employment": 414152,
+    "hospital_emp_share": 0.0571,
+    "avg_govt_payer_share": 0.6508
+  }
+}

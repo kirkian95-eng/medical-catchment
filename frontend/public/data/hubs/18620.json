@@ -1,0 +1,87 @@
+{
+  "cbsa_code": "18620",
+  "cbsa_name": "Corsicana, TX",
+  "mdi": 0.4041,
+  "bbox": [
+    -98.0,
+    31.09,
+    -95.0,
+    33.09
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450447",
+      "name": "NAVARRO REGIONAL HOSPITAL",
+      "beds": 162,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.085,
+      "lon": -96.5038,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48113",
+      "county_name": "Dallas",
+      "state": "TX",
+      "pop_total": 2604053,
+      "pop_65_plus": 290461,
+      "distance_to_hub_miles": 49.7
+    },
+    {
+      "county_fips": "48139",
+      "county_name": "Ellis",
+      "state": "TX",
+      "pop_total": 195509,
+      "pop_65_plus": 25194,
+      "distance_to_hub_miles": 24.9
+    },
+    {
+      "county_fips": "48257",
+      "county_name": "Kaufman",
+      "state": "TX",
+      "pop_total": 149773,
+      "pop_65_plus": 16788,
+      "distance_to_hub_miles": 37.7
+    },
+    {
+      "county_fips": "48349",
+      "county_name": "Navarro",
+      "state": "TX",
+      "pop_total": 52834,
+      "pop_65_plus": 8795,
+      "distance_to_hub_miles": 3.2
+    },
+    {
+      "county_fips": "48217",
+      "county_name": "Hill",
+      "state": "TX",
+      "pop_total": 36138,
+      "pop_65_plus": 7403,
+      "distance_to_hub_miles": 37.4
+    },
+    {
+      "county_fips": "48293",
+      "county_name": "Limestone",
+      "state": "TX",
+      "pop_total": 22222,
+      "pop_65_plus": 4576,
+      "distance_to_hub_miles": 37.6
+    }
+  ],
+  "summary": {
+    "total_beds": 162,
+    "catchment_pop": 3060529,
+    "catchment_pop_65_plus": 353217,
+    "catchment_pct_65_plus": 0.1154,
+    "max_catchment_radius_miles": 49.7,
+    "avg_catchment_distance_miles": 46.5,
+    "num_counties": 6,
+    "hospital_employment": 0,
+    "msa_total_employment": 16657,
+    "hospital_emp_share": 0.0518,
+    "avg_govt_payer_share": 0.65
+  }
+}

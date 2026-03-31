@@ -1,0 +1,93 @@
+{
+  "cbsa_code": "40780",
+  "cbsa_name": "Russellville, AR",
+  "mdi": 0.3135,
+  "bbox": [
+    -95.0,
+    34.01,
+    -91.65,
+    36.28
+  ],
+  "hospitals": [
+    {
+      "facility_id": "040041",
+      "name": "ST MARYS REGIONAL MEDICAL CENTER",
+      "beds": 170,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.2831,
+      "lon": -93.1503,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "040011",
+      "name": "CHAMBERS MEMORIAL HOSPITAL",
+      "beds": 42,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.0149,
+      "lon": -93.5012,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "041302",
+      "name": "DARDANELLE REGIONAL MEDICAL CENTER",
+      "beds": 35,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 35.1707,
+      "lon": -93.2015,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "05115",
+      "county_name": "Pope",
+      "state": "AR",
+      "pop_total": 63475,
+      "pop_65_plus": 10106,
+      "distance_to_hub_miles": 18.8
+    },
+    {
+      "county_fips": "05071",
+      "county_name": "Johnson",
+      "state": "AR",
+      "pop_total": 25925,
+      "pop_65_plus": 4326,
+      "distance_to_hub_miles": 27.7
+    },
+    {
+      "county_fips": "05083",
+      "county_name": "Logan",
+      "state": "AR",
+      "pop_total": 21247,
+      "pop_65_plus": 4256,
+      "distance_to_hub_miles": 28.2
+    },
+    {
+      "county_fips": "05149",
+      "county_name": "Yell",
+      "state": "AR",
+      "pop_total": 20342,
+      "pop_65_plus": 3566,
+      "distance_to_hub_miles": 18.7
+    }
+  ],
+  "summary": {
+    "total_beds": 247,
+    "catchment_pop": 130989,
+    "catchment_pop_65_plus": 22254,
+    "catchment_pct_65_plus": 0.1699,
+    "max_catchment_radius_miles": 28.2,
+    "avg_catchment_distance_miles": 22.1,
+    "num_counties": 4,
+    "hospital_employment": 225,
+    "msa_total_employment": 33336,
+    "hospital_emp_share": 0.0407,
+    "avg_govt_payer_share": 0.6642
+  }
+}

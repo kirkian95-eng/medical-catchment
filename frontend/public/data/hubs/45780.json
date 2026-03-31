@@ -1,0 +1,126 @@
+{
+  "cbsa_code": "45780",
+  "cbsa_name": "Toledo, OH",
+  "mdi": 0.3329,
+  "bbox": [
+    -85.66,
+    40.37,
+    -81.98,
+    42.67
+  ],
+  "hospitals": [
+    {
+      "facility_id": "360068",
+      "name": "PROMEDICA TOLEDO HOSPITAL",
+      "beds": 794,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.6714,
+      "lon": -83.5943,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "360112",
+      "name": "MERCY ST VINCENT MEDICAL CENTER",
+      "beds": 568,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 41.6688,
+      "lon": -83.5421,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "360048",
+      "name": "UNIVERSITY OF TOLEDO MEDICAL CENTER",
+      "beds": 319,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 41.6045,
+      "lon": -83.6275,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "360029",
+      "name": "WOOD COUNTY HOSPITAL",
+      "beds": 168,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.3733,
+      "lon": -83.6682,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "360259",
+      "name": "BAY PARK COMMUNITY HOSPITAL",
+      "beds": 92,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 41.6209,
+      "lon": -83.4835,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "361333",
+      "name": "FULTON COUNTY HEALTH CENTER",
+      "beds": 35,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.5803,
+      "lon": -84.1611,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "39095",
+      "county_name": "Lucas",
+      "state": "OH",
+      "pop_total": 430014,
+      "pop_65_plus": 71845,
+      "distance_to_hub_miles": 7.6
+    },
+    {
+      "county_fips": "39173",
+      "county_name": "Wood",
+      "state": "OH",
+      "pop_total": 131564,
+      "pop_65_plus": 20867,
+      "distance_to_hub_miles": 18.7
+    },
+    {
+      "county_fips": "39051",
+      "county_name": "Fulton",
+      "state": "OH",
+      "pop_total": 42602,
+      "pop_65_plus": 7881,
+      "distance_to_hub_miles": 27.7
+    },
+    {
+      "county_fips": "39069",
+      "county_name": "Henry",
+      "state": "OH",
+      "pop_total": 27601,
+      "pop_65_plus": 5248,
+      "distance_to_hub_miles": 31.9
+    }
+  ],
+  "summary": {
+    "total_beds": 1976,
+    "catchment_pop": 631781,
+    "catchment_pop_65_plus": 105841,
+    "catchment_pct_65_plus": 0.1675,
+    "max_catchment_radius_miles": 31.9,
+    "avg_catchment_distance_miles": 12.3,
+    "num_counties": 4,
+    "hospital_employment": 14144,
+    "msa_total_employment": 289274,
+    "hospital_emp_share": 0.0489,
+    "avg_govt_payer_share": 0.6518
+  }
+}

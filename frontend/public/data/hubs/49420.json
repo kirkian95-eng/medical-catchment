@@ -1,0 +1,85 @@
+{
+  "cbsa_code": "49420",
+  "cbsa_name": "Yakima, WA",
+  "mdi": 0.2391,
+  "bbox": [
+    -122.05,
+    45.11,
+    -118.17,
+    47.72
+  ],
+  "hospitals": [
+    {
+      "facility_id": "500036",
+      "name": "YAKIMA VALLEY MEMORIAL",
+      "beds": 218,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 46.5926,
+      "lon": -120.5469,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "500037",
+      "name": "ASTRIA TOPPENISH HOSPITAL",
+      "beds": 63,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 46.2378,
+      "lon": -120.3688,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "501330",
+      "name": "ASTRIA SUNNYSIDE HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 46.507,
+      "lon": -119.672,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "53077",
+      "county_name": "Yakima",
+      "state": "WA",
+      "pop_total": 256143,
+      "pop_65_plus": 35878,
+      "distance_to_hub_miles": 14.7
+    },
+    {
+      "county_fips": "53039",
+      "county_name": "Klickitat",
+      "state": "WA",
+      "pop_total": 22798,
+      "pop_65_plus": 5558,
+      "distance_to_hub_miles": 47.2
+    },
+    {
+      "county_fips": "41055",
+      "county_name": "Sherman",
+      "state": "OR",
+      "pop_total": 1900,
+      "pop_65_plus": 441,
+      "distance_to_hub_miles": 77.5
+    }
+  ],
+  "summary": {
+    "total_beds": 306,
+    "catchment_pop": 280841,
+    "catchment_pop_65_plus": 41877,
+    "catchment_pct_65_plus": 0.1491,
+    "max_catchment_radius_miles": 77.5,
+    "avg_catchment_distance_miles": 17.8,
+    "num_counties": 3,
+    "hospital_employment": 3283,
+    "msa_total_employment": 116050,
+    "hospital_emp_share": 0.0283,
+    "avg_govt_payer_share": 0.6582
+  }
+}

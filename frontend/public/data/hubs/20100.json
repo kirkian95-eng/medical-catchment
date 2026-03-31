@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "20100",
+  "cbsa_name": "Dover, DE",
+  "mdi": 0.3071,
+  "bbox": [
+    -77.02,
+    38.15,
+    -74.02,
+    40.15
+  ],
+  "hospitals": [
+    {
+      "facility_id": "080004",
+      "name": "BAYHEALTH MEDICAL CENTER, KENT CAMPUS",
+      "beds": 304,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.1507,
+      "lon": -75.5224,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "10003",
+      "county_name": "New Castle",
+      "state": "DE",
+      "pop_total": 570567,
+      "pop_65_plus": 92683,
+      "distance_to_hub_miles": 30.1
+    },
+    {
+      "county_fips": "10001",
+      "county_name": "Kent",
+      "state": "DE",
+      "pop_total": 182400,
+      "pop_65_plus": 32138,
+      "distance_to_hub_miles": 3.9
+    },
+    {
+      "county_fips": "24029",
+      "county_name": "Kent",
+      "state": "MD",
+      "pop_total": 19289,
+      "pop_65_plus": 5169,
+      "distance_to_hub_miles": 31.2
+    }
+  ],
+  "summary": {
+    "total_beds": 304,
+    "catchment_pop": 772256,
+    "catchment_pop_65_plus": 129990,
+    "catchment_pct_65_plus": 0.1683,
+    "max_catchment_radius_miles": 31.2,
+    "avg_catchment_distance_miles": 23.9,
+    "num_counties": 3,
+    "hospital_employment": 88,
+    "msa_total_employment": 70304,
+    "hospital_emp_share": 0.038,
+    "avg_govt_payer_share": 0.65
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "cbsa_code": "32100",
+  "cbsa_name": "Marquette, MI",
+  "mdi": 0.5534,
+  "bbox": [
+    -89.18,
+    45.49,
+    -85.91,
+    47.54
+  ],
+  "hospitals": [
+    {
+      "facility_id": "230054",
+      "name": "UPHS MARQUETTE DLP HOSPITAL",
+      "beds": 289,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 46.5431,
+      "lon": -87.4106,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "231321",
+      "name": "BELL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Proprietary",
+      "lat": 46.4934,
+      "lon": -87.6768,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "26103",
+      "county_name": "Marquette",
+      "state": "MI",
+      "pop_total": 66376,
+      "pop_65_plus": 13061,
+      "distance_to_hub_miles": 10.9
+    },
+    {
+      "county_fips": "26003",
+      "county_name": "Alger",
+      "state": "MI",
+      "pop_total": 8866,
+      "pop_65_plus": 2218,
+      "distance_to_hub_miles": 49.6
+    },
+    {
+      "county_fips": "26013",
+      "county_name": "Baraga",
+      "state": "MI",
+      "pop_total": 8245,
+      "pop_65_plus": 1892,
+      "distance_to_hub_miles": 45.1
+    },
+    {
+      "county_fips": "26153",
+      "county_name": "Schoolcraft",
+      "state": "MI",
+      "pop_total": 8062,
+      "pop_65_plus": 2214,
+      "distance_to_hub_miles": 69.0
+    }
+  ],
+  "summary": {
+    "total_beds": 314,
+    "catchment_pop": 91549,
+    "catchment_pop_65_plus": 19385,
+    "catchment_pct_65_plus": 0.2117,
+    "max_catchment_radius_miles": 69.0,
+    "avg_catchment_distance_miles": 22.8,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 26221,
+    "hospital_emp_share": 0.0674,
+    "avg_govt_payer_share": 0.658
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "cbsa_code": "24300",
+  "cbsa_name": "Grand Junction, CO",
+  "mdi": 0.6031,
+  "bbox": [
+    -110.38,
+    38.07,
+    -107.05,
+    40.16
+  ],
+  "hospitals": [
+    {
+      "facility_id": "060023",
+      "name": "INTERMOUNTAIN HEALTH ST. MARY'S REGIONAL HOSPITAL",
+      "beds": 346,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 39.0718,
+      "lon": -108.546,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "060054",
+      "name": "COMMUNITY HOSPITAL",
+      "beds": 60,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.1062,
+      "lon": -108.6141,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "061302",
+      "name": "FAMILY HEALTH WEST HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.1566,
+      "lon": -108.8788,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "08077",
+      "county_name": "Mesa",
+      "state": "CO",
+      "pop_total": 156131,
+      "pop_65_plus": 31265,
+      "distance_to_hub_miles": 7.3
+    },
+    {
+      "county_fips": "49019",
+      "county_name": "Grand",
+      "state": "UT",
+      "pop_total": 9680,
+      "pop_65_plus": 1910,
+      "distance_to_hub_miles": 53.9
+    },
+    {
+      "county_fips": "08103",
+      "county_name": "Rio Blanco",
+      "state": "CO",
+      "pop_total": 6511,
+      "pop_65_plus": 1041,
+      "distance_to_hub_miles": 64.9
+    }
+  ],
+  "summary": {
+    "total_beds": 431,
+    "catchment_pop": 172322,
+    "catchment_pop_65_plus": 34216,
+    "catchment_pct_65_plus": 0.1986,
+    "max_catchment_radius_miles": 64.9,
+    "avg_catchment_distance_miles": 12.1,
+    "num_counties": 3,
+    "hospital_employment": 4608,
+    "msa_total_employment": 65495,
+    "hospital_emp_share": 0.0704,
+    "avg_govt_payer_share": 0.6558
+  }
+}

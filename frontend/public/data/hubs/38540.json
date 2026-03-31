@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "38540",
+  "cbsa_name": "Pocatello, ID",
+  "mdi": 0.3536,
+  "bbox": [
+    -113.92,
+    41.87,
+    -110.92,
+    43.87
+  ],
+  "hospitals": [
+    {
+      "facility_id": "130028",
+      "name": "PORTNEUF MEDICAL CENTER",
+      "beds": 187,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.8715,
+      "lon": -112.4183,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "16005",
+      "county_name": "Bannock",
+      "state": "ID",
+      "pop_total": 87434,
+      "pop_65_plus": 12835,
+      "distance_to_hub_miles": 17.1
+    },
+    {
+      "county_fips": "16077",
+      "county_name": "Power",
+      "state": "ID",
+      "pop_total": 7918,
+      "pop_65_plus": 1221,
+      "distance_to_hub_miles": 24.7
+    },
+    {
+      "county_fips": "16029",
+      "county_name": "Caribou",
+      "state": "ID",
+      "pop_total": 7058,
+      "pop_65_plus": 1199,
+      "distance_to_hub_miles": 43.9
+    },
+    {
+      "county_fips": "16071",
+      "county_name": "Oneida",
+      "state": "ID",
+      "pop_total": 4572,
+      "pop_65_plus": 905,
+      "distance_to_hub_miles": 47.2
+    }
+  ],
+  "summary": {
+    "total_beds": 187,
+    "catchment_pop": 106982,
+    "catchment_pop_65_plus": 16160,
+    "catchment_pct_65_plus": 0.1511,
+    "max_catchment_radius_miles": 47.2,
+    "avg_catchment_distance_miles": 20.7,
+    "num_counties": 4,
+    "hospital_employment": 131,
+    "msa_total_employment": 36736,
+    "hospital_emp_share": 0.0474,
+    "avg_govt_payer_share": 0.65
+  }
+}

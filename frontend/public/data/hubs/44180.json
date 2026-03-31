@@ -1,0 +1,157 @@
+{
+  "cbsa_code": "44180",
+  "cbsa_name": "Springfield, MO",
+  "mdi": 0.6109,
+  "bbox": [
+    -94.92,
+    36.14,
+    -91.77,
+    38.63
+  ],
+  "hospitals": [
+    {
+      "facility_id": "260040",
+      "name": "COX MEDICAL CENTERS",
+      "beds": 867,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.1433,
+      "lon": -93.2781,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "260065",
+      "name": "MERCY HOSPITAL SPRINGFIELD",
+      "beds": 866,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.1758,
+      "lon": -93.2717,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "260195",
+      "name": "CITIZENS MEMORIAL HOSPITAL",
+      "beds": 74,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 37.6266,
+      "lon": -93.4208,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "29077",
+      "county_name": "Greene",
+      "state": "MO",
+      "pop_total": 299188,
+      "pop_65_plus": 50162,
+      "distance_to_hub_miles": 6.4
+    },
+    {
+      "county_fips": "29043",
+      "county_name": "Christian",
+      "state": "MO",
+      "pop_total": 89568,
+      "pop_65_plus": 14386,
+      "distance_to_hub_miles": 15.4
+    },
+    {
+      "county_fips": "29225",
+      "county_name": "Webster",
+      "state": "MO",
+      "pop_total": 39265,
+      "pop_65_plus": 6143,
+      "distance_to_hub_miles": 23.4
+    },
+    {
+      "county_fips": "29109",
+      "county_name": "Lawrence",
+      "state": "MO",
+      "pop_total": 38231,
+      "pop_65_plus": 6856,
+      "distance_to_hub_miles": 30.8
+    },
+    {
+      "county_fips": "29167",
+      "county_name": "Polk",
+      "state": "MO",
+      "pop_total": 31877,
+      "pop_65_plus": 5769,
+      "distance_to_hub_miles": 31.0
+    },
+    {
+      "county_fips": "29229",
+      "county_name": "Wright",
+      "state": "MO",
+      "pop_total": 18475,
+      "pop_65_plus": 3682,
+      "distance_to_hub_miles": 45.1
+    },
+    {
+      "county_fips": "29059",
+      "county_name": "Dallas",
+      "state": "MO",
+      "pop_total": 17158,
+      "pop_65_plus": 3541,
+      "distance_to_hub_miles": 37.4
+    },
+    {
+      "county_fips": "29039",
+      "county_name": "Cedar",
+      "state": "MO",
+      "pop_total": 14314,
+      "pop_65_plus": 3355,
+      "distance_to_hub_miles": 49.1
+    },
+    {
+      "county_fips": "29067",
+      "county_name": "Douglas",
+      "state": "MO",
+      "pop_total": 11803,
+      "pop_65_plus": 2936,
+      "distance_to_hub_miles": 46.3
+    },
+    {
+      "county_fips": "29185",
+      "county_name": "St. Clair",
+      "state": "MO",
+      "pop_total": 9330,
+      "pop_65_plus": 2439,
+      "distance_to_hub_miles": 65.2
+    },
+    {
+      "county_fips": "29085",
+      "county_name": "Hickory",
+      "state": "MO",
+      "pop_total": 8452,
+      "pop_65_plus": 2839,
+      "distance_to_hub_miles": 52.8
+    },
+    {
+      "county_fips": "29057",
+      "county_name": "Dade",
+      "state": "MO",
+      "pop_total": 7598,
+      "pop_65_plus": 1862,
+      "distance_to_hub_miles": 35.9
+    }
+  ],
+  "summary": {
+    "total_beds": 1807,
+    "catchment_pop": 585259,
+    "catchment_pop_65_plus": 103970,
+    "catchment_pct_65_plus": 0.1776,
+    "max_catchment_radius_miles": 65.2,
+    "avg_catchment_distance_miles": 17.8,
+    "num_counties": 12,
+    "hospital_employment": 1868,
+    "msa_total_employment": 186288,
+    "hospital_emp_share": 0.0665,
+    "avg_govt_payer_share": 0.65
+  }
+}

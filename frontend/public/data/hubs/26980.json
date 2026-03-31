@@ -1,0 +1,101 @@
+{
+  "cbsa_code": "26980",
+  "cbsa_name": "Iowa City, IA",
+  "mdi": 0.2399,
+  "bbox": [
+    -93.22,
+    40.3,
+    -90.03,
+    42.66
+  ],
+  "hospitals": [
+    {
+      "facility_id": "160058",
+      "name": "UNIVERSITY OF IOWA HOSPITAL & CLINICS",
+      "beds": 1103,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 41.6572,
+      "lon": -91.5498,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "160029",
+      "name": "UNIVERSITY OF IOWA HEALTH CARE MEDICAL CENTER DOWN",
+      "beds": 234,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 41.6636,
+      "lon": -91.5279,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "161344",
+      "name": "WASHINGTON COUNTY HOSPITAL AND CLINICS",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 41.2988,
+      "lon": -91.7156,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "19103",
+      "county_name": "Johnson",
+      "state": "IA",
+      "pop_total": 153360,
+      "pop_65_plus": 19262,
+      "distance_to_hub_miles": 2.4
+    },
+    {
+      "county_fips": "19183",
+      "county_name": "Washington",
+      "state": "IA",
+      "pop_total": 22534,
+      "pop_65_plus": 4417,
+      "distance_to_hub_miles": 23.5
+    },
+    {
+      "county_fips": "19157",
+      "county_name": "Poweshiek",
+      "state": "IA",
+      "pop_total": 18608,
+      "pop_65_plus": 3859,
+      "distance_to_hub_miles": 50.7
+    },
+    {
+      "county_fips": "19031",
+      "county_name": "Cedar",
+      "state": "IA",
+      "pop_total": 18479,
+      "pop_65_plus": 3703,
+      "distance_to_hub_miles": 23.0
+    },
+    {
+      "county_fips": "19095",
+      "county_name": "Iowa",
+      "state": "IA",
+      "pop_total": 16575,
+      "pop_65_plus": 3168,
+      "distance_to_hub_miles": 26.7
+    }
+  ],
+  "summary": {
+    "total_beds": 1362,
+    "catchment_pop": 229556,
+    "catchment_pop_65_plus": 34409,
+    "catchment_pct_65_plus": 0.1499,
+    "max_catchment_radius_miles": 50.7,
+    "avg_catchment_distance_miles": 11.8,
+    "num_counties": 5,
+    "hospital_employment": 2875,
+    "msa_total_employment": 91533,
+    "hospital_emp_share": 0.0314,
+    "avg_govt_payer_share": 0.6518
+  }
+}

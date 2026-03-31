@@ -1,0 +1,137 @@
+{
+  "cbsa_code": "16700",
+  "cbsa_name": "Charleston-North Charleston, SC",
+  "mdi": 0.1615,
+  "bbox": [
+    -81.68,
+    31.78,
+    -78.28,
+    34.18
+  ],
+  "hospitals": [
+    {
+      "facility_id": "420004",
+      "name": "MUSC MEDICAL CENTER",
+      "beds": 713,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.7847,
+      "lon": -79.9463,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "420079",
+      "name": "TRIDENT MEDICAL CENTER",
+      "beds": 497,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.9778,
+      "lon": -80.0731,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "420087",
+      "name": "ROPER HOSPITAL",
+      "beds": 368,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.7772,
+      "lon": -79.932,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "420065",
+      "name": "BON SECOURS-ST FRANCIS XAVIER HOSPITAL",
+      "beds": 204,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.8103,
+      "lon": -80.0404,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "420089",
+      "name": "EAST COOPER MEDICAL CENTER",
+      "beds": 140,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.821,
+      "lon": -79.8507,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "420104",
+      "name": "MOUNT PLEASANT HOSPITAL",
+      "beds": 85,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.8755,
+      "lon": -79.7837,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "420110",
+      "name": "ROPER ST FRANCIS HOSPITAL-BERKELEY INC",
+      "beds": 50,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.1777,
+      "lon": -80.1763,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "45019",
+      "county_name": "Charleston",
+      "state": "SC",
+      "pop_total": 409840,
+      "pop_65_plus": 70900,
+      "distance_to_hub_miles": 4.8
+    },
+    {
+      "county_fips": "45015",
+      "county_name": "Berkeley",
+      "state": "SC",
+      "pop_total": 231419,
+      "pop_65_plus": 33325,
+      "distance_to_hub_miles": 24.1
+    },
+    {
+      "county_fips": "45035",
+      "county_name": "Dorchester",
+      "state": "SC",
+      "pop_total": 162139,
+      "pop_65_plus": 23793,
+      "distance_to_hub_miles": 29.6
+    },
+    {
+      "county_fips": "45029",
+      "county_name": "Colleton",
+      "state": "SC",
+      "pop_total": 38561,
+      "pop_65_plus": 7673,
+      "distance_to_hub_miles": 39.1
+    }
+  ],
+  "summary": {
+    "total_beds": 2057,
+    "catchment_pop": 841959,
+    "catchment_pop_65_plus": 135691,
+    "catchment_pct_65_plus": 0.1612,
+    "max_catchment_radius_miles": 39.1,
+    "avg_catchment_distance_miles": 16.5,
+    "num_counties": 4,
+    "hospital_employment": 10148,
+    "msa_total_employment": 313513,
+    "hospital_emp_share": 0.0269,
+    "avg_govt_payer_share": 0.65
+  }
+}

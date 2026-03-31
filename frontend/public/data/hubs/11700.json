@@ -1,0 +1,101 @@
+{
+  "cbsa_code": "11700",
+  "cbsa_name": "Asheville, NC",
+  "mdi": 0.4425,
+  "bbox": [
+    -84.05,
+    34.32,
+    -80.97,
+    36.58
+  ],
+  "hospitals": [
+    {
+      "facility_id": "340002",
+      "name": "MEMORIAL MISSION HOSPITAL AND ASHEVILLE SURGERY CE",
+      "beds": 735,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.5777,
+      "lon": -82.5482,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "340017",
+      "name": "PARDEE HOSPITAL HENDERSON COUNTY",
+      "beds": 222,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 35.3212,
+      "lon": -82.468,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "340023",
+      "name": "ADVENTHEALTH HENDERSONVILLE",
+      "beds": 103,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.3904,
+      "lon": -82.4889,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "37021",
+      "county_name": "Buncombe",
+      "state": "NC",
+      "pop_total": 269449,
+      "pop_65_plus": 55563,
+      "distance_to_hub_miles": 7.3
+    },
+    {
+      "county_fips": "37089",
+      "county_name": "Henderson",
+      "state": "NC",
+      "pop_total": 116469,
+      "pop_65_plus": 30397,
+      "distance_to_hub_miles": 12.0
+    },
+    {
+      "county_fips": "37111",
+      "county_name": "McDowell",
+      "state": "NC",
+      "pop_total": 44629,
+      "pop_65_plus": 9188,
+      "distance_to_hub_miles": 29.4
+    },
+    {
+      "county_fips": "37115",
+      "county_name": "Madison",
+      "state": "NC",
+      "pop_total": 21414,
+      "pop_65_plus": 4910,
+      "distance_to_hub_miles": 26.4
+    },
+    {
+      "county_fips": "37199",
+      "county_name": "Yancey",
+      "state": "NC",
+      "pop_total": 18538,
+      "pop_65_plus": 4850,
+      "distance_to_hub_miles": 29.8
+    }
+  ],
+  "summary": {
+    "total_beds": 1060,
+    "catchment_pop": 470499,
+    "catchment_pop_65_plus": 104908,
+    "catchment_pct_65_plus": 0.223,
+    "max_catchment_radius_miles": 29.8,
+    "avg_catchment_distance_miles": 12.3,
+    "num_counties": 5,
+    "hospital_employment": 10059,
+    "msa_total_employment": 180931,
+    "hospital_emp_share": 0.0543,
+    "avg_govt_payer_share": 0.65
+  }
+}

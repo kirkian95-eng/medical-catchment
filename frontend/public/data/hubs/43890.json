@@ -1,0 +1,58 @@
+{
+  "cbsa_code": "43890",
+  "cbsa_name": "Sparta, WI",
+  "mdi": 0.7499,
+  "bbox": [
+    -92.3,
+    42.98,
+    -89.01,
+    44.99
+  ],
+  "hospitals": [
+    {
+      "facility_id": "521305",
+      "name": "MAYO CLINIC HLTH SYSTM FRANCISCAN HLTHCARE SPARTA",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 43.9901,
+      "lon": -90.8032,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "521320",
+      "name": "TOMAH MEMORIAL HOSPITAL",
+      "beds": 15,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.985,
+      "lon": -90.5054,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "55081",
+      "county_name": "Monroe",
+      "state": "WI",
+      "pop_total": 46208,
+      "pop_65_plus": 8002,
+      "distance_to_hub_miles": 9.7
+    }
+  ],
+  "summary": {
+    "total_beds": 40,
+    "catchment_pop": 46208,
+    "catchment_pop_65_plus": 8002,
+    "catchment_pct_65_plus": 0.1732,
+    "max_catchment_radius_miles": 9.7,
+    "avg_catchment_distance_miles": 9.7,
+    "num_counties": 1,
+    "hospital_employment": 1152,
+    "msa_total_employment": 21341,
+    "hospital_emp_share": 0.054,
+    "avg_govt_payer_share": 0.75
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "cbsa_code": "34620",
+  "cbsa_name": "Muncie, IN",
+  "mdi": 0.4112,
+  "bbox": [
+    -86.91,
+    39.2,
+    -83.91,
+    41.2
+  ],
+  "hospitals": [
+    {
+      "facility_id": "150089",
+      "name": "INDIANA UNIVERSITY HEALTH BALL MEMORIAL HOSPITAL",
+      "beds": 379,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.1975,
+      "lon": -85.4147,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "18097",
+      "county_name": "Marion",
+      "state": "IN",
+      "pop_total": 971737,
+      "pop_65_plus": 124771,
+      "distance_to_hub_miles": 47.9
+    },
+    {
+      "county_fips": "18095",
+      "county_name": "Madison",
+      "state": "IN",
+      "pop_total": 130545,
+      "pop_65_plus": 24086,
+      "distance_to_hub_miles": 16.3
+    },
+    {
+      "county_fips": "18035",
+      "county_name": "Delaware",
+      "state": "IN",
+      "pop_total": 112156,
+      "pop_65_plus": 19401,
+      "distance_to_hub_miles": 2.3
+    },
+    {
+      "county_fips": "18135",
+      "county_name": "Randolph",
+      "state": "IN",
+      "pop_total": 24586,
+      "pop_65_plus": 4986,
+      "distance_to_hub_miles": 21.5
+    },
+    {
+      "county_fips": "18009",
+      "county_name": "Blackford",
+      "state": "IN",
+      "pop_total": 12074,
+      "pop_65_plus": 2587,
+      "distance_to_hub_miles": 19.7
+    }
+  ],
+  "summary": {
+    "total_beds": 379,
+    "catchment_pop": 1251098,
+    "catchment_pop_65_plus": 175831,
+    "catchment_pct_65_plus": 0.1405,
+    "max_catchment_radius_miles": 47.9,
+    "avg_catchment_distance_miles": 39.7,
+    "num_counties": 5,
+    "hospital_employment": 0,
+    "msa_total_employment": 44307,
+    "hospital_emp_share": 0.053,
+    "avg_govt_payer_share": 0.65
+  }
+}

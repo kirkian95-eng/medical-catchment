@@ -1,0 +1,47 @@
+{
+  "cbsa_code": "28300",
+  "cbsa_name": "Keene, NH",
+  "mdi": 0.2126,
+  "bbox": [
+    -73.79,
+    41.95,
+    -70.79,
+    43.95
+  ],
+  "hospitals": [
+    {
+      "facility_id": "300019",
+      "name": "CHESHIRE MEDICAL CENTER",
+      "beds": 169,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.9487,
+      "lon": -72.2896,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "33005",
+      "county_name": "Cheshire",
+      "state": "NH",
+      "pop_total": 76610,
+      "pop_65_plus": 16172,
+      "distance_to_hub_miles": 2.8
+    }
+  ],
+  "summary": {
+    "total_beds": 169,
+    "catchment_pop": 76610,
+    "catchment_pop_65_plus": 16172,
+    "catchment_pct_65_plus": 0.2111,
+    "max_catchment_radius_miles": 2.8,
+    "avg_catchment_distance_miles": 2.8,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 31443,
+    "hospital_emp_share": 0.0326,
+    "avg_govt_payer_share": 0.65
+  }
+}

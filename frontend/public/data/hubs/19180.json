@@ -1,0 +1,82 @@
+{
+  "cbsa_code": "19180",
+  "cbsa_name": "Danville, IL",
+  "mdi": 0.4284,
+  "bbox": [
+    -89.16,
+    39.13,
+    -86.14,
+    41.47
+  ],
+  "hospitals": [
+    {
+      "facility_id": "140093",
+      "name": "OSF SACRED HEART MEDICAL CENTER",
+      "beds": 210,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 40.1349,
+      "lon": -87.645,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "141316",
+      "name": "CARLE HOOPESTON REGIONAL HEALTH CENTER",
+      "beds": 23,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.4666,
+      "lon": -87.6616,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "17183",
+      "county_name": "Vermilion",
+      "state": "IL",
+      "pop_total": 74113,
+      "pop_65_plus": 14696,
+      "distance_to_hub_miles": 5.7
+    },
+    {
+      "county_fips": "18045",
+      "county_name": "Fountain",
+      "state": "IN",
+      "pop_total": 16468,
+      "pop_65_plus": 3267,
+      "distance_to_hub_miles": 21.3
+    },
+    {
+      "county_fips": "18165",
+      "county_name": "Vermillion",
+      "state": "IN",
+      "pop_total": 15488,
+      "pop_65_plus": 3085,
+      "distance_to_hub_miles": 21.7
+    },
+    {
+      "county_fips": "18171",
+      "county_name": "Warren",
+      "state": "IN",
+      "pop_total": 8454,
+      "pop_65_plus": 1761,
+      "distance_to_hub_miles": 21.3
+    }
+  ],
+  "summary": {
+    "total_beds": 233,
+    "catchment_pop": 114523,
+    "catchment_pop_65_plus": 22809,
+    "catchment_pct_65_plus": 0.1992,
+    "max_catchment_radius_miles": 21.7,
+    "avg_catchment_distance_miles": 11.3,
+    "num_counties": 4,
+    "hospital_employment": 1260,
+    "msa_total_employment": 25475,
+    "hospital_emp_share": 0.0495,
+    "avg_govt_payer_share": 0.6599
+  }
+}

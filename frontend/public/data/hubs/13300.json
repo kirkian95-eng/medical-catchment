@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "13300",
+  "cbsa_name": "Beeville, TX",
+  "mdi": 0.3284,
+  "bbox": [
+    -99.23,
+    27.41,
+    -96.23,
+    29.41
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450082",
+      "name": "CHRISTUS SPOHN HOSPITAL BEEVILLE",
+      "beds": 69,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.4078,
+      "lon": -97.7328,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48013",
+      "county_name": "Atascosa",
+      "state": "TX",
+      "pop_total": 49403,
+      "pop_65_plus": 7323,
+      "distance_to_hub_miles": 58.7
+    },
+    {
+      "county_fips": "48025",
+      "county_name": "Bee",
+      "state": "TX",
+      "pop_total": 30977,
+      "pop_65_plus": 3895,
+      "distance_to_hub_miles": 0.9
+    },
+    {
+      "county_fips": "48255",
+      "county_name": "Karnes",
+      "state": "TX",
+      "pop_total": 14805,
+      "pop_65_plus": 2136,
+      "distance_to_hub_miles": 35.3
+    },
+    {
+      "county_fips": "48297",
+      "county_name": "Live Oak",
+      "state": "TX",
+      "pop_total": 11374,
+      "pop_65_plus": 2418,
+      "distance_to_hub_miles": 24.2
+    }
+  ],
+  "summary": {
+    "total_beds": 69,
+    "catchment_pop": 106559,
+    "catchment_pop_65_plus": 15772,
+    "catchment_pct_65_plus": 0.148,
+    "max_catchment_radius_miles": 58.7,
+    "avg_catchment_distance_miles": 35.0,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 8402,
+    "hospital_emp_share": 0.0422,
+    "avg_govt_payer_share": 0.65
+  }
+}

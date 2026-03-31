@@ -1,0 +1,170 @@
+{
+  "cbsa_code": "39380",
+  "cbsa_name": "Pueblo, CO",
+  "mdi": 0.6171,
+  "bbox": [
+    -107.06,
+    36.18,
+    -102.27,
+    40.15
+  ],
+  "hospitals": [
+    {
+      "facility_id": "060012",
+      "name": "ST MARY-CORWIN HOSPITAL",
+      "beds": 408,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 38.0441,
+      "lon": -104.7144,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "060020",
+      "name": "PARKVIEW MEDICAL CENTER, INC",
+      "beds": 350,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.2816,
+      "lon": -104.6137,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "08101",
+      "county_name": "Pueblo",
+      "state": "CO",
+      "pop_total": 168135,
+      "pop_65_plus": 31753,
+      "distance_to_hub_miles": 8.6
+    },
+    {
+      "county_fips": "08089",
+      "county_name": "Otero",
+      "state": "CO",
+      "pop_total": 18580,
+      "pop_65_plus": 3920,
+      "distance_to_hub_miles": 54.6
+    },
+    {
+      "county_fips": "08003",
+      "county_name": "Alamosa",
+      "state": "CO",
+      "pop_total": 16460,
+      "pop_65_plus": 2387,
+      "distance_to_hub_miles": 73.1
+    },
+    {
+      "county_fips": "08071",
+      "county_name": "Las Animas",
+      "state": "CO",
+      "pop_total": 14422,
+      "pop_65_plus": 3616,
+      "distance_to_hub_miles": 67.4
+    },
+    {
+      "county_fips": "35007",
+      "county_name": "Colfax",
+      "state": "NM",
+      "pop_total": 12370,
+      "pop_65_plus": 3404,
+      "distance_to_hub_miles": 106.9
+    },
+    {
+      "county_fips": "08105",
+      "county_name": "Rio Grande",
+      "state": "CO",
+      "pop_total": 11442,
+      "pop_65_plus": 2395,
+      "distance_to_hub_miles": 101.5
+    },
+    {
+      "county_fips": "08021",
+      "county_name": "Conejos",
+      "state": "CO",
+      "pop_total": 7553,
+      "pop_65_plus": 1475,
+      "distance_to_hub_miles": 106.2
+    },
+    {
+      "county_fips": "08055",
+      "county_name": "Huerfano",
+      "state": "CO",
+      "pop_total": 6896,
+      "pop_65_plus": 2286,
+      "distance_to_hub_miles": 36.1
+    },
+    {
+      "county_fips": "08109",
+      "county_name": "Saguache",
+      "state": "CO",
+      "pop_total": 6454,
+      "pop_65_plus": 1653,
+      "distance_to_hub_miles": 87.9
+    },
+    {
+      "county_fips": "08025",
+      "county_name": "Crowley",
+      "state": "CO",
+      "pop_total": 5782,
+      "pop_65_plus": 834,
+      "distance_to_hub_miles": 49.4
+    },
+    {
+      "county_fips": "08011",
+      "county_name": "Bent",
+      "state": "CO",
+      "pop_total": 5561,
+      "pop_65_plus": 1023,
+      "distance_to_hub_miles": 87.8
+    },
+    {
+      "county_fips": "08027",
+      "county_name": "Custer",
+      "state": "CO",
+      "pop_total": 4885,
+      "pop_65_plus": 1449,
+      "distance_to_hub_miles": 38.1
+    },
+    {
+      "county_fips": "08023",
+      "county_name": "Costilla",
+      "state": "CO",
+      "pop_total": 3534,
+      "pop_65_plus": 981,
+      "distance_to_hub_miles": 73.4
+    },
+    {
+      "county_fips": "08009",
+      "county_name": "Baca",
+      "state": "CO",
+      "pop_total": 3496,
+      "pop_65_plus": 835,
+      "distance_to_hub_miles": 128.8
+    },
+    {
+      "county_fips": "08061",
+      "county_name": "Kiowa",
+      "state": "CO",
+      "pop_total": 1347,
+      "pop_65_plus": 294,
+      "distance_to_hub_miles": 106.3
+    }
+  ],
+  "summary": {
+    "total_beds": 758,
+    "catchment_pop": 286917,
+    "catchment_pop_65_plus": 58305,
+    "catchment_pct_65_plus": 0.2032,
+    "max_catchment_radius_miles": 128.8,
+    "avg_catchment_distance_miles": 36.8,
+    "num_counties": 15,
+    "hospital_employment": 856,
+    "msa_total_employment": 62976,
+    "hospital_emp_share": 0.0784,
+    "avg_govt_payer_share": 0.65
+  }
+}

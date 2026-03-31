@@ -1,0 +1,118 @@
+{
+  "cbsa_code": "26380",
+  "cbsa_name": "Houma-Bayou Cane-Thibodaux, LA",
+  "mdi": 0.1494,
+  "bbox": [
+    -92.31,
+    28.5,
+    -88.74,
+    30.78
+  ],
+  "hospitals": [
+    {
+      "facility_id": "190008",
+      "name": "TERREBONNE GENERAL MEDICAL CENTER - PARISH",
+      "beds": 321,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 29.5975,
+      "lon": -90.7207,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190004",
+      "name": "THIBODAUX REGIONAL MEDICAL CENTER",
+      "beds": 194,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 29.7802,
+      "lon": -90.8063,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190183",
+      "name": "LEONARD J CHABERT MEDICAL CENTER",
+      "beds": 156,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 29.5067,
+      "lon": -90.7008,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "191324",
+      "name": "OCHSNER ST ANNE GENERAL HOSPITAL",
+      "beds": 35,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 29.7015,
+      "lon": -90.5613,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190241",
+      "name": "PHYSICIANS MEDICAL CENTER",
+      "beds": 30,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 29.5787,
+      "lon": -90.8054,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "191325",
+      "name": "LADY OF THE SEA GENERAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 29.5018,
+      "lon": -90.2379,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "22109",
+      "county_name": "Terrebonne",
+      "state": "LA",
+      "pop_total": 108862,
+      "pop_65_plus": 16401,
+      "distance_to_hub_miles": 21.2
+    },
+    {
+      "county_fips": "22057",
+      "county_name": "Lafourche",
+      "state": "LA",
+      "pop_total": 97220,
+      "pop_65_plus": 15420,
+      "distance_to_hub_miles": 20.8
+    },
+    {
+      "county_fips": "22093",
+      "county_name": "St. James",
+      "state": "LA",
+      "pop_total": 20090,
+      "pop_65_plus": 3703,
+      "distance_to_hub_miles": 28.0
+    }
+  ],
+  "summary": {
+    "total_beds": 761,
+    "catchment_pop": 226172,
+    "catchment_pop_65_plus": 35524,
+    "catchment_pct_65_plus": 0.1571,
+    "max_catchment_radius_miles": 28.0,
+    "avg_catchment_distance_miles": 21.6,
+    "num_counties": 3,
+    "hospital_employment": 2025,
+    "msa_total_employment": 82108,
+    "hospital_emp_share": 0.0247,
+    "avg_govt_payer_share": 0.6579
+  }
+}

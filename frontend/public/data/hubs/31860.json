@@ -1,0 +1,138 @@
+{
+  "cbsa_code": "31860",
+  "cbsa_name": "Mankato, MN",
+  "mdi": 0.1544,
+  "bbox": [
+    -95.54,
+    43.16,
+    -92.48,
+    45.36
+  ],
+  "hospitals": [
+    {
+      "facility_id": "240093",
+      "name": "MAYO CLINIC HEALTH SYSTEM - MANKATO",
+      "beds": 272,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.165,
+      "lon": -93.9842,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "241334",
+      "name": "RIVER'S EDGE HOSPITAL & CLINIC",
+      "beds": 17,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 44.3573,
+      "lon": -94.037,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "27019",
+      "county_name": "Carver",
+      "state": "MN",
+      "pop_total": 107216,
+      "pop_65_plus": 14153,
+      "distance_to_hub_miles": 46.2
+    },
+    {
+      "county_fips": "27013",
+      "county_name": "Blue Earth",
+      "state": "MN",
+      "pop_total": 69022,
+      "pop_65_plus": 9986,
+      "distance_to_hub_miles": 9.9
+    },
+    {
+      "county_fips": "27103",
+      "county_name": "Nicollet",
+      "state": "MN",
+      "pop_total": 34380,
+      "pop_65_plus": 5813,
+      "distance_to_hub_miles": 18.1
+    },
+    {
+      "county_fips": "27079",
+      "county_name": "Le Sueur",
+      "state": "MN",
+      "pop_total": 28795,
+      "pop_65_plus": 5207,
+      "distance_to_hub_miles": 19.0
+    },
+    {
+      "county_fips": "27015",
+      "county_name": "Brown",
+      "state": "MN",
+      "pop_total": 25880,
+      "pop_65_plus": 5545,
+      "distance_to_hub_miles": 37.2
+    },
+    {
+      "county_fips": "27091",
+      "county_name": "Martin",
+      "state": "MN",
+      "pop_total": 19960,
+      "pop_65_plus": 4712,
+      "distance_to_hub_miles": 44.1
+    },
+    {
+      "county_fips": "27161",
+      "county_name": "Waseca",
+      "state": "MN",
+      "pop_total": 18953,
+      "pop_65_plus": 3435,
+      "distance_to_hub_miles": 22.0
+    },
+    {
+      "county_fips": "27143",
+      "county_name": "Sibley",
+      "state": "MN",
+      "pop_total": 14950,
+      "pop_65_plus": 2794,
+      "distance_to_hub_miles": 31.2
+    },
+    {
+      "county_fips": "27033",
+      "county_name": "Cottonwood",
+      "state": "MN",
+      "pop_total": 11481,
+      "pop_65_plus": 2608,
+      "distance_to_hub_miles": 60.4
+    },
+    {
+      "county_fips": "27165",
+      "county_name": "Watonwan",
+      "state": "MN",
+      "pop_total": 11205,
+      "pop_65_plus": 2277,
+      "distance_to_hub_miles": 33.8
+    },
+    {
+      "county_fips": "19063",
+      "county_name": "Emmet",
+      "state": "IA",
+      "pop_total": 9349,
+      "pop_65_plus": 2156,
+      "distance_to_hub_miles": 64.5
+    }
+  ],
+  "summary": {
+    "total_beds": 289,
+    "catchment_pop": 351191,
+    "catchment_pop_65_plus": 58686,
+    "catchment_pct_65_plus": 0.1671,
+    "max_catchment_radius_miles": 64.5,
+    "avg_catchment_distance_miles": 31.9,
+    "num_counties": 11,
+    "hospital_employment": 1230,
+    "msa_total_employment": 55262,
+    "hospital_emp_share": 0.0223,
+    "avg_govt_payer_share": 0.6559
+  }
+}

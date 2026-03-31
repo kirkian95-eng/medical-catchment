@@ -1,0 +1,87 @@
+{
+  "cbsa_code": "32020",
+  "cbsa_name": "Marion, OH",
+  "mdi": 0.7,
+  "bbox": [
+    -84.63,
+    39.57,
+    -81.63,
+    41.57
+  ],
+  "hospitals": [
+    {
+      "facility_id": "360011",
+      "name": "MARION GENERAL HOSPITAL",
+      "beds": 389,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.5721,
+      "lon": -83.1292,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "39049",
+      "county_name": "Franklin",
+      "state": "OH",
+      "pop_total": 1318149,
+      "pop_65_plus": 164663,
+      "distance_to_hub_miles": 42.1
+    },
+    {
+      "county_fips": "39041",
+      "county_name": "Delaware",
+      "state": "OH",
+      "pop_total": 216074,
+      "pop_65_plus": 31096,
+      "distance_to_hub_miles": 21.3
+    },
+    {
+      "county_fips": "39101",
+      "county_name": "Marion",
+      "state": "OH",
+      "pop_total": 65366,
+      "pop_65_plus": 11890,
+      "distance_to_hub_miles": 2.0
+    },
+    {
+      "county_fips": "39159",
+      "county_name": "Union",
+      "state": "OH",
+      "pop_total": 63411,
+      "pop_65_plus": 8213,
+      "distance_to_hub_miles": 22.7
+    },
+    {
+      "county_fips": "39117",
+      "county_name": "Morrow",
+      "state": "OH",
+      "pop_total": 35049,
+      "pop_65_plus": 6418,
+      "distance_to_hub_miles": 17.9
+    },
+    {
+      "county_fips": "39175",
+      "county_name": "Wyandot",
+      "state": "OH",
+      "pop_total": 21818,
+      "pop_65_plus": 4337,
+      "distance_to_hub_miles": 20.8
+    }
+  ],
+  "summary": {
+    "total_beds": 389,
+    "catchment_pop": 1719867,
+    "catchment_pop_65_plus": 226617,
+    "catchment_pct_65_plus": 0.1318,
+    "max_catchment_radius_miles": 42.1,
+    "avg_catchment_distance_miles": 36.5,
+    "num_counties": 6,
+    "hospital_employment": 0,
+    "msa_total_employment": 23109,
+    "hospital_emp_share": 0.0973,
+    "avg_govt_payer_share": 0.65
+  }
+}

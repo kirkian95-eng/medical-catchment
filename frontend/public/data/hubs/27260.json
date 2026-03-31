@@ -1,0 +1,211 @@
+{
+  "cbsa_code": "27260",
+  "cbsa_name": "Jacksonville, FL",
+  "mdi": 0.2974,
+  "bbox": [
+    -83.62,
+    28.86,
+    -79.82,
+    31.6
+  ],
+  "hospitals": [
+    {
+      "facility_id": "100088",
+      "name": "BAPTIST HEALTH MEDICAL CENTER - JACKSONVILLE",
+      "beds": 1229,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.3162,
+      "lon": -81.6643,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100001",
+      "name": "SHANDS JACKSONVILLE",
+      "beds": 715,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.3466,
+      "lon": -81.6631,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100040",
+      "name": "ASCENSION ST VINCENT'S RIVERSIDE",
+      "beds": 584,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.317,
+      "lon": -81.6808,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100179",
+      "name": "HCA FLORIDA MEMORIAL HOSPITAL",
+      "beds": 454,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 30.2873,
+      "lon": -81.6023,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100151",
+      "name": "MAYO CLINIC",
+      "beds": 434,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.27,
+      "lon": -81.4609,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100226",
+      "name": "HCA FLORIDA ORANGE PARK HOSPITAL",
+      "beds": 433,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 30.1663,
+      "lon": -81.7379,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100090",
+      "name": "FLAGLER HOSPITAL",
+      "beds": 335,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 29.8627,
+      "lon": -81.3178,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100307",
+      "name": "ASCENSION ST VINCENT'S SOUTHSIDE",
+      "beds": 295,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.2811,
+      "lon": -81.5817,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100117",
+      "name": "BAPTIST MEDICAL CENTER  BEACHES",
+      "beds": 146,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.2744,
+      "lon": -81.4001,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100321",
+      "name": "ASCENSION ST VINCENT'S CLAY COUNTY",
+      "beds": 134,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.083,
+      "lon": -81.884,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100140",
+      "name": "BAPTIST MEDICAL CENTER - NASSAU",
+      "beds": 62,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.6018,
+      "lon": -81.4818,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100361",
+      "name": "ASCENSION ST VINCENT'S ST JOHNS COUNTY",
+      "beds": 56,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.0743,
+      "lon": -81.5852,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100134",
+      "name": "ED FRASER MEMORIAL HOSPITAL",
+      "beds": 25,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.2709,
+      "lon": -82.1204,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "12031",
+      "county_name": "Duval",
+      "state": "FL",
+      "pop_total": 995708,
+      "pop_65_plus": 146674,
+      "distance_to_hub_miles": 5.5
+    },
+    {
+      "county_fips": "12109",
+      "county_name": "St. Johns",
+      "state": "FL",
+      "pop_total": 278722,
+      "pop_65_plus": 57756,
+      "distance_to_hub_miles": 27.1
+    },
+    {
+      "county_fips": "12019",
+      "county_name": "Clay",
+      "state": "FL",
+      "pop_total": 219650,
+      "pop_65_plus": 36299,
+      "distance_to_hub_miles": 24.0
+    },
+    {
+      "county_fips": "12089",
+      "county_name": "Nassau",
+      "state": "FL",
+      "pop_total": 91538,
+      "pop_65_plus": 21041,
+      "distance_to_hub_miles": 25.9
+    },
+    {
+      "county_fips": "13049",
+      "county_name": "Charlton",
+      "state": "GA",
+      "pop_total": 12547,
+      "pop_65_plus": 2061,
+      "distance_to_hub_miles": 47.5
+    }
+  ],
+  "summary": {
+    "total_beds": 4902,
+    "catchment_pop": 1598165,
+    "catchment_pop_65_plus": 263831,
+    "catchment_pct_65_plus": 0.1651,
+    "max_catchment_radius_miles": 47.5,
+    "avg_catchment_distance_miles": 13.3,
+    "num_counties": 5,
+    "hospital_employment": 32994,
+    "msa_total_employment": 743183,
+    "hospital_emp_share": 0.0444,
+    "avg_govt_payer_share": 0.65
+  }
+}

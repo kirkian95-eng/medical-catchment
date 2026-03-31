@@ -1,0 +1,74 @@
+{
+  "cbsa_code": "31260",
+  "cbsa_name": "Lufkin, TX",
+  "mdi": 0.3092,
+  "bbox": [
+    -96.26,
+    30.33,
+    -93.24,
+    32.34
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450211",
+      "name": "CHI ST LUKES HEALTH MEMORIAL LUFKIN",
+      "beds": 279,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 31.337,
+      "lon": -94.7433,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450484",
+      "name": "WOODLAND HEIGHTS MEDICAL CENTER",
+      "beds": 117,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 31.3275,
+      "lon": -94.756,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48005",
+      "county_name": "Angelina",
+      "state": "TX",
+      "pop_total": 86608,
+      "pop_65_plus": 14097,
+      "distance_to_hub_miles": 9.7
+    },
+    {
+      "county_fips": "48373",
+      "county_name": "Polk",
+      "state": "TX",
+      "pop_total": 50536,
+      "pop_65_plus": 9477,
+      "distance_to_hub_miles": 37.8
+    },
+    {
+      "county_fips": "48455",
+      "county_name": "Trinity",
+      "state": "TX",
+      "pop_total": 13735,
+      "pop_65_plus": 3630,
+      "distance_to_hub_miles": 28.5
+    }
+  ],
+  "summary": {
+    "total_beds": 396,
+    "catchment_pop": 150879,
+    "catchment_pop_65_plus": 27204,
+    "catchment_pct_65_plus": 0.1803,
+    "max_catchment_radius_miles": 37.8,
+    "avg_catchment_distance_miles": 20.8,
+    "num_counties": 3,
+    "hospital_employment": 1489,
+    "msa_total_employment": 35097,
+    "hospital_emp_share": 0.0424,
+    "avg_govt_payer_share": 0.65
+  }
+}

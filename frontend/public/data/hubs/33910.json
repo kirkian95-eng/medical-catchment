@@ -1,0 +1,58 @@
+{
+  "cbsa_code": "33910",
+  "cbsa_name": "Monticello, NY",
+  "mdi": 0.4997,
+  "bbox": [
+    -76.49,
+    40.71,
+    -73.23,
+    42.75
+  ],
+  "hospitals": [
+    {
+      "facility_id": "330386",
+      "name": "GARNET HEALTH  MEDICAL CENTER CATSKILLS",
+      "beds": 164,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.7063,
+      "lon": -74.7312,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "331303",
+      "name": "GARNET HEALTH MEDICAL CENTER CATSKILLS",
+      "beds": 15,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.7531,
+      "lon": -74.9877,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36105",
+      "county_name": "Sullivan",
+      "state": "NY",
+      "pop_total": 78725,
+      "pop_65_plus": 14901,
+      "distance_to_hub_miles": 2.0
+    }
+  ],
+  "summary": {
+    "total_beds": 179,
+    "catchment_pop": 78725,
+    "catchment_pop_65_plus": 14901,
+    "catchment_pct_65_plus": 0.1893,
+    "max_catchment_radius_miles": 2.0,
+    "avg_catchment_distance_miles": 2.0,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 30290,
+    "hospital_emp_share": 0.0629,
+    "avg_govt_payer_share": 0.6584
+  }
+}

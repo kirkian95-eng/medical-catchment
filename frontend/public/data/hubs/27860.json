@@ -1,0 +1,82 @@
+{
+  "cbsa_code": "27860",
+  "cbsa_name": "Jonesboro, AR",
+  "mdi": 0.6565,
+  "bbox": [
+    -92.2,
+    34.84,
+    -89.14,
+    36.86
+  ],
+  "hospitals": [
+    {
+      "facility_id": "040020",
+      "name": "ST BERNARDS MEDICAL CENTER",
+      "beds": 440,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.8383,
+      "lon": -90.7043,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "040118",
+      "name": "BAPTIST MEMORIAL HOSPITAL JONESBORO, INC.",
+      "beds": 228,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.8643,
+      "lon": -90.6378,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "05031",
+      "county_name": "Craighead",
+      "state": "AR",
+      "pop_total": 111038,
+      "pop_65_plus": 15119,
+      "distance_to_hub_miles": 3.0
+    },
+    {
+      "county_fips": "05111",
+      "county_name": "Poinsett",
+      "state": "AR",
+      "pop_total": 22997,
+      "pop_65_plus": 4200,
+      "distance_to_hub_miles": 18.9
+    },
+    {
+      "county_fips": "05121",
+      "county_name": "Randolph",
+      "state": "AR",
+      "pop_total": 18619,
+      "pop_65_plus": 3677,
+      "distance_to_hub_miles": 39.2
+    },
+    {
+      "county_fips": "05075",
+      "county_name": "Lawrence",
+      "state": "AR",
+      "pop_total": 16258,
+      "pop_65_plus": 3062,
+      "distance_to_hub_miles": 27.3
+    }
+  ],
+  "summary": {
+    "total_beds": 668,
+    "catchment_pop": 168912,
+    "catchment_pop_65_plus": 26058,
+    "catchment_pct_65_plus": 0.1543,
+    "max_catchment_radius_miles": 39.2,
+    "avg_catchment_distance_miles": 11.5,
+    "num_counties": 4,
+    "hospital_employment": 5002,
+    "msa_total_employment": 54001,
+    "hospital_emp_share": 0.0844,
+    "avg_govt_payer_share": 0.65
+  }
+}

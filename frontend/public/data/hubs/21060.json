@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "21060",
+  "cbsa_name": "Elizabethtown, KY",
+  "mdi": 0.3439,
+  "bbox": [
+    -87.34,
+    36.7,
+    -84.34,
+    38.7
+  ],
+  "hospitals": [
+    {
+      "facility_id": "180012",
+      "name": "BAPTIST HEALTH HARDIN",
+      "beds": 300,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 37.7032,
+      "lon": -85.8395,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "21093",
+      "county_name": "Hardin",
+      "state": "KY",
+      "pop_total": 111005,
+      "pop_65_plus": 16183,
+      "distance_to_hub_miles": 6.8
+    },
+    {
+      "county_fips": "21179",
+      "county_name": "Nelson",
+      "state": "KY",
+      "pop_total": 46779,
+      "pop_65_plus": 7780,
+      "distance_to_hub_miles": 21.6
+    },
+    {
+      "county_fips": "21123",
+      "county_name": "Larue",
+      "state": "KY",
+      "pop_total": 14902,
+      "pop_65_plus": 2578,
+      "distance_to_hub_miles": 13.4
+    }
+  ],
+  "summary": {
+    "total_beds": 300,
+    "catchment_pop": 172686,
+    "catchment_pop_65_plus": 26541,
+    "catchment_pct_65_plus": 0.1537,
+    "max_catchment_radius_miles": 21.6,
+    "avg_catchment_distance_miles": 11.4,
+    "num_counties": 3,
+    "hospital_employment": 2112,
+    "msa_total_employment": 47592,
+    "hospital_emp_share": 0.0422,
+    "avg_govt_payer_share": 0.65
+  }
+}

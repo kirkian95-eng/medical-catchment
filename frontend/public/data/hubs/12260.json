@@ -1,0 +1,187 @@
+{
+  "cbsa_code": "12260",
+  "cbsa_name": "Augusta-Richmond County, GA-SC",
+  "mdi": 0.5202,
+  "bbox": [
+    -83.59,
+    32.09,
+    -80.26,
+    34.58
+  ],
+  "hospitals": [
+    {
+      "facility_id": "110034",
+      "name": "WELLSTAR MCG HEALTH, AFFILIATED WITH MED COL",
+      "beds": 632,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 33.4704,
+      "lon": -81.9887,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "110028",
+      "name": "PIEDMONT AUGUSTA HOSPITAL",
+      "beds": 551,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.4731,
+      "lon": -81.9818,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "110177",
+      "name": "DOCTORS HOSPITAL",
+      "beds": 354,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.483,
+      "lon": -82.0918,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "420082",
+      "name": "AIKEN REGIONAL MEDICAL CENTER",
+      "beds": 273,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.5841,
+      "lon": -81.7595,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "110113",
+      "name": "BURKE MEDICAL CENTER",
+      "beds": 40,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.0851,
+      "lon": -81.9787,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "13245",
+      "county_name": "Richmond",
+      "state": "GA",
+      "pop_total": 206153,
+      "pop_65_plus": 29991,
+      "distance_to_hub_miles": 10.3
+    },
+    {
+      "county_fips": "45003",
+      "county_name": "Aiken",
+      "state": "SC",
+      "pop_total": 169865,
+      "pop_65_plus": 34200,
+      "distance_to_hub_miles": 19.9
+    },
+    {
+      "county_fips": "13073",
+      "county_name": "Columbia",
+      "state": "GA",
+      "pop_total": 156921,
+      "pop_65_plus": 22942,
+      "distance_to_hub_miles": 17.3
+    },
+    {
+      "county_fips": "45037",
+      "county_name": "Edgefield",
+      "state": "SC",
+      "pop_total": 26181,
+      "pop_65_plus": 4964,
+      "distance_to_hub_miles": 20.1
+    },
+    {
+      "county_fips": "13033",
+      "county_name": "Burke",
+      "state": "GA",
+      "pop_total": 24337,
+      "pop_65_plus": 3967,
+      "distance_to_hub_miles": 29.1
+    },
+    {
+      "county_fips": "13189",
+      "county_name": "McDuffie",
+      "state": "GA",
+      "pop_total": 21715,
+      "pop_65_plus": 3893,
+      "distance_to_hub_miles": 29.3
+    },
+    {
+      "county_fips": "45011",
+      "county_name": "Barnwell",
+      "state": "SC",
+      "pop_total": 20653,
+      "pop_65_plus": 3872,
+      "distance_to_hub_miles": 34.5
+    },
+    {
+      "county_fips": "13163",
+      "county_name": "Jefferson",
+      "state": "GA",
+      "pop_total": 15591,
+      "pop_65_plus": 2876,
+      "distance_to_hub_miles": 39.1
+    },
+    {
+      "county_fips": "45009",
+      "county_name": "Bamberg",
+      "state": "SC",
+      "pop_total": 13311,
+      "pop_65_plus": 3003,
+      "distance_to_hub_miles": 56.2
+    },
+    {
+      "county_fips": "45005",
+      "county_name": "Allendale",
+      "state": "SC",
+      "pop_total": 8073,
+      "pop_65_plus": 1644,
+      "distance_to_hub_miles": 49.3
+    },
+    {
+      "county_fips": "13181",
+      "county_name": "Lincoln",
+      "state": "GA",
+      "pop_total": 7726,
+      "pop_65_plus": 1913,
+      "distance_to_hub_miles": 35.0
+    },
+    {
+      "county_fips": "13301",
+      "county_name": "Warren",
+      "state": "GA",
+      "pop_total": 5197,
+      "pop_65_plus": 1178,
+      "distance_to_hub_miles": 40.9
+    },
+    {
+      "county_fips": "13125",
+      "county_name": "Glascock",
+      "state": "GA",
+      "pop_total": 2903,
+      "pop_65_plus": 493,
+      "distance_to_hub_miles": 40.8
+    }
+  ],
+  "summary": {
+    "total_beds": 1850,
+    "catchment_pop": 678626,
+    "catchment_pop_65_plus": 114936,
+    "catchment_pct_65_plus": 0.1694,
+    "max_catchment_radius_miles": 56.2,
+    "avg_catchment_distance_miles": 19.4,
+    "num_counties": 13,
+    "hospital_employment": 15106,
+    "msa_total_employment": 176372,
+    "hospital_emp_share": 0.0661,
+    "avg_govt_payer_share": 0.65
+  }
+}

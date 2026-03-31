@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "26660",
+  "cbsa_name": "Huntsville, TX",
+  "mdi": 0.2019,
+  "bbox": [
+    -97.06,
+    29.7,
+    -94.06,
+    31.7
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450347",
+      "name": "HUNTSVILLE MEMORIAL HOSPITAL",
+      "beds": 144,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.6993,
+      "lon": -95.5585,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48339",
+      "county_name": "Montgomery",
+      "state": "TX",
+      "pop_total": 629989,
+      "pop_65_plus": 84566,
+      "distance_to_hub_miles": 27.8
+    },
+    {
+      "county_fips": "48471",
+      "county_name": "Walker",
+      "state": "TX",
+      "pop_total": 77182,
+      "pop_65_plus": 10446,
+      "distance_to_hub_miles": 2.8
+    },
+    {
+      "county_fips": "48407",
+      "county_name": "San Jacinto",
+      "state": "TX",
+      "pop_total": 27666,
+      "pop_65_plus": 6042,
+      "distance_to_hub_miles": 24.7
+    }
+  ],
+  "summary": {
+    "total_beds": 144,
+    "catchment_pop": 734837,
+    "catchment_pop_65_plus": 101054,
+    "catchment_pct_65_plus": 0.1375,
+    "max_catchment_radius_miles": 27.8,
+    "avg_catchment_distance_miles": 25.1,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 25379,
+    "hospital_emp_share": 0.03,
+    "avg_govt_payer_share": 0.65
+  }
+}

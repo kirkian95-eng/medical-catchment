@@ -1,0 +1,132 @@
+{
+  "cbsa_code": "49340",
+  "cbsa_name": "Worcester, MA",
+  "mdi": 0.4184,
+  "bbox": [
+    -73.68,
+    41.06,
+    -70.03,
+    43.59
+  ],
+  "hospitals": [
+    {
+      "facility_id": "220163",
+      "name": "UMASS MEMORIAL MEDICAL CENTER/UNIVERSITY CAMPUS",
+      "beds": 325,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3648,
+      "lon": -71.8969,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "220176",
+      "name": "ST VINCENT HOSPITAL",
+      "beds": 283,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.2674,
+      "lon": -71.7959,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "220001",
+      "name": "UMASS MEMORIAL HEALTHALLIANCE HOSPITALS",
+      "beds": 150,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 42.52,
+      "lon": -71.7633,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "220095",
+      "name": "HEYWOOD HOSPITAL -",
+      "beds": 134,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.5869,
+      "lon": -71.9865,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "220090",
+      "name": "MILFORD REGIONAL MEDICAL CENTER",
+      "beds": 121,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 42.133,
+      "lon": -71.5294,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "220062",
+      "name": "ADCARE HOSPITAL OF WORCESTER INC",
+      "beds": 114,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.2897,
+      "lon": -71.7878,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "220019",
+      "name": "UMASS MEMORIAL HEALTH - HARRINGTON HOSPITAL",
+      "beds": 113,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.0597,
+      "lon": -72.0339,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "221303",
+      "name": "ATHOL MEMORIAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.5702,
+      "lon": -72.1829,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "25017",
+      "county_name": "Middlesex",
+      "state": "MA",
+      "pop_total": 1623109,
+      "pop_65_plus": 255404,
+      "distance_to_hub_miles": 25.2
+    },
+    {
+      "county_fips": "25027",
+      "county_name": "Worcester",
+      "state": "MA",
+      "pop_total": 858898,
+      "pop_65_plus": 139294,
+      "distance_to_hub_miles": 3.6
+    }
+  ],
+  "summary": {
+    "total_beds": 1265,
+    "catchment_pop": 2482007,
+    "catchment_pop_65_plus": 394698,
+    "catchment_pct_65_plus": 0.159,
+    "max_catchment_radius_miles": 25.2,
+    "avg_catchment_distance_miles": 17.7,
+    "num_counties": 2,
+    "hospital_employment": 19672,
+    "msa_total_employment": 351037,
+    "hospital_emp_share": 0.056,
+    "avg_govt_payer_share": 0.652
+  }
+}

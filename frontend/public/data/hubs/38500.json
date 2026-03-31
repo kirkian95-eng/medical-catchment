@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "38500",
+  "cbsa_name": "Plymouth, IN",
+  "mdi": 0.2261,
+  "bbox": [
+    -87.83,
+    40.36,
+    -84.66,
+    42.46
+  ],
+  "hospitals": [
+    {
+      "facility_id": "150076",
+      "name": "SAINT JOSEPH REGIONAL MEDICAL CENTER - PLYMOUTH",
+      "beds": 58,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 41.3554,
+      "lon": -86.326,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "151300",
+      "name": "COMMUNITY HOSPITAL OF BREMEN INC",
+      "beds": 24,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.457,
+      "lon": -86.1584,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "18099",
+      "county_name": "Marshall",
+      "state": "IN",
+      "pop_total": 46208,
+      "pop_65_plus": 8343,
+      "distance_to_hub_miles": 3.9
+    },
+    {
+      "county_fips": "18149",
+      "county_name": "Starke",
+      "state": "IN",
+      "pop_total": 23308,
+      "pop_65_plus": 4391,
+      "distance_to_hub_miles": 17.5
+    }
+  ],
+  "summary": {
+    "total_beds": 82,
+    "catchment_pop": 69516,
+    "catchment_pop_65_plus": 12734,
+    "catchment_pct_65_plus": 0.1832,
+    "max_catchment_radius_miles": 17.5,
+    "avg_catchment_distance_miles": 8.5,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 19186,
+    "hospital_emp_share": 0.0225,
+    "avg_govt_payer_share": 0.6793
+  }
+}

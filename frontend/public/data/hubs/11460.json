@@ -1,0 +1,96 @@
+{
+  "cbsa_code": "11460",
+  "cbsa_name": "Ann Arbor, MI",
+  "mdi": 0.4725,
+  "bbox": [
+    -85.53,
+    41.27,
+    -82.09,
+    43.31
+  ],
+  "hospitals": [
+    {
+      "facility_id": "230046",
+      "name": "UNIVERSITY OF MICHIGAN HEALTH SYSTEM",
+      "beds": 884,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.2814,
+      "lon": -83.7279,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "230156",
+      "name": "TRINITY HEALTH ANN ARBOR HOSPITAL",
+      "beds": 505,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 42.2728,
+      "lon": -83.7657,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "230144",
+      "name": "FOREST HEALTH MEDICAL CENTER",
+      "beds": 148,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 42.2751,
+      "lon": -83.5863,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "230259",
+      "name": "CHELSEA HOSPITAL",
+      "beds": 83,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3122,
+      "lon": -84.0341,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "26163",
+      "county_name": "Wayne",
+      "state": "MI",
+      "pop_total": 1781641,
+      "pop_65_plus": 281455,
+      "distance_to_hub_miles": 24.5
+    },
+    {
+      "county_fips": "26161",
+      "county_name": "Washtenaw",
+      "state": "MI",
+      "pop_total": 370231,
+      "pop_65_plus": 54677,
+      "distance_to_hub_miles": 5.3
+    },
+    {
+      "county_fips": "26093",
+      "county_name": "Livingston",
+      "state": "MI",
+      "pop_total": 194302,
+      "pop_65_plus": 35600,
+      "distance_to_hub_miles": 24.0
+    }
+  ],
+  "summary": {
+    "total_beds": 1620,
+    "catchment_pop": 2346174,
+    "catchment_pop_65_plus": 371732,
+    "catchment_pct_65_plus": 0.1584,
+    "max_catchment_radius_miles": 24.5,
+    "avg_catchment_distance_miles": 21.4,
+    "num_counties": 3,
+    "hospital_employment": 3128,
+    "msa_total_employment": 216870,
+    "hospital_emp_share": 0.0598,
+    "avg_govt_payer_share": 0.65
+  }
+}

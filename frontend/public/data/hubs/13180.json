@@ -1,0 +1,58 @@
+{
+  "cbsa_code": "13180",
+  "cbsa_name": "Beaver Dam, WI",
+  "mdi": 0.2756,
+  "bbox": [
+    -90.33,
+    42.2,
+    -87.2,
+    44.45
+  ],
+  "hospitals": [
+    {
+      "facility_id": "520076",
+      "name": "MARSHFIELD MEDICAL CENTER - BEAVER DAM (MMC-BD)",
+      "beds": 125,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.4493,
+      "lon": -88.8283,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "520116",
+      "name": "WATERTOWN MEMORIAL HOSPITAL",
+      "beds": 95,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.2035,
+      "lon": -88.6989,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "55027",
+      "county_name": "Dodge",
+      "state": "WI",
+      "pop_total": 89032,
+      "pop_65_plus": 16196,
+      "distance_to_hub_miles": 6.0
+    }
+  ],
+  "summary": {
+    "total_beds": 220,
+    "catchment_pop": 89032,
+    "catchment_pop_65_plus": 16196,
+    "catchment_pct_65_plus": 0.1819,
+    "max_catchment_radius_miles": 6.0,
+    "avg_catchment_distance_miles": 6.0,
+    "num_counties": 1,
+    "hospital_employment": 1402,
+    "msa_total_employment": 36346,
+    "hospital_emp_share": 0.0386,
+    "avg_govt_payer_share": 0.65
+  }
+}

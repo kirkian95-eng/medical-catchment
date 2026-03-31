@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "43460",
+  "cbsa_name": "Sikeston, MO",
+  "mdi": 0.4365,
+  "bbox": [
+    -91.09,
+    35.89,
+    -88.09,
+    37.89
+  ],
+  "hospitals": [
+    {
+      "facility_id": "260113",
+      "name": "MISSOURI DELTA MEDICAL CENTER",
+      "beds": 188,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.8923,
+      "lon": -89.5894,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "29201",
+      "county_name": "Scott",
+      "state": "MO",
+      "pop_total": 38055,
+      "pop_65_plus": 6956,
+      "distance_to_hub_miles": 11.2
+    },
+    {
+      "county_fips": "29207",
+      "county_name": "Stoddard",
+      "state": "MO",
+      "pop_total": 28656,
+      "pop_65_plus": 5751,
+      "distance_to_hub_miles": 19.8
+    },
+    {
+      "county_fips": "29143",
+      "county_name": "New Madrid",
+      "state": "MO",
+      "pop_total": 16341,
+      "pop_65_plus": 3159,
+      "distance_to_hub_miles": 20.8
+    },
+    {
+      "county_fips": "29133",
+      "county_name": "Mississippi",
+      "state": "MO",
+      "pop_total": 12305,
+      "pop_65_plus": 2267,
+      "distance_to_hub_miles": 17.0
+    }
+  ],
+  "summary": {
+    "total_beds": 188,
+    "catchment_pop": 95357,
+    "catchment_pop_65_plus": 18133,
+    "catchment_pct_65_plus": 0.1902,
+    "max_catchment_radius_miles": 20.8,
+    "avg_catchment_distance_miles": 16.2,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 16000,
+    "hospital_emp_share": 0.053,
+    "avg_govt_payer_share": 0.65
+  }
+}

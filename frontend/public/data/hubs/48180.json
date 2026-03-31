@@ -1,0 +1,79 @@
+{
+  "cbsa_code": "48180",
+  "cbsa_name": "Waycross, GA",
+  "mdi": 0.574,
+  "bbox": [
+    -83.85,
+    30.23,
+    -80.85,
+    32.23
+  ],
+  "hospitals": [
+    {
+      "facility_id": "110003",
+      "name": "Memorial Satilla Health",
+      "beds": 237,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 31.2276,
+      "lon": -82.3479,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "13299",
+      "county_name": "Ware",
+      "state": "GA",
+      "pop_total": 35917,
+      "pop_65_plus": 6135,
+      "distance_to_hub_miles": 12.9
+    },
+    {
+      "county_fips": "13229",
+      "county_name": "Pierce",
+      "state": "GA",
+      "pop_total": 19822,
+      "pop_65_plus": 3399,
+      "distance_to_hub_miles": 12.1
+    },
+    {
+      "county_fips": "13025",
+      "county_name": "Brantley",
+      "state": "GA",
+      "pop_total": 18105,
+      "pop_65_plus": 2994,
+      "distance_to_hub_miles": 21.8
+    },
+    {
+      "county_fips": "13005",
+      "county_name": "Bacon",
+      "state": "GA",
+      "pop_total": 11138,
+      "pop_65_plus": 1887,
+      "distance_to_hub_miles": 23.4
+    },
+    {
+      "county_fips": "13065",
+      "county_name": "Clinch",
+      "state": "GA",
+      "pop_total": 6713,
+      "pop_65_plus": 1041,
+      "distance_to_hub_miles": 30.3
+    }
+  ],
+  "summary": {
+    "total_beds": 237,
+    "catchment_pop": 91695,
+    "catchment_pop_65_plus": 15456,
+    "catchment_pct_65_plus": 0.1686,
+    "max_catchment_radius_miles": 30.3,
+    "avg_catchment_distance_miles": 17.0,
+    "num_counties": 5,
+    "hospital_employment": 0,
+    "msa_total_employment": 14722,
+    "hospital_emp_share": 0.0671,
+    "avg_govt_payer_share": 0.65
+  }
+}

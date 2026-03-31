@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "15580",
+  "cbsa_name": "Butte-Silver Bow, MT",
+  "mdi": 0.3645,
+  "bbox": [
+    -114.05,
+    45.01,
+    -111.05,
+    47.01
+  ],
+  "hospitals": [
+    {
+      "facility_id": "270017",
+      "name": "ST JAMES HOSPITAL",
+      "beds": 98,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 46.0084,
+      "lon": -112.5453,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "30093",
+      "county_name": "Silver Bow",
+      "state": "MT",
+      "pop_total": 35306,
+      "pop_65_plus": 6879,
+      "distance_to_hub_miles": 9.1
+    },
+    {
+      "county_fips": "30043",
+      "county_name": "Jefferson",
+      "state": "MT",
+      "pop_total": 12273,
+      "pop_65_plus": 2752,
+      "distance_to_hub_miles": 23.7
+    },
+    {
+      "county_fips": "30001",
+      "county_name": "Beaverhead",
+      "state": "MT",
+      "pop_total": 9469,
+      "pop_65_plus": 2178,
+      "distance_to_hub_miles": 62.9
+    },
+    {
+      "county_fips": "30023",
+      "county_name": "Deer Lodge",
+      "state": "MT",
+      "pop_total": 9435,
+      "pop_65_plus": 2354,
+      "distance_to_hub_miles": 25.3
+    }
+  ],
+  "summary": {
+    "total_beds": 98,
+    "catchment_pop": 66483,
+    "catchment_pop_65_plus": 14163,
+    "catchment_pct_65_plus": 0.213,
+    "max_catchment_radius_miles": 62.9,
+    "avg_catchment_distance_miles": 21.8,
+    "num_counties": 4,
+    "hospital_employment": 751,
+    "msa_total_employment": 16398,
+    "hospital_emp_share": 0.0458,
+    "avg_govt_payer_share": 0.65
+  }
+}

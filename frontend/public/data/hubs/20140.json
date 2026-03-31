@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "20140",
+  "cbsa_name": "Dublin, GA",
+  "mdi": 0.7,
+  "bbox": [
+    -84.45,
+    31.53,
+    -81.45,
+    33.53
+  ],
+  "hospitals": [
+    {
+      "facility_id": "110125",
+      "name": "FAIRVIEW PARK HOSPITAL",
+      "beds": 190,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.534,
+      "lon": -82.9503,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "13175",
+      "county_name": "Laurens",
+      "state": "GA",
+      "pop_total": 49407,
+      "pop_65_plus": 8914,
+      "distance_to_hub_miles": 5.2
+    },
+    {
+      "county_fips": "13091",
+      "county_name": "Dodge",
+      "state": "GA",
+      "pop_total": 19977,
+      "pop_65_plus": 3798,
+      "distance_to_hub_miles": 28.1
+    },
+    {
+      "county_fips": "13167",
+      "county_name": "Johnson",
+      "state": "GA",
+      "pop_total": 9225,
+      "pop_65_plus": 1811,
+      "distance_to_hub_miles": 20.5
+    }
+  ],
+  "summary": {
+    "total_beds": 190,
+    "catchment_pop": 78609,
+    "catchment_pop_65_plus": 14523,
+    "catchment_pct_65_plus": 0.1847,
+    "max_catchment_radius_miles": 28.1,
+    "avg_catchment_distance_miles": 12.8,
+    "num_counties": 3,
+    "hospital_employment": 1820,
+    "msa_total_employment": 19576,
+    "hospital_emp_share": 0.0869,
+    "avg_govt_payer_share": 0.65
+  }
+}

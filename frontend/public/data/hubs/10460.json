@@ -1,0 +1,47 @@
+{
+  "cbsa_code": "10460",
+  "cbsa_name": "Alamogordo, NM",
+  "mdi": 0.366,
+  "bbox": [
+    -107.43,
+    31.92,
+    -104.43,
+    33.92
+  ],
+  "hospitals": [
+    {
+      "facility_id": "320004",
+      "name": "CHRISTUS SOUTHERN NEW MEXICO",
+      "beds": 98,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.925,
+      "lon": -105.9321,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "35035",
+      "county_name": "Otero",
+      "state": "NM",
+      "pop_total": 67850,
+      "pop_65_plus": 11541,
+      "distance_to_hub_miles": 24.2
+    }
+  ],
+  "summary": {
+    "total_beds": 98,
+    "catchment_pop": 67850,
+    "catchment_pop_65_plus": 11541,
+    "catchment_pct_65_plus": 0.1701,
+    "max_catchment_radius_miles": 24.2,
+    "avg_catchment_distance_miles": 24.2,
+    "num_counties": 1,
+    "hospital_employment": 8,
+    "msa_total_employment": 17520,
+    "hospital_emp_share": 0.0483,
+    "avg_govt_payer_share": 0.65
+  }
+}

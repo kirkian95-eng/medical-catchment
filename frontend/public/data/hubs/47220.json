@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "47220",
+  "cbsa_name": "Vineland, NJ",
+  "mdi": 0.3364,
+  "bbox": [
+    -76.56,
+    38.45,
+    -73.56,
+    40.45
+  ],
+  "hospitals": [
+    {
+      "facility_id": "310032",
+      "name": "INSPIRA MEDICAL CENTER VINELAND",
+      "beds": 374,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.4474,
+      "lon": -75.0581,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "34007",
+      "county_name": "Camden",
+      "state": "NJ",
+      "pop_total": 522581,
+      "pop_65_plus": 83495,
+      "distance_to_hub_miles": 25.1
+    },
+    {
+      "county_fips": "34015",
+      "county_name": "Gloucester",
+      "state": "NJ",
+      "pop_total": 302621,
+      "pop_65_plus": 48955,
+      "distance_to_hub_miles": 19.2
+    },
+    {
+      "county_fips": "34011",
+      "county_name": "Cumberland",
+      "state": "NJ",
+      "pop_total": 153588,
+      "pop_65_plus": 23937,
+      "distance_to_hub_miles": 9.0
+    },
+    {
+      "county_fips": "34033",
+      "county_name": "Salem",
+      "state": "NJ",
+      "pop_total": 64840,
+      "pop_65_plus": 12196,
+      "distance_to_hub_miles": 18.3
+    }
+  ],
+  "summary": {
+    "total_beds": 374,
+    "catchment_pop": 1043630,
+    "catchment_pop_65_plus": 168583,
+    "catchment_pct_65_plus": 0.1615,
+    "max_catchment_radius_miles": 25.1,
+    "avg_catchment_distance_miles": 20.6,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 59837,
+    "hospital_emp_share": 0.0467,
+    "avg_govt_payer_share": 0.65
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "34020",
+  "cbsa_name": "Morgan City, LA",
+  "mdi": 0.2266,
+  "bbox": [
+    -93.03,
+    28.75,
+    -89.6,
+    30.8
+  ],
+  "hospitals": [
+    {
+      "facility_id": "190014",
+      "name": "OCHSNER ST MARY",
+      "beds": 86,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 29.7521,
+      "lon": -91.1036,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "191310",
+      "name": "BAYOU BEND HEALTH SYSTEM",
+      "beds": 22,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 29.801,
+      "lon": -91.5264,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "22101",
+      "county_name": "St. Mary",
+      "state": "LA",
+      "pop_total": 49114,
+      "pop_65_plus": 8634,
+      "distance_to_hub_miles": 23.6
+    },
+    {
+      "county_fips": "22007",
+      "county_name": "Assumption",
+      "state": "LA",
+      "pop_total": 21067,
+      "pop_65_plus": 4090,
+      "distance_to_hub_miles": 10.7
+    }
+  ],
+  "summary": {
+    "total_beds": 108,
+    "catchment_pop": 70181,
+    "catchment_pop_65_plus": 12724,
+    "catchment_pct_65_plus": 0.1813,
+    "max_catchment_radius_miles": 23.6,
+    "avg_catchment_distance_miles": 19.7,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 20409,
+    "hospital_emp_share": 0.0276,
+    "avg_govt_payer_share": 0.6704
+  }
+}

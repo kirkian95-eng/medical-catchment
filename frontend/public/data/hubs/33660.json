@@ -1,0 +1,112 @@
+{
+  "cbsa_code": "33660",
+  "cbsa_name": "Mobile, AL",
+  "mdi": 0.3429,
+  "bbox": [
+    -89.7,
+    29.67,
+    -86.58,
+    31.73
+  ],
+  "hospitals": [
+    {
+      "facility_id": "010113",
+      "name": "MOBILE INFIRMARY MEDICAL CENTER",
+      "beds": 669,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.6966,
+      "lon": -88.0792,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "010087",
+      "name": "USA HEALTH UNIVERSITY HOSPITAL",
+      "beds": 406,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 30.7153,
+      "lon": -88.0948,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "010090",
+      "name": "USA HEALTH HCA PROVIDENCE HOSPITAL, LLC",
+      "beds": 349,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 30.6833,
+      "lon": -88.2021,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "010144",
+      "name": "SPRINGHILL MEDICAL CENTER",
+      "beds": 263,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 30.6854,
+      "lon": -88.136,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "01097",
+      "county_name": "Mobile",
+      "state": "AL",
+      "pop_total": 413878,
+      "pop_65_plus": 69056,
+      "distance_to_hub_miles": 4.8
+    },
+    {
+      "county_fips": "28039",
+      "county_name": "George",
+      "state": "MS",
+      "pop_total": 24547,
+      "pop_65_plus": 3719,
+      "distance_to_hub_miles": 33.3
+    },
+    {
+      "county_fips": "01025",
+      "county_name": "Clarke",
+      "state": "AL",
+      "pop_total": 23058,
+      "pop_65_plus": 4700,
+      "distance_to_hub_miles": 69.8
+    },
+    {
+      "county_fips": "01129",
+      "county_name": "Washington",
+      "state": "AL",
+      "pop_total": 15434,
+      "pop_65_plus": 3051,
+      "distance_to_hub_miles": 49.4
+    },
+    {
+      "county_fips": "28041",
+      "county_name": "Greene",
+      "state": "MS",
+      "pop_total": 13672,
+      "pop_65_plus": 1993,
+      "distance_to_hub_miles": 47.3
+    }
+  ],
+  "summary": {
+    "total_beds": 1687,
+    "catchment_pop": 490589,
+    "catchment_pop_65_plus": 82519,
+    "catchment_pct_65_plus": 0.1682,
+    "max_catchment_radius_miles": 69.8,
+    "avg_catchment_distance_miles": 11.9,
+    "num_counties": 5,
+    "hospital_employment": 8625,
+    "msa_total_employment": 171453,
+    "hospital_emp_share": 0.0503,
+    "avg_govt_payer_share": 0.65
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "cbsa_code": "30140",
+  "cbsa_name": "Lebanon, PA",
+  "mdi": 0.6084,
+  "bbox": [
+    -77.92,
+    39.34,
+    -74.92,
+    41.34
+  ],
+  "hospitals": [
+    {
+      "facility_id": "390066",
+      "name": "WELLSPAN GOOD SAMARITAN HOSPITAL",
+      "beds": 163,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.3368,
+      "lon": -76.4173,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42075",
+      "county_name": "Lebanon",
+      "state": "PA",
+      "pop_total": 143258,
+      "pop_65_plus": 28432,
+      "distance_to_hub_miles": 3.0
+    }
+  ],
+  "summary": {
+    "total_beds": 163,
+    "catchment_pop": 143258,
+    "catchment_pop_65_plus": 28432,
+    "catchment_pct_65_plus": 0.1985,
+    "max_catchment_radius_miles": 3.0,
+    "avg_catchment_distance_miles": 3.0,
+    "num_counties": 1,
+    "hospital_employment": 3809,
+    "msa_total_employment": 52576,
+    "hospital_emp_share": 0.0724,
+    "avg_govt_payer_share": 0.65
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "cbsa_code": "25420",
+  "cbsa_name": "Harrisburg-Carlisle, PA",
+  "mdi": 0.4604,
+  "bbox": [
+    -78.72,
+    39.19,
+    -75.18,
+    41.29
+  ],
+  "hospitals": [
+    {
+      "facility_id": "390067",
+      "name": "UPMC PINNACLE HOSPITALS",
+      "beds": 737,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.2565,
+      "lon": -76.875,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "390256",
+      "name": "MILTON S HERSHEY MEDICAL CENTER",
+      "beds": 564,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.2732,
+      "lon": -76.6757,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "390004",
+      "name": "PENN STATE HEALTH HOLY SPIRIT MEDICAL CENTER",
+      "beds": 307,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.2348,
+      "lon": -76.9288,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "390058",
+      "name": "UPMC CARLISLE",
+      "beds": 165,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.1856,
+      "lon": -77.2184,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "390336",
+      "name": "PENN STATE HEALTH HAMPDEN MEDICAL CENTER",
+      "beds": 120,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.2943,
+      "lon": -76.9875,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42043",
+      "county_name": "Dauphin",
+      "state": "PA",
+      "pop_total": 286108,
+      "pop_65_plus": 49936,
+      "distance_to_hub_miles": 11.9
+    },
+    {
+      "county_fips": "42041",
+      "county_name": "Cumberland",
+      "state": "PA",
+      "pop_total": 261269,
+      "pop_65_plus": 48759,
+      "distance_to_hub_miles": 22.2
+    },
+    {
+      "county_fips": "42099",
+      "county_name": "Perry",
+      "state": "PA",
+      "pop_total": 45941,
+      "pop_65_plus": 8901,
+      "distance_to_hub_miles": 23.3
+    }
+  ],
+  "summary": {
+    "total_beds": 1893,
+    "catchment_pop": 593318,
+    "catchment_pop_65_plus": 107596,
+    "catchment_pct_65_plus": 0.1813,
+    "max_catchment_radius_miles": 23.3,
+    "avg_catchment_distance_miles": 17.3,
+    "num_counties": 3,
+    "hospital_employment": 19272,
+    "msa_total_employment": 324327,
+    "hospital_emp_share": 0.058,
+    "avg_govt_payer_share": 0.65
+  }
+}

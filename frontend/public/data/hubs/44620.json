@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "44620",
+  "cbsa_name": "Stevens Point-Plover, WI",
+  "mdi": 0.2077,
+  "bbox": [
+    -91.07,
+    43.53,
+    -88.01,
+    45.55
+  ],
+  "hospitals": [
+    {
+      "facility_id": "520002",
+      "name": "ASPIRUS STEVENS POINT HOSPITAL & CLINICS, INC.",
+      "beds": 181,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 44.5263,
+      "lon": -89.5663,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "520215",
+      "name": "MARSHFIELD MEDICAL CENTER - RIVER REGION",
+      "beds": 12,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.5504,
+      "lon": -89.5094,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "55097",
+      "county_name": "Portage",
+      "state": "WI",
+      "pop_total": 70281,
+      "pop_65_plus": 12274,
+      "distance_to_hub_miles": 4.7
+    },
+    {
+      "county_fips": "55137",
+      "county_name": "Waushara",
+      "state": "WI",
+      "pop_total": 24672,
+      "pop_65_plus": 6195,
+      "distance_to_hub_miles": 32.7
+    }
+  ],
+  "summary": {
+    "total_beds": 193,
+    "catchment_pop": 94953,
+    "catchment_pop_65_plus": 18469,
+    "catchment_pct_65_plus": 0.1945,
+    "max_catchment_radius_miles": 32.7,
+    "avg_catchment_distance_miles": 12.0,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 32980,
+    "hospital_emp_share": 0.0315,
+    "avg_govt_payer_share": 0.65
+  }
+}

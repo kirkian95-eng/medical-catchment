@@ -1,0 +1,82 @@
+{
+  "cbsa_code": "49220",
+  "cbsa_name": "Wisconsin Rapids-Marshfield, WI",
+  "mdi": 0.7,
+  "bbox": [
+    -91.68,
+    43.38,
+    -88.33,
+    45.68
+  ],
+  "hospitals": [
+    {
+      "facility_id": "520037",
+      "name": "MARSHFIELD MEDICAL CENTER",
+      "beds": 504,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 44.678,
+      "lon": -90.1798,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "520033",
+      "name": "ASPIRUS RIVERVIEW HOSPITAL & CLINICS INC",
+      "beds": 99,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.3823,
+      "lon": -89.8306,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "55141",
+      "county_name": "Wood",
+      "state": "WI",
+      "pop_total": 74138,
+      "pop_65_plus": 15630,
+      "distance_to_hub_miles": 12.7
+    },
+    {
+      "county_fips": "55019",
+      "county_name": "Clark",
+      "state": "WI",
+      "pop_total": 34703,
+      "pop_65_plus": 5836,
+      "distance_to_hub_miles": 25.2
+    },
+    {
+      "county_fips": "55053",
+      "county_name": "Jackson",
+      "state": "WI",
+      "pop_total": 20958,
+      "pop_65_plus": 4056,
+      "distance_to_hub_miles": 39.9
+    },
+    {
+      "county_fips": "55119",
+      "county_name": "Taylor",
+      "state": "WI",
+      "pop_total": 19979,
+      "pop_65_plus": 4024,
+      "distance_to_hub_miles": 44.3
+    }
+  ],
+  "summary": {
+    "total_beds": 603,
+    "catchment_pop": 149778,
+    "catchment_pop_65_plus": 29546,
+    "catchment_pct_65_plus": 0.1973,
+    "max_catchment_radius_miles": 44.3,
+    "avg_catchment_distance_miles": 23.6,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 36616,
+    "hospital_emp_share": 0.1022,
+    "avg_govt_payer_share": 0.65
+  }
+}

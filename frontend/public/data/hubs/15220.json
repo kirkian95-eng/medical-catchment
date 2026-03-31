@@ -1,0 +1,87 @@
+{
+  "cbsa_code": "15220",
+  "cbsa_name": "Brownwood, TX",
+  "mdi": 0.6275,
+  "bbox": [
+    -100.49,
+    30.68,
+    -97.49,
+    32.68
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450587",
+      "name": "HENDRICK MEDICAL CENTER BROWNWOOD",
+      "beds": 216,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 31.6773,
+      "lon": -98.9924,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48049",
+      "county_name": "Brown",
+      "state": "TX",
+      "pop_total": 38159,
+      "pop_65_plus": 7663,
+      "distance_to_hub_miles": 6.7
+    },
+    {
+      "county_fips": "48093",
+      "county_name": "Comanche",
+      "state": "TX",
+      "pop_total": 13651,
+      "pop_65_plus": 3214,
+      "distance_to_hub_miles": 31.6
+    },
+    {
+      "county_fips": "48083",
+      "county_name": "Coleman",
+      "state": "TX",
+      "pop_total": 7808,
+      "pop_65_plus": 1992,
+      "distance_to_hub_miles": 27.9
+    },
+    {
+      "county_fips": "48307",
+      "county_name": "McCulloch",
+      "state": "TX",
+      "pop_total": 7638,
+      "pop_65_plus": 1727,
+      "distance_to_hub_miles": 39.1
+    },
+    {
+      "county_fips": "48411",
+      "county_name": "San Saba",
+      "state": "TX",
+      "pop_total": 5779,
+      "pop_65_plus": 1310,
+      "distance_to_hub_miles": 37.5
+    },
+    {
+      "county_fips": "48333",
+      "county_name": "Mills",
+      "state": "TX",
+      "pop_total": 4501,
+      "pop_65_plus": 1266,
+      "distance_to_hub_miles": 26.5
+    }
+  ],
+  "summary": {
+    "total_beds": 216,
+    "catchment_pop": 77536,
+    "catchment_pop_65_plus": 17172,
+    "catchment_pct_65_plus": 0.2215,
+    "max_catchment_radius_miles": 39.1,
+    "avg_catchment_distance_miles": 19.9,
+    "num_counties": 6,
+    "hospital_employment": 0,
+    "msa_total_employment": 15683,
+    "hospital_emp_share": 0.0748,
+    "avg_govt_payer_share": 0.65
+  }
+}

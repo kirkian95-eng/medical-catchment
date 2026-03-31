@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "21220",
+  "cbsa_name": "Elko, NV",
+  "mdi": 0.1122,
+  "bbox": [
+    -117.23,
+    39.82,
+    -114.23,
+    41.82
+  ],
+  "hospitals": [
+    {
+      "facility_id": "290008",
+      "name": "NORTHEASTERN NEVADA REGIONAL HOSPITAL",
+      "beds": 75,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.8224,
+      "lon": -115.7292,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "32007",
+      "county_name": "Elko",
+      "state": "NV",
+      "pop_total": 53600,
+      "pop_65_plus": 6554,
+      "distance_to_hub_miles": 29.5
+    },
+    {
+      "county_fips": "32011",
+      "county_name": "Eureka",
+      "state": "NV",
+      "pop_total": 1622,
+      "pop_65_plus": 406,
+      "distance_to_hub_miles": 64.5
+    }
+  ],
+  "summary": {
+    "total_beds": 75,
+    "catchment_pop": 55222,
+    "catchment_pop_65_plus": 6960,
+    "catchment_pct_65_plus": 0.126,
+    "max_catchment_radius_miles": 64.5,
+    "avg_catchment_distance_miles": 30.5,
+    "num_counties": 2,
+    "hospital_employment": 44,
+    "msa_total_employment": 22401,
+    "hospital_emp_share": 0.0207,
+    "avg_govt_payer_share": 0.65
+  }
+}

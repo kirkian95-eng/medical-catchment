@@ -1,0 +1,88 @@
+{
+  "cbsa_code": "23700",
+  "cbsa_name": "Gallup, NM",
+  "mdi": 0.7864,
+  "bbox": [
+    -110.35,
+    34.07,
+    -106.72,
+    36.8
+  ],
+  "hospitals": [
+    {
+      "facility_id": "320061",
+      "name": "GALLUP INDIAN MEDICAL CENTER",
+      "beds": 85,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Federal",
+      "lat": 35.5084,
+      "lon": -108.7292,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "321313",
+      "name": "REHOBOTH MCKINLEY CHRISTIAN HEALTH CARE SERVICES",
+      "beds": 69,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.5221,
+      "lon": -108.7632,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "320060",
+      "name": "ZUNI COMPREHENSIVE COMMUNITY HEALTH CENTER",
+      "beds": 35,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Federal",
+      "lat": 35.0702,
+      "lon": -108.8454,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "320062",
+      "name": "CROWNPOINT HEALTHCARE FACILITY",
+      "beds": 20,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Federal",
+      "lat": 35.7982,
+      "lon": -108.221,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "35031",
+      "county_name": "McKinley",
+      "state": "NM",
+      "pop_total": 72073,
+      "pop_65_plus": 9188,
+      "distance_to_hub_miles": 30.0
+    },
+    {
+      "county_fips": "04001",
+      "county_name": "Apache",
+      "state": "AZ",
+      "pop_total": 66054,
+      "pop_65_plus": 10461,
+      "distance_to_hub_miles": 41.0
+    }
+  ],
+  "summary": {
+    "total_beds": 209,
+    "catchment_pop": 138127,
+    "catchment_pop_65_plus": 19649,
+    "catchment_pct_65_plus": 0.1423,
+    "max_catchment_radius_miles": 41.0,
+    "avg_catchment_distance_miles": 35.3,
+    "num_counties": 2,
+    "hospital_employment": 1606,
+    "msa_total_employment": 19828,
+    "hospital_emp_share": 0.081,
+    "avg_govt_payer_share": 0.683
+  }
+}

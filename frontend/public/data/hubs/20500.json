@@ -1,0 +1,126 @@
+{
+  "cbsa_code": "20500",
+  "cbsa_name": "Durham-Chapel Hill, NC",
+  "mdi": 0.3661,
+  "bbox": [
+    -80.93,
+    34.73,
+    -77.33,
+    37.4
+  ],
+  "hospitals": [
+    {
+      "facility_id": "340030",
+      "name": "DUKE UNIVERSITY HOSPITAL",
+      "beds": 1019,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.0082,
+      "lon": -78.9387,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "340061",
+      "name": "UNC HOSPITALS",
+      "beds": 724,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 35.9031,
+      "lon": -79.0497,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "340155",
+      "name": "DUKE REGIONAL HOSPITAL",
+      "beds": 391,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 36.0379,
+      "lon": -78.8979,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "341311",
+      "name": "CHATHAM HOSPITAL INC",
+      "beds": 68,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.7257,
+      "lon": -79.4264,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "340159",
+      "name": "PERSON MEMORIAL HOSPITAL",
+      "beds": 50,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.399,
+      "lon": -78.9751,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "340049",
+      "name": "NORTH CAROLINA SPECIALTY HOSPITAL",
+      "beds": 24,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.0424,
+      "lon": -78.8288,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "37063",
+      "county_name": "Durham",
+      "state": "NC",
+      "pop_total": 325101,
+      "pop_65_plus": 44897,
+      "distance_to_hub_miles": 7.1
+    },
+    {
+      "county_fips": "37135",
+      "county_name": "Orange",
+      "state": "NC",
+      "pop_total": 145919,
+      "pop_65_plus": 22449,
+      "distance_to_hub_miles": 9.6
+    },
+    {
+      "county_fips": "37037",
+      "county_name": "Chatham",
+      "state": "NC",
+      "pop_total": 76754,
+      "pop_65_plus": 19026,
+      "distance_to_hub_miles": 24.5
+    },
+    {
+      "county_fips": "37145",
+      "county_name": "Person",
+      "state": "NC",
+      "pop_total": 39131,
+      "pop_65_plus": 7960,
+      "distance_to_hub_miles": 28.3
+    }
+  ],
+  "summary": {
+    "total_beds": 2276,
+    "catchment_pop": 586905,
+    "catchment_pop_65_plus": 94332,
+    "catchment_pct_65_plus": 0.1607,
+    "max_catchment_radius_miles": 28.3,
+    "avg_catchment_distance_miles": 11.4,
+    "num_counties": 4,
+    "hospital_employment": 15998,
+    "msa_total_employment": 337959,
+    "hospital_emp_share": 0.0473,
+    "avg_govt_payer_share": 0.653
+  }
+}

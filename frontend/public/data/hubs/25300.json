@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "25300",
+  "cbsa_name": "Hannibal, MO",
+  "mdi": 0.2162,
+  "bbox": [
+    -92.95,
+    38.71,
+    -89.95,
+    40.71
+  ],
+  "hospitals": [
+    {
+      "facility_id": "260025",
+      "name": "HANNIBAL REGIONAL HOSPITAL",
+      "beds": 99,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.7068,
+      "lon": -91.4466,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "29127",
+      "county_name": "Marion",
+      "state": "MO",
+      "pop_total": 28525,
+      "pop_65_plus": 5196,
+      "distance_to_hub_miles": 11.6
+    },
+    {
+      "county_fips": "29163",
+      "county_name": "Pike",
+      "state": "MO",
+      "pop_total": 17719,
+      "pop_65_plus": 3247,
+      "distance_to_hub_miles": 29.0
+    },
+    {
+      "county_fips": "29173",
+      "county_name": "Ralls",
+      "state": "MO",
+      "pop_total": 10356,
+      "pop_65_plus": 2295,
+      "distance_to_hub_miles": 13.1
+    }
+  ],
+  "summary": {
+    "total_beds": 99,
+    "catchment_pop": 56600,
+    "catchment_pop_65_plus": 10738,
+    "catchment_pct_65_plus": 0.1897,
+    "max_catchment_radius_miles": 29.0,
+    "avg_catchment_distance_miles": 17.3,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 12833,
+    "hospital_emp_share": 0.0315,
+    "avg_govt_payer_share": 0.65
+  }
+}

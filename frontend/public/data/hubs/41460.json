@@ -1,0 +1,157 @@
+{
+  "cbsa_code": "41460",
+  "cbsa_name": "Salina, KS",
+  "mdi": 0.7062,
+  "bbox": [
+    -99.48,
+    37.41,
+    -95.83,
+    40.56
+  ],
+  "hospitals": [
+    {
+      "facility_id": "170012",
+      "name": "SALINA REGIONAL HEALTH CENTER",
+      "beds": 396,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.8333,
+      "lon": -97.6093,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "171328",
+      "name": "OTTAWA COUNTY HEALTH CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.1424,
+      "lon": -97.6958,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "170187",
+      "name": "SALINA SURGICAL HOSPITAL",
+      "beds": 16,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 38.8318,
+      "lon": -97.6546,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "20169",
+      "county_name": "Saline",
+      "state": "KS",
+      "pop_total": 54160,
+      "pop_65_plus": 9985,
+      "distance_to_hub_miles": 5.0
+    },
+    {
+      "county_fips": "20051",
+      "county_name": "Ellis",
+      "state": "KS",
+      "pop_total": 28921,
+      "pop_65_plus": 4381,
+      "distance_to_hub_miles": 91.7
+    },
+    {
+      "county_fips": "20041",
+      "county_name": "Dickinson",
+      "state": "KS",
+      "pop_total": 18492,
+      "pop_65_plus": 3802,
+      "distance_to_hub_miles": 24.9
+    },
+    {
+      "county_fips": "20029",
+      "county_name": "Cloud",
+      "state": "KS",
+      "pop_total": 9008,
+      "pop_65_plus": 1881,
+      "distance_to_hub_miles": 43.5
+    },
+    {
+      "county_fips": "20167",
+      "county_name": "Russell",
+      "state": "KS",
+      "pop_total": 6702,
+      "pop_65_plus": 1672,
+      "distance_to_hub_miles": 61.9
+    },
+    {
+      "county_fips": "20053",
+      "county_name": "Ellsworth",
+      "state": "KS",
+      "pop_total": 6374,
+      "pop_65_plus": 1455,
+      "distance_to_hub_miles": 33.5
+    },
+    {
+      "county_fips": "20123",
+      "county_name": "Mitchell",
+      "state": "KS",
+      "pop_total": 5829,
+      "pop_65_plus": 1323,
+      "distance_to_hub_miles": 49.2
+    },
+    {
+      "county_fips": "20143",
+      "county_name": "Ottawa",
+      "state": "KS",
+      "pop_total": 5768,
+      "pop_65_plus": 1167,
+      "distance_to_hub_miles": 19.5
+    },
+    {
+      "county_fips": "20163",
+      "county_name": "Rooks",
+      "state": "KS",
+      "pop_total": 4925,
+      "pop_65_plus": 1129,
+      "distance_to_hub_miles": 98.0
+    },
+    {
+      "county_fips": "20157",
+      "county_name": "Republic",
+      "state": "KS",
+      "pop_total": 4686,
+      "pop_65_plus": 1227,
+      "distance_to_hub_miles": 67.5
+    },
+    {
+      "county_fips": "20141",
+      "county_name": "Osborne",
+      "state": "KS",
+      "pop_total": 3493,
+      "pop_65_plus": 900,
+      "distance_to_hub_miles": 70.8
+    },
+    {
+      "county_fips": "20105",
+      "county_name": "Lincoln",
+      "state": "KS",
+      "pop_total": 2929,
+      "pop_65_plus": 735,
+      "distance_to_hub_miles": 34.6
+    }
+  ],
+  "summary": {
+    "total_beds": 437,
+    "catchment_pop": 151287,
+    "catchment_pop_65_plus": 29657,
+    "catchment_pct_65_plus": 0.196,
+    "max_catchment_radius_miles": 98.0,
+    "avg_catchment_distance_miles": 39.3,
+    "num_counties": 12,
+    "hospital_employment": 0,
+    "msa_total_employment": 31568,
+    "hospital_emp_share": 0.0813,
+    "avg_govt_payer_share": 0.6557
+  }
+}

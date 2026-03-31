@@ -1,0 +1,122 @@
+{
+  "cbsa_code": "47020",
+  "cbsa_name": "Victoria, TX",
+  "mdi": 0.2253,
+  "bbox": [
+    -98.49,
+    27.66,
+    -95.48,
+    29.96
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450147",
+      "name": "DE TAR HOSPITAL NAVARRO",
+      "beds": 278,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 28.8062,
+      "lon": -96.9854,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450023",
+      "name": "CITIZENS MEDICAL CENTER",
+      "beds": 265,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 28.8139,
+      "lon": -96.9768,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48187",
+      "county_name": "Guadalupe",
+      "state": "TX",
+      "pop_total": 173828,
+      "pop_65_plus": 24746,
+      "distance_to_hub_miles": 79.1
+    },
+    {
+      "county_fips": "48469",
+      "county_name": "Victoria",
+      "state": "TX",
+      "pop_total": 91209,
+      "pop_65_plus": 14916,
+      "distance_to_hub_miles": 1.1
+    },
+    {
+      "county_fips": "48493",
+      "county_name": "Wilson",
+      "state": "TX",
+      "pop_total": 50381,
+      "pop_65_plus": 8177,
+      "distance_to_hub_miles": 71.4
+    },
+    {
+      "county_fips": "48285",
+      "county_name": "Lavaca",
+      "state": "TX",
+      "pop_total": 20379,
+      "pop_65_plus": 4837,
+      "distance_to_hub_miles": 39.8
+    },
+    {
+      "county_fips": "48057",
+      "county_name": "Calhoun",
+      "state": "TX",
+      "pop_total": 20127,
+      "pop_65_plus": 3703,
+      "distance_to_hub_miles": 34.0
+    },
+    {
+      "county_fips": "48123",
+      "county_name": "DeWitt",
+      "state": "TX",
+      "pop_total": 19826,
+      "pop_65_plus": 3885,
+      "distance_to_hub_miles": 29.5
+    },
+    {
+      "county_fips": "48177",
+      "county_name": "Gonzales",
+      "state": "TX",
+      "pop_total": 19736,
+      "pop_65_plus": 3336,
+      "distance_to_hub_miles": 54.3
+    },
+    {
+      "county_fips": "48239",
+      "county_name": "Jackson",
+      "state": "TX",
+      "pop_total": 15010,
+      "pop_65_plus": 2893,
+      "distance_to_hub_miles": 26.4
+    },
+    {
+      "county_fips": "48175",
+      "county_name": "Goliad",
+      "state": "TX",
+      "pop_total": 7092,
+      "pop_65_plus": 1696,
+      "distance_to_hub_miles": 29.0
+    }
+  ],
+  "summary": {
+    "total_beds": 543,
+    "catchment_pop": 417588,
+    "catchment_pop_65_plus": 68189,
+    "catchment_pct_65_plus": 0.1633,
+    "max_catchment_radius_miles": 79.1,
+    "avg_catchment_distance_miles": 50.8,
+    "num_counties": 9,
+    "hospital_employment": 1347,
+    "msa_total_employment": 37460,
+    "hospital_emp_share": 0.0347,
+    "avg_govt_payer_share": 0.65
+  }
+}

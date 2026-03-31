@@ -1,0 +1,126 @@
+{
+  "cbsa_code": "27900",
+  "cbsa_name": "Joplin, MO-KS",
+  "mdi": 0.5976,
+  "bbox": [
+    -96.4,
+    35.86,
+    -92.78,
+    38.19
+  ],
+  "hospitals": [
+    {
+      "facility_id": "260137",
+      "name": "FREEMAN HEALTH SYSTEM - FREEMAN WEST",
+      "beds": 410,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.0551,
+      "lon": -94.5241,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "260001",
+      "name": "MERCY HOSPITAL JOPLIN",
+      "beds": 367,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 37.0403,
+      "lon": -94.5187,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "170203",
+      "name": "MERCY SPECIALTY HOSPITAL SOUTHEAST KANSAS",
+      "beds": 48,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.1258,
+      "lon": -94.6553,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "171308",
+      "name": "MERCY HOSPITAL COLUMBUS",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 37.1566,
+      "lon": -94.8953,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "261331",
+      "name": "FREEMAN NEOSHO HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.8611,
+      "lon": -94.4014,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "261338",
+      "name": "MERCY HOSPITAL CARTHAGE",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.1893,
+      "lon": -94.2793,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "29097",
+      "county_name": "Jasper",
+      "state": "MO",
+      "pop_total": 122788,
+      "pop_65_plus": 19365,
+      "distance_to_hub_miles": 14.7
+    },
+    {
+      "county_fips": "29145",
+      "county_name": "Newton",
+      "state": "MO",
+      "pop_total": 59019,
+      "pop_65_plus": 10970,
+      "distance_to_hub_miles": 14.7
+    },
+    {
+      "county_fips": "20099",
+      "county_name": "Labette",
+      "state": "KS",
+      "pop_total": 20096,
+      "pop_65_plus": 3937,
+      "distance_to_hub_miles": 43.4
+    },
+    {
+      "county_fips": "20021",
+      "county_name": "Cherokee",
+      "state": "KS",
+      "pop_total": 19380,
+      "pop_65_plus": 3786,
+      "distance_to_hub_miles": 19.2
+    }
+  ],
+  "summary": {
+    "total_beds": 900,
+    "catchment_pop": 221283,
+    "catchment_pop_65_plus": 38058,
+    "catchment_pct_65_plus": 0.172,
+    "max_catchment_radius_miles": 43.4,
+    "avg_catchment_distance_miles": 17.7,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 85699,
+    "hospital_emp_share": 0.0714,
+    "avg_govt_payer_share": 0.6583
+  }
+}

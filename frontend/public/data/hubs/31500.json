@@ -1,0 +1,103 @@
+{
+  "cbsa_code": "31500",
+  "cbsa_name": "Madison, IN",
+  "mdi": 0.1399,
+  "bbox": [
+    -86.86,
+    37.81,
+    -83.86,
+    39.81
+  ],
+  "hospitals": [
+    {
+      "facility_id": "150069",
+      "name": "NORTON-KING'S DAUGHTERS' HEALTH",
+      "beds": 86,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.8115,
+      "lon": -85.3621,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "18029",
+      "county_name": "Dearborn",
+      "state": "IN",
+      "pop_total": 50709,
+      "pop_65_plus": 9248,
+      "distance_to_hub_miles": 31.1
+    },
+    {
+      "county_fips": "18077",
+      "county_name": "Jefferson",
+      "state": "IN",
+      "pop_total": 33057,
+      "pop_65_plus": 6108,
+      "distance_to_hub_miles": 4.5
+    },
+    {
+      "county_fips": "18137",
+      "county_name": "Ripley",
+      "state": "IN",
+      "pop_total": 28990,
+      "pop_65_plus": 5330,
+      "distance_to_hub_miles": 20.9
+    },
+    {
+      "county_fips": "21041",
+      "county_name": "Carroll",
+      "state": "KY",
+      "pop_total": 10842,
+      "pop_65_plus": 1742,
+      "distance_to_hub_miles": 16.4
+    },
+    {
+      "county_fips": "18155",
+      "county_name": "Switzerland",
+      "state": "IN",
+      "pop_total": 9896,
+      "pop_65_plus": 1784,
+      "distance_to_hub_miles": 17.5
+    },
+    {
+      "county_fips": "21077",
+      "county_name": "Gallatin",
+      "state": "KY",
+      "pop_total": 8720,
+      "pop_65_plus": 1181,
+      "distance_to_hub_miles": 27.3
+    },
+    {
+      "county_fips": "21223",
+      "county_name": "Trimble",
+      "state": "KY",
+      "pop_total": 8510,
+      "pop_65_plus": 1497,
+      "distance_to_hub_miles": 13.8
+    },
+    {
+      "county_fips": "18115",
+      "county_name": "Ohio",
+      "state": "IN",
+      "pop_total": 5974,
+      "pop_65_plus": 1335,
+      "distance_to_hub_miles": 23.4
+    }
+  ],
+  "summary": {
+    "total_beds": 86,
+    "catchment_pop": 156698,
+    "catchment_pop_65_plus": 28225,
+    "catchment_pct_65_plus": 0.1801,
+    "max_catchment_radius_miles": 31.1,
+    "avg_catchment_distance_miles": 20.3,
+    "num_counties": 8,
+    "hospital_employment": 322,
+    "msa_total_employment": 12643,
+    "hospital_emp_share": 0.0255,
+    "avg_govt_payer_share": 0.65
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "cbsa_code": "44580",
+  "cbsa_name": "Sterling, IL",
+  "mdi": 0.2696,
+  "bbox": [
+    -91.46,
+    40.8,
+    -88.2,
+    42.83
+  ],
+  "hospitals": [
+    {
+      "facility_id": "140043",
+      "name": "CGH MEDICAL CENTER",
+      "beds": 98,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 41.8017,
+      "lon": -89.6967,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "141329",
+      "name": "MORRISON COMMUNITY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 41.8266,
+      "lon": -89.9635,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "17195",
+      "county_name": "Whiteside",
+      "state": "IL",
+      "pop_total": 55569,
+      "pop_65_plus": 11687,
+      "distance_to_hub_miles": 9.1
+    }
+  ],
+  "summary": {
+    "total_beds": 123,
+    "catchment_pop": 55569,
+    "catchment_pop_65_plus": 11687,
+    "catchment_pct_65_plus": 0.2103,
+    "max_catchment_radius_miles": 9.1,
+    "avg_catchment_distance_miles": 9.1,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 21015,
+    "hospital_emp_share": 0.0307,
+    "avg_govt_payer_share": 0.6703
+  }
+}

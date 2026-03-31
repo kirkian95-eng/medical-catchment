@@ -1,0 +1,185 @@
+{
+  "cbsa_code": "39340",
+  "cbsa_name": "Provo-Orem-Lehi, UT",
+  "mdi": 0.1643,
+  "bbox": [
+    -114.34,
+    37.74,
+    -109.14,
+    42.38
+  ],
+  "hospitals": [
+    {
+      "facility_id": "460001",
+      "name": "INTERMOUNTAIN HEALTH UTAH VALLEY HOSPITAL",
+      "beds": 395,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.249,
+      "lon": -111.6673,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "460013",
+      "name": "MOUNTAIN VIEW HOSPITAL",
+      "beds": 126,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.0445,
+      "lon": -111.7159,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "460052",
+      "name": "TIMPANOGOS REGIONAL HOSPITAL",
+      "beds": 122,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.3121,
+      "lon": -111.7147,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "460023",
+      "name": "AMERICAN FORK HOSPITAL",
+      "beds": 89,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.3804,
+      "lon": -111.769,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "460062",
+      "name": "INTERMOUNTAIN HEALTH SPANISH FORK HOSPITAL",
+      "beds": 33,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.133,
+      "lon": -111.6411,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "461304",
+      "name": "CENTRAL VALLEY MEDICAL CENTER - CAH",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.7307,
+      "lon": -111.8373,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "460043",
+      "name": "OREM COMMUNITY HOSPITAL",
+      "beds": 20,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.3037,
+      "lon": -111.7055,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "49049",
+      "county_name": "Utah",
+      "state": "UT",
+      "pop_total": 666021,
+      "pop_65_plus": 51513,
+      "distance_to_hub_miles": 7.1
+    },
+    {
+      "county_fips": "49051",
+      "county_name": "Wasatch",
+      "state": "UT",
+      "pop_total": 35009,
+      "pop_65_plus": 4462,
+      "distance_to_hub_miles": 29.0
+    },
+    {
+      "county_fips": "49039",
+      "county_name": "Sanpete",
+      "state": "UT",
+      "pop_total": 28816,
+      "pop_65_plus": 4072,
+      "distance_to_hub_miles": 58.8
+    },
+    {
+      "county_fips": "49041",
+      "county_name": "Sevier",
+      "state": "UT",
+      "pop_total": 21667,
+      "pop_65_plus": 3570,
+      "distance_to_hub_miles": 101.9
+    },
+    {
+      "county_fips": "49007",
+      "county_name": "Carbon",
+      "state": "UT",
+      "pop_total": 20338,
+      "pop_65_plus": 3742,
+      "distance_to_hub_miles": 70.9
+    },
+    {
+      "county_fips": "49013",
+      "county_name": "Duchesne",
+      "state": "UT",
+      "pop_total": 19779,
+      "pop_65_plus": 2440,
+      "distance_to_hub_miles": 67.3
+    },
+    {
+      "county_fips": "49027",
+      "county_name": "Millard",
+      "state": "UT",
+      "pop_total": 13027,
+      "pop_65_plus": 2253,
+      "distance_to_hub_miles": 108.8
+    },
+    {
+      "county_fips": "49023",
+      "county_name": "Juab",
+      "state": "UT",
+      "pop_total": 11943,
+      "pop_65_plus": 1498,
+      "distance_to_hub_miles": 67.7
+    },
+    {
+      "county_fips": "49015",
+      "county_name": "Emery",
+      "state": "UT",
+      "pop_total": 9898,
+      "pop_65_plus": 1755,
+      "distance_to_hub_miles": 99.8
+    },
+    {
+      "county_fips": "49055",
+      "county_name": "Wayne",
+      "state": "UT",
+      "pop_total": 2532,
+      "pop_65_plus": 568,
+      "distance_to_hub_miles": 137.7
+    }
+  ],
+  "summary": {
+    "total_beds": 810,
+    "catchment_pop": 829030,
+    "catchment_pop_65_plus": 75873,
+    "catchment_pct_65_plus": 0.0915,
+    "max_catchment_radius_miles": 137.7,
+    "avg_catchment_distance_miles": 19.3,
+    "num_counties": 10,
+    "hospital_employment": 7590,
+    "msa_total_employment": 295229,
+    "hospital_emp_share": 0.0257,
+    "avg_govt_payer_share": 0.6531
+  }
+}

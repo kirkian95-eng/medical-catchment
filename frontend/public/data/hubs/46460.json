@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "46460",
+  "cbsa_name": "Union City, TN",
+  "mdi": 0.4882,
+  "bbox": [
+    -90.54,
+    35.41,
+    -87.54,
+    37.41
+  ],
+  "hospitals": [
+    {
+      "facility_id": "440130",
+      "name": "BAPTIST MEMORIAL HOSPITAL UNION CITY",
+      "beds": 137,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.4147,
+      "lon": -89.0439,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "47131",
+      "county_name": "Obion",
+      "state": "TN",
+      "pop_total": 30670,
+      "pop_65_plus": 6272,
+      "distance_to_hub_miles": 7.0
+    },
+    {
+      "county_fips": "21075",
+      "county_name": "Fulton",
+      "state": "KY",
+      "pop_total": 6480,
+      "pop_65_plus": 1363,
+      "distance_to_hub_miles": 12.4
+    },
+    {
+      "county_fips": "21105",
+      "county_name": "Hickman",
+      "state": "KY",
+      "pop_total": 4491,
+      "pop_65_plus": 1102,
+      "distance_to_hub_miles": 18.6
+    }
+  ],
+  "summary": {
+    "total_beds": 137,
+    "catchment_pop": 41641,
+    "catchment_pop_65_plus": 8737,
+    "catchment_pct_65_plus": 0.2098,
+    "max_catchment_radius_miles": 18.6,
+    "avg_catchment_distance_miles": 9.1,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 12189,
+    "hospital_emp_share": 0.0593,
+    "avg_govt_payer_share": 0.65
+  }
+}

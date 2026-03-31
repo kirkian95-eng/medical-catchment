@@ -1,0 +1,136 @@
+{
+  "cbsa_code": "24260",
+  "cbsa_name": "Grand Island, NE",
+  "mdi": 0.2704,
+  "bbox": [
+    -99.95,
+    39.83,
+    -96.52,
+    42.34
+  ],
+  "hospitals": [
+    {
+      "facility_id": "280023",
+      "name": "CHI HEALTH ST. FRANCIS",
+      "beds": 130,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 40.9243,
+      "lon": -98.3701,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "280139",
+      "name": "GRAND ISLAND REGIONAL MEDICAL CENTER",
+      "beds": 67,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.9267,
+      "lon": -98.3615,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "281338",
+      "name": "HOWARD COUNTY MEDICAL CENTER",
+      "beds": 10,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 41.2401,
+      "lon": -98.4539,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "281328",
+      "name": "MERRICK MEDICAL CENTER",
+      "beds": 6,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.1636,
+      "lon": -98.0164,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "31079",
+      "county_name": "Hall",
+      "state": "NE",
+      "pop_total": 62575,
+      "pop_65_plus": 9670,
+      "distance_to_hub_miles": 7.9
+    },
+    {
+      "county_fips": "31081",
+      "county_name": "Hamilton",
+      "state": "NE",
+      "pop_total": 9400,
+      "pop_65_plus": 1909,
+      "distance_to_hub_miles": 18.3
+    },
+    {
+      "county_fips": "31121",
+      "county_name": "Merrick",
+      "state": "NE",
+      "pop_total": 7675,
+      "pop_65_plus": 1650,
+      "distance_to_hub_miles": 24.0
+    },
+    {
+      "county_fips": "31093",
+      "county_name": "Howard",
+      "state": "NE",
+      "pop_total": 6476,
+      "pop_65_plus": 1408,
+      "distance_to_hub_miles": 21.8
+    },
+    {
+      "county_fips": "31175",
+      "county_name": "Valley",
+      "state": "NE",
+      "pop_total": 4053,
+      "pop_65_plus": 1021,
+      "distance_to_hub_miles": 54.7
+    },
+    {
+      "county_fips": "31125",
+      "county_name": "Nance",
+      "state": "NE",
+      "pop_total": 3366,
+      "pop_65_plus": 707,
+      "distance_to_hub_miles": 38.0
+    },
+    {
+      "county_fips": "31077",
+      "county_name": "Greeley",
+      "state": "NE",
+      "pop_total": 2212,
+      "pop_65_plus": 568,
+      "distance_to_hub_miles": 45.1
+    },
+    {
+      "county_fips": "31071",
+      "county_name": "Garfield",
+      "state": "NE",
+      "pop_total": 1833,
+      "pop_65_plus": 498,
+      "distance_to_hub_miles": 75.6
+    }
+  ],
+  "summary": {
+    "total_beds": 213,
+    "catchment_pop": 97590,
+    "catchment_pop_65_plus": 17431,
+    "catchment_pct_65_plus": 0.1786,
+    "max_catchment_radius_miles": 75.6,
+    "avg_catchment_distance_miles": 16.2,
+    "num_counties": 8,
+    "hospital_employment": 1374,
+    "msa_total_employment": 39568,
+    "hospital_emp_share": 0.0347,
+    "avg_govt_payer_share": 0.6575
+  }
+}

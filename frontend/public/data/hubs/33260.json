@@ -1,0 +1,82 @@
+{
+  "cbsa_code": "33260",
+  "cbsa_name": "Midland, TX",
+  "mdi": 0.1648,
+  "bbox": [
+    -103.6,
+    31.0,
+    -100.38,
+    33.19
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450133",
+      "name": "MIDLAND MEMORIAL HOSPITAL",
+      "beds": 540,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 31.9985,
+      "lon": -102.1019,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "451333",
+      "name": "MARTIN COUNTY HOSPITAL DISTRICT",
+      "beds": 18,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.1894,
+      "lon": -101.8829,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48329",
+      "county_name": "Midland",
+      "state": "TX",
+      "pop_total": 169393,
+      "pop_65_plus": 17404,
+      "distance_to_hub_miles": 9.8
+    },
+    {
+      "county_fips": "48165",
+      "county_name": "Gaines",
+      "state": "TX",
+      "pop_total": 21523,
+      "pop_65_plus": 1911,
+      "distance_to_hub_miles": 60.0
+    },
+    {
+      "county_fips": "48317",
+      "county_name": "Martin",
+      "state": "TX",
+      "pop_total": 5228,
+      "pop_65_plus": 550,
+      "distance_to_hub_miles": 23.0
+    },
+    {
+      "county_fips": "48383",
+      "county_name": "Reagan",
+      "state": "TX",
+      "pop_total": 3308,
+      "pop_65_plus": 277,
+      "distance_to_hub_miles": 55.4
+    }
+  ],
+  "summary": {
+    "total_beds": 558,
+    "catchment_pop": 199452,
+    "catchment_pop_65_plus": 20142,
+    "catchment_pct_65_plus": 0.101,
+    "max_catchment_radius_miles": 60.0,
+    "avg_catchment_distance_miles": 16.3,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 117004,
+    "hospital_emp_share": 0.0292,
+    "avg_govt_payer_share": 0.6532
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "cbsa_code": "15500",
+  "cbsa_name": "Burlington, NC",
+  "mdi": 0.4067,
+  "bbox": [
+    -81.0,
+    35.06,
+    -78.0,
+    37.06
+  ],
+  "hospitals": [
+    {
+      "facility_id": "340070",
+      "name": "ALAMANCE REGIONAL MEDICAL CENTER",
+      "beds": 238,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.064,
+      "lon": -79.502,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "37001",
+      "county_name": "Alamance",
+      "state": "NC",
+      "pop_total": 171779,
+      "pop_65_plus": 29084,
+      "distance_to_hub_miles": 5.9
+    }
+  ],
+  "summary": {
+    "total_beds": 238,
+    "catchment_pop": 171779,
+    "catchment_pop_65_plus": 29084,
+    "catchment_pct_65_plus": 0.1693,
+    "max_catchment_radius_miles": 5.9,
+    "avg_catchment_distance_miles": 5.9,
+    "num_counties": 1,
+    "hospital_employment": 114,
+    "msa_total_employment": 66553,
+    "hospital_emp_share": 0.0471,
+    "avg_govt_payer_share": 0.65
+  }
+}

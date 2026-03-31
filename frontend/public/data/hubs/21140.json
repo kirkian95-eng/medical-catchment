@@ -1,0 +1,58 @@
+{
+  "cbsa_code": "21140",
+  "cbsa_name": "Elkhart-Goshen, IN",
+  "mdi": 0.1605,
+  "bbox": [
+    -87.49,
+    40.56,
+    -84.33,
+    42.68
+  ],
+  "hospitals": [
+    {
+      "facility_id": "150018",
+      "name": "ELKHART GENERAL HOSPITAL",
+      "beds": 297,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 41.6831,
+      "lon": -85.9908,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "150026",
+      "name": "GOSHEN HOSPITAL",
+      "beds": 123,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.5642,
+      "lon": -85.8305,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "18039",
+      "county_name": "Elkhart",
+      "state": "IN",
+      "pop_total": 206841,
+      "pop_65_plus": 31363,
+      "distance_to_hub_miles": 5.6
+    }
+  ],
+  "summary": {
+    "total_beds": 420,
+    "catchment_pop": 206841,
+    "catchment_pop_65_plus": 31363,
+    "catchment_pct_65_plus": 0.1516,
+    "max_catchment_radius_miles": 5.6,
+    "avg_catchment_distance_miles": 5.6,
+    "num_counties": 1,
+    "hospital_employment": 3648,
+    "msa_total_employment": 131337,
+    "hospital_emp_share": 0.0278,
+    "avg_govt_payer_share": 0.65
+  }
+}

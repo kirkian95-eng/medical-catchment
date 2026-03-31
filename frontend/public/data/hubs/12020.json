@@ -1,0 +1,170 @@
+{
+  "cbsa_code": "12020",
+  "cbsa_name": "Athens-Clarke County, GA",
+  "mdi": 0.3803,
+  "bbox": [
+    -84.93,
+    32.94,
+    -81.9,
+    34.96
+  ],
+  "hospitals": [
+    {
+      "facility_id": "110074",
+      "name": "PIEDMONT ATHENS REGIONAL MEDICAL CENTER",
+      "beds": 315,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 33.9612,
+      "lon": -83.3983,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "110006",
+      "name": "ST MARY'S HOSPITAL",
+      "beds": 196,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.9403,
+      "lon": -83.4336,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "13059",
+      "county_name": "Clarke",
+      "state": "GA",
+      "pop_total": 128864,
+      "pop_65_plus": 14825,
+      "distance_to_hub_miles": 2.5
+    },
+    {
+      "county_fips": "13217",
+      "county_name": "Newton",
+      "state": "GA",
+      "pop_total": 113298,
+      "pop_65_plus": 14952,
+      "distance_to_hub_miles": 37.3
+    },
+    {
+      "county_fips": "13297",
+      "county_name": "Walton",
+      "state": "GA",
+      "pop_total": 97752,
+      "pop_65_plus": 15545,
+      "distance_to_hub_miles": 22.0
+    },
+    {
+      "county_fips": "13247",
+      "county_name": "Rockdale",
+      "state": "GA",
+      "pop_total": 93641,
+      "pop_65_plus": 14130,
+      "distance_to_hub_miles": 40.9
+    },
+    {
+      "county_fips": "13013",
+      "county_name": "Barrow",
+      "state": "GA",
+      "pop_total": 84399,
+      "pop_65_plus": 10667,
+      "distance_to_hub_miles": 17.4
+    },
+    {
+      "county_fips": "13157",
+      "county_name": "Jackson",
+      "state": "GA",
+      "pop_total": 77033,
+      "pop_65_plus": 11126,
+      "distance_to_hub_miles": 15.3
+    },
+    {
+      "county_fips": "13219",
+      "county_name": "Oconee",
+      "state": "GA",
+      "pop_total": 41978,
+      "pop_65_plus": 6503,
+      "distance_to_hub_miles": 8.3
+    },
+    {
+      "county_fips": "13195",
+      "county_name": "Madison",
+      "state": "GA",
+      "pop_total": 30378,
+      "pop_65_plus": 5364,
+      "distance_to_hub_miles": 16.8
+    },
+    {
+      "county_fips": "13119",
+      "county_name": "Franklin",
+      "state": "GA",
+      "pop_total": 23480,
+      "pop_65_plus": 4330,
+      "distance_to_hub_miles": 31.0
+    },
+    {
+      "county_fips": "13211",
+      "county_name": "Morgan",
+      "state": "GA",
+      "pop_total": 20171,
+      "pop_65_plus": 4066,
+      "distance_to_hub_miles": 25.4
+    },
+    {
+      "county_fips": "13105",
+      "county_name": "Elbert",
+      "state": "GA",
+      "pop_total": 19570,
+      "pop_65_plus": 4077,
+      "distance_to_hub_miles": 34.7
+    },
+    {
+      "county_fips": "13133",
+      "county_name": "Greene",
+      "state": "GA",
+      "pop_total": 19020,
+      "pop_65_plus": 5638,
+      "distance_to_hub_miles": 29.5
+    },
+    {
+      "county_fips": "13221",
+      "county_name": "Oglethorpe",
+      "state": "GA",
+      "pop_total": 14974,
+      "pop_65_plus": 2801,
+      "distance_to_hub_miles": 19.6
+    },
+    {
+      "county_fips": "13317",
+      "county_name": "Wilkes",
+      "state": "GA",
+      "pop_total": 9610,
+      "pop_65_plus": 2246,
+      "distance_to_hub_miles": 40.2
+    },
+    {
+      "county_fips": "13265",
+      "county_name": "Taliaferro",
+      "state": "GA",
+      "pop_total": 1635,
+      "pop_65_plus": 457,
+      "distance_to_hub_miles": 40.6
+    }
+  ],
+  "summary": {
+    "total_beds": 511,
+    "catchment_pop": 775803,
+    "catchment_pop_65_plus": 116727,
+    "catchment_pct_65_plus": 0.1505,
+    "max_catchment_radius_miles": 40.9,
+    "avg_catchment_distance_miles": 22.2,
+    "num_counties": 15,
+    "hospital_employment": 4873,
+    "msa_total_employment": 72404,
+    "hospital_emp_share": 0.053,
+    "avg_govt_payer_share": 0.65
+  }
+}

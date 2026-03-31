@@ -1,0 +1,131 @@
+{
+  "cbsa_code": "10420",
+  "cbsa_name": "Akron, OH",
+  "mdi": 0.3954,
+  "bbox": [
+    -83.03,
+    40.08,
+    -79.7,
+    42.17
+  ],
+  "hospitals": [
+    {
+      "facility_id": "360020",
+      "name": "SUMMA HEALTH SYSTEM",
+      "beds": 1093,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.0784,
+      "lon": -81.5001,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "360027",
+      "name": "AKRON GENERAL MEDICAL CENTER",
+      "beds": 511,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.0783,
+      "lon": -81.5335,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "360078",
+      "name": "UNIVERSITY HOSPITALS PORTAGE MEDICAL CENTER",
+      "beds": 302,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.169,
+      "lon": -81.197,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "360150",
+      "name": "SUMMA WESTERN RESERVE HOSPITAL",
+      "beds": 258,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 41.1697,
+      "lon": -81.5311,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "360351",
+      "name": "CRYSTAL CLINIC ORTHOPAEDIC CENTER",
+      "beds": 94,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.1092,
+      "lon": -81.5,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "39035",
+      "county_name": "Cuyahoga",
+      "state": "OH",
+      "pop_total": 1256620,
+      "pop_65_plus": 234709,
+      "distance_to_hub_miles": 38.7
+    },
+    {
+      "county_fips": "39153",
+      "county_name": "Summit",
+      "state": "OH",
+      "pop_total": 539361,
+      "pop_65_plus": 100350,
+      "distance_to_hub_miles": 3.6
+    },
+    {
+      "county_fips": "39085",
+      "county_name": "Lake",
+      "state": "OH",
+      "pop_total": 232236,
+      "pop_65_plus": 47984,
+      "distance_to_hub_miles": 57.0
+    },
+    {
+      "county_fips": "39103",
+      "county_name": "Medina",
+      "state": "OH",
+      "pop_total": 182347,
+      "pop_65_plus": 34206,
+      "distance_to_hub_miles": 22.4
+    },
+    {
+      "county_fips": "39133",
+      "county_name": "Portage",
+      "state": "OH",
+      "pop_total": 161217,
+      "pop_65_plus": 27897,
+      "distance_to_hub_miles": 14.9
+    },
+    {
+      "county_fips": "39055",
+      "county_name": "Geauga",
+      "state": "OH",
+      "pop_total": 95455,
+      "pop_65_plus": 20354,
+      "distance_to_hub_miles": 31.4
+    }
+  ],
+  "summary": {
+    "total_beds": 2258,
+    "catchment_pop": 2467236,
+    "catchment_pop_65_plus": 465500,
+    "catchment_pct_65_plus": 0.1887,
+    "max_catchment_radius_miles": 57.0,
+    "avg_catchment_distance_miles": 29.7,
+    "num_counties": 6,
+    "hospital_employment": 17369,
+    "msa_total_employment": 318338,
+    "hospital_emp_share": 0.0546,
+    "avg_govt_payer_share": 0.65
+  }
+}

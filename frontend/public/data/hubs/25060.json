@@ -1,0 +1,115 @@
+{
+  "cbsa_code": "25060",
+  "cbsa_name": "Gulfport-Biloxi, MS",
+  "mdi": 0.4502,
+  "bbox": [
+    -90.98,
+    29.27,
+    -87.03,
+    31.44
+  ],
+  "hospitals": [
+    {
+      "facility_id": "250040",
+      "name": "SINGING RIVER HEALTH SYSTEM",
+      "beds": 551,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 30.3734,
+      "lon": -88.5346,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "250019",
+      "name": "MEMORIAL HOSPITAL AT GULFPORT",
+      "beds": 445,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 30.3668,
+      "lon": -89.1153,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "250007",
+      "name": "Memorial Hospital Biloxi",
+      "beds": 153,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 30.3949,
+      "lon": -88.8903,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "250123",
+      "name": "SINGING RIVER GULFPORT",
+      "beds": 130,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 30.4421,
+      "lon": -89.0928,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "250162",
+      "name": "OCHSNER MEDICAL CENTER-HANCOCK",
+      "beds": 104,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 30.2689,
+      "lon": -89.4808,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "28047",
+      "county_name": "Harrison",
+      "state": "MS",
+      "pop_total": 208748,
+      "pop_65_plus": 33056,
+      "distance_to_hub_miles": 12.2
+    },
+    {
+      "county_fips": "28059",
+      "county_name": "Jackson",
+      "state": "MS",
+      "pop_total": 143721,
+      "pop_65_plus": 23696,
+      "distance_to_hub_miles": 16.8
+    },
+    {
+      "county_fips": "22087",
+      "county_name": "St. Bernard",
+      "state": "LA",
+      "pop_total": 44038,
+      "pop_65_plus": 5408,
+      "distance_to_hub_miles": 40.9
+    },
+    {
+      "county_fips": "28131",
+      "county_name": "Stone",
+      "state": "MS",
+      "pop_total": 18360,
+      "pop_65_plus": 3291,
+      "distance_to_hub_miles": 32.0
+    }
+  ],
+  "summary": {
+    "total_beds": 1383,
+    "catchment_pop": 414867,
+    "catchment_pop_65_plus": 65451,
+    "catchment_pct_65_plus": 0.1578,
+    "max_catchment_radius_miles": 40.9,
+    "avg_catchment_distance_miles": 17.7,
+    "num_counties": 4,
+    "hospital_employment": 10171,
+    "msa_total_employment": 153554,
+    "hospital_emp_share": 0.0651,
+    "avg_govt_payer_share": 0.65
+  }
+}

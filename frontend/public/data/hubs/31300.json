@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "31300",
+  "cbsa_name": "Lumberton, NC",
+  "mdi": 0.5098,
+  "bbox": [
+    -80.51,
+    33.61,
+    -77.51,
+    35.61
+  ],
+  "hospitals": [
+    {
+      "facility_id": "340050",
+      "name": "SOUTHEASTERN REGIONAL MEDICAL CENTER",
+      "beds": 314,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.6077,
+      "lon": -79.0144,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "37155",
+      "county_name": "Robeson",
+      "state": "NC",
+      "pop_total": 117573,
+      "pop_65_plus": 18433,
+      "distance_to_hub_miles": 5.6
+    },
+    {
+      "county_fips": "37047",
+      "county_name": "Columbus",
+      "state": "NC",
+      "pop_total": 50827,
+      "pop_65_plus": 10195,
+      "distance_to_hub_miles": 31.3
+    },
+    {
+      "county_fips": "37017",
+      "county_name": "Bladen",
+      "state": "NC",
+      "pop_total": 29807,
+      "pop_65_plus": 6801,
+      "distance_to_hub_miles": 25.6
+    }
+  ],
+  "summary": {
+    "total_beds": 314,
+    "catchment_pop": 198207,
+    "catchment_pop_65_plus": 35429,
+    "catchment_pct_65_plus": 0.1787,
+    "max_catchment_radius_miles": 31.3,
+    "avg_catchment_distance_miles": 15.2,
+    "num_counties": 3,
+    "hospital_employment": 21,
+    "msa_total_employment": 38103,
+    "hospital_emp_share": 0.0474,
+    "avg_govt_payer_share": 0.65
+  }
+}

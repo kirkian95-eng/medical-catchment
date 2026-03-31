@@ -1,0 +1,161 @@
+{
+  "cbsa_code": "21340",
+  "cbsa_name": "El Paso, TX",
+  "mdi": 0.1897,
+  "bbox": [
+    -109.84,
+    29.06,
+    -102.83,
+    34.5
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450107",
+      "name": "LAS PALMAS MEDICAL CENTER A CAMPUS OF LPDS HEALTHC",
+      "beds": 642,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 31.7702,
+      "lon": -106.4986,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450002",
+      "name": "THE HOSPITALS OF PROVIDENCE - MEMORIAL CAMPUS",
+      "beds": 486,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 31.7717,
+      "lon": -106.4999,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450024",
+      "name": "UNIVERSITY MEDICAL CENTER OF EL PASO",
+      "beds": 354,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 31.7704,
+      "lon": -106.4332,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450668",
+      "name": "SIERRA MEDICAL CENTER",
+      "beds": 283,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 31.7849,
+      "lon": -106.4969,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "670047",
+      "name": "THE HOSPITALS OF PROVIDENCE - EAST CAMPUS",
+      "beds": 218,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 31.7901,
+      "lon": -106.2675,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "670120",
+      "name": "THE HOSPITALS OF PROVIDENCE TRANSMOUNTAIN CAMPUS",
+      "beds": 114,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 31.8882,
+      "lon": -106.5625,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "670124",
+      "name": "THE HOSPITALS OF PROVIDENCE HORIZON CITY CAMPUS",
+      "beds": 16,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 31.6786,
+      "lon": -106.1151,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48141",
+      "county_name": "El Paso",
+      "state": "TX",
+      "pop_total": 863832,
+      "pop_65_plus": 108308,
+      "distance_to_hub_miles": 13.7
+    },
+    {
+      "county_fips": "35013",
+      "county_name": "Do\u00f1a Ana",
+      "state": "NM",
+      "pop_total": 219870,
+      "pop_65_plus": 35342,
+      "distance_to_hub_miles": 44.9
+    },
+    {
+      "county_fips": "35017",
+      "county_name": "Grant",
+      "state": "NM",
+      "pop_total": 28006,
+      "pop_65_plus": 7952,
+      "distance_to_hub_miles": 130.0
+    },
+    {
+      "county_fips": "35029",
+      "county_name": "Luna",
+      "state": "NM",
+      "pop_total": 25393,
+      "pop_65_plus": 5214,
+      "distance_to_hub_miles": 80.1
+    },
+    {
+      "county_fips": "35051",
+      "county_name": "Sierra",
+      "state": "NM",
+      "pop_total": 11506,
+      "pop_65_plus": 4132,
+      "distance_to_hub_miles": 102.4
+    },
+    {
+      "county_fips": "48377",
+      "county_name": "Presidio",
+      "state": "TX",
+      "pop_total": 6168,
+      "pop_65_plus": 1405,
+      "distance_to_hub_miles": 180.5
+    },
+    {
+      "county_fips": "48229",
+      "county_name": "Hudspeth",
+      "state": "TX",
+      "pop_total": 3329,
+      "pop_65_plus": 367,
+      "distance_to_hub_miles": 67.4
+    }
+  ],
+  "summary": {
+    "total_beds": 2113,
+    "catchment_pop": 1158104,
+    "catchment_pop_65_plus": 162720,
+    "catchment_pct_65_plus": 0.1405,
+    "max_catchment_radius_miles": 180.5,
+    "avg_catchment_distance_miles": 25.8,
+    "num_counties": 7,
+    "hospital_employment": 10175,
+    "msa_total_employment": 325804,
+    "hospital_emp_share": 0.0311,
+    "avg_govt_payer_share": 0.65
+  }
+}

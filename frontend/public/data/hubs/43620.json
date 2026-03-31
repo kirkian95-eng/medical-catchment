@@ -1,0 +1,404 @@
+{
+  "cbsa_code": "43620",
+  "cbsa_name": "Sioux Falls, SD-MN",
+  "mdi": 0.7183,
+  "bbox": [
+    -100.03,
+    40.9,
+    -93.36,
+    46.14
+  ],
+  "hospitals": [
+    {
+      "facility_id": "430027",
+      "name": "SANFORD USD MEDICAL CENTER",
+      "beds": 545,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.6746,
+      "lon": -96.7913,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "430016",
+      "name": "AVERA MCKENNAN HOSPITAL & UNIVERSITY HEALTH CENTER",
+      "beds": 505,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.6746,
+      "lon": -96.7913,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "430095",
+      "name": "AVERA HEART HOSPITAL OF SOUTH DAKOTA",
+      "beds": 53,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 43.4775,
+      "lon": -96.7048,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "430090",
+      "name": "SIOUX FALLS SPECIALTY HOSPITAL",
+      "beds": 33,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 43.5203,
+      "lon": -96.7356,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "241371",
+      "name": "SANFORD LUVERNE MEDICAL CENTER",
+      "beds": 28,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.6615,
+      "lon": -96.2272,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "431331",
+      "name": "AVERA DELLS AREA HOSPITAL  - CAH",
+      "beds": 23,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.8563,
+      "lon": -96.7366,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "431328",
+      "name": "PIONEER MEMORIAL HOSPITAL - CAH",
+      "beds": 12,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.182,
+      "lon": -97.1702,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "431333",
+      "name": "SANFORD CANTON-INWOOD MEDICAL CENTER - CAH",
+      "beds": 11,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.2831,
+      "lon": -96.625,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "46099",
+      "county_name": "Minnehaha",
+      "state": "SD",
+      "pop_total": 197742,
+      "pop_65_plus": 26691,
+      "distance_to_hub_miles": 1.3
+    },
+    {
+      "county_fips": "46083",
+      "county_name": "Lincoln",
+      "state": "SD",
+      "pop_total": 65801,
+      "pop_65_plus": 9022,
+      "distance_to_hub_miles": 26.5
+    },
+    {
+      "county_fips": "27083",
+      "county_name": "Lyon",
+      "state": "MN",
+      "pop_total": 25352,
+      "pop_65_plus": 4247,
+      "distance_to_hub_miles": 69.7
+    },
+    {
+      "county_fips": "46135",
+      "county_name": "Yankton",
+      "state": "SD",
+      "pop_total": 23311,
+      "pop_65_plus": 4641,
+      "distance_to_hub_miles": 54.8
+    },
+    {
+      "county_fips": "27105",
+      "county_name": "Nobles",
+      "state": "MN",
+      "pop_total": 22194,
+      "pop_65_plus": 3809,
+      "distance_to_hub_miles": 50.9
+    },
+    {
+      "county_fips": "46035",
+      "county_name": "Davison",
+      "state": "SD",
+      "pop_total": 19966,
+      "pop_65_plus": 3989,
+      "distance_to_hub_miles": 68.6
+    },
+    {
+      "county_fips": "46005",
+      "county_name": "Beadle",
+      "state": "SD",
+      "pop_total": 19089,
+      "pop_65_plus": 3581,
+      "distance_to_hub_miles": 91.2
+    },
+    {
+      "county_fips": "19059",
+      "county_name": "Dickinson",
+      "state": "IA",
+      "pop_total": 17692,
+      "pop_65_plus": 4774,
+      "distance_to_hub_miles": 83.6
+    },
+    {
+      "county_fips": "19119",
+      "county_name": "Lyon",
+      "state": "IA",
+      "pop_total": 12023,
+      "pop_65_plus": 2279,
+      "distance_to_hub_miles": 34.2
+    },
+    {
+      "county_fips": "46079",
+      "county_name": "Lake",
+      "state": "SD",
+      "pop_total": 11207,
+      "pop_65_plus": 2625,
+      "distance_to_hub_miles": 30.6
+    },
+    {
+      "county_fips": "27063",
+      "county_name": "Jackson",
+      "state": "MN",
+      "pop_total": 9990,
+      "pop_65_plus": 2254,
+      "distance_to_hub_miles": 80.9
+    },
+    {
+      "county_fips": "27133",
+      "county_name": "Rock",
+      "state": "MN",
+      "pop_total": 9659,
+      "pop_65_plus": 1935,
+      "distance_to_hub_miles": 26.0
+    },
+    {
+      "county_fips": "27117",
+      "county_name": "Pipestone",
+      "state": "MN",
+      "pop_total": 9380,
+      "pop_65_plus": 1917,
+      "distance_to_hub_miles": 35.8
+    },
+    {
+      "county_fips": "46023",
+      "county_name": "Charles Mix",
+      "state": "SD",
+      "pop_total": 9302,
+      "pop_65_plus": 1690,
+      "distance_to_hub_miles": 96.3
+    },
+    {
+      "county_fips": "46125",
+      "county_name": "Turner",
+      "state": "SD",
+      "pop_total": 8687,
+      "pop_65_plus": 1873,
+      "distance_to_hub_miles": 30.7
+    },
+    {
+      "county_fips": "27101",
+      "county_name": "Murray",
+      "state": "MN",
+      "pop_total": 8170,
+      "pop_65_plus": 2118,
+      "distance_to_hub_miles": 56.1
+    },
+    {
+      "county_fips": "46051",
+      "county_name": "Grant",
+      "state": "SD",
+      "pop_total": 7533,
+      "pop_65_plus": 1730,
+      "distance_to_hub_miles": 104.4
+    },
+    {
+      "county_fips": "46067",
+      "county_name": "Hutchinson",
+      "state": "SD",
+      "pop_total": 7401,
+      "pop_65_plus": 1621,
+      "distance_to_hub_miles": 54.2
+    },
+    {
+      "county_fips": "46009",
+      "county_name": "Bon Homme",
+      "state": "SD",
+      "pop_total": 7018,
+      "pop_65_plus": 1490,
+      "distance_to_hub_miles": 72.7
+    },
+    {
+      "county_fips": "46101",
+      "county_name": "Moody",
+      "state": "SD",
+      "pop_total": 6346,
+      "pop_65_plus": 1236,
+      "distance_to_hub_miles": 25.5
+    },
+    {
+      "county_fips": "19143",
+      "county_name": "Osceola",
+      "state": "IA",
+      "pop_total": 6149,
+      "pop_65_plus": 1346,
+      "distance_to_hub_miles": 60.7
+    },
+    {
+      "county_fips": "46087",
+      "county_name": "McCook",
+      "state": "SD",
+      "pop_total": 5714,
+      "pop_65_plus": 1030,
+      "distance_to_hub_miles": 29.8
+    },
+    {
+      "county_fips": "46123",
+      "county_name": "Tripp",
+      "state": "SD",
+      "pop_total": 5607,
+      "pop_65_plus": 1291,
+      "distance_to_hub_miles": 157.5
+    },
+    {
+      "county_fips": "46015",
+      "county_name": "Brule",
+      "state": "SD",
+      "pop_total": 5247,
+      "pop_65_plus": 1004,
+      "distance_to_hub_miles": 115.4
+    },
+    {
+      "county_fips": "46077",
+      "county_name": "Kingsbury",
+      "state": "SD",
+      "pop_total": 5172,
+      "pop_65_plus": 1170,
+      "distance_to_hub_miles": 60.6
+    },
+    {
+      "county_fips": "46053",
+      "county_name": "Gregory",
+      "state": "SD",
+      "pop_total": 3983,
+      "pop_65_plus": 1004,
+      "distance_to_hub_miles": 125.4
+    },
+    {
+      "county_fips": "46085",
+      "county_name": "Lyman",
+      "state": "SD",
+      "pop_total": 3719,
+      "pop_65_plus": 636,
+      "distance_to_hub_miles": 154.3
+    },
+    {
+      "county_fips": "46061",
+      "county_name": "Hanson",
+      "state": "SD",
+      "pop_total": 3443,
+      "pop_65_plus": 541,
+      "distance_to_hub_miles": 50.7
+    },
+    {
+      "county_fips": "46043",
+      "county_name": "Douglas",
+      "state": "SD",
+      "pop_total": 2823,
+      "pop_65_plus": 666,
+      "distance_to_hub_miles": 82.1
+    },
+    {
+      "county_fips": "46003",
+      "county_name": "Aurora",
+      "state": "SD",
+      "pop_total": 2590,
+      "pop_65_plus": 499,
+      "distance_to_hub_miles": 89.5
+    },
+    {
+      "county_fips": "46111",
+      "county_name": "Sanborn",
+      "state": "SD",
+      "pop_total": 2373,
+      "pop_65_plus": 487,
+      "distance_to_hub_miles": 70.3
+    },
+    {
+      "county_fips": "46097",
+      "county_name": "Miner",
+      "state": "SD",
+      "pop_total": 2312,
+      "pop_65_plus": 559,
+      "distance_to_hub_miles": 48.6
+    },
+    {
+      "county_fips": "46017",
+      "county_name": "Buffalo",
+      "state": "SD",
+      "pop_total": 1859,
+      "pop_65_plus": 140,
+      "distance_to_hub_miles": 124.5
+    },
+    {
+      "county_fips": "46073",
+      "county_name": "Jerauld",
+      "state": "SD",
+      "pop_total": 1836,
+      "pop_65_plus": 568,
+      "distance_to_hub_miles": 96.7
+    },
+    {
+      "county_fips": "31015",
+      "county_name": "Boyd",
+      "state": "NE",
+      "pop_total": 1767,
+      "pop_65_plus": 589,
+      "distance_to_hub_miles": 113.2
+    },
+    {
+      "county_fips": "31103",
+      "county_name": "Keya Paha",
+      "state": "NE",
+      "pop_total": 987,
+      "pop_65_plus": 202,
+      "distance_to_hub_miles": 157.5
+    }
+  ],
+  "summary": {
+    "total_beds": 1210,
+    "catchment_pop": 553444,
+    "catchment_pop_65_plus": 95254,
+    "catchment_pct_65_plus": 0.1721,
+    "max_catchment_radius_miles": 157.5,
+    "avg_catchment_distance_miles": 38.8,
+    "num_counties": 36,
+    "hospital_employment": 17464,
+    "msa_total_employment": 170278,
+    "hospital_emp_share": 0.1018,
+    "avg_govt_payer_share": 0.6561
+  }
+}

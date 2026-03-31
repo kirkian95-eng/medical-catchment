@@ -1,0 +1,47 @@
+{
+  "cbsa_code": "35460",
+  "cbsa_name": "Newport, TN",
+  "mdi": 0.3999,
+  "bbox": [
+    -84.68,
+    34.96,
+    -81.68,
+    36.96
+  ],
+  "hospitals": [
+    {
+      "facility_id": "440153",
+      "name": "TENNOVA HEALTHCARE - NEWPORT MEDICAL CENTER",
+      "beds": 74,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.9648,
+      "lon": -83.1815,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "47029",
+      "county_name": "Cocke",
+      "state": "TN",
+      "pop_total": 36186,
+      "pop_65_plus": 7841,
+      "distance_to_hub_miles": 4.3
+    }
+  ],
+  "summary": {
+    "total_beds": 74,
+    "catchment_pop": 36186,
+    "catchment_pop_65_plus": 7841,
+    "catchment_pct_65_plus": 0.2167,
+    "max_catchment_radius_miles": 4.3,
+    "avg_catchment_distance_miles": 4.3,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 7824,
+    "hospital_emp_share": 0.0487,
+    "avg_govt_payer_share": 0.65
+  }
+}

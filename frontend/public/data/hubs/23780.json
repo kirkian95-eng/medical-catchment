@@ -1,0 +1,199 @@
+{
+  "cbsa_code": "23780",
+  "cbsa_name": "Garden City, KS",
+  "mdi": 0.1939,
+  "bbox": [
+    -102.8,
+    36.43,
+    -98.94,
+    39.51
+  ],
+  "hospitals": [
+    {
+      "facility_id": "170023",
+      "name": "ST. CATHERINE HOSPITAL - GARDEN CITY",
+      "beds": 100,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 37.9689,
+      "lon": -100.8685,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "20055",
+      "county_name": "Finney",
+      "state": "KS",
+      "pop_total": 38187,
+      "pop_65_plus": 4324,
+      "distance_to_hub_miles": 8.8
+    },
+    {
+      "county_fips": "20175",
+      "county_name": "Seward",
+      "state": "KS",
+      "pop_total": 21942,
+      "pop_65_plus": 2218,
+      "distance_to_hub_miles": 53.6
+    },
+    {
+      "county_fips": "08099",
+      "county_name": "Prowers",
+      "state": "CO",
+      "pop_total": 11968,
+      "pop_65_plus": 2156,
+      "distance_to_hub_miles": 83.1
+    },
+    {
+      "county_fips": "20193",
+      "county_name": "Thomas",
+      "state": "KS",
+      "pop_total": 7907,
+      "pop_65_plus": 1382,
+      "distance_to_hub_miles": 96.0
+    },
+    {
+      "county_fips": "20067",
+      "county_name": "Grant",
+      "state": "KS",
+      "pop_total": 7336,
+      "pop_65_plus": 937,
+      "distance_to_hub_miles": 37.0
+    },
+    {
+      "county_fips": "20181",
+      "county_name": "Sherman",
+      "state": "KS",
+      "pop_total": 5940,
+      "pop_65_plus": 1221,
+      "distance_to_hub_miles": 106.0
+    },
+    {
+      "county_fips": "20189",
+      "county_name": "Stevens",
+      "state": "KS",
+      "pop_total": 5275,
+      "pop_65_plus": 895,
+      "distance_to_hub_miles": 58.9
+    },
+    {
+      "county_fips": "20171",
+      "county_name": "Scott",
+      "state": "KS",
+      "pop_total": 5128,
+      "pop_65_plus": 1053,
+      "distance_to_hub_miles": 35.5
+    },
+    {
+      "county_fips": "20093",
+      "county_name": "Kearny",
+      "state": "KS",
+      "pop_total": 3964,
+      "pop_65_plus": 636,
+      "distance_to_hub_miles": 24.7
+    },
+    {
+      "county_fips": "20081",
+      "county_name": "Haskell",
+      "state": "KS",
+      "pop_total": 3735,
+      "pop_65_plus": 570,
+      "distance_to_hub_miles": 28.1
+    },
+    {
+      "county_fips": "20063",
+      "county_name": "Gove",
+      "state": "KS",
+      "pop_total": 2758,
+      "pop_65_plus": 657,
+      "distance_to_hub_miles": 68.7
+    },
+    {
+      "county_fips": "20109",
+      "county_name": "Logan",
+      "state": "KS",
+      "pop_total": 2752,
+      "pop_65_plus": 574,
+      "distance_to_hub_miles": 67.2
+    },
+    {
+      "county_fips": "20129",
+      "county_name": "Morton",
+      "state": "KS",
+      "pop_total": 2688,
+      "pop_65_plus": 537,
+      "distance_to_hub_miles": 74.1
+    },
+    {
+      "county_fips": "20075",
+      "county_name": "Hamilton",
+      "state": "KS",
+      "pop_total": 2520,
+      "pop_65_plus": 361,
+      "distance_to_hub_miles": 50.3
+    },
+    {
+      "county_fips": "20179",
+      "county_name": "Sheridan",
+      "state": "KS",
+      "pop_total": 2450,
+      "pop_65_plus": 568,
+      "distance_to_hub_miles": 98.2
+    },
+    {
+      "county_fips": "20203",
+      "county_name": "Wichita",
+      "state": "KS",
+      "pop_total": 2131,
+      "pop_65_plus": 495,
+      "distance_to_hub_miles": 43.9
+    },
+    {
+      "county_fips": "20187",
+      "county_name": "Stanton",
+      "state": "KS",
+      "pop_total": 2060,
+      "pop_65_plus": 327,
+      "distance_to_hub_miles": 57.4
+    },
+    {
+      "county_fips": "20101",
+      "county_name": "Lane",
+      "state": "KS",
+      "pop_total": 1528,
+      "pop_65_plus": 339,
+      "distance_to_hub_miles": 41.6
+    },
+    {
+      "county_fips": "20199",
+      "county_name": "Wallace",
+      "state": "KS",
+      "pop_total": 1489,
+      "pop_65_plus": 370,
+      "distance_to_hub_miles": 81.5
+    },
+    {
+      "county_fips": "20071",
+      "county_name": "Greeley",
+      "state": "KS",
+      "pop_total": 1279,
+      "pop_65_plus": 231,
+      "distance_to_hub_miles": 62.0
+    }
+  ],
+  "summary": {
+    "total_beds": 100,
+    "catchment_pop": 133037,
+    "catchment_pop_65_plus": 19851,
+    "catchment_pct_65_plus": 0.1492,
+    "max_catchment_radius_miles": 106.0,
+    "avg_catchment_distance_miles": 47.2,
+    "num_counties": 20,
+    "hospital_employment": 0,
+    "msa_total_employment": 20004,
+    "hospital_emp_share": 0.0288,
+    "avg_govt_payer_share": 0.65
+  }
+}

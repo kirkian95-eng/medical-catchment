@@ -1,0 +1,96 @@
+{
+  "cbsa_code": "16300",
+  "cbsa_name": "Cedar Rapids, IA",
+  "mdi": 0.3995,
+  "bbox": [
+    -93.51,
+    40.98,
+    -89.79,
+    43.17
+  ],
+  "hospitals": [
+    {
+      "facility_id": "160045",
+      "name": "ST LUKES HOSPITAL",
+      "beds": 532,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.9849,
+      "lon": -91.6605,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "160079",
+      "name": "MERCY MEDICAL CENTER - CEDAR RAPIDS",
+      "beds": 347,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 41.979,
+      "lon": -91.655,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "161349",
+      "name": "VIRGINIA GAY HOSPITAL",
+      "beds": 83,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.1722,
+      "lon": -92.0093,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "161306",
+      "name": "JONES REGIONAL MEDICAL CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.1162,
+      "lon": -91.2896,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "19113",
+      "county_name": "Linn",
+      "state": "IA",
+      "pop_total": 229308,
+      "pop_65_plus": 38047,
+      "distance_to_hub_miles": 6.8
+    },
+    {
+      "county_fips": "19011",
+      "county_name": "Benton",
+      "state": "IA",
+      "pop_total": 25652,
+      "pop_65_plus": 4835,
+      "distance_to_hub_miles": 20.5
+    },
+    {
+      "county_fips": "19105",
+      "county_name": "Jones",
+      "state": "IA",
+      "pop_total": 20733,
+      "pop_65_plus": 4376,
+      "distance_to_hub_miles": 29.3
+    }
+  ],
+  "summary": {
+    "total_beds": 987,
+    "catchment_pop": 275693,
+    "catchment_pop_65_plus": 47258,
+    "catchment_pct_65_plus": 0.1714,
+    "max_catchment_radius_miles": 29.3,
+    "avg_catchment_distance_miles": 9.8,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 138950,
+    "hospital_emp_share": 0.0495,
+    "avg_govt_payer_share": 0.6609
+  }
+}

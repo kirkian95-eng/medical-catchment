@@ -1,0 +1,103 @@
+{
+  "cbsa_code": "48820",
+  "cbsa_name": "Willmar, MN",
+  "mdi": 0.4981,
+  "bbox": [
+    -96.55,
+    44.12,
+    -93.55,
+    46.12
+  ],
+  "hospitals": [
+    {
+      "facility_id": "240088",
+      "name": "CENTRACARE- RICE MEMORIAL HOSPITAL",
+      "beds": 136,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 45.1204,
+      "lon": -95.0464,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "27067",
+      "county_name": "Kandiyohi",
+      "state": "MN",
+      "pop_total": 43686,
+      "pop_65_plus": 8598,
+      "distance_to_hub_miles": 3.0
+    },
+    {
+      "county_fips": "27093",
+      "county_name": "Meeker",
+      "state": "MN",
+      "pop_total": 23352,
+      "pop_65_plus": 4704,
+      "distance_to_hub_miles": 25.2
+    },
+    {
+      "county_fips": "27127",
+      "county_name": "Redwood",
+      "state": "MN",
+      "pop_total": 15428,
+      "pop_65_plus": 3309,
+      "distance_to_hub_miles": 50.6
+    },
+    {
+      "county_fips": "27129",
+      "county_name": "Renville",
+      "state": "MN",
+      "pop_total": 14707,
+      "pop_65_plus": 3110,
+      "distance_to_hub_miles": 27.6
+    },
+    {
+      "county_fips": "27023",
+      "county_name": "Chippewa",
+      "state": "MN",
+      "pop_total": 12466,
+      "pop_65_plus": 2705,
+      "distance_to_hub_miles": 26.2
+    },
+    {
+      "county_fips": "27151",
+      "county_name": "Swift",
+      "state": "MN",
+      "pop_total": 9806,
+      "pop_65_plus": 2263,
+      "distance_to_hub_miles": 32.8
+    },
+    {
+      "county_fips": "27173",
+      "county_name": "Yellow Medicine",
+      "state": "MN",
+      "pop_total": 9569,
+      "pop_65_plus": 1959,
+      "distance_to_hub_miles": 49.0
+    },
+    {
+      "county_fips": "27073",
+      "county_name": "Lac qui Parle",
+      "state": "MN",
+      "pop_total": 6736,
+      "pop_65_plus": 1831,
+      "distance_to_hub_miles": 55.7
+    }
+  ],
+  "summary": {
+    "total_beds": 136,
+    "catchment_pop": 135750,
+    "catchment_pop_65_plus": 28479,
+    "catchment_pct_65_plus": 0.2098,
+    "max_catchment_radius_miles": 55.7,
+    "avg_catchment_distance_miles": 25.0,
+    "num_counties": 8,
+    "hospital_employment": 127,
+    "msa_total_employment": 22790,
+    "hospital_emp_share": 0.0614,
+    "avg_govt_payer_share": 0.65
+  }
+}

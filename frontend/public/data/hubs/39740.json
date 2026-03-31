@@ -1,0 +1,85 @@
+{
+  "cbsa_code": "39740",
+  "cbsa_name": "Reading, PA",
+  "mdi": 0.3289,
+  "bbox": [
+    -77.48,
+    39.33,
+    -74.45,
+    41.38
+  ],
+  "hospitals": [
+    {
+      "facility_id": "390044",
+      "name": "READING HOSPITAL",
+      "beds": 744,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.3296,
+      "lon": -75.948,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "390096",
+      "name": "PENN STATE HEALTH ST. JOSEPH",
+      "beds": 240,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.3777,
+      "lon": -75.9804,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "390316",
+      "name": "SURGICAL INSTITUTE OF READING",
+      "beds": 15,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 40.3415,
+      "lon": -75.9749,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42045",
+      "county_name": "Delaware",
+      "state": "PA",
+      "pop_total": 575312,
+      "pop_65_plus": 96358,
+      "distance_to_hub_miles": 41.6
+    },
+    {
+      "county_fips": "42029",
+      "county_name": "Chester",
+      "state": "PA",
+      "pop_total": 536474,
+      "pop_65_plus": 91051,
+      "distance_to_hub_miles": 27.7
+    },
+    {
+      "county_fips": "42011",
+      "county_name": "Berks",
+      "state": "PA",
+      "pop_total": 428483,
+      "pop_65_plus": 75145,
+      "distance_to_hub_miles": 5.4
+    }
+  ],
+  "summary": {
+    "total_beds": 999,
+    "catchment_pop": 1540269,
+    "catchment_pop_65_plus": 262554,
+    "catchment_pct_65_plus": 0.1705,
+    "max_catchment_radius_miles": 41.6,
+    "avg_catchment_distance_miles": 26.7,
+    "num_counties": 3,
+    "hospital_employment": 7928,
+    "msa_total_employment": 171179,
+    "hospital_emp_share": 0.0463,
+    "avg_govt_payer_share": 0.65
+  }
+}

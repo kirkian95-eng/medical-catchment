@@ -1,0 +1,179 @@
+{
+  "cbsa_code": "38210",
+  "cbsa_name": "Pikeville, KY",
+  "mdi": 0.7224,
+  "bbox": [
+    -84.28,
+    36.43,
+    -80.78,
+    38.66
+  ],
+  "hospitals": [
+    {
+      "facility_id": "180044",
+      "name": "PIKEVILLE MEDICAL CENTER",
+      "beds": 340,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.4897,
+      "lon": -82.5215,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "180005",
+      "name": "HIGHLANDS ARH REGIONAL MEDICAL CENTER",
+      "beds": 166,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 37.663,
+      "lon": -82.7771,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "180069",
+      "name": "TUG VALLEY ARH REGIONAL MEDICAL CENTER",
+      "beds": 113,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 37.6607,
+      "lon": -82.2843,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "181305",
+      "name": "ARH OUR LADY OF THE WAY",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.571,
+      "lon": -82.7767,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "181331",
+      "name": "MCDOWELL ARH HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.4322,
+      "lon": -82.7264,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "21195",
+      "county_name": "Pike",
+      "state": "KY",
+      "pop_total": 58196,
+      "pop_65_plus": 11165,
+      "distance_to_hub_miles": 11.2
+    },
+    {
+      "county_fips": "21071",
+      "county_name": "Floyd",
+      "state": "KY",
+      "pop_total": 35780,
+      "pop_65_plus": 6727,
+      "distance_to_hub_miles": 10.1
+    },
+    {
+      "county_fips": "21193",
+      "county_name": "Perry",
+      "state": "KY",
+      "pop_total": 28136,
+      "pop_65_plus": 4779,
+      "distance_to_hub_miles": 42.3
+    },
+    {
+      "county_fips": "54059",
+      "county_name": "Mingo",
+      "state": "WV",
+      "pop_total": 23466,
+      "pop_65_plus": 4868,
+      "distance_to_hub_miles": 26.0
+    },
+    {
+      "county_fips": "21115",
+      "county_name": "Johnson",
+      "state": "KY",
+      "pop_total": 22631,
+      "pop_65_plus": 4193,
+      "distance_to_hub_miles": 24.6
+    },
+    {
+      "county_fips": "21133",
+      "county_name": "Letcher",
+      "state": "KY",
+      "pop_total": 21490,
+      "pop_65_plus": 4323,
+      "distance_to_hub_miles": 34.4
+    },
+    {
+      "county_fips": "21119",
+      "county_name": "Knott",
+      "state": "KY",
+      "pop_total": 14282,
+      "pop_65_plus": 2797,
+      "distance_to_hub_miles": 25.9
+    },
+    {
+      "county_fips": "51051",
+      "county_name": "Dickenson",
+      "state": "VA",
+      "pop_total": 14089,
+      "pop_65_plus": 3297,
+      "distance_to_hub_miles": 32.3
+    },
+    {
+      "county_fips": "21175",
+      "county_name": "Morgan",
+      "state": "KY",
+      "pop_total": 13840,
+      "pop_65_plus": 2364,
+      "distance_to_hub_miles": 45.5
+    },
+    {
+      "county_fips": "21025",
+      "county_name": "Breathitt",
+      "state": "KY",
+      "pop_total": 13580,
+      "pop_65_plus": 2433,
+      "distance_to_hub_miles": 41.8
+    },
+    {
+      "county_fips": "21153",
+      "county_name": "Magoffin",
+      "state": "KY",
+      "pop_total": 11647,
+      "pop_65_plus": 2118,
+      "distance_to_hub_miles": 29.2
+    },
+    {
+      "county_fips": "21159",
+      "county_name": "Martin",
+      "state": "KY",
+      "pop_total": 11298,
+      "pop_65_plus": 1943,
+      "distance_to_hub_miles": 16.7
+    }
+  ],
+  "summary": {
+    "total_beds": 669,
+    "catchment_pop": 268435,
+    "catchment_pop_65_plus": 51007,
+    "catchment_pct_65_plus": 0.19,
+    "max_catchment_radius_miles": 45.5,
+    "avg_catchment_distance_miles": 24.8,
+    "num_counties": 12,
+    "hospital_employment": 0,
+    "msa_total_employment": 31334,
+    "hospital_emp_share": 0.1353,
+    "avg_govt_payer_share": 0.6575
+  }
+}

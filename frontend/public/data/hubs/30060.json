@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "30060",
+  "cbsa_name": "Lebanon, MO",
+  "mdi": 0.2157,
+  "bbox": [
+    -94.13,
+    36.68,
+    -91.13,
+    38.68
+  ],
+  "hospitals": [
+    {
+      "facility_id": "260059",
+      "name": "MERCY HOSPITAL LEBANON",
+      "beds": 48,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 37.6804,
+      "lon": -92.633,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "29029",
+      "county_name": "Camden",
+      "state": "MO",
+      "pop_total": 43227,
+      "pop_65_plus": 12351,
+      "distance_to_hub_miles": 25.0
+    },
+    {
+      "county_fips": "29105",
+      "county_name": "Laclede",
+      "state": "MO",
+      "pop_total": 36060,
+      "pop_65_plus": 6508,
+      "distance_to_hub_miles": 2.8
+    }
+  ],
+  "summary": {
+    "total_beds": 48,
+    "catchment_pop": 79287,
+    "catchment_pop_65_plus": 18859,
+    "catchment_pct_65_plus": 0.2379,
+    "max_catchment_radius_miles": 25.0,
+    "avg_catchment_distance_miles": 14.9,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 14325,
+    "hospital_emp_share": 0.0299,
+    "avg_govt_payer_share": 0.65
+  }
+}

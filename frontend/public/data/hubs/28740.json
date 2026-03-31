@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "28740",
+  "cbsa_name": "Kingston, NY",
+  "mdi": 0.1629,
+  "bbox": [
+    -75.96,
+    40.73,
+    -72.5,
+    42.92
+  ],
+  "hospitals": [
+    {
+      "facility_id": "330224",
+      "name": "HEALTHALLIANCE HOSPITAL MARYS AVENUE CAMPUS",
+      "beds": 222,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.9226,
+      "lon": -73.9997,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "331310",
+      "name": "ELLENVILLE REGIONAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.7344,
+      "lon": -74.4572,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36027",
+      "county_name": "Dutchess",
+      "state": "NY",
+      "pop_total": 296467,
+      "pop_65_plus": 54548,
+      "distance_to_hub_miles": 18.3
+    },
+    {
+      "county_fips": "36111",
+      "county_name": "Ulster",
+      "state": "NY",
+      "pop_total": 182153,
+      "pop_65_plus": 37270,
+      "distance_to_hub_miles": 11.0
+    }
+  ],
+  "summary": {
+    "total_beds": 247,
+    "catchment_pop": 478620,
+    "catchment_pop_65_plus": 91818,
+    "catchment_pct_65_plus": 0.1918,
+    "max_catchment_radius_miles": 18.3,
+    "avg_catchment_distance_miles": 15.5,
+    "num_counties": 2,
+    "hospital_employment": 1173,
+    "msa_total_employment": 58282,
+    "hospital_emp_share": 0.0201,
+    "avg_govt_payer_share": 0.6601
+  }
+}

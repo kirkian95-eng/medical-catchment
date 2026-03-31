@@ -1,0 +1,74 @@
+{
+  "cbsa_code": "34340",
+  "cbsa_name": "Mount Airy, NC",
+  "mdi": 0.2029,
+  "bbox": [
+    -82.29,
+    35.28,
+    -79.11,
+    37.49
+  ],
+  "hospitals": [
+    {
+      "facility_id": "340003",
+      "name": "NORTHERN REGIONAL HOSPITAL",
+      "beds": 112,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 36.4881,
+      "lon": -80.6113,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "340097",
+      "name": "HUGH CHATHAM MEMORIAL HOSPITAL",
+      "beds": 81,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.2756,
+      "lon": -80.7857,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "37171",
+      "county_name": "Surry",
+      "state": "NC",
+      "pop_total": 71429,
+      "pop_65_plus": 14701,
+      "distance_to_hub_miles": 1.1
+    },
+    {
+      "county_fips": "51035",
+      "county_name": "Carroll",
+      "state": "VA",
+      "pop_total": 29126,
+      "pop_65_plus": 7320,
+      "distance_to_hub_miles": 23.1
+    },
+    {
+      "county_fips": "51640",
+      "county_name": "Galax",
+      "state": "VA",
+      "pop_total": 6687,
+      "pop_65_plus": 1259,
+      "distance_to_hub_miles": 22.6
+    }
+  ],
+  "summary": {
+    "total_beds": 193,
+    "catchment_pop": 107242,
+    "catchment_pop_65_plus": 23280,
+    "catchment_pct_65_plus": 0.2171,
+    "max_catchment_radius_miles": 23.1,
+    "avg_catchment_distance_miles": 8.4,
+    "num_counties": 3,
+    "hospital_employment": 899,
+    "msa_total_employment": 28760,
+    "hospital_emp_share": 0.0313,
+    "avg_govt_payer_share": 0.65
+  }
+}

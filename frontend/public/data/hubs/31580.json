@@ -1,0 +1,87 @@
+{
+  "cbsa_code": "31580",
+  "cbsa_name": "Madisonville, KY",
+  "mdi": 0.7,
+  "bbox": [
+    -88.99,
+    36.34,
+    -85.99,
+    38.34
+  ],
+  "hospitals": [
+    {
+      "facility_id": "180093",
+      "name": "BAPTIST HEALTH DEACONESS MADISONVILLE",
+      "beds": 390,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.3392,
+      "lon": -87.4927,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "21107",
+      "county_name": "Hopkins",
+      "state": "KY",
+      "pop_total": 45223,
+      "pop_65_plus": 8448,
+      "distance_to_hub_miles": 3.4
+    },
+    {
+      "county_fips": "21177",
+      "county_name": "Muhlenberg",
+      "state": "KY",
+      "pop_total": 30735,
+      "pop_65_plus": 6090,
+      "distance_to_hub_miles": 21.1
+    },
+    {
+      "county_fips": "21233",
+      "county_name": "Webster",
+      "state": "KY",
+      "pop_total": 12951,
+      "pop_65_plus": 2293,
+      "distance_to_hub_miles": 16.2
+    },
+    {
+      "county_fips": "21033",
+      "county_name": "Caldwell",
+      "state": "KY",
+      "pop_total": 12635,
+      "pop_65_plus": 2653,
+      "distance_to_hub_miles": 24.6
+    },
+    {
+      "county_fips": "21149",
+      "county_name": "McLean",
+      "state": "KY",
+      "pop_total": 9173,
+      "pop_65_plus": 1804,
+      "distance_to_hub_miles": 18.2
+    },
+    {
+      "county_fips": "21055",
+      "county_name": "Crittenden",
+      "state": "KY",
+      "pop_total": 8979,
+      "pop_65_plus": 1843,
+      "distance_to_hub_miles": 33.3
+    }
+  ],
+  "summary": {
+    "total_beds": 390,
+    "catchment_pop": 119696,
+    "catchment_pop_65_plus": 23131,
+    "catchment_pct_65_plus": 0.1932,
+    "max_catchment_radius_miles": 33.3,
+    "avg_catchment_distance_miles": 14.9,
+    "num_counties": 6,
+    "hospital_employment": 0,
+    "msa_total_employment": 17396,
+    "hospital_emp_share": 0.1296,
+    "avg_govt_payer_share": 0.65
+  }
+}

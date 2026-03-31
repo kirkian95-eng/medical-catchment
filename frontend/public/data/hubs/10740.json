@@ -1,0 +1,139 @@
+{
+  "cbsa_code": "10740",
+  "cbsa_name": "Albuquerque, NM",
+  "mdi": 0.4985,
+  "bbox": [
+    -109.04,
+    33.2,
+    -104.21,
+    37.08
+  ],
+  "hospitals": [
+    {
+      "facility_id": "320021",
+      "name": "PRESBYTERIAN HOSPITAL",
+      "beds": 623,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.0815,
+      "lon": -106.6354,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "320001",
+      "name": "UNM HOSPITAL",
+      "beds": 527,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 35.0876,
+      "lon": -106.6165,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "320009",
+      "name": "LOVELACE MEDICAL CENTER",
+      "beds": 254,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.0824,
+      "lon": -106.6468,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "320017",
+      "name": "LOVELACE WOMEN'S HOSPITAL",
+      "beds": 120,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.1517,
+      "lon": -106.5749,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "320074",
+      "name": "LOVELACE WESTSIDE HOSPITAL",
+      "beds": 95,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.1975,
+      "lon": -106.6818,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "35001",
+      "county_name": "Bernalillo",
+      "state": "NM",
+      "pop_total": 674692,
+      "pop_65_plus": 115541,
+      "distance_to_hub_miles": 3.9
+    },
+    {
+      "county_fips": "35043",
+      "county_name": "Sandoval",
+      "state": "NM",
+      "pop_total": 149460,
+      "pop_65_plus": 28150,
+      "distance_to_hub_miles": 43.1
+    },
+    {
+      "county_fips": "35061",
+      "county_name": "Valencia",
+      "state": "NM",
+      "pop_total": 76613,
+      "pop_65_plus": 14074,
+      "distance_to_hub_miles": 28.2
+    },
+    {
+      "county_fips": "35006",
+      "county_name": "Cibola",
+      "state": "NM",
+      "pop_total": 27211,
+      "pop_65_plus": 4606,
+      "distance_to_hub_miles": 78.6
+    },
+    {
+      "county_fips": "35053",
+      "county_name": "Socorro",
+      "state": "NM",
+      "pop_total": 16453,
+      "pop_65_plus": 3296,
+      "distance_to_hub_miles": 77.2
+    },
+    {
+      "county_fips": "35057",
+      "county_name": "Torrance",
+      "state": "NM",
+      "pop_total": 15203,
+      "pop_65_plus": 3274,
+      "distance_to_hub_miles": 54.2
+    },
+    {
+      "county_fips": "35003",
+      "county_name": "Catron",
+      "state": "NM",
+      "pop_total": 3635,
+      "pop_65_plus": 1572,
+      "distance_to_hub_miles": 129.9
+    }
+  ],
+  "summary": {
+    "total_beds": 1619,
+    "catchment_pop": 963267,
+    "catchment_pop_65_plus": 170513,
+    "catchment_pct_65_plus": 0.177,
+    "max_catchment_radius_miles": 129.9,
+    "avg_catchment_distance_miles": 16.5,
+    "num_counties": 7,
+    "hospital_employment": 24376,
+    "msa_total_employment": 343914,
+    "hospital_emp_share": 0.0613,
+    "avg_govt_payer_share": 0.65
+  }
+}

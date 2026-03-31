@@ -1,0 +1,160 @@
+{
+  "cbsa_code": "16620",
+  "cbsa_name": "Charleston, WV",
+  "mdi": 0.6964,
+  "bbox": [
+    -83.25,
+    37.03,
+    -80.13,
+    39.36
+  ],
+  "hospitals": [
+    {
+      "facility_id": "510022",
+      "name": "CHARLESTON AREA MEDICAL CENTER",
+      "beds": 908,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.3476,
+      "lon": -81.6257,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "510029",
+      "name": "THOMAS MEMORIAL HOSPITAL",
+      "beds": 266,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.3552,
+      "lon": -81.7272,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "510091",
+      "name": "CAMC CHARLESTON SURGICAL HOSPITAL",
+      "beds": 35,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 38.3513,
+      "lon": -81.628,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "511313",
+      "name": "BOONE MEMORIAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 38.0327,
+      "lon": -81.7521,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "54039",
+      "county_name": "Kanawha",
+      "state": "WV",
+      "pop_total": 179895,
+      "pop_65_plus": 38325,
+      "distance_to_hub_miles": 6.6
+    },
+    {
+      "county_fips": "54079",
+      "county_name": "Putnam",
+      "state": "WV",
+      "pop_total": 57347,
+      "pop_65_plus": 10972,
+      "distance_to_hub_miles": 18.1
+    },
+    {
+      "county_fips": "54045",
+      "county_name": "Logan",
+      "state": "WV",
+      "pop_total": 32350,
+      "pop_65_plus": 6981,
+      "distance_to_hub_miles": 38.6
+    },
+    {
+      "county_fips": "54035",
+      "county_name": "Jackson",
+      "state": "WV",
+      "pop_total": 27868,
+      "pop_65_plus": 5747,
+      "distance_to_hub_miles": 34.0
+    },
+    {
+      "county_fips": "54005",
+      "county_name": "Boone",
+      "state": "WV",
+      "pop_total": 21705,
+      "pop_65_plus": 4573,
+      "distance_to_hub_miles": 22.4
+    },
+    {
+      "county_fips": "54043",
+      "county_name": "Lincoln",
+      "state": "WV",
+      "pop_total": 20410,
+      "pop_65_plus": 4072,
+      "distance_to_hub_miles": 25.6
+    },
+    {
+      "county_fips": "54087",
+      "county_name": "Roane",
+      "state": "WV",
+      "pop_total": 14027,
+      "pop_65_plus": 3152,
+      "distance_to_hub_miles": 30.3
+    },
+    {
+      "county_fips": "54007",
+      "county_name": "Braxton",
+      "state": "WV",
+      "pop_total": 12505,
+      "pop_65_plus": 3012,
+      "distance_to_hub_miles": 56.1
+    },
+    {
+      "county_fips": "54101",
+      "county_name": "Webster",
+      "state": "WV",
+      "pop_total": 8362,
+      "pop_65_plus": 2004,
+      "distance_to_hub_miles": 67.3
+    },
+    {
+      "county_fips": "54015",
+      "county_name": "Clay",
+      "state": "WV",
+      "pop_total": 8049,
+      "pop_65_plus": 1709,
+      "distance_to_hub_miles": 32.2
+    },
+    {
+      "county_fips": "54013",
+      "county_name": "Calhoun",
+      "state": "WV",
+      "pop_total": 6279,
+      "pop_65_plus": 1572,
+      "distance_to_hub_miles": 45.1
+    }
+  ],
+  "summary": {
+    "total_beds": 1234,
+    "catchment_pop": 388797,
+    "catchment_pop_65_plus": 82119,
+    "catchment_pct_65_plus": 0.2112,
+    "max_catchment_radius_miles": 67.3,
+    "avg_catchment_distance_miles": 19.7,
+    "num_counties": 11,
+    "hospital_employment": 9226,
+    "msa_total_employment": 101509,
+    "hospital_emp_share": 0.0894,
+    "avg_govt_payer_share": 0.652
+  }
+}

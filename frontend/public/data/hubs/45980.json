@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "45980",
+  "cbsa_name": "Troy, AL",
+  "mdi": 0.2327,
+  "bbox": [
+    -87.4,
+    30.91,
+    -84.4,
+    32.91
+  ],
+  "hospitals": [
+    {
+      "facility_id": "010126",
+      "name": "TROY REGIONAL MEDICAL CENTER",
+      "beds": 97,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Federal",
+      "lat": 31.9112,
+      "lon": -85.8981,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "01109",
+      "county_name": "Pike",
+      "state": "AL",
+      "pop_total": 32997,
+      "pop_65_plus": 5057,
+      "distance_to_hub_miles": 8.0
+    },
+    {
+      "county_fips": "01005",
+      "county_name": "Barbour",
+      "state": "AL",
+      "pop_total": 24877,
+      "pop_65_plus": 4926,
+      "distance_to_hub_miles": 29.8
+    },
+    {
+      "county_fips": "01041",
+      "county_name": "Crenshaw",
+      "state": "AL",
+      "pop_total": 13205,
+      "pop_65_plus": 2611,
+      "distance_to_hub_miles": 27.4
+    },
+    {
+      "county_fips": "01011",
+      "county_name": "Bullock",
+      "state": "AL",
+      "pop_total": 10328,
+      "pop_65_plus": 1714,
+      "distance_to_hub_miles": 16.9
+    }
+  ],
+  "summary": {
+    "total_beds": 97,
+    "catchment_pop": 81407,
+    "catchment_pop_65_plus": 14308,
+    "catchment_pct_65_plus": 0.1758,
+    "max_catchment_radius_miles": 29.8,
+    "avg_catchment_distance_miles": 18.9,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 15356,
+    "hospital_emp_share": 0.0328,
+    "avg_govt_payer_share": 0.65
+  }
+}

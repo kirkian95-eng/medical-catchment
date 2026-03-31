@@ -1,0 +1,129 @@
+{
+  "cbsa_code": "19660",
+  "cbsa_name": "Deltona-Daytona Beach-Ormond Beach, FL",
+  "mdi": 0.4147,
+  "bbox": [
+    -82.87,
+    27.89,
+    -79.55,
+    30.58
+  ],
+  "hospitals": [
+    {
+      "facility_id": "100017",
+      "name": "HALIFAX HEALTH MEDICAL CENTER",
+      "beds": 709,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 29.1995,
+      "lon": -81.0546,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100068",
+      "name": "ADVENTHEALTH DAYTONA BEACH",
+      "beds": 362,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 29.2417,
+      "lon": -81.1067,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100072",
+      "name": "ADVENTHEALTH FISH MEMORIAL",
+      "beds": 175,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 28.9114,
+      "lon": -81.2843,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100045",
+      "name": "ADVENTHEALTH DELAND",
+      "beds": 170,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 29.0333,
+      "lon": -81.3748,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100363",
+      "name": "ADVENTHEALTH PALM COAST PARKWAY",
+      "beds": 100,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 29.5757,
+      "lon": -81.2238,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100118",
+      "name": "AdventHealth Palm Coast",
+      "beds": 99,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 29.4806,
+      "lon": -81.2178,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "100330",
+      "name": "HALIFAX HEALTH /UF HEALTH MEDICAL CENTER OF DELTON",
+      "beds": 42,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 28.8862,
+      "lon": -81.2514,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "12127",
+      "county_name": "Volusia",
+      "state": "FL",
+      "pop_total": 558520,
+      "pop_65_plus": 138757,
+      "distance_to_hub_miles": 8.9
+    },
+    {
+      "county_fips": "12117",
+      "county_name": "Seminole",
+      "state": "FL",
+      "pop_total": 471321,
+      "pop_65_plus": 75622,
+      "distance_to_hub_miles": 33.3
+    },
+    {
+      "county_fips": "12035",
+      "county_name": "Flagler",
+      "state": "FL",
+      "pop_total": 117515,
+      "pop_65_plus": 36297,
+      "distance_to_hub_miles": 21.2
+    }
+  ],
+  "summary": {
+    "total_beds": 1657,
+    "catchment_pop": 1147356,
+    "catchment_pop_65_plus": 250676,
+    "catchment_pct_65_plus": 0.2185,
+    "max_catchment_radius_miles": 33.3,
+    "avg_catchment_distance_miles": 20.2,
+    "num_counties": 3,
+    "hospital_employment": 10801,
+    "msa_total_employment": 213854,
+    "hospital_emp_share": 0.0505,
+    "avg_govt_payer_share": 0.65
+  }
+}

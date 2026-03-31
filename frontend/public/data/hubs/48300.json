@@ -1,0 +1,77 @@
+{
+  "cbsa_code": "48300",
+  "cbsa_name": "Wenatchee-East Wenatchee, WA",
+  "mdi": 0.5294,
+  "bbox": [
+    -122.34,
+    46.27,
+    -118.82,
+    49.2
+  ],
+  "hospitals": [
+    {
+      "facility_id": "500016",
+      "name": "CONFLUENCE HEALTH HOSPITAL",
+      "beds": 198,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.4063,
+      "lon": -120.3244,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "501334",
+      "name": "LAKE CHELAN COMMUNITY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 48.0554,
+      "lon": -120.332,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "501313",
+      "name": "CASCADE MEDICAL CENTER",
+      "beds": 12,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 47.7831,
+      "lon": -120.8432,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "53007",
+      "county_name": "Chelan",
+      "state": "WA",
+      "pop_total": 79076,
+      "pop_65_plus": 15729,
+      "distance_to_hub_miles": 30.2
+    },
+    {
+      "county_fips": "53047",
+      "county_name": "Okanogan",
+      "state": "WA",
+      "pop_total": 42336,
+      "pop_65_plus": 9479,
+      "distance_to_hub_miles": 78.7
+    }
+  ],
+  "summary": {
+    "total_beds": 235,
+    "catchment_pop": 121412,
+    "catchment_pop_65_plus": 25208,
+    "catchment_pct_65_plus": 0.2076,
+    "max_catchment_radius_miles": 78.7,
+    "avg_catchment_distance_miles": 47.1,
+    "num_counties": 2,
+    "hospital_employment": 3499,
+    "msa_total_employment": 45431,
+    "hospital_emp_share": 0.0606,
+    "avg_govt_payer_share": 0.6657
+  }
+}

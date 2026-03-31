@@ -1,0 +1,126 @@
+{
+  "cbsa_code": "10580",
+  "cbsa_name": "Albany-Schenectady-Troy, NY",
+  "mdi": 0.2781,
+  "bbox": [
+    -76.03,
+    41.65,
+    -72.17,
+    44.08
+  ],
+  "hospitals": [
+    {
+      "facility_id": "330013",
+      "name": "ALBANY MEDICAL CENTER HOSPITAL",
+      "beds": 732,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.6526,
+      "lon": -73.7753,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "330057",
+      "name": "ST PETER'S HOSPITAL",
+      "beds": 482,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.653,
+      "lon": -73.81,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "330153",
+      "name": "ELLIS HOSPITAL",
+      "beds": 368,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.8195,
+      "lon": -73.9178,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "330180",
+      "name": "SAMARITAN HOSPITAL OF TROY, NEW YORK",
+      "beds": 238,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.7341,
+      "lon": -73.6714,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "330222",
+      "name": "SARATOGA HOSPITAL",
+      "beds": 171,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.0849,
+      "lon": -73.7966,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "331320",
+      "name": "COBLESKILL REGIONAL HOSPITAL",
+      "beds": 40,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.694,
+      "lon": -74.5305,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36001",
+      "county_name": "Albany",
+      "state": "NY",
+      "pop_total": 315041,
+      "pop_65_plus": 55160,
+      "distance_to_hub_miles": 12.0
+    },
+    {
+      "county_fips": "36083",
+      "county_name": "Rensselaer",
+      "state": "NY",
+      "pop_total": 160943,
+      "pop_65_plus": 28382,
+      "distance_to_hub_miles": 15.5
+    },
+    {
+      "county_fips": "36093",
+      "county_name": "Schenectady",
+      "state": "NY",
+      "pop_total": 159447,
+      "pop_65_plus": 27851,
+      "distance_to_hub_miles": 13.9
+    },
+    {
+      "county_fips": "36095",
+      "county_name": "Schoharie",
+      "state": "NY",
+      "pop_total": 29970,
+      "pop_65_plus": 6905,
+      "distance_to_hub_miles": 33.4
+    }
+  ],
+  "summary": {
+    "total_beds": 2031,
+    "catchment_pop": 665401,
+    "catchment_pop_65_plus": 118298,
+    "catchment_pct_65_plus": 0.1778,
+    "max_catchment_radius_miles": 33.4,
+    "avg_catchment_distance_miles": 14.3,
+    "num_counties": 4,
+    "hospital_employment": 1542,
+    "msa_total_employment": 440776,
+    "hospital_emp_share": 0.0374,
+    "avg_govt_payer_share": 0.652
+  }
+}

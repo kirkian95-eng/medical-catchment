@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "24140",
+  "cbsa_name": "Goldsboro, NC",
+  "mdi": 0.2713,
+  "bbox": [
+    -79.45,
+    34.4,
+    -76.45,
+    36.4
+  ],
+  "hospitals": [
+    {
+      "facility_id": "340010",
+      "name": "UNC HEALTH CARE WAYNE",
+      "beds": 316,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.401,
+      "lon": -77.9521,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "37191",
+      "county_name": "Wayne",
+      "state": "NC",
+      "pop_total": 117480,
+      "pop_65_plus": 19497,
+      "distance_to_hub_miles": 3.9
+    },
+    {
+      "county_fips": "37061",
+      "county_name": "Duplin",
+      "state": "NC",
+      "pop_total": 49312,
+      "pop_65_plus": 9427,
+      "distance_to_hub_miles": 32.1
+    }
+  ],
+  "summary": {
+    "total_beds": 316,
+    "catchment_pop": 166792,
+    "catchment_pop_65_plus": 28924,
+    "catchment_pct_65_plus": 0.1734,
+    "max_catchment_radius_miles": 32.1,
+    "avg_catchment_distance_miles": 12.2,
+    "num_counties": 2,
+    "hospital_employment": 1616,
+    "msa_total_employment": 41175,
+    "hospital_emp_share": 0.0392,
+    "avg_govt_payer_share": 0.65
+  }
+}

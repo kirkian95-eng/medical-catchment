@@ -1,0 +1,90 @@
+{
+  "cbsa_code": "46300",
+  "cbsa_name": "Twin Falls, ID",
+  "mdi": 0.2798,
+  "bbox": [
+    -115.98,
+    41.57,
+    -112.93,
+    43.73
+  ],
+  "hospitals": [
+    {
+      "facility_id": "130002",
+      "name": "ST LUKES MAGIC VALLEY MEDICAL CENTER",
+      "beds": 226,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.5656,
+      "lon": -114.4776,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "131310",
+      "name": "ST LUKE'S JEROME",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.7285,
+      "lon": -114.4321,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "16083",
+      "county_name": "Twin Falls",
+      "state": "ID",
+      "pop_total": 90592,
+      "pop_65_plus": 14589,
+      "distance_to_hub_miles": 18.4
+    },
+    {
+      "county_fips": "16053",
+      "county_name": "Jerome",
+      "state": "ID",
+      "pop_total": 24474,
+      "pop_65_plus": 3115,
+      "distance_to_hub_miles": 13.0
+    },
+    {
+      "county_fips": "16013",
+      "county_name": "Blaine",
+      "state": "ID",
+      "pop_total": 24248,
+      "pop_65_plus": 4922,
+      "distance_to_hub_miles": 62.5
+    },
+    {
+      "county_fips": "16047",
+      "county_name": "Gooding",
+      "state": "ID",
+      "pop_total": 15520,
+      "pop_65_plus": 2748,
+      "distance_to_hub_miles": 31.9
+    },
+    {
+      "county_fips": "16063",
+      "county_name": "Lincoln",
+      "state": "ID",
+      "pop_total": 5203,
+      "pop_65_plus": 747,
+      "distance_to_hub_miles": 33.6
+    }
+  ],
+  "summary": {
+    "total_beds": 251,
+    "catchment_pop": 160037,
+    "catchment_pop_65_plus": 26121,
+    "catchment_pct_65_plus": 0.1632,
+    "max_catchment_radius_miles": 62.5,
+    "avg_catchment_distance_miles": 26.1,
+    "num_counties": 5,
+    "hospital_employment": 0,
+    "msa_total_employment": 53126,
+    "hospital_emp_share": 0.0345,
+    "avg_govt_payer_share": 0.66
+  }
+}

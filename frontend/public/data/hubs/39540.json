@@ -1,0 +1,58 @@
+{
+  "cbsa_code": "39540",
+  "cbsa_name": "Racine-Mount Pleasant, WI",
+  "mdi": 0.1426,
+  "bbox": [
+    -89.78,
+    41.66,
+    -86.33,
+    43.73
+  ],
+  "hospitals": [
+    {
+      "facility_id": "520096",
+      "name": "ASCENSION ALL SAINTS HOSPITAL",
+      "beds": 553,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 42.734,
+      "lon": -87.8265,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "520059",
+      "name": "AURORA MEMORIAL HOSPITAL BURLINGTON",
+      "beds": 123,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.6636,
+      "lon": -88.2803,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "55101",
+      "county_name": "Racine",
+      "state": "WI",
+      "pop_total": 197068,
+      "pop_65_plus": 34044,
+      "distance_to_hub_miles": 11.1
+    }
+  ],
+  "summary": {
+    "total_beds": 676,
+    "catchment_pop": 197068,
+    "catchment_pop_65_plus": 34044,
+    "catchment_pct_65_plus": 0.1728,
+    "max_catchment_radius_miles": 11.1,
+    "avg_catchment_distance_miles": 11.1,
+    "num_counties": 1,
+    "hospital_employment": 1956,
+    "msa_total_employment": 75597,
+    "hospital_emp_share": 0.0259,
+    "avg_govt_payer_share": 0.65
+  }
+}

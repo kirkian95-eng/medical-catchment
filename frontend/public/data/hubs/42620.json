@@ -1,0 +1,79 @@
+{
+  "cbsa_code": "42620",
+  "cbsa_name": "Searcy, AR",
+  "mdi": 0.7,
+  "bbox": [
+    -93.2,
+    34.25,
+    -90.2,
+    36.25
+  ],
+  "hospitals": [
+    {
+      "facility_id": "040014",
+      "name": "WHITE COUNTY MEDICAL CENTER",
+      "beds": 571,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.2505,
+      "lon": -91.6959,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "05145",
+      "county_name": "White",
+      "state": "AR",
+      "pop_total": 77118,
+      "pop_65_plus": 12704,
+      "distance_to_hub_miles": 2.8
+    },
+    {
+      "county_fips": "05023",
+      "county_name": "Cleburne",
+      "state": "AR",
+      "pop_total": 24948,
+      "pop_65_plus": 6833,
+      "distance_to_hub_miles": 27.3
+    },
+    {
+      "county_fips": "05117",
+      "county_name": "Prairie",
+      "state": "AR",
+      "pop_total": 8217,
+      "pop_65_plus": 1943,
+      "distance_to_hub_miles": 30.2
+    },
+    {
+      "county_fips": "05095",
+      "county_name": "Monroe",
+      "state": "AR",
+      "pop_total": 6787,
+      "pop_65_plus": 1593,
+      "distance_to_hub_miles": 48.4
+    },
+    {
+      "county_fips": "05147",
+      "county_name": "Woodruff",
+      "state": "AR",
+      "pop_total": 6259,
+      "pop_65_plus": 1502,
+      "distance_to_hub_miles": 25.9
+    }
+  ],
+  "summary": {
+    "total_beds": 571,
+    "catchment_pop": 123329,
+    "catchment_pop_65_plus": 24575,
+    "catchment_pct_65_plus": 0.1993,
+    "max_catchment_radius_miles": 48.4,
+    "avg_catchment_distance_miles": 13.3,
+    "num_counties": 5,
+    "hospital_employment": 0,
+    "msa_total_employment": 25144,
+    "hospital_emp_share": 0.1395,
+    "avg_govt_payer_share": 0.65
+  }
+}

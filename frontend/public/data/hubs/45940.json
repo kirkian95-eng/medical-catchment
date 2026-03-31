@@ -1,0 +1,173 @@
+{
+  "cbsa_code": "45940",
+  "cbsa_name": "Trenton-Princeton, NJ",
+  "mdi": 0.245,
+  "bbox": [
+    -76.31,
+    39.23,
+    -73.16,
+    41.3
+  ],
+  "hospitals": [
+    {
+      "facility_id": "310044",
+      "name": "CAPITAL HEALTH MEDICAL CENTER - HOPEWELL",
+      "beds": 344,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.2969,
+      "lon": -74.8079,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "310110",
+      "name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL AT HAMILTON",
+      "beds": 248,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.2258,
+      "lon": -74.6601,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "310092",
+      "name": "CAPITAL HEALTH REGIONAL MEDICAL CENTER",
+      "beds": 237,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.254,
+      "lon": -74.7634,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36047",
+      "county_name": "Kings",
+      "state": "NY",
+      "pop_total": 2679620,
+      "pop_65_plus": 388584,
+      "distance_to_hub_miles": 49.3
+    },
+    {
+      "county_fips": "36081",
+      "county_name": "Queens",
+      "state": "NY",
+      "pop_total": 2360826,
+      "pop_65_plus": 389399,
+      "distance_to_hub_miles": 54.9
+    },
+    {
+      "county_fips": "42101",
+      "county_name": "Philadelphia",
+      "state": "PA",
+      "pop_total": 1593208,
+      "pop_65_plus": 223219,
+      "distance_to_hub_miles": 26.8
+    },
+    {
+      "county_fips": "34023",
+      "county_name": "Middlesex",
+      "state": "NJ",
+      "pop_total": 860147,
+      "pop_65_plus": 132766,
+      "distance_to_hub_miles": 21.8
+    },
+    {
+      "county_fips": "34013",
+      "county_name": "Essex",
+      "state": "NJ",
+      "pop_total": 853374,
+      "pop_65_plus": 117405,
+      "distance_to_hub_miles": 44.8
+    },
+    {
+      "county_fips": "34017",
+      "county_name": "Hudson",
+      "state": "NJ",
+      "pop_total": 712029,
+      "pop_65_plus": 86664,
+      "distance_to_hub_miles": 48.0
+    },
+    {
+      "county_fips": "42017",
+      "county_name": "Bucks",
+      "state": "PA",
+      "pop_total": 645163,
+      "pop_65_plus": 125555,
+      "distance_to_hub_miles": 19.5
+    },
+    {
+      "county_fips": "34025",
+      "county_name": "Monmouth",
+      "state": "NJ",
+      "pop_total": 643064,
+      "pop_65_plus": 117516,
+      "distance_to_hub_miles": 31.2
+    },
+    {
+      "county_fips": "34029",
+      "county_name": "Ocean",
+      "state": "NJ",
+      "pop_total": 638691,
+      "pop_65_plus": 143400,
+      "distance_to_hub_miles": 38.1
+    },
+    {
+      "county_fips": "34039",
+      "county_name": "Union",
+      "state": "NJ",
+      "pop_total": 572079,
+      "pop_65_plus": 83680,
+      "distance_to_hub_miles": 35.9
+    },
+    {
+      "county_fips": "36085",
+      "county_name": "Richmond",
+      "state": "NY",
+      "pop_total": 492925,
+      "pop_65_plus": 81753,
+      "distance_to_hub_miles": 38.3
+    },
+    {
+      "county_fips": "34005",
+      "county_name": "Burlington",
+      "state": "NJ",
+      "pop_total": 461853,
+      "pop_65_plus": 81197,
+      "distance_to_hub_miles": 27.1
+    },
+    {
+      "county_fips": "34021",
+      "county_name": "Mercer",
+      "state": "NJ",
+      "pop_total": 383732,
+      "pop_65_plus": 60075,
+      "distance_to_hub_miles": 2.9
+    },
+    {
+      "county_fips": "34035",
+      "county_name": "Somerset",
+      "state": "NJ",
+      "pop_total": 344978,
+      "pop_65_plus": 56155,
+      "distance_to_hub_miles": 21.9
+    }
+  ],
+  "summary": {
+    "total_beds": 829,
+    "catchment_pop": 13241689,
+    "catchment_pop_65_plus": 2087368,
+    "catchment_pct_65_plus": 0.1576,
+    "max_catchment_radius_miles": 54.9,
+    "avg_catchment_distance_miles": 38.8,
+    "num_counties": 14,
+    "hospital_employment": 10302,
+    "msa_total_employment": 261777,
+    "hospital_emp_share": 0.0394,
+    "avg_govt_payer_share": 0.65
+  }
+}

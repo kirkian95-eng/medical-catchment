@@ -1,0 +1,168 @@
+{
+  "cbsa_code": "41060",
+  "cbsa_name": "St. Cloud, MN",
+  "mdi": 0.6532,
+  "bbox": [
+    -96.45,
+    44.38,
+    -92.67,
+    46.75
+  ],
+  "hospitals": [
+    {
+      "facility_id": "240036",
+      "name": "ST CLOUD HOSPITAL",
+      "beds": 489,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.5752,
+      "lon": -94.1702,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "241349",
+      "name": "CENTRACARE HEALTH PAYNESVILLE LLC",
+      "beds": 36,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.375,
+      "lon": -94.7169,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "241330",
+      "name": "CENTRACARE HEALTH SYSTEM - MELROSE HOSPITAL",
+      "beds": 28,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.675,
+      "lon": -94.8238,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "241368",
+      "name": "CENTRACARE HEALTH SYSTEM - SAUK CENTRE",
+      "beds": 28,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.7454,
+      "lon": -94.9547,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "27053",
+      "county_name": "Hennepin",
+      "state": "MN",
+      "pop_total": 1270787,
+      "pop_65_plus": 187519,
+      "distance_to_hub_miles": 55.3
+    },
+    {
+      "county_fips": "27003",
+      "county_name": "Anoka",
+      "state": "MN",
+      "pop_total": 363985,
+      "pop_65_plus": 53293,
+      "distance_to_hub_miles": 54.0
+    },
+    {
+      "county_fips": "27145",
+      "county_name": "Stearns",
+      "state": "MN",
+      "pop_total": 158622,
+      "pop_65_plus": 24575,
+      "distance_to_hub_miles": 16.5
+    },
+    {
+      "county_fips": "27171",
+      "county_name": "Wright",
+      "state": "MN",
+      "pop_total": 142543,
+      "pop_65_plus": 18550,
+      "distance_to_hub_miles": 31.6
+    },
+    {
+      "county_fips": "27141",
+      "county_name": "Sherburne",
+      "state": "MN",
+      "pop_total": 97820,
+      "pop_65_plus": 11419,
+      "distance_to_hub_miles": 25.8
+    },
+    {
+      "county_fips": "27025",
+      "county_name": "Chisago",
+      "state": "MN",
+      "pop_total": 56927,
+      "pop_65_plus": 9094,
+      "distance_to_hub_miles": 66.2
+    },
+    {
+      "county_fips": "27009",
+      "county_name": "Benton",
+      "state": "MN",
+      "pop_total": 41300,
+      "pop_65_plus": 5629,
+      "distance_to_hub_miles": 15.8
+    },
+    {
+      "county_fips": "27059",
+      "county_name": "Isanti",
+      "state": "MN",
+      "pop_total": 41257,
+      "pop_65_plus": 6869,
+      "distance_to_hub_miles": 47.3
+    },
+    {
+      "county_fips": "27085",
+      "county_name": "McLeod",
+      "state": "MN",
+      "pop_total": 36727,
+      "pop_65_plus": 7140,
+      "distance_to_hub_miles": 52.0
+    },
+    {
+      "county_fips": "27097",
+      "county_name": "Morrison",
+      "state": "MN",
+      "pop_total": 34023,
+      "pop_65_plus": 6853,
+      "distance_to_hub_miles": 30.2
+    },
+    {
+      "county_fips": "27095",
+      "county_name": "Mille Lacs",
+      "state": "MN",
+      "pop_total": 26680,
+      "pop_65_plus": 4864,
+      "distance_to_hub_miles": 39.8
+    },
+    {
+      "county_fips": "27065",
+      "county_name": "Kanabec",
+      "state": "MN",
+      "pop_total": 16145,
+      "pop_65_plus": 3435,
+      "distance_to_hub_miles": 53.7
+    }
+  ],
+  "summary": {
+    "total_beds": 581,
+    "catchment_pop": 2286816,
+    "catchment_pop_65_plus": 339240,
+    "catchment_pct_65_plus": 0.1483,
+    "max_catchment_radius_miles": 66.2,
+    "avg_catchment_distance_miles": 48.5,
+    "num_counties": 12,
+    "hospital_employment": 8105,
+    "msa_total_employment": 86051,
+    "hospital_emp_share": 0.0781,
+    "avg_govt_payer_share": 0.6658
+  }
+}

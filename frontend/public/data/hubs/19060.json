@@ -1,0 +1,82 @@
+{
+  "cbsa_code": "19060",
+  "cbsa_name": "Cumberland, MD-WV",
+  "mdi": 0.3377,
+  "bbox": [
+    -80.49,
+    38.4,
+    -77.23,
+    40.65
+  ],
+  "hospitals": [
+    {
+      "facility_id": "210027",
+      "name": "WESTERN MARYLAND REGIONAL MEDICAL CENTER",
+      "beds": 240,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.65,
+      "lon": -78.7328,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "511315",
+      "name": "POTOMAC VALLEY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.4028,
+      "lon": -78.9854,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "24001",
+      "county_name": "Allegany",
+      "state": "MD",
+      "pop_total": 68161,
+      "pop_65_plus": 14172,
+      "distance_to_hub_miles": 3.1
+    },
+    {
+      "county_fips": "24023",
+      "county_name": "Garrett",
+      "state": "MD",
+      "pop_total": 28856,
+      "pop_65_plus": 6627,
+      "distance_to_hub_miles": 28.3
+    },
+    {
+      "county_fips": "54057",
+      "county_name": "Mineral",
+      "state": "WV",
+      "pop_total": 26957,
+      "pop_65_plus": 5977,
+      "distance_to_hub_miles": 17.7
+    },
+    {
+      "county_fips": "54023",
+      "county_name": "Grant",
+      "state": "WV",
+      "pop_total": 11034,
+      "pop_65_plus": 2678,
+      "distance_to_hub_miles": 43.0
+    }
+  ],
+  "summary": {
+    "total_beds": 265,
+    "catchment_pop": 135008,
+    "catchment_pop_65_plus": 29454,
+    "catchment_pct_65_plus": 0.2182,
+    "max_catchment_radius_miles": 43.0,
+    "avg_catchment_distance_miles": 14.7,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 35139,
+    "hospital_emp_share": 0.0417,
+    "avg_govt_payer_share": 0.6594
+  }
+}

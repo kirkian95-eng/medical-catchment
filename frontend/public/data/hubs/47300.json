@@ -1,0 +1,96 @@
+{
+  "cbsa_code": "47300",
+  "cbsa_name": "Visalia, CA",
+  "mdi": 0.28,
+  "bbox": [
+    -122.97,
+    33.17,
+    -115.4,
+    39.22
+  ],
+  "hospitals": [
+    {
+      "facility_id": "050546",
+      "name": "PORTERVILLE DEVELOPMENTAL CENTER",
+      "beds": 1226,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 36.0583,
+      "lon": -119.1521,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "050057",
+      "name": "KAWEAH HEALTH MEDICAL CENTER",
+      "beds": 480,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 36.3274,
+      "lon": -119.2958,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "050261",
+      "name": "SIERRA VIEW MEDICAL CENTER",
+      "beds": 120,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.0694,
+      "lon": -119.0271,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "050784",
+      "name": "ADVENTIST HEALTH TULARE",
+      "beds": 112,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.2202,
+      "lon": -119.3378,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "06107",
+      "county_name": "Tulare",
+      "state": "CA",
+      "pop_total": 473446,
+      "pop_65_plus": 54353,
+      "distance_to_hub_miles": 22.6
+    },
+    {
+      "county_fips": "32023",
+      "county_name": "Nye",
+      "state": "NV",
+      "pop_total": 51698,
+      "pop_65_plus": 15809,
+      "distance_to_hub_miles": 199.5
+    },
+    {
+      "county_fips": "06027",
+      "county_name": "Inyo",
+      "state": "CA",
+      "pop_total": 18829,
+      "pop_65_plus": 4487,
+      "distance_to_hub_miles": 102.1
+    }
+  ],
+  "summary": {
+    "total_beds": 1938,
+    "catchment_pop": 543973,
+    "catchment_pop_65_plus": 74649,
+    "catchment_pct_65_plus": 0.1372,
+    "max_catchment_radius_miles": 199.5,
+    "avg_catchment_distance_miles": 42.2,
+    "num_counties": 3,
+    "hospital_employment": 6873,
+    "msa_total_employment": 174904,
+    "hospital_emp_share": 0.0393,
+    "avg_govt_payer_share": 0.65
+  }
+}

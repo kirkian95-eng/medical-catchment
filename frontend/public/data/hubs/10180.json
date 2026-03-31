@@ -1,0 +1,119 @@
+{
+  "cbsa_code": "10180",
+  "cbsa_name": "Abilene, TX",
+  "mdi": 0.4073,
+  "bbox": [
+    -101.23,
+    31.47,
+    -98.23,
+    33.47
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450229",
+      "name": "HENDRICK MEDICAL CENTER",
+      "beds": 540,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.472,
+      "lon": -99.7312,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48441",
+      "county_name": "Taylor",
+      "state": "TX",
+      "pop_total": 143029,
+      "pop_65_plus": 20948,
+      "distance_to_hub_miles": 15.0
+    },
+    {
+      "county_fips": "48253",
+      "county_name": "Jones",
+      "state": "TX",
+      "pop_total": 19758,
+      "pop_65_plus": 3092,
+      "distance_to_hub_miles": 20.4
+    },
+    {
+      "county_fips": "48353",
+      "county_name": "Nolan",
+      "state": "TX",
+      "pop_total": 14657,
+      "pop_65_plus": 2811,
+      "distance_to_hub_miles": 41.0
+    },
+    {
+      "county_fips": "48059",
+      "county_name": "Callahan",
+      "state": "TX",
+      "pop_total": 13869,
+      "pop_65_plus": 2853,
+      "distance_to_hub_miles": 24.1
+    },
+    {
+      "county_fips": "48429",
+      "county_name": "Stephens",
+      "state": "TX",
+      "pop_total": 9260,
+      "pop_65_plus": 1818,
+      "distance_to_hub_miles": 55.2
+    },
+    {
+      "county_fips": "48207",
+      "county_name": "Haskell",
+      "state": "TX",
+      "pop_total": 5408,
+      "pop_65_plus": 1266,
+      "distance_to_hub_miles": 48.8
+    },
+    {
+      "county_fips": "48151",
+      "county_name": "Fisher",
+      "state": "TX",
+      "pop_total": 3680,
+      "pop_65_plus": 849,
+      "distance_to_hub_miles": 43.3
+    },
+    {
+      "county_fips": "48417",
+      "county_name": "Shackelford",
+      "state": "TX",
+      "pop_total": 3134,
+      "pop_65_plus": 617,
+      "distance_to_hub_miles": 28.5
+    },
+    {
+      "county_fips": "48447",
+      "county_name": "Throckmorton",
+      "state": "TX",
+      "pop_total": 1439,
+      "pop_65_plus": 367,
+      "distance_to_hub_miles": 57.3
+    },
+    {
+      "county_fips": "48433",
+      "county_name": "Stonewall",
+      "state": "TX",
+      "pop_total": 1331,
+      "pop_65_plus": 270,
+      "distance_to_hub_miles": 57.5
+    }
+  ],
+  "summary": {
+    "total_beds": 540,
+    "catchment_pop": 215565,
+    "catchment_pop_65_plus": 34891,
+    "catchment_pct_65_plus": 0.1619,
+    "max_catchment_radius_miles": 57.5,
+    "avg_catchment_distance_miles": 21.6,
+    "num_counties": 10,
+    "hospital_employment": 4029,
+    "msa_total_employment": 67296,
+    "hospital_emp_share": 0.0563,
+    "avg_govt_payer_share": 0.65
+  }
+}

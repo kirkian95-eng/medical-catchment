@@ -1,0 +1,95 @@
+{
+  "cbsa_code": "40620",
+  "cbsa_name": "Rolla, MO",
+  "mdi": 0.5544,
+  "bbox": [
+    -93.29,
+    36.95,
+    -90.29,
+    38.95
+  ],
+  "hospitals": [
+    {
+      "facility_id": "260017",
+      "name": "PHELPS COUNTY REGIONAL MEDICAL CENTER",
+      "beds": 240,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 37.9515,
+      "lon": -91.7864,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "29071",
+      "county_name": "Franklin",
+      "state": "MO",
+      "pop_total": 104858,
+      "pop_65_plus": 19098,
+      "distance_to_hub_miles": 50.0
+    },
+    {
+      "county_fips": "29169",
+      "county_name": "Pulaski",
+      "state": "MO",
+      "pop_total": 53726,
+      "pop_65_plus": 5004,
+      "distance_to_hub_miles": 24.6
+    },
+    {
+      "county_fips": "29161",
+      "county_name": "Phelps",
+      "state": "MO",
+      "pop_total": 44843,
+      "pop_65_plus": 7382,
+      "distance_to_hub_miles": 5.2
+    },
+    {
+      "county_fips": "29055",
+      "county_name": "Crawford",
+      "state": "MO",
+      "pop_total": 23023,
+      "pop_65_plus": 4671,
+      "distance_to_hub_miles": 26.3
+    },
+    {
+      "county_fips": "29073",
+      "county_name": "Gasconade",
+      "state": "MO",
+      "pop_total": 14801,
+      "pop_65_plus": 3351,
+      "distance_to_hub_miles": 37.0
+    },
+    {
+      "county_fips": "29065",
+      "county_name": "Dent",
+      "state": "MO",
+      "pop_total": 14509,
+      "pop_65_plus": 3135,
+      "distance_to_hub_miles": 28.3
+    },
+    {
+      "county_fips": "29125",
+      "county_name": "Maries",
+      "state": "MO",
+      "pop_total": 8454,
+      "pop_65_plus": 1865,
+      "distance_to_hub_miles": 16.4
+    }
+  ],
+  "summary": {
+    "total_beds": 240,
+    "catchment_pop": 264214,
+    "catchment_pop_65_plus": 44506,
+    "catchment_pct_65_plus": 0.1684,
+    "max_catchment_radius_miles": 50.0,
+    "avg_catchment_distance_miles": 32.2,
+    "num_counties": 7,
+    "hospital_employment": 1472,
+    "msa_total_employment": 19155,
+    "hospital_emp_share": 0.0768,
+    "avg_govt_payer_share": 0.65
+  }
+}

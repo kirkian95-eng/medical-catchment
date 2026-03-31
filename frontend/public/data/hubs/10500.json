@@ -1,0 +1,122 @@
+{
+  "cbsa_code": "10500",
+  "cbsa_name": "Albany, GA",
+  "mdi": 0.5946,
+  "bbox": [
+    -85.66,
+    30.53,
+    -82.39,
+    32.59
+  ],
+  "hospitals": [
+    {
+      "facility_id": "110007",
+      "name": "PHOEBE PUTNEY MEMORIAL HOSPITAL",
+      "beds": 691,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 31.59,
+      "lon": -84.1577,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "111328",
+      "name": "PHOEBE WORTH MEDICAL CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 31.5289,
+      "lon": -83.8943,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "13095",
+      "county_name": "Dougherty",
+      "state": "GA",
+      "pop_total": 85038,
+      "pop_65_plus": 14018,
+      "distance_to_hub_miles": 5.5
+    },
+    {
+      "county_fips": "13177",
+      "county_name": "Lee",
+      "state": "GA",
+      "pop_total": 32968,
+      "pop_65_plus": 4298,
+      "distance_to_hub_miles": 13.2
+    },
+    {
+      "county_fips": "13205",
+      "county_name": "Mitchell",
+      "state": "GA",
+      "pop_total": 21634,
+      "pop_65_plus": 3834,
+      "distance_to_hub_miles": 25.2
+    },
+    {
+      "county_fips": "13321",
+      "county_name": "Worth",
+      "state": "GA",
+      "pop_total": 20706,
+      "pop_65_plus": 4046,
+      "distance_to_hub_miles": 17.7
+    },
+    {
+      "county_fips": "13081",
+      "county_name": "Crisp",
+      "state": "GA",
+      "pop_total": 20255,
+      "pop_65_plus": 3916,
+      "distance_to_hub_miles": 32.2
+    },
+    {
+      "county_fips": "13273",
+      "county_name": "Terrell",
+      "state": "GA",
+      "pop_total": 9004,
+      "pop_65_plus": 1783,
+      "distance_to_hub_miles": 21.4
+    },
+    {
+      "county_fips": "13243",
+      "county_name": "Randolph",
+      "state": "GA",
+      "pop_total": 6365,
+      "pop_65_plus": 1288,
+      "distance_to_hub_miles": 37.6
+    },
+    {
+      "county_fips": "13037",
+      "county_name": "Calhoun",
+      "state": "GA",
+      "pop_total": 5594,
+      "pop_65_plus": 891,
+      "distance_to_hub_miles": 28.3
+    },
+    {
+      "county_fips": "13007",
+      "county_name": "Baker",
+      "state": "GA",
+      "pop_total": 2878,
+      "pop_65_plus": 764,
+      "distance_to_hub_miles": 25.1
+    }
+  ],
+  "summary": {
+    "total_beds": 716,
+    "catchment_pop": 204442,
+    "catchment_pop_65_plus": 34838,
+    "catchment_pct_65_plus": 0.1704,
+    "max_catchment_radius_miles": 37.6,
+    "avg_catchment_distance_miles": 15.3,
+    "num_counties": 9,
+    "hospital_employment": 11,
+    "msa_total_employment": 48866,
+    "hospital_emp_share": 0.0786,
+    "avg_govt_payer_share": 0.6535
+  }
+}

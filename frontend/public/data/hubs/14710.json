@@ -1,0 +1,58 @@
+{
+  "cbsa_code": "14710",
+  "cbsa_name": "Brattleboro, VT",
+  "mdi": 0.5377,
+  "bbox": [
+    -74.18,
+    41.84,
+    -71.07,
+    44.07
+  ],
+  "hospitals": [
+    {
+      "facility_id": "470011",
+      "name": "BRATTLEBORO MEMORIAL HOSPITAL",
+      "beds": 104,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.8424,
+      "lon": -72.5661,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "471300",
+      "name": "GRACE COTTAGE HOSPITAL",
+      "beds": 19,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.0693,
+      "lon": -72.6805,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "50025",
+      "county_name": "Windham",
+      "state": "VT",
+      "pop_total": 45857,
+      "pop_65_plus": 11020,
+      "distance_to_hub_miles": 12.7
+    }
+  ],
+  "summary": {
+    "total_beds": 123,
+    "catchment_pop": 45857,
+    "catchment_pop_65_plus": 11020,
+    "catchment_pct_65_plus": 0.2403,
+    "max_catchment_radius_miles": 12.7,
+    "avg_catchment_distance_miles": 12.7,
+    "num_counties": 1,
+    "hospital_employment": 1234,
+    "msa_total_employment": 20103,
+    "hospital_emp_share": 0.0614,
+    "avg_govt_payer_share": 0.6654
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "cbsa_code": "30980",
+  "cbsa_name": "Longview, TX",
+  "mdi": 0.4038,
+  "bbox": [
+    -96.29,
+    31.16,
+    -93.23,
+    33.53
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450032",
+      "name": "CHRISTUS GOOD SHEPHERD MEDICAL CENTER",
+      "beds": 574,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.5014,
+      "lon": -94.7314,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450702",
+      "name": "LONGVIEW REGIONAL MEDICAL CENTER",
+      "beds": 230,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.5331,
+      "lon": -94.7302,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450475",
+      "name": "UT HEALTH EAST TEXAS HENDERSON HOSPITAL",
+      "beds": 158,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.1617,
+      "lon": -94.7941,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48183",
+      "county_name": "Gregg",
+      "state": "TX",
+      "pop_total": 124245,
+      "pop_65_plus": 19479,
+      "distance_to_hub_miles": 4.8
+    },
+    {
+      "county_fips": "48203",
+      "county_name": "Harrison",
+      "state": "TX",
+      "pop_total": 69098,
+      "pop_65_plus": 11729,
+      "distance_to_hub_miles": 22.5
+    },
+    {
+      "county_fips": "48401",
+      "county_name": "Rusk",
+      "state": "TX",
+      "pop_total": 52755,
+      "pop_65_plus": 8888,
+      "distance_to_hub_miles": 23.8
+    },
+    {
+      "county_fips": "48459",
+      "county_name": "Upshur",
+      "state": "TX",
+      "pop_total": 41261,
+      "pop_65_plus": 7540,
+      "distance_to_hub_miles": 22.8
+    },
+    {
+      "county_fips": "48365",
+      "county_name": "Panola",
+      "state": "TX",
+      "pop_total": 22540,
+      "pop_65_plus": 4564,
+      "distance_to_hub_miles": 32.4
+    },
+    {
+      "county_fips": "48315",
+      "county_name": "Marion",
+      "state": "TX",
+      "pop_total": 9668,
+      "pop_65_plus": 2621,
+      "distance_to_hub_miles": 32.7
+    }
+  ],
+  "summary": {
+    "total_beds": 962,
+    "catchment_pop": 319567,
+    "catchment_pop_65_plus": 54821,
+    "catchment_pct_65_plus": 0.1715,
+    "max_catchment_radius_miles": 32.7,
+    "avg_catchment_distance_miles": 16.9,
+    "num_counties": 6,
+    "hospital_employment": 1521,
+    "msa_total_employment": 88983,
+    "hospital_emp_share": 0.056,
+    "avg_govt_payer_share": 0.65
+  }
+}

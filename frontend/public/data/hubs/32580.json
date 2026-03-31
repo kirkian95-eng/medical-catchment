@@ -1,0 +1,126 @@
+{
+  "cbsa_code": "32580",
+  "cbsa_name": "McAllen-Edinburg-Mission, TX",
+  "mdi": 0.3006,
+  "bbox": [
+    -99.81,
+    25.15,
+    -96.48,
+    27.28
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450119",
+      "name": "SOUTH TEXAS HEALTH SYSTEM",
+      "beds": 870,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 26.2634,
+      "lon": -98.1839,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450869",
+      "name": "DOCTORS HOSPTAL AT RENAISSANCE",
+      "beds": 583,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 26.2526,
+      "lon": -98.2042,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450711",
+      "name": "RIO GRANDE REGIONAL HOSPITAL",
+      "beds": 320,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 26.1858,
+      "lon": -98.2225,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450176",
+      "name": "MISSION REGIONAL MEDICAL CENTER",
+      "beds": 297,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 26.1943,
+      "lon": -98.3131,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450128",
+      "name": "KNAPP MEDICAL CENTER",
+      "beds": 233,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 26.1521,
+      "lon": -97.9775,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450825",
+      "name": "CORNERSTONE REGIONAL HOSPITAL",
+      "beds": 14,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 26.2807,
+      "lon": -98.1833,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48215",
+      "county_name": "Hidalgo",
+      "state": "TX",
+      "pop_total": 873167,
+      "pop_65_plus": 97866,
+      "distance_to_hub_miles": 11.6
+    },
+    {
+      "county_fips": "48047",
+      "county_name": "Brooks",
+      "state": "TX",
+      "pop_total": 7059,
+      "pop_65_plus": 1395,
+      "distance_to_hub_miles": 55.4
+    },
+    {
+      "county_fips": "48247",
+      "county_name": "Jim Hogg",
+      "state": "TX",
+      "pop_total": 4830,
+      "pop_65_plus": 408,
+      "distance_to_hub_miles": 64.4
+    },
+    {
+      "county_fips": "48261",
+      "county_name": "Kenedy",
+      "state": "TX",
+      "pop_total": 116,
+      "pop_65_plus": 42,
+      "distance_to_hub_miles": 59.2
+    }
+  ],
+  "summary": {
+    "total_beds": 2317,
+    "catchment_pop": 885172,
+    "catchment_pop_65_plus": 99711,
+    "catchment_pct_65_plus": 0.1126,
+    "max_catchment_radius_miles": 64.4,
+    "avg_catchment_distance_miles": 12.2,
+    "num_counties": 4,
+    "hospital_employment": 11103,
+    "msa_total_employment": 287428,
+    "hospital_emp_share": 0.0386,
+    "avg_govt_payer_share": 0.65
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "27300",
+  "cbsa_name": "Jacksonville, IL",
+  "mdi": 0.5696,
+  "bbox": [
+    -91.72,
+    38.74,
+    -88.72,
+    40.74
+  ],
+  "hospitals": [
+    {
+      "facility_id": "141352",
+      "name": "JACKSONVILLE MEMORIAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.7383,
+      "lon": -90.2201,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "17137",
+      "county_name": "Morgan",
+      "state": "IL",
+      "pop_total": 32882,
+      "pop_65_plus": 6764,
+      "distance_to_hub_miles": 1.9
+    },
+    {
+      "county_fips": "17171",
+      "county_name": "Scott",
+      "state": "IL",
+      "pop_total": 4899,
+      "pop_65_plus": 1018,
+      "distance_to_hub_miles": 15.0
+    }
+  ],
+  "summary": {
+    "total_beds": 25,
+    "catchment_pop": 37781,
+    "catchment_pop_65_plus": 7782,
+    "catchment_pct_65_plus": 0.206,
+    "max_catchment_radius_miles": 15.0,
+    "avg_catchment_distance_miles": 3.6,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 13714,
+    "hospital_emp_share": 0.0366,
+    "avg_govt_payer_share": 0.75
+  }
+}

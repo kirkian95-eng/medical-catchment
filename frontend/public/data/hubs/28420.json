@@ -1,0 +1,88 @@
+{
+  "cbsa_code": "28420",
+  "cbsa_name": "Kennewick-Richland, WA",
+  "mdi": 0.2855,
+  "bbox": [
+    -121.26,
+    45.18,
+    -117.45,
+    47.38
+  ],
+  "hospitals": [
+    {
+      "facility_id": "500058",
+      "name": "KADLEC REGIONAL MEDICAL CENTER",
+      "beds": 141,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 46.2805,
+      "lon": -119.2816,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "500053",
+      "name": "TRIOS HEALTH",
+      "beds": 71,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 46.1763,
+      "lon": -119.1915,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "501337",
+      "name": "LOURDES MEDICAL CENTER",
+      "beds": 35,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 46.3778,
+      "lon": -118.9517,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "501312",
+      "name": "PROSSER MEMORIAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 46.209,
+      "lon": -119.7634,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "53005",
+      "county_name": "Benton",
+      "state": "WA",
+      "pop_total": 207560,
+      "pop_65_plus": 31955,
+      "distance_to_hub_miles": 12.1
+    },
+    {
+      "county_fips": "53021",
+      "county_name": "Franklin",
+      "state": "WA",
+      "pop_total": 96692,
+      "pop_65_plus": 9453,
+      "distance_to_hub_miles": 25.7
+    }
+  ],
+  "summary": {
+    "total_beds": 272,
+    "catchment_pop": 304252,
+    "catchment_pop_65_plus": 41408,
+    "catchment_pct_65_plus": 0.1361,
+    "max_catchment_radius_miles": 25.7,
+    "avg_catchment_distance_miles": 16.4,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 134593,
+    "hospital_emp_share": 0.0342,
+    "avg_govt_payer_share": 0.6721
+  }
+}

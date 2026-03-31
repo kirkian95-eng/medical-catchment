@@ -1,0 +1,93 @@
+{
+  "cbsa_code": "25840",
+  "cbsa_name": "Hermiston-Pendleton, OR",
+  "mdi": 0.4582,
+  "bbox": [
+    -121.06,
+    44.06,
+    -117.23,
+    47.11
+  ],
+  "hospitals": [
+    {
+      "facility_id": "381319",
+      "name": "ST ANTHONY HOSPITAL",
+      "beds": 49,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 45.6569,
+      "lon": -118.8171,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "381325",
+      "name": "GOOD SHEPHERD MEDICAL CENTER",
+      "beds": 49,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.8439,
+      "lon": -119.3112,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "381310",
+      "name": "PIONEER MEMORIAL HOSPITAL (HEPPNER)",
+      "beds": 21,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 45.3212,
+      "lon": -119.4746,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "41059",
+      "county_name": "Umatilla",
+      "state": "OR",
+      "pop_total": 79904,
+      "pop_65_plus": 12822,
+      "distance_to_hub_miles": 19.3
+    },
+    {
+      "county_fips": "41049",
+      "county_name": "Morrow",
+      "state": "OR",
+      "pop_total": 12140,
+      "pop_65_plus": 1951,
+      "distance_to_hub_miles": 34.0
+    },
+    {
+      "county_fips": "41023",
+      "county_name": "Grant",
+      "state": "OR",
+      "pop_total": 7237,
+      "pop_65_plus": 2243,
+      "distance_to_hub_miles": 87.1
+    },
+    {
+      "county_fips": "41021",
+      "county_name": "Gilliam",
+      "state": "OR",
+      "pop_total": 1983,
+      "pop_65_plus": 619,
+      "distance_to_hub_miles": 61.2
+    }
+  ],
+  "summary": {
+    "total_beds": 119,
+    "catchment_pop": 101264,
+    "catchment_pop_65_plus": 17635,
+    "catchment_pct_65_plus": 0.1741,
+    "max_catchment_radius_miles": 87.1,
+    "avg_catchment_distance_miles": 26.7,
+    "num_counties": 4,
+    "hospital_employment": 3,
+    "msa_total_employment": 40140,
+    "hospital_emp_share": 0.0296,
+    "avg_govt_payer_share": 0.75
+  }
+}

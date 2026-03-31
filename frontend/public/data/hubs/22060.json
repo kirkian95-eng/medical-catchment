@@ -1,0 +1,82 @@
+{
+  "cbsa_code": "22060",
+  "cbsa_name": "Faribault-Northfield, MN",
+  "mdi": 0.182,
+  "bbox": [
+    -94.76,
+    43.29,
+    -91.69,
+    45.47
+  ],
+  "hospitals": [
+    {
+      "facility_id": "240071",
+      "name": "ALLINA HEALTH FARIBAULT MEDICAL CENTER",
+      "beds": 99,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.2867,
+      "lon": -93.2563,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "240014",
+      "name": "NORTHFIELD HOSPITAL",
+      "beds": 37,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 44.4732,
+      "lon": -93.1914,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "27123",
+      "county_name": "Ramsey",
+      "state": "MN",
+      "pop_total": 547202,
+      "pop_65_plus": 82506,
+      "distance_to_hub_miles": 47.5
+    },
+    {
+      "county_fips": "27037",
+      "county_name": "Dakota",
+      "state": "MN",
+      "pop_total": 439179,
+      "pop_65_plus": 65838,
+      "distance_to_hub_miles": 24.7
+    },
+    {
+      "county_fips": "27139",
+      "county_name": "Scott",
+      "state": "MN",
+      "pop_total": 151347,
+      "pop_65_plus": 17921,
+      "distance_to_hub_miles": 26.0
+    },
+    {
+      "county_fips": "27131",
+      "county_name": "Rice",
+      "state": "MN",
+      "pop_total": 67152,
+      "pop_65_plus": 10866,
+      "distance_to_hub_miles": 3.1
+    }
+  ],
+  "summary": {
+    "total_beds": 136,
+    "catchment_pop": 1204880,
+    "catchment_pop_65_plus": 177131,
+    "catchment_pct_65_plus": 0.147,
+    "max_catchment_radius_miles": 47.5,
+    "avg_catchment_distance_miles": 34.0,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 25568,
+    "hospital_emp_share": 0.0289,
+    "avg_govt_payer_share": 0.65
+  }
+}

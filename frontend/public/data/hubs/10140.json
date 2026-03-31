@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "10140",
+  "cbsa_name": "Aberdeen, WA",
+  "mdi": 0.2961,
+  "bbox": [
+    -125.35,
+    45.98,
+    -121.89,
+    48.06
+  ],
+  "hospitals": [
+    {
+      "facility_id": "500031",
+      "name": "GRAYS HARBOR COMMUNITY HOSPITAL",
+      "beds": 70,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 46.9791,
+      "lon": -123.8461,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "501304",
+      "name": "SUMMIT PACIFIC MEDICAL CENTER",
+      "beds": 24,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 47.0609,
+      "lon": -123.3898,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "53027",
+      "county_name": "Grays Harbor",
+      "state": "WA",
+      "pop_total": 75672,
+      "pop_65_plus": 16886,
+      "distance_to_hub_miles": 11.5
+    },
+    {
+      "county_fips": "53049",
+      "county_name": "Pacific",
+      "state": "WA",
+      "pop_total": 23396,
+      "pop_65_plus": 7607,
+      "distance_to_hub_miles": 29.7
+    }
+  ],
+  "summary": {
+    "total_beds": 94,
+    "catchment_pop": 99068,
+    "catchment_pop_65_plus": 24493,
+    "catchment_pct_65_plus": 0.2472,
+    "max_catchment_radius_miles": 29.7,
+    "avg_catchment_distance_miles": 15.8,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 23447,
+    "hospital_emp_share": 0.0327,
+    "avg_govt_payer_share": 0.6755
+  }
+}

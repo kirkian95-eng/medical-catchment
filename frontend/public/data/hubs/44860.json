@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "44860",
+  "cbsa_name": "Sulphur Springs, TX",
+  "mdi": 0.2462,
+  "bbox": [
+    -97.1,
+    32.16,
+    -94.1,
+    34.16
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450236",
+      "name": "CHRISTUS MOTHER FRANCES HOSPITAL SULPHUR SPRINGS",
+      "beds": 96,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.1564,
+      "lon": -95.6,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48231",
+      "county_name": "Hunt",
+      "state": "TX",
+      "pop_total": 101596,
+      "pop_65_plus": 16142,
+      "distance_to_hub_miles": 28.2
+    },
+    {
+      "county_fips": "48223",
+      "county_name": "Hopkins",
+      "state": "TX",
+      "pop_total": 37008,
+      "pop_65_plus": 6781,
+      "distance_to_hub_miles": 2.1
+    },
+    {
+      "county_fips": "48379",
+      "county_name": "Rains",
+      "state": "TX",
+      "pop_total": 12257,
+      "pop_65_plus": 2942,
+      "distance_to_hub_miles": 22.7
+    },
+    {
+      "county_fips": "48119",
+      "county_name": "Delta",
+      "state": "TX",
+      "pop_total": 5278,
+      "pop_65_plus": 1072,
+      "distance_to_hub_miles": 16.4
+    }
+  ],
+  "summary": {
+    "total_beds": 96,
+    "catchment_pop": 156139,
+    "catchment_pop_65_plus": 26937,
+    "catchment_pct_65_plus": 0.1725,
+    "max_catchment_radius_miles": 28.2,
+    "avg_catchment_distance_miles": 21.2,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 14177,
+    "hospital_emp_share": 0.0352,
+    "avg_govt_payer_share": 0.65
+  }
+}

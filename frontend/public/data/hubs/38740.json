@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "38740",
+  "cbsa_name": "Poplar Bluff, MO",
+  "mdi": 0.3626,
+  "bbox": [
+    -91.94,
+    35.79,
+    -88.94,
+    37.79
+  ],
+  "hospitals": [
+    {
+      "facility_id": "260119",
+      "name": "POPLAR BLUFF REGIONAL MEDICAL CENTER",
+      "beds": 230,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.7889,
+      "lon": -90.4393,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "29023",
+      "county_name": "Butler",
+      "state": "MO",
+      "pop_total": 42280,
+      "pop_65_plus": 8017,
+      "distance_to_hub_miles": 5.4
+    },
+    {
+      "county_fips": "29223",
+      "county_name": "Wayne",
+      "state": "MO",
+      "pop_total": 11081,
+      "pop_65_plus": 2724,
+      "distance_to_hub_miles": 22.4
+    },
+    {
+      "county_fips": "29181",
+      "county_name": "Ripley",
+      "state": "MO",
+      "pop_total": 10839,
+      "pop_65_plus": 2149,
+      "distance_to_hub_miles": 25.3
+    },
+    {
+      "county_fips": "29035",
+      "county_name": "Carter",
+      "state": "MO",
+      "pop_total": 5299,
+      "pop_65_plus": 1069,
+      "distance_to_hub_miles": 30.8
+    }
+  ],
+  "summary": {
+    "total_beds": 230,
+    "catchment_pop": 69499,
+    "catchment_pop_65_plus": 13959,
+    "catchment_pct_65_plus": 0.2009,
+    "max_catchment_radius_miles": 30.8,
+    "avg_catchment_distance_miles": 13.2,
+    "num_counties": 4,
+    "hospital_employment": 759,
+    "msa_total_employment": 18055,
+    "hospital_emp_share": 0.042,
+    "avg_govt_payer_share": 0.65
+  }
+}

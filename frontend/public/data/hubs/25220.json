@@ -1,0 +1,104 @@
+{
+  "cbsa_code": "25220",
+  "cbsa_name": "Hammond, LA",
+  "mdi": 0.5496,
+  "bbox": [
+    -92.04,
+    29.47,
+    -88.96,
+    31.74
+  ],
+  "hospitals": [
+    {
+      "facility_id": "190015",
+      "name": "NORTH OAKS MEDICAL CENTER",
+      "beds": 330,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 30.4664,
+      "lon": -90.4594,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "190303",
+      "name": "CYPRESS POINTE SURGICAL HOSPITAL",
+      "beds": 30,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 30.4856,
+      "lon": -90.4877,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "191309",
+      "name": "HOOD MEMORIAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 30.7357,
+      "lon": -90.4915,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "191321",
+      "name": "LALLIE KEMP MEDICAL CENTER",
+      "beds": 24,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - State",
+      "lat": 30.6306,
+      "lon": -90.5429,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "22063",
+      "county_name": "Livingston",
+      "state": "LA",
+      "pop_total": 143425,
+      "pop_65_plus": 19405,
+      "distance_to_hub_miles": 16.0
+    },
+    {
+      "county_fips": "22105",
+      "county_name": "Tangipahoa",
+      "state": "LA",
+      "pop_total": 133953,
+      "pop_65_plus": 19924,
+      "distance_to_hub_miles": 10.3
+    },
+    {
+      "county_fips": "22005",
+      "county_name": "Ascension",
+      "state": "LA",
+      "pop_total": 126973,
+      "pop_65_plus": 15759,
+      "distance_to_hub_miles": 33.0
+    },
+    {
+      "county_fips": "22091",
+      "county_name": "St. Helena",
+      "state": "LA",
+      "pop_total": 10872,
+      "pop_65_plus": 2213,
+      "distance_to_hub_miles": 27.5
+    }
+  ],
+  "summary": {
+    "total_beds": 409,
+    "catchment_pop": 415223,
+    "catchment_pop_65_plus": 57301,
+    "catchment_pct_65_plus": 0.138,
+    "max_catchment_radius_miles": 33.0,
+    "avg_catchment_distance_miles": 19.7,
+    "num_counties": 4,
+    "hospital_employment": 2999,
+    "msa_total_employment": 46903,
+    "hospital_emp_share": 0.0639,
+    "avg_govt_payer_share": 0.662
+  }
+}

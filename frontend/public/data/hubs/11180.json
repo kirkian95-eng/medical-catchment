@@ -1,0 +1,93 @@
+{
+  "cbsa_code": "11180",
+  "cbsa_name": "Ames, IA",
+  "mdi": 0.2279,
+  "bbox": [
+    -95.35,
+    41.03,
+    -91.94,
+    43.09
+  ],
+  "hospitals": [
+    {
+      "facility_id": "160030",
+      "name": "MARY GREELEY MEDICAL CENTER",
+      "beds": 220,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 42.0322,
+      "lon": -93.6107,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "161333",
+      "name": "STORY COUNTY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 42.0335,
+      "lon": -93.4444,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "161372",
+      "name": "BOONE COUNTY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 42.0854,
+      "lon": -93.8496,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "19169",
+      "county_name": "Story",
+      "state": "IA",
+      "pop_total": 98573,
+      "pop_65_plus": 12452,
+      "distance_to_hub_miles": 7.8
+    },
+    {
+      "county_fips": "19015",
+      "county_name": "Boone",
+      "state": "IA",
+      "pop_total": 26700,
+      "pop_65_plus": 5134,
+      "distance_to_hub_miles": 16.1
+    },
+    {
+      "county_fips": "19083",
+      "county_name": "Hardin",
+      "state": "IA",
+      "pop_total": 16861,
+      "pop_65_plus": 3839,
+      "distance_to_hub_miles": 30.8
+    },
+    {
+      "county_fips": "19079",
+      "county_name": "Hamilton",
+      "state": "IA",
+      "pop_total": 14979,
+      "pop_65_plus": 3193,
+      "distance_to_hub_miles": 24.4
+    }
+  ],
+  "summary": {
+    "total_beds": 270,
+    "catchment_pop": 157113,
+    "catchment_pop_65_plus": 24618,
+    "catchment_pct_65_plus": 0.1567,
+    "max_catchment_radius_miles": 30.8,
+    "avg_catchment_distance_miles": 13.3,
+    "num_counties": 4,
+    "hospital_employment": 8,
+    "msa_total_employment": 56564,
+    "hospital_emp_share": 0.0264,
+    "avg_govt_payer_share": 0.6685
+  }
+}

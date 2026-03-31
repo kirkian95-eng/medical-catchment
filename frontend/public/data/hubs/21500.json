@@ -1,0 +1,88 @@
+{
+  "cbsa_code": "21500",
+  "cbsa_name": "Erie, PA",
+  "mdi": 0.4001,
+  "bbox": [
+    -81.59,
+    40.92,
+    -78.18,
+    43.13
+  ],
+  "hospitals": [
+    {
+      "facility_id": "390009",
+      "name": "SAINT VINCENT HOSPITAL",
+      "beds": 348,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.1112,
+      "lon": -80.0787,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "390063",
+      "name": "UPMC HAMOT",
+      "beds": 343,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.1329,
+      "lon": -80.0874,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "390198",
+      "name": "LECOM MEDICAL CENTER AND BEHAVIORAL HEALTH PAV",
+      "beds": 144,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.0605,
+      "lon": -80.0458,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "391308",
+      "name": "LECOM HEALTH CORRY MEMORIAL HOSPITAL",
+      "beds": 20,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 41.9158,
+      "lon": -79.6847,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42049",
+      "county_name": "Erie",
+      "state": "PA",
+      "pop_total": 270495,
+      "pop_65_plus": 50712,
+      "distance_to_hub_miles": 1.2
+    },
+    {
+      "county_fips": "39007",
+      "county_name": "Ashtabula",
+      "state": "OH",
+      "pop_total": 97666,
+      "pop_65_plus": 19178,
+      "distance_to_hub_miles": 38.1
+    }
+  ],
+  "summary": {
+    "total_beds": 855,
+    "catchment_pop": 368161,
+    "catchment_pop_65_plus": 69890,
+    "catchment_pct_65_plus": 0.1898,
+    "max_catchment_radius_miles": 38.1,
+    "avg_catchment_distance_miles": 11.0,
+    "num_counties": 2,
+    "hospital_employment": 6446,
+    "msa_total_employment": 118403,
+    "hospital_emp_share": 0.0544,
+    "avg_govt_payer_share": 0.6523
+  }
+}

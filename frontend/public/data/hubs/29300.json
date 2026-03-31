@@ -1,0 +1,95 @@
+{
+  "cbsa_code": "29300",
+  "cbsa_name": "LaGrange, GA-AL",
+  "mdi": 0.2116,
+  "bbox": [
+    -86.56,
+    32.03,
+    -83.56,
+    34.03
+  ],
+  "hospitals": [
+    {
+      "facility_id": "110016",
+      "name": "WELLSTAR WEST GEORGIA MEDICAL CENTER",
+      "beds": 276,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.0346,
+      "lon": -85.0566,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "13077",
+      "county_name": "Coweta",
+      "state": "GA",
+      "pop_total": 147449,
+      "pop_65_plus": 21171,
+      "distance_to_hub_miles": 27.8
+    },
+    {
+      "county_fips": "13045",
+      "county_name": "Carroll",
+      "state": "GA",
+      "pop_total": 120060,
+      "pop_65_plus": 16720,
+      "distance_to_hub_miles": 37.9
+    },
+    {
+      "county_fips": "13113",
+      "county_name": "Fayette",
+      "state": "GA",
+      "pop_total": 119259,
+      "pop_65_plus": 22742,
+      "distance_to_hub_miles": 41.7
+    },
+    {
+      "county_fips": "13285",
+      "county_name": "Troup",
+      "state": "GA",
+      "pop_total": 69527,
+      "pop_65_plus": 10725,
+      "distance_to_hub_miles": 1.7
+    },
+    {
+      "county_fips": "01111",
+      "county_name": "Randolph",
+      "state": "AL",
+      "pop_total": 22179,
+      "pop_65_plus": 4633,
+      "distance_to_hub_miles": 29.4
+    },
+    {
+      "county_fips": "13199",
+      "county_name": "Meriwether",
+      "state": "GA",
+      "pop_total": 20679,
+      "pop_65_plus": 4292,
+      "distance_to_hub_miles": 21.4
+    },
+    {
+      "county_fips": "13149",
+      "county_name": "Heard",
+      "state": "GA",
+      "pop_total": 11489,
+      "pop_65_plus": 1942,
+      "distance_to_hub_miles": 18.6
+    }
+  ],
+  "summary": {
+    "total_beds": 276,
+    "catchment_pop": 510642,
+    "catchment_pop_65_plus": 82225,
+    "catchment_pct_65_plus": 0.161,
+    "max_catchment_radius_miles": 41.7,
+    "avg_catchment_distance_miles": 29.5,
+    "num_counties": 7,
+    "hospital_employment": 0,
+    "msa_total_employment": 40320,
+    "hospital_emp_share": 0.0313,
+    "avg_govt_payer_share": 0.65
+  }
+}

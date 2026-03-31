@@ -1,0 +1,85 @@
+{
+  "cbsa_code": "32780",
+  "cbsa_name": "Medford, OR",
+  "mdi": 0.3887,
+  "bbox": [
+    -124.36,
+    41.19,
+    -121.22,
+    43.35
+  ],
+  "hospitals": [
+    {
+      "facility_id": "380018",
+      "name": "ASANTE ROGUE REGIONAL MEDICAL CENTER",
+      "beds": 378,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3166,
+      "lon": -122.83,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "380075",
+      "name": "PROVIDENCE MEDFORD MEDICAL CENTER",
+      "beds": 168,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 42.3402,
+      "lon": -122.8611,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "380005",
+      "name": "ASANTE ASHLAND COMMUNITY HOSPITAL",
+      "beds": 49,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 42.2064,
+      "lon": -122.7246,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "41029",
+      "county_name": "Jackson",
+      "state": "OR",
+      "pop_total": 222604,
+      "pop_65_plus": 50066,
+      "distance_to_hub_miles": 9.6
+    },
+    {
+      "county_fips": "06093",
+      "county_name": "Siskiyou",
+      "state": "CA",
+      "pop_total": 44049,
+      "pop_65_plus": 11610,
+      "distance_to_hub_miles": 52.0
+    },
+    {
+      "county_fips": "06015",
+      "county_name": "Del Norte",
+      "state": "CA",
+      "pop_total": 27462,
+      "pop_65_plus": 5261,
+      "distance_to_hub_miles": 70.0
+    }
+  ],
+  "summary": {
+    "total_beds": 595,
+    "catchment_pop": 294115,
+    "catchment_pop_65_plus": 66937,
+    "catchment_pct_65_plus": 0.2276,
+    "max_catchment_radius_miles": 70.0,
+    "avg_catchment_distance_miles": 21.6,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 91044,
+    "hospital_emp_share": 0.0528,
+    "avg_govt_payer_share": 0.65
+  }
+}

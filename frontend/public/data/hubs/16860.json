@@ -1,0 +1,120 @@
+{
+  "cbsa_code": "16860",
+  "cbsa_name": "Chattanooga, TN-GA",
+  "mdi": 0.3601,
+  "bbox": [
+    -86.79,
+    33.94,
+    -83.74,
+    36.05
+  ],
+  "hospitals": [
+    {
+      "facility_id": "440104",
+      "name": "ERLANGER MEDICAL CENTER",
+      "beds": 848,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.0478,
+      "lon": -85.2905,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "440156",
+      "name": "PARKRIDGE MEDICAL CENTER",
+      "beds": 621,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.0333,
+      "lon": -85.2674,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "440091",
+      "name": "MEMORIAL HEALTHCARE SYSTEM, INC",
+      "beds": 431,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 35.0282,
+      "lon": -85.2733,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "110236",
+      "name": "CHI MEMORIAL HOSPITAL- GEORGIA",
+      "beds": 179,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.9356,
+      "lon": -85.2448,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "47065",
+      "county_name": "Hamilton",
+      "state": "TN",
+      "pop_total": 367193,
+      "pop_65_plus": 66479,
+      "distance_to_hub_miles": 12.2
+    },
+    {
+      "county_fips": "13295",
+      "county_name": "Walker",
+      "state": "GA",
+      "pop_total": 68065,
+      "pop_65_plus": 12766,
+      "distance_to_hub_miles": 20.4
+    },
+    {
+      "county_fips": "13047",
+      "county_name": "Catoosa",
+      "state": "GA",
+      "pop_total": 68052,
+      "pop_65_plus": 12322,
+      "distance_to_hub_miles": 11.7
+    },
+    {
+      "county_fips": "47115",
+      "county_name": "Marion",
+      "state": "TN",
+      "pop_total": 28852,
+      "pop_65_plus": 5771,
+      "distance_to_hub_miles": 20.8
+    },
+    {
+      "county_fips": "13083",
+      "county_name": "Dade",
+      "state": "GA",
+      "pop_total": 16239,
+      "pop_65_plus": 3228,
+      "distance_to_hub_miles": 17.7
+    },
+    {
+      "county_fips": "47153",
+      "county_name": "Sequatchie",
+      "state": "TN",
+      "pop_total": 16065,
+      "pop_65_plus": 3316,
+      "distance_to_hub_miles": 24.8
+    }
+  ],
+  "summary": {
+    "total_beds": 2079,
+    "catchment_pop": 564466,
+    "catchment_pop_65_plus": 103882,
+    "catchment_pct_65_plus": 0.184,
+    "max_catchment_radius_miles": 24.8,
+    "avg_catchment_distance_miles": 14.1,
+    "num_counties": 6,
+    "hospital_employment": 12107,
+    "msa_total_employment": 233679,
+    "hospital_emp_share": 0.0458,
+    "avg_govt_payer_share": 0.65
+  }
+}

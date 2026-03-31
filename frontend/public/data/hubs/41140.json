@@ -1,0 +1,191 @@
+{
+  "cbsa_code": "41140",
+  "cbsa_name": "St. Joseph, MO-KS",
+  "mdi": 0.2367,
+  "bbox": [
+    -96.27,
+    38.77,
+    -93.27,
+    40.77
+  ],
+  "hospitals": [
+    {
+      "facility_id": "260006",
+      "name": "MOSAIC LIFE CARE AT ST JOSEPH",
+      "beds": 353,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.7702,
+      "lon": -94.7718,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "29047",
+      "county_name": "Clay",
+      "state": "MO",
+      "pop_total": 253085,
+      "pop_65_plus": 36986,
+      "distance_to_hub_miles": 36.8
+    },
+    {
+      "county_fips": "29165",
+      "county_name": "Platte",
+      "state": "MO",
+      "pop_total": 107033,
+      "pop_65_plus": 16454,
+      "distance_to_hub_miles": 26.9
+    },
+    {
+      "county_fips": "29021",
+      "county_name": "Buchanan",
+      "state": "MO",
+      "pop_total": 84544,
+      "pop_65_plus": 14165,
+      "distance_to_hub_miles": 7.9
+    },
+    {
+      "county_fips": "29177",
+      "county_name": "Ray",
+      "state": "MO",
+      "pop_total": 23122,
+      "pop_65_plus": 4293,
+      "distance_to_hub_miles": 50.7
+    },
+    {
+      "county_fips": "29049",
+      "county_name": "Clinton",
+      "state": "MO",
+      "pop_total": 21155,
+      "pop_65_plus": 3811,
+      "distance_to_hub_miles": 22.7
+    },
+    {
+      "county_fips": "29147",
+      "county_name": "Nodaway",
+      "state": "MO",
+      "pop_total": 21140,
+      "pop_65_plus": 3553,
+      "distance_to_hub_miles": 41.2
+    },
+    {
+      "county_fips": "29003",
+      "county_name": "Andrew",
+      "state": "MO",
+      "pop_total": 18069,
+      "pop_65_plus": 3598,
+      "distance_to_hub_miles": 14.8
+    },
+    {
+      "county_fips": "29117",
+      "county_name": "Livingston",
+      "state": "MO",
+      "pop_total": 14402,
+      "pop_65_plus": 2857,
+      "distance_to_hub_miles": 65.0
+    },
+    {
+      "county_fips": "29063",
+      "county_name": "DeKalb",
+      "state": "MO",
+      "pop_total": 11838,
+      "pop_65_plus": 2139,
+      "distance_to_hub_miles": 21.2
+    },
+    {
+      "county_fips": "29079",
+      "county_name": "Grundy",
+      "state": "MO",
+      "pop_total": 9878,
+      "pop_65_plus": 2147,
+      "distance_to_hub_miles": 68.2
+    },
+    {
+      "county_fips": "20013",
+      "county_name": "Brown",
+      "state": "KS",
+      "pop_total": 9486,
+      "pop_65_plus": 1972,
+      "distance_to_hub_miles": 42.2
+    },
+    {
+      "county_fips": "29025",
+      "county_name": "Caldwell",
+      "state": "MO",
+      "pop_total": 8876,
+      "pop_65_plus": 1774,
+      "distance_to_hub_miles": 42.7
+    },
+    {
+      "county_fips": "29061",
+      "county_name": "Daviess",
+      "state": "MO",
+      "pop_total": 8418,
+      "pop_65_plus": 1762,
+      "distance_to_hub_miles": 43.8
+    },
+    {
+      "county_fips": "29081",
+      "county_name": "Harrison",
+      "state": "MO",
+      "pop_total": 8190,
+      "pop_65_plus": 1812,
+      "distance_to_hub_miles": 57.7
+    },
+    {
+      "county_fips": "31147",
+      "county_name": "Richardson",
+      "state": "NE",
+      "pop_total": 7850,
+      "pop_65_plus": 1898,
+      "distance_to_hub_miles": 55.8
+    },
+    {
+      "county_fips": "20043",
+      "county_name": "Doniphan",
+      "state": "KS",
+      "pop_total": 7501,
+      "pop_65_plus": 1466,
+      "distance_to_hub_miles": 20.0
+    },
+    {
+      "county_fips": "29075",
+      "county_name": "Gentry",
+      "state": "MO",
+      "pop_total": 6219,
+      "pop_65_plus": 1161,
+      "distance_to_hub_miles": 36.0
+    },
+    {
+      "county_fips": "29087",
+      "county_name": "Holt",
+      "state": "MO",
+      "pop_total": 4274,
+      "pop_65_plus": 1094,
+      "distance_to_hub_miles": 32.4
+    },
+    {
+      "county_fips": "29227",
+      "county_name": "Worth",
+      "state": "MO",
+      "pop_total": 1982,
+      "pop_65_plus": 502,
+      "distance_to_hub_miles": 52.3
+    }
+  ],
+  "summary": {
+    "total_beds": 353,
+    "catchment_pop": 627062,
+    "catchment_pop_65_plus": 103444,
+    "catchment_pct_65_plus": 0.165,
+    "max_catchment_radius_miles": 68.2,
+    "avg_catchment_distance_miles": 32.2,
+    "num_counties": 19,
+    "hospital_employment": 391,
+    "msa_total_employment": 45486,
+    "hospital_emp_share": 0.0403,
+    "avg_govt_payer_share": 0.65
+  }
+}

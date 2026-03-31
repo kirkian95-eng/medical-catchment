@@ -1,0 +1,136 @@
+{
+  "cbsa_code": "17780",
+  "cbsa_name": "College Station-Bryan, TX",
+  "mdi": 0.3264,
+  "bbox": [
+    -98.18,
+    29.54,
+    -94.78,
+    31.66
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450011",
+      "name": "CHI ST JOSEPH HEALTH REGIONAL HOSPITAL",
+      "beds": 316,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.6556,
+      "lon": -96.347,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "670088",
+      "name": "BAYLOR SCOTT & WHITE MEDICAL CENTER- COLLEGE STATI",
+      "beds": 135,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.5855,
+      "lon": -96.2803,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "451305",
+      "name": "BURLESON ST JOSEPH HEALTH CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.5375,
+      "lon": -96.6805,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450834",
+      "name": "PHYSICIANS CENTRE,THE",
+      "beds": 16,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 30.6609,
+      "lon": -96.3223,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48041",
+      "county_name": "Brazos",
+      "state": "TX",
+      "pop_total": 234548,
+      "pop_65_plus": 22329,
+      "distance_to_hub_miles": 3.4
+    },
+    {
+      "county_fips": "48473",
+      "county_name": "Waller",
+      "state": "TX",
+      "pop_total": 57463,
+      "pop_65_plus": 6590,
+      "distance_to_hub_miles": 47.8
+    },
+    {
+      "county_fips": "48185",
+      "county_name": "Grimes",
+      "state": "TX",
+      "pop_total": 29442,
+      "pop_65_plus": 5362,
+      "distance_to_hub_miles": 22.2
+    },
+    {
+      "county_fips": "48149",
+      "county_name": "Fayette",
+      "state": "TX",
+      "pop_total": 24564,
+      "pop_65_plus": 6399,
+      "distance_to_hub_miles": 62.3
+    },
+    {
+      "county_fips": "48051",
+      "county_name": "Burleson",
+      "state": "TX",
+      "pop_total": 17958,
+      "pop_65_plus": 3891,
+      "distance_to_hub_miles": 18.9
+    },
+    {
+      "county_fips": "48287",
+      "county_name": "Lee",
+      "state": "TX",
+      "pop_total": 17543,
+      "pop_65_plus": 3597,
+      "distance_to_hub_miles": 43.0
+    },
+    {
+      "county_fips": "48395",
+      "county_name": "Robertson",
+      "state": "TX",
+      "pop_total": 16912,
+      "pop_65_plus": 3425,
+      "distance_to_hub_miles": 29.1
+    },
+    {
+      "county_fips": "48313",
+      "county_name": "Madison",
+      "state": "TX",
+      "pop_total": 13556,
+      "pop_65_plus": 2067,
+      "distance_to_hub_miles": 34.0
+    }
+  ],
+  "summary": {
+    "total_beds": 492,
+    "catchment_pop": 411986,
+    "catchment_pop_65_plus": 53660,
+    "catchment_pct_65_plus": 0.1302,
+    "max_catchment_radius_miles": 62.3,
+    "avg_catchment_distance_miles": 18.9,
+    "num_counties": 8,
+    "hospital_employment": 5619,
+    "msa_total_employment": 125687,
+    "hospital_emp_share": 0.0428,
+    "avg_govt_payer_share": 0.6551
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "cbsa_code": "30700",
+  "cbsa_name": "Lincoln, NE",
+  "mdi": 0.2804,
+  "bbox": [
+    -98.59,
+    39.73,
+    -95.08,
+    41.91
+  ],
+  "hospitals": [
+    {
+      "facility_id": "280003",
+      "name": "BRYAN MEDICAL CENTER",
+      "beds": 630,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.7959,
+      "lon": -96.6536,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "280020",
+      "name": "CHI HEALTH ST. ELIZABETH",
+      "beds": 265,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.8088,
+      "lon": -96.6253,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "280128",
+      "name": "CHI HEALTH NEBRASKA HEART",
+      "beds": 63,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.73,
+      "lon": -96.5821,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "281339",
+      "name": "MEMORIAL HEALTH CARE SYSTEMS",
+      "beds": 24,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.9094,
+      "lon": -97.0918,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "280127",
+      "name": "LINCOLN SURGICAL HOSPITAL",
+      "beds": 20,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.7838,
+      "lon": -96.6396,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "31109",
+      "county_name": "Lancaster",
+      "state": "NE",
+      "pop_total": 322063,
+      "pop_65_plus": 46984,
+      "distance_to_hub_miles": 2.6
+    },
+    {
+      "county_fips": "31067",
+      "county_name": "Gage",
+      "state": "NE",
+      "pop_total": 21654,
+      "pop_65_plus": 4625,
+      "distance_to_hub_miles": 36.9
+    },
+    {
+      "county_fips": "31159",
+      "county_name": "Seward",
+      "state": "NE",
+      "pop_total": 17644,
+      "pop_65_plus": 3090,
+      "distance_to_hub_miles": 26.6
+    },
+    {
+      "county_fips": "31131",
+      "county_name": "Otoe",
+      "state": "NE",
+      "pop_total": 15995,
+      "pop_65_plus": 3240,
+      "distance_to_hub_miles": 28.4
+    },
+    {
+      "county_fips": "31151",
+      "county_name": "Saline",
+      "state": "NE",
+      "pop_total": 14275,
+      "pop_65_plus": 2270,
+      "distance_to_hub_miles": 32.2
+    },
+    {
+      "county_fips": "31185",
+      "county_name": "York",
+      "state": "NE",
+      "pop_total": 14212,
+      "pop_65_plus": 2888,
+      "distance_to_hub_miles": 50.3
+    },
+    {
+      "county_fips": "31095",
+      "county_name": "Jefferson",
+      "state": "NE",
+      "pop_total": 7185,
+      "pop_65_plus": 1775,
+      "distance_to_hub_miles": 50.3
+    },
+    {
+      "county_fips": "31127",
+      "county_name": "Nemaha",
+      "state": "NE",
+      "pop_total": 7019,
+      "pop_65_plus": 1422,
+      "distance_to_hub_miles": 50.1
+    },
+    {
+      "county_fips": "31059",
+      "county_name": "Fillmore",
+      "state": "NE",
+      "pop_total": 5557,
+      "pop_65_plus": 1326,
+      "distance_to_hub_miles": 53.5
+    },
+    {
+      "county_fips": "31097",
+      "county_name": "Johnson",
+      "state": "NE",
+      "pop_total": 5294,
+      "pop_65_plus": 992,
+      "distance_to_hub_miles": 34.1
+    },
+    {
+      "county_fips": "31169",
+      "county_name": "Thayer",
+      "state": "NE",
+      "pop_total": 5006,
+      "pop_65_plus": 1265,
+      "distance_to_hub_miles": 65.9
+    },
+    {
+      "county_fips": "31133",
+      "county_name": "Pawnee",
+      "state": "NE",
+      "pop_total": 2553,
+      "pop_65_plus": 724,
+      "distance_to_hub_miles": 50.5
+    }
+  ],
+  "summary": {
+    "total_beds": 1002,
+    "catchment_pop": 438457,
+    "catchment_pop_65_plus": 70601,
+    "catchment_pct_65_plus": 0.161,
+    "max_catchment_radius_miles": 65.9,
+    "avg_catchment_distance_miles": 12.3,
+    "num_counties": 12,
+    "hospital_employment": 7122,
+    "msa_total_employment": 179408,
+    "hospital_emp_share": 0.0397,
+    "avg_govt_payer_share": 0.6524
+  }
+}

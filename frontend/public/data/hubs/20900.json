@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "20900",
+  "cbsa_name": "El Campo, TX",
+  "mdi": 0.283,
+  "bbox": [
+    -97.77,
+    28.2,
+    -94.77,
+    30.2
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450694",
+      "name": "EL CAMPO MEMORIAL HOSPITAL",
+      "beds": 49,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 29.2044,
+      "lon": -96.2727,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48157",
+      "county_name": "Fort Bend",
+      "state": "TX",
+      "pop_total": 832607,
+      "pop_65_plus": 97857,
+      "distance_to_hub_miles": 37.6
+    },
+    {
+      "county_fips": "48481",
+      "county_name": "Wharton",
+      "state": "TX",
+      "pop_total": 41614,
+      "pop_65_plus": 7170,
+      "distance_to_hub_miles": 5.9
+    },
+    {
+      "county_fips": "48089",
+      "county_name": "Colorado",
+      "state": "TX",
+      "pop_total": 20582,
+      "pop_65_plus": 4584,
+      "distance_to_hub_miles": 32.6
+    }
+  ],
+  "summary": {
+    "total_beds": 49,
+    "catchment_pop": 894803,
+    "catchment_pop_65_plus": 109611,
+    "catchment_pct_65_plus": 0.1225,
+    "max_catchment_radius_miles": 37.6,
+    "avg_catchment_distance_miles": 36.0,
+    "num_counties": 3,
+    "hospital_employment": 723,
+    "msa_total_employment": 16396,
+    "hospital_emp_share": 0.0441,
+    "avg_govt_payer_share": 0.65
+  }
+}

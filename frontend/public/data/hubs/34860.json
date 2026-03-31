@@ -1,0 +1,82 @@
+{
+  "cbsa_code": "34860",
+  "cbsa_name": "Nacogdoches, TX",
+  "mdi": 0.3558,
+  "bbox": [
+    -96.15,
+    30.56,
+    -93.0,
+    32.65
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450508",
+      "name": "NACOGDOCHES MEMORIAL HOSPITAL",
+      "beds": 231,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 31.5584,
+      "lon": -94.5048,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450656",
+      "name": "NACOGDOCHES MEDICAL CENTER",
+      "beds": 150,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 31.6521,
+      "lon": -94.6547,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48347",
+      "county_name": "Nacogdoches",
+      "state": "TX",
+      "pop_total": 64768,
+      "pop_65_plus": 9883,
+      "distance_to_hub_miles": 3.4
+    },
+    {
+      "county_fips": "48419",
+      "county_name": "Shelby",
+      "state": "TX",
+      "pop_total": 24157,
+      "pop_65_plus": 4307,
+      "distance_to_hub_miles": 28.1
+    },
+    {
+      "county_fips": "48403",
+      "county_name": "Sabine",
+      "state": "TX",
+      "pop_total": 9980,
+      "pop_65_plus": 2997,
+      "distance_to_hub_miles": 45.4
+    },
+    {
+      "county_fips": "48405",
+      "county_name": "San Augustine",
+      "state": "TX",
+      "pop_total": 7920,
+      "pop_65_plus": 2232,
+      "distance_to_hub_miles": 27.1
+    }
+  ],
+  "summary": {
+    "total_beds": 381,
+    "catchment_pop": 106825,
+    "catchment_pop_65_plus": 19419,
+    "catchment_pct_65_plus": 0.1818,
+    "max_catchment_radius_miles": 45.4,
+    "avg_catchment_distance_miles": 14.7,
+    "num_counties": 4,
+    "hospital_employment": 1117,
+    "msa_total_employment": 22550,
+    "hospital_emp_share": 0.0495,
+    "avg_govt_payer_share": 0.65
+  }
+}

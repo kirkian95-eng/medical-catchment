@@ -1,0 +1,119 @@
+{
+  "cbsa_code": "41660",
+  "cbsa_name": "San Angelo, TX",
+  "mdi": 0.3515,
+  "bbox": [
+    -101.94,
+    30.35,
+    -98.94,
+    32.58
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450571",
+      "name": "SHANNON MEDICAL CENTER",
+      "beds": 616,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 31.4645,
+      "lon": -100.4354,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48451",
+      "county_name": "Tom Green",
+      "state": "TX",
+      "pop_total": 119276,
+      "pop_65_plus": 19007,
+      "distance_to_hub_miles": 4.4
+    },
+    {
+      "county_fips": "48399",
+      "county_name": "Runnels",
+      "state": "TX",
+      "pop_total": 9858,
+      "pop_65_plus": 2030,
+      "distance_to_hub_miles": 37.1
+    },
+    {
+      "county_fips": "48435",
+      "county_name": "Sutton",
+      "state": "TX",
+      "pop_total": 3345,
+      "pop_65_plus": 442,
+      "distance_to_hub_miles": 67.0
+    },
+    {
+      "county_fips": "48081",
+      "county_name": "Coke",
+      "state": "TX",
+      "pop_total": 3305,
+      "pop_65_plus": 899,
+      "distance_to_hub_miles": 29.9
+    },
+    {
+      "county_fips": "48095",
+      "county_name": "Concho",
+      "state": "TX",
+      "pop_total": 3235,
+      "pop_65_plus": 794,
+      "distance_to_hub_miles": 35.0
+    },
+    {
+      "county_fips": "48105",
+      "county_name": "Crockett",
+      "state": "TX",
+      "pop_total": 2949,
+      "pop_65_plus": 694,
+      "distance_to_hub_miles": 77.2
+    },
+    {
+      "county_fips": "48413",
+      "county_name": "Schleicher",
+      "state": "TX",
+      "pop_total": 2474,
+      "pop_65_plus": 634,
+      "distance_to_hub_miles": 39.7
+    },
+    {
+      "county_fips": "48327",
+      "county_name": "Menard",
+      "state": "TX",
+      "pop_total": 1964,
+      "pop_65_plus": 697,
+      "distance_to_hub_miles": 53.8
+    },
+    {
+      "county_fips": "48235",
+      "county_name": "Irion",
+      "state": "TX",
+      "pop_total": 1561,
+      "pop_65_plus": 303,
+      "distance_to_hub_miles": 34.1
+    },
+    {
+      "county_fips": "48431",
+      "county_name": "Sterling",
+      "state": "TX",
+      "pop_total": 1392,
+      "pop_65_plus": 183,
+      "distance_to_hub_miles": 44.0
+    }
+  ],
+  "summary": {
+    "total_beds": 616,
+    "catchment_pop": 149359,
+    "catchment_pop_65_plus": 25683,
+    "catchment_pct_65_plus": 0.172,
+    "max_catchment_radius_miles": 77.2,
+    "avg_catchment_distance_miles": 12.5,
+    "num_counties": 10,
+    "hospital_employment": 2727,
+    "msa_total_employment": 49586,
+    "hospital_emp_share": 0.0541,
+    "avg_govt_payer_share": 0.65
+  }
+}

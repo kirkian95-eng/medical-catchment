@@ -1,0 +1,236 @@
+{
+  "cbsa_code": "31180",
+  "cbsa_name": "Lubbock, TX",
+  "mdi": 0.193,
+  "bbox": [
+    -104.64,
+    31.71,
+    -100.02,
+    35.09
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450686",
+      "name": "UNIVERSITY MEDICAL CENTER",
+      "beds": 503,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.5905,
+      "lon": -101.8881,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450040",
+      "name": "COVENANT MEDICAL CENTER",
+      "beds": 470,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.5701,
+      "lon": -101.891,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450162",
+      "name": "GRACE SURGICAL HOSPITAL",
+      "beds": 123,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.5464,
+      "lon": -101.8565,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450876",
+      "name": "LUBBOCK HEART HOSPITAL LP",
+      "beds": 74,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.6,
+      "lon": -101.9829,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "450755",
+      "name": "COVENANT HOSPITAL LEVELLAND",
+      "beds": 48,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.5751,
+      "lon": -102.3678,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "451351",
+      "name": "LYNN COUNTY HOSPITAL DISTRICT",
+      "beds": 24,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.1587,
+      "lon": -101.8393,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "451366",
+      "name": "COCHRAN MEMORIAL HOSPITAL",
+      "beds": 18,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 33.6453,
+      "lon": -102.8259,
+      "govt_payer_share": 0.75,
+      "medicare_discharges": null
+    },
+    {
+      "facility_id": "670327",
+      "name": "EXCEPTIONAL COMMUNITY HOSPITAL LUBBOCK",
+      "beds": 7,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.4652,
+      "lon": -101.9353,
+      "govt_payer_share": 0.65,
+      "medicare_discharges": null
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48303",
+      "county_name": "Lubbock",
+      "state": "TX",
+      "pop_total": 311509,
+      "pop_65_plus": 39592,
+      "distance_to_hub_miles": 5.6
+    },
+    {
+      "county_fips": "48219",
+      "county_name": "Hockley",
+      "state": "TX",
+      "pop_total": 21495,
+      "pop_65_plus": 3232,
+      "distance_to_hub_miles": 25.0
+    },
+    {
+      "county_fips": "48279",
+      "county_name": "Lamb",
+      "state": "TX",
+      "pop_total": 13024,
+      "pop_65_plus": 2225,
+      "distance_to_hub_miles": 42.3
+    },
+    {
+      "county_fips": "48115",
+      "county_name": "Dawson",
+      "state": "TX",
+      "pop_total": 12342,
+      "pop_65_plus": 1746,
+      "distance_to_hub_miles": 57.8
+    },
+    {
+      "county_fips": "48445",
+      "county_name": "Terry",
+      "state": "TX",
+      "pop_total": 11816,
+      "pop_65_plus": 1749,
+      "distance_to_hub_miles": 37.1
+    },
+    {
+      "county_fips": "48501",
+      "county_name": "Yoakum",
+      "state": "TX",
+      "pop_total": 7630,
+      "pop_65_plus": 765,
+      "distance_to_hub_miles": 59.9
+    },
+    {
+      "county_fips": "48169",
+      "county_name": "Garza",
+      "state": "TX",
+      "pop_total": 5735,
+      "pop_65_plus": 963,
+      "distance_to_hub_miles": 44.7
+    },
+    {
+      "county_fips": "48305",
+      "county_name": "Lynn",
+      "state": "TX",
+      "pop_total": 5619,
+      "pop_65_plus": 885,
+      "distance_to_hub_miles": 28.3
+    },
+    {
+      "county_fips": "48107",
+      "county_name": "Crosby",
+      "state": "TX",
+      "pop_total": 5157,
+      "pop_65_plus": 949,
+      "distance_to_hub_miles": 35.2
+    },
+    {
+      "county_fips": "48079",
+      "county_name": "Cochran",
+      "state": "TX",
+      "pop_total": 2529,
+      "pop_65_plus": 425,
+      "distance_to_hub_miles": 52.9
+    },
+    {
+      "county_fips": "48101",
+      "county_name": "Cottle",
+      "state": "TX",
+      "pop_total": 1647,
+      "pop_65_plus": 360,
+      "distance_to_hub_miles": 99.8
+    },
+    {
+      "county_fips": "48125",
+      "county_name": "Dickens",
+      "state": "TX",
+      "pop_total": 1570,
+      "pop_65_plus": 376,
+      "distance_to_hub_miles": 65.2
+    },
+    {
+      "county_fips": "48345",
+      "county_name": "Motley",
+      "state": "TX",
+      "pop_total": 1223,
+      "pop_65_plus": 383,
+      "distance_to_hub_miles": 73.4
+    },
+    {
+      "county_fips": "48263",
+      "county_name": "Kent",
+      "state": "TX",
+      "pop_total": 635,
+      "pop_65_plus": 237,
+      "distance_to_hub_miles": 70.9
+    },
+    {
+      "county_fips": "48269",
+      "county_name": "King",
+      "state": "TX",
+      "pop_total": 216,
+      "pop_65_plus": 28,
+      "distance_to_hub_miles": 95.3
+    }
+  ],
+  "summary": {
+    "total_beds": 1267,
+    "catchment_pop": 402147,
+    "catchment_pop_65_plus": 53915,
+    "catchment_pct_65_plus": 0.1341,
+    "max_catchment_radius_miles": 99.8,
+    "avg_catchment_distance_miles": 13.9,
+    "num_counties": 15,
+    "hospital_employment": 4801,
+    "msa_total_employment": 161073,
+    "hospital_emp_share": 0.0293,
+    "avg_govt_payer_share": 0.6533
+  }
+}
