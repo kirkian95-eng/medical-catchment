@@ -208,21 +208,23 @@ export default function MapView({
             type="circle"
             paint={{
               'circle-radius': [
-                'interpolate', ['exponential', 0.5], ['get', 'beds'],
-                25, 2,
-                100, 3,
-                300, 5,
-                700, 8,
-                1500, 12,
-                3000, 17,
+                'interpolate', ['linear'],
+                ['sqrt', ['get', 'beds']],
+                5, 2,      // 25 beds → 2px
+                10, 3.5,   // 100 beds → 3.5px
+                17, 5.5,   // ~300 beds → 5.5px
+                26, 8,     // ~700 beds → 8px
+                39, 12,    // ~1500 beds → 12px
+                55, 18,    // ~3000 beds → 18px
               ],
               'circle-color': catchmentFillColorExpr(),
               'circle-stroke-color': '#fff',
               'circle-stroke-width': [
-                'interpolate', ['linear'], ['get', 'mdi'],
-                0.0, 0.5,
-                0.4, 1,
-                0.7, 1.5,
+                'interpolate', ['linear'],
+                ['sqrt', ['get', 'beds']],
+                5, 0.5,
+                20, 1,
+                40, 1.5,
               ],
               'circle-opacity': isSelected ? hubCircleOpacity : [
                 'interpolate', ['linear'], ['get', 'mdi'],
