@@ -1,7 +1,7 @@
 {
   "cbsa_code": "10660",
   "cbsa_name": "Albert Lea, MN",
-  "mdi": 0.6711,
+  "mdi": 0.7288,
   "bbox": [
     -94.87,
     42.65,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.6517,
       "lon": -93.3707,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.272,
+      "medicare_discharges": 1004
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 11781,
     "hospital_emp_share": 0.0824,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2721
   }
 }

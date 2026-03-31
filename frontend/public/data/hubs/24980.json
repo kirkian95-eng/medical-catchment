@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24980",
   "cbsa_name": "Grenada, MS",
-  "mdi": 0.3443,
+  "mdi": 0.3868,
   "bbox": [
     -91.32,
     32.46,
@@ -17,8 +17,8 @@
       "ownership": "Government - State",
       "lat": 33.7632,
       "lon": -89.8185,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.258,
+      "medicare_discharges": 558
     },
     {
       "facility_id": "251312",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 33.4595,
       "lon": -89.7182,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -69,6 +69,6 @@
     "hospital_employment": 460,
     "msa_total_employment": 11826,
     "hospital_emp_share": 0.0389,
-    "avg_govt_payer_share": 0.6638
+    "avg_govt_payer_share": 0.3163
   }
 }

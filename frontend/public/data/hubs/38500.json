@@ -1,7 +1,7 @@
 {
   "cbsa_code": "38500",
   "cbsa_name": "Plymouth, IN",
-  "mdi": 0.2261,
+  "mdi": 0.2466,
   "bbox": [
     -87.83,
     40.36,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 41.3554,
       "lon": -86.326,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.224,
+      "medicare_discharges": 335
     },
     {
       "facility_id": "151300",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.457,
       "lon": -86.1584,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 19186,
     "hospital_emp_share": 0.0225,
-    "avg_govt_payer_share": 0.6793
+    "avg_govt_payer_share": 0.3573
   }
 }

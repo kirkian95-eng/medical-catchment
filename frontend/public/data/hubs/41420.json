@@ -1,7 +1,7 @@
 {
   "cbsa_code": "41420",
   "cbsa_name": "Salem, OR",
-  "mdi": 0.3512,
+  "mdi": 0.4564,
   "bbox": [
     -124.84,
     43.68,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 44.9331,
       "lon": -123.0341,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.389,
+      "medicare_discharges": 4197
     },
     {
       "facility_id": "380029",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.0045,
       "lon": -122.7906,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.21,
+      "medicare_discharges": 165
     },
     {
       "facility_id": "380056",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.7994,
       "lon": -122.7225,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.227,
+      "medicare_discharges": 153
     },
     {
       "facility_id": "381308",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.9351,
       "lon": -123.3391,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -115,6 +115,6 @@
     "hospital_employment": 7820,
     "msa_total_employment": 189738,
     "hospital_emp_share": 0.0412,
-    "avg_govt_payer_share": 0.6546
+    "avg_govt_payer_share": 0.3751
   }
 }

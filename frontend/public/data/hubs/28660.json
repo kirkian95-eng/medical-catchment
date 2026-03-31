@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28660",
   "cbsa_name": "Killeen-Temple, TX",
-  "mdi": 0.7149,
+  "mdi": 0.7992,
   "bbox": [
     -99.84,
     29.79,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 31.0787,
       "lon": -97.3659,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.361,
+      "medicare_discharges": 6423
     },
     {
       "facility_id": "450152",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 31.1172,
       "lon": -97.7981,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.241,
+      "medicare_discharges": 1307
     },
     {
       "facility_id": "670080",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 31.0546,
       "lon": -97.6417,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.276,
+      "medicare_discharges": 927
     },
     {
       "facility_id": "451323",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 31.1026,
       "lon": -98.2598,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "451379",
@@ -61,8 +61,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 31.441,
       "lon": -97.7746,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -182,6 +182,6 @@
     "hospital_employment": 13132,
     "msa_total_employment": 148324,
     "hospital_emp_share": 0.0885,
-    "avg_govt_payer_share": 0.655
+    "avg_govt_payer_share": 0.3421
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39580",
   "cbsa_name": "Raleigh-Cary, NC",
-  "mdi": 0.2153,
+  "mdi": 0.3845,
   "bbox": [
     -80.28,
     34.51,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.7866,
       "lon": -78.5885,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.367,
+      "medicare_discharges": 6344
     },
     {
       "facility_id": "340114",
@@ -28,8 +28,8 @@
       "ownership": "Government - State",
       "lat": 35.8156,
       "lon": -78.7038,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.547,
+      "medicare_discharges": 7959
     },
     {
       "facility_id": "340090",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 35.5131,
       "lon": -78.3334,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.466,
+      "medicare_discharges": 2767
     },
     {
       "facility_id": "340173",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.7407,
       "lon": -78.7817,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.619,
+      "medicare_discharges": 3164
     }
   ],
   "catchment_counties": [
@@ -83,6 +83,6 @@
     "hospital_employment": 22407,
     "msa_total_employment": 698459,
     "hospital_emp_share": 0.0315,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4598
   }
 }

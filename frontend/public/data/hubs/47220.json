@@ -1,7 +1,7 @@
 {
   "cbsa_code": "47220",
   "cbsa_name": "Vineland, NJ",
-  "mdi": 0.3364,
+  "mdi": 0.4791,
   "bbox": [
     -76.56,
     38.45,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.4474,
       "lon": -75.0581,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.415,
+      "medicare_discharges": 4070
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 59837,
     "hospital_emp_share": 0.0467,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4152
   }
 }

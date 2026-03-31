@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24330",
   "cbsa_name": "Grand Rapids, MN",
-  "mdi": 0.5378,
+  "mdi": 0.5781,
   "bbox": [
     -95.35,
     46.22,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.2209,
       "lon": -93.5572,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.285,
+      "medicare_discharges": 562
     },
     {
       "facility_id": "241316",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 47.7021,
       "lon": -93.5337,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "241360",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.3905,
       "lon": -93.8487,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -64,6 +64,6 @@
     "hospital_employment": 177,
     "msa_total_employment": 15831,
     "hospital_emp_share": 0.0597,
-    "avg_govt_payer_share": 0.6885
+    "avg_govt_payer_share": 0.4372
   }
 }

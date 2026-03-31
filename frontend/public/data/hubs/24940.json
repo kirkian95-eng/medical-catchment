@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24940",
   "cbsa_name": "Greenwood, SC",
-  "mdi": 0.563,
+  "mdi": 0.6403,
   "bbox": [
     -83.93,
     33.17,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.1745,
       "lon": -82.1569,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 2811
     },
     {
       "facility_id": "421301",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 34.1824,
       "lon": -82.4256,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -77,6 +77,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 32957,
     "hospital_emp_share": 0.067,
-    "avg_govt_payer_share": 0.6565
+    "avg_govt_payer_share": 0.338
   }
 }

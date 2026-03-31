@@ -1,7 +1,7 @@
 {
   "cbsa_code": "45060",
   "cbsa_name": "Syracuse, NY",
-  "mdi": 0.3808,
+  "mdi": 0.5058,
   "bbox": [
     -77.88,
     41.82,
@@ -17,8 +17,8 @@
       "ownership": "Government - State",
       "lat": 43.0426,
       "lon": -76.1406,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.461,
+      "medicare_discharges": 5817
     },
     {
       "facility_id": "330203",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.0415,
       "lon": -76.138,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.349,
+      "medicare_discharges": 3811
     },
     {
       "facility_id": "330140",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.061,
       "lon": -76.1349,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.407,
+      "medicare_discharges": 4581
     },
     {
       "facility_id": "330218",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.3293,
       "lon": -76.3807,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.284,
+      "medicare_discharges": 775
     },
     {
       "facility_id": "330115",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.0781,
       "lon": -75.6618,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.262,
+      "medicare_discharges": 548
     },
     {
       "facility_id": "331316",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.8208,
       "lon": -75.5464,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -113,6 +113,6 @@
     "hospital_employment": 1859,
     "msa_total_employment": 293463,
     "hospital_emp_share": 0.0454,
-    "avg_govt_payer_share": 0.6515
+    "avg_govt_payer_share": 0.3929
   }
 }

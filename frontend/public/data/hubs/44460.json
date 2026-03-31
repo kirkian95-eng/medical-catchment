@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44460",
   "cbsa_name": "Steamboat Springs, CO",
-  "mdi": 0.3691,
+  "mdi": 0.3931,
   "bbox": [
     -109.24,
     39.46,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.462,
       "lon": -106.8176,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.241,
+      "medicare_discharges": 310
     },
     {
       "facility_id": "061314",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 40.7047,
       "lon": -107.7362,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -69,6 +69,6 @@
     "hospital_employment": 757,
     "msa_total_employment": 21256,
     "hospital_emp_share": 0.0356,
-    "avg_govt_payer_share": 0.6891
+    "avg_govt_payer_share": 0.4127
   }
 }

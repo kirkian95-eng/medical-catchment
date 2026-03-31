@@ -1,7 +1,7 @@
 {
   "cbsa_code": "46220",
   "cbsa_name": "Tuscaloosa, AL",
-  "mdi": 0.1133,
+  "mdi": 0.1841,
   "bbox": [
     -89.44,
     31.68,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 33.206,
       "lon": -87.5243,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.301,
+      "medicare_discharges": 4628
     },
     {
       "facility_id": "010095",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.6847,
       "lon": -87.5988,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.228,
+      "medicare_discharges": 86
     },
     {
       "facility_id": "010051",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 32.9318,
       "lon": -87.9385,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.144,
+      "medicare_discharges": 17
     }
   ],
   "catchment_counties": [
@@ -96,6 +96,6 @@
     "hospital_employment": 2019,
     "msa_total_employment": 102131,
     "hospital_emp_share": 0.0191,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2942
   }
 }

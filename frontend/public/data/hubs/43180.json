@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43180",
   "cbsa_name": "Shelbyville, TN",
-  "mdi": 0.2071,
+  "mdi": 0.2261,
   "bbox": [
     -87.98,
     34.46,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 35.4557,
       "lon": -86.4848,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.207,
+      "medicare_discharges": 318
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 17809,
     "hospital_emp_share": 0.0304,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2069
   }
 }

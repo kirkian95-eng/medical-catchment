@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48180",
   "cbsa_name": "Waycross, GA",
-  "mdi": 0.574,
+  "mdi": 0.6295,
   "bbox": [
     -83.85,
     30.23,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 31.2276,
       "lon": -82.3479,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.268,
+      "medicare_discharges": 1317
     }
   ],
   "catchment_counties": [
@@ -74,6 +74,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 14722,
     "hospital_emp_share": 0.0671,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2684
   }
 }

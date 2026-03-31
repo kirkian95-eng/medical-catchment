@@ -1,7 +1,7 @@
 {
   "cbsa_code": "38540",
   "cbsa_name": "Pocatello, ID",
-  "mdi": 0.3536,
+  "mdi": 0.4626,
   "bbox": [
     -113.92,
     41.87,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 42.8715,
       "lon": -112.4183,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.359,
+      "medicare_discharges": 2135
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 131,
     "msa_total_employment": 36736,
     "hospital_emp_share": 0.0474,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3586
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17220",
   "cbsa_name": "Clarksburg, WV",
-  "mdi": 0.2708,
+  "mdi": 0.3561,
   "bbox": [
     -81.74,
     38.33,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.3274,
       "lon": -80.2381,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.358,
+      "medicare_discharges": 3687
     },
     {
       "facility_id": "511307",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 39.354,
       "lon": -80.0187,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -125,6 +125,6 @@
     "hospital_employment": 1325,
     "msa_total_employment": 40110,
     "hospital_emp_share": 0.0319,
-    "avg_govt_payer_share": 0.6714
+    "avg_govt_payer_share": 0.4266
   }
 }

@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 48.1982,
       "lon": -122.6541,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 1,
     "msa_total_employment": 18070,
     "hospital_emp_share": 0.0286,
-    "avg_govt_payer_share": 0.75
+    "avg_govt_payer_share": 0.68
   }
 }

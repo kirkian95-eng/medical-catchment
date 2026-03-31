@@ -1,7 +1,7 @@
 {
   "cbsa_code": "26580",
   "cbsa_name": "Huntington-Ashland, WV-KY-OH",
-  "mdi": 0.5058,
+  "mdi": 0.6148,
   "bbox": [
     -84.17,
     37.06,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.4775,
       "lon": -82.6505,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.341,
+      "medicare_discharges": 4587
     },
     {
       "facility_id": "510007",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 38.4347,
       "lon": -82.3144,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.416,
+      "medicare_discharges": 4125
     },
     {
       "facility_id": "510055",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.409,
       "lon": -82.4281,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.339,
+      "medicare_discharges": 2211
     },
     {
       "facility_id": "180128",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 38.0633,
       "lon": -82.6684,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.239,
+      "medicare_discharges": 306
     }
   ],
   "catchment_counties": [
@@ -139,6 +139,6 @@
     "hospital_employment": 6305,
     "msa_total_employment": 80816,
     "hospital_emp_share": 0.0585,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3586
   }
 }

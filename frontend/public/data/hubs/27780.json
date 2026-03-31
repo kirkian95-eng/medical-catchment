@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27780",
   "cbsa_name": "Johnstown, PA",
-  "mdi": 0.531,
+  "mdi": 0.5746,
   "bbox": [
     -80.42,
     39.31,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 40.3051,
       "lon": -78.9186,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.251,
+      "medicare_discharges": 1986
     },
     {
       "facility_id": "391317",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 40.6896,
       "lon": -78.7268,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -69,6 +69,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 47552,
     "hospital_emp_share": 0.064,
-    "avg_govt_payer_share": 0.654
+    "avg_govt_payer_share": 0.2684
   }
 }

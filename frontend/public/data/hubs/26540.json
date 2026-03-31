@@ -1,7 +1,7 @@
 {
   "cbsa_code": "26540",
   "cbsa_name": "Huntington, IN",
-  "mdi": 0.191,
+  "mdi": 0.2533,
   "bbox": [
     -86.99,
     39.91,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.9058,
       "lon": -85.4907,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.28,
+      "medicare_discharges": 369
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 13866,
     "hospital_emp_share": 0.0279,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2799
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34660",
   "cbsa_name": "Murray, KY",
-  "mdi": 0.389,
+  "mdi": 0.4658,
   "bbox": [
     -89.81,
     35.61,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 36.6085,
       "lon": -88.3096,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.304,
+      "medicare_discharges": 1168
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 15490,
     "hospital_emp_share": 0.0477,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3044
   }
 }

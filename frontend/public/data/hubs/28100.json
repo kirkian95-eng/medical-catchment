@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28100",
   "cbsa_name": "Kankakee, IL",
-  "mdi": 0.6204,
+  "mdi": 0.6932,
   "bbox": [
     -89.39,
     40.12,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.1234,
       "lon": -87.8856,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.288,
+      "medicare_discharges": 2653
     },
     {
       "facility_id": "140155",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 41.1212,
       "lon": -87.8732,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.315,
+      "medicare_discharges": 1485
     }
   ],
   "catchment_counties": [
@@ -117,6 +117,6 @@
     "hospital_employment": 3309,
     "msa_total_employment": 42090,
     "hospital_emp_share": 0.0786,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2976
   }
 }

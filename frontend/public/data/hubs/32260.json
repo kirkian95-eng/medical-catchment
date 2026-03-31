@@ -1,7 +1,7 @@
 {
   "cbsa_code": "32260",
   "cbsa_name": "Marshalltown, IA",
-  "mdi": 0.2057,
+  "mdi": 0.2594,
   "bbox": [
     -94.4,
     41.05,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.0498,
       "lon": -92.9007,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.265,
+      "medicare_discharges": 389
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 15755,
     "hospital_emp_share": 0.0311,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2653
   }
 }

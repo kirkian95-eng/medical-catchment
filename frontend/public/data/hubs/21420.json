@@ -1,7 +1,7 @@
 {
   "cbsa_code": "21420",
   "cbsa_name": "Enid, OK",
-  "mdi": 0.7,
+  "mdi": 0.7377,
   "bbox": [
     -99.39,
     35.24,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 36.4267,
       "lon": -97.792,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.244,
+      "medicare_discharges": 1166
     },
     {
       "facility_id": "370016",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.3906,
       "lon": -97.8866,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.232,
+      "medicare_discharges": 802
     }
   ],
   "catchment_counties": [
@@ -93,6 +93,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 23335,
     "hospital_emp_share": 0.1028,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2385
   }
 }

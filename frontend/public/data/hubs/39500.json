@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39500",
   "cbsa_name": "Quincy, IL-MO",
-  "mdi": 0.3994,
+  "mdi": 0.5711,
   "bbox": [
     -92.9,
     38.94,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.9358,
       "lon": -91.4,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.464,
+      "medicare_discharges": 4592
     }
   ],
   "catchment_counties": [
@@ -98,6 +98,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 32284,
     "hospital_emp_share": 0.0506,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4641
   }
 }

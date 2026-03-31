@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13380",
   "cbsa_name": "Bellingham, WA",
-  "mdi": 0.226,
+  "mdi": 0.4093,
   "bbox": [
     -123.97,
     47.77,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 48.7722,
       "lon": -122.4732,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.484,
+      "medicare_discharges": 4488
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 93260,
     "hospital_emp_share": 0.0352,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4836
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "32780",
   "cbsa_name": "Medford, OR",
-  "mdi": 0.3887,
+  "mdi": 0.5291,
   "bbox": [
     -124.36,
     41.19,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.3166,
       "lon": -122.83,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.446,
+      "medicare_discharges": 4246
     },
     {
       "facility_id": "380075",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 42.3402,
       "lon": -122.8611,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.359,
+      "medicare_discharges": 1555
     },
     {
       "facility_id": "380005",
@@ -39,8 +39,8 @@
       "ownership": "Government - Local",
       "lat": 42.2064,
       "lon": -122.7246,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.324,
+      "medicare_discharges": 383
     }
   ],
   "catchment_counties": [
@@ -80,6 +80,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 91044,
     "hospital_emp_share": 0.0528,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4114
   }
 }

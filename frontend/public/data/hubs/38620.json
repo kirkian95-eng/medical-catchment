@@ -1,7 +1,7 @@
 {
   "cbsa_code": "38620",
   "cbsa_name": "Ponca City, OK",
-  "mdi": 0.3222,
+  "mdi": 0.3583,
   "bbox": [
     -98.57,
     35.73,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 36.725,
       "lon": -97.0673,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.236,
+      "medicare_discharges": 596
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 17292,
     "hospital_emp_share": 0.0427,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2359
   }
 }

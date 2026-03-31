@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31700",
   "cbsa_name": "Manchester-Nashua, NH",
-  "mdi": 0.3384,
+  "mdi": 0.4567,
   "bbox": [
     -73.44,
     41.75,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.9912,
       "lon": -71.4739,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.406,
+      "medicare_discharges": 4039
     },
     {
       "facility_id": "300012",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.9828,
       "lon": -71.4359,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.395,
+      "medicare_discharges": 3452
     },
     {
       "facility_id": "300011",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 42.7496,
       "lon": -71.4819,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.315,
+      "medicare_discharges": 1810
     },
     {
       "facility_id": "300020",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.7563,
       "lon": -71.4608,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.377,
+      "medicare_discharges": 2482
     },
     {
       "facility_id": "301309",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.89,
       "lon": -71.9359,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -102,6 +102,6 @@
     "hospital_employment": 10277,
     "msa_total_employment": 201952,
     "hospital_emp_share": 0.0509,
-    "avg_govt_payer_share": 0.6524
+    "avg_govt_payer_share": 0.3862
   }
 }

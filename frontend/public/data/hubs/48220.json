@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48220",
   "cbsa_name": "Weatherford, OK",
-  "mdi": 0.3459,
+  "mdi": 0.4219,
   "bbox": [
     -100.45,
     34.27,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 35.5128,
       "lon": -98.7221,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "370245",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 35.4875,
       "lon": -98.9508,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "371325",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 35.2692,
       "lon": -98.9148,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -72,6 +72,6 @@
     "hospital_employment": 45,
     "msa_total_employment": 14382,
     "hospital_emp_share": 0.0245,
-    "avg_govt_payer_share": 0.7139
+    "avg_govt_payer_share": 0.6259
   }
 }

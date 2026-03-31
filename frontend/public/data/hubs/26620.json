@@ -1,7 +1,7 @@
 {
   "cbsa_code": "26620",
   "cbsa_name": "Huntsville, AL",
-  "mdi": 0.1673,
+  "mdi": 0.3194,
   "bbox": [
     -88.48,
     33.72,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.721,
       "lon": -86.5819,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.429,
+      "medicare_discharges": 10505
     },
     {
       "facility_id": "010131",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 34.7268,
       "lon": -86.5731,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.457,
+      "medicare_discharges": 2501
     },
     {
       "facility_id": "010079",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.8038,
       "lon": -86.979,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.401,
+      "medicare_discharges": 1072
     }
   ],
   "catchment_counties": [
@@ -64,6 +64,6 @@
     "hospital_employment": 1637,
     "msa_total_employment": 257426,
     "hospital_emp_share": 0.0307,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.431
   }
 }

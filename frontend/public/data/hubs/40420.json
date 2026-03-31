@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40420",
   "cbsa_name": "Rockford, IL",
-  "mdi": 0.5022,
+  "mdi": 0.5948,
   "bbox": [
     -90.6,
     41.27,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.2981,
       "lon": -89.0969,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.24,
+      "medicare_discharges": 1976
     },
     {
       "facility_id": "140228",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.2668,
       "lon": -89.0728,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.335,
+      "medicare_discharges": 3182
     },
     {
       "facility_id": "140233",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 42.266,
       "lon": -89.0067,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.477,
+      "medicare_discharges": 3864
     }
   ],
   "catchment_counties": [
@@ -104,6 +104,6 @@
     "hospital_employment": 8949,
     "msa_total_employment": 125284,
     "hospital_emp_share": 0.0651,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3308
   }
 }

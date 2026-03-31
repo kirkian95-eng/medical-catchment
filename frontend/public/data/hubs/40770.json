@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40770",
   "cbsa_name": "Russellville, AL",
-  "mdi": 0.5669,
+  "mdi": 0.6044,
   "bbox": [
     -89.59,
     33.49,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 34.5334,
       "lon": -87.8637,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.254,
+      "medicare_discharges": 331
     },
     {
       "facility_id": "011302",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.4857,
       "lon": -88.095,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 10661,
     "hospital_emp_share": 0.0616,
-    "avg_govt_payer_share": 0.67
+    "avg_govt_payer_share": 0.3391
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "49660",
   "cbsa_name": "Youngstown-Warren, OH",
-  "mdi": 0.3067,
+  "mdi": 0.3781,
   "bbox": [
     -82.28,
     39.99,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 40.9931,
       "lon": -80.6626,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.317,
+      "medicare_discharges": 3076
     },
     {
       "facility_id": "360161",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.2311,
       "lon": -80.7782,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.289,
+      "medicare_discharges": 1633
     },
     {
       "facility_id": "360352",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 41.0259,
       "lon": -80.667,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.153,
+      "medicare_discharges": 102
     }
   ],
   "catchment_counties": [
@@ -80,6 +80,6 @@
     "hospital_employment": 6927,
     "msa_total_employment": 158141,
     "hospital_emp_share": 0.0438,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2952
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "11700",
   "cbsa_name": "Asheville, NC",
-  "mdi": 0.4425,
+  "mdi": 0.5907,
   "bbox": [
     -84.05,
     34.32,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.5777,
       "lon": -82.5482,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.462,
+      "medicare_discharges": 10544
     },
     {
       "facility_id": "340017",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 35.3212,
       "lon": -82.468,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 2549
     },
     {
       "facility_id": "340023",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.3904,
       "lon": -82.4889,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.353,
+      "medicare_discharges": 1153
     }
   ],
   "catchment_counties": [
@@ -96,6 +96,6 @@
     "hospital_employment": 10059,
     "msa_total_employment": 180931,
     "hospital_emp_share": 0.0543,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4245
   }
 }

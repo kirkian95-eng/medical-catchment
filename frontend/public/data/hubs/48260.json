@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48260",
   "cbsa_name": "Weirton-Steubenville, WV-OH",
-  "mdi": 0.7,
+  "mdi": 0.7412,
   "bbox": [
     -82.12,
     39.36,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 40.356,
       "lon": -80.625,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.218,
+      "medicare_discharges": 1690
     },
     {
       "facility_id": "510023",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 40.4214,
       "lon": -80.5577,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.301,
+      "medicare_discharges": 2164
     }
   ],
   "catchment_counties": [
@@ -93,6 +93,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 29668,
     "hospital_emp_share": 0.1341,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2443
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "46660",
   "cbsa_name": "Valdosta, GA",
-  "mdi": 0.4256,
+  "mdi": 0.5242,
   "bbox": [
     -85.06,
     29.77,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.8621,
       "lon": -83.2888,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 3355
     },
     {
       "facility_id": "111326",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 31.0969,
       "lon": -83.0485,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "111332",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.7731,
       "lon": -83.5569,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -104,6 +104,6 @@
     "hospital_employment": 2780,
     "msa_total_employment": 54165,
     "hospital_emp_share": 0.0507,
-    "avg_govt_payer_share": 0.663
+    "avg_govt_payer_share": 0.4065
   }
 }

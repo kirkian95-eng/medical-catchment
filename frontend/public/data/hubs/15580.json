@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15580",
   "cbsa_name": "Butte-Silver Bow, MT",
-  "mdi": 0.3645,
+  "mdi": 0.4656,
   "bbox": [
     -114.05,
     45.01,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.0084,
       "lon": -112.5453,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.345,
+      "medicare_discharges": 907
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 751,
     "msa_total_employment": 16398,
     "hospital_emp_share": 0.0458,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3451
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27180",
   "cbsa_name": "Jackson, TN",
-  "mdi": 0.5386,
+  "mdi": 0.6582,
   "bbox": [
     -90.33,
     34.64,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 35.6394,
       "lon": -88.8326,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.395,
+      "medicare_discharges": 7936
     },
     {
       "facility_id": "440060",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 35.9167,
       "lon": -88.7587,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.175,
+      "medicare_discharges": 142
     }
   ],
   "catchment_counties": [
@@ -125,6 +125,6 @@
     "hospital_employment": 5811,
     "msa_total_employment": 75845,
     "hospital_emp_share": 0.0693,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3763
   }
 }

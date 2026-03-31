@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27260",
   "cbsa_name": "Jacksonville, FL",
-  "mdi": 0.2974,
+  "mdi": 0.4116,
   "bbox": [
     -83.62,
     28.86,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.3162,
       "lon": -81.6643,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.384,
+      "medicare_discharges": 13643
     },
     {
       "facility_id": "100001",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.3466,
       "lon": -81.6631,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.32,
+      "medicare_discharges": 3882
     },
     {
       "facility_id": "100040",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.317,
       "lon": -81.6808,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.286,
+      "medicare_discharges": 4092
     },
     {
       "facility_id": "100179",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 30.2873,
       "lon": -81.6023,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.326,
+      "medicare_discharges": 3573
     },
     {
       "facility_id": "100151",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.27,
       "lon": -81.4609,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.581,
+      "medicare_discharges": 9240
     },
     {
       "facility_id": "100226",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 30.1663,
       "lon": -81.7379,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.354,
+      "medicare_discharges": 3953
     },
     {
       "facility_id": "100090",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 29.8627,
       "lon": -81.3178,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.397,
+      "medicare_discharges": 4098
     },
     {
       "facility_id": "100307",
@@ -94,8 +94,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.2811,
       "lon": -81.5817,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.246,
+      "medicare_discharges": 1560
     },
     {
       "facility_id": "100117",
@@ -105,8 +105,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.2744,
       "lon": -81.4001,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.484,
+      "medicare_discharges": 2594
     },
     {
       "facility_id": "100321",
@@ -116,8 +116,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.083,
       "lon": -81.884,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.405,
+      "medicare_discharges": 1978
     },
     {
       "facility_id": "100140",
@@ -127,8 +127,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.6018,
       "lon": -81.4818,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.446,
+      "medicare_discharges": 1226
     },
     {
       "facility_id": "100361",
@@ -138,8 +138,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.0743,
       "lon": -81.5852,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.266,
+      "medicare_discharges": 559
     },
     {
       "facility_id": "100134",
@@ -149,8 +149,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.2709,
       "lon": -82.1204,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.269,
+      "medicare_discharges": 194
     }
   ],
   "catchment_counties": [
@@ -206,6 +206,6 @@
     "hospital_employment": 32994,
     "msa_total_employment": 743183,
     "hospital_emp_share": 0.0444,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3672
   }
 }

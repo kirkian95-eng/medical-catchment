@@ -1,7 +1,7 @@
 {
   "cbsa_code": "32540",
   "cbsa_name": "McAlester, OK",
-  "mdi": 0.5332,
+  "mdi": 0.5874,
   "bbox": [
     -97.25,
     33.93,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.9347,
       "lon": -95.7504,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.266,
+      "medicare_discharges": 904
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 11,
     "msa_total_employment": 15093,
     "hospital_emp_share": 0.0523,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2663
   }
 }

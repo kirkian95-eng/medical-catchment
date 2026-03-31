@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13820",
   "cbsa_name": "Birmingham, AL",
-  "mdi": 0.4569,
+  "mdi": 0.5265,
   "bbox": [
     -88.73,
     31.81,
@@ -17,8 +17,8 @@
       "ownership": "Government - State",
       "lat": 33.5059,
       "lon": -86.8017,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.365,
+      "medicare_discharges": 9350
     },
     {
       "facility_id": "010139",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 33.4476,
       "lon": -86.8108,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.201,
+      "medicare_discharges": 1604
     },
     {
       "facility_id": "010103",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 33.4565,
       "lon": -86.8685,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.233,
+      "medicare_discharges": 1698
     },
     {
       "facility_id": "010104",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 33.4327,
       "lon": -86.7206,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.389,
+      "medicare_discharges": 5520
     },
     {
       "facility_id": "010056",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.4951,
       "lon": -86.8082,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.327,
+      "medicare_discharges": 3639
     },
     {
       "facility_id": "010011",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.6153,
       "lon": -86.6454,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.324,
+      "medicare_discharges": 2609
     },
     {
       "facility_id": "010114",
@@ -83,8 +83,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 33.3665,
       "lon": -86.9984,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.232,
+      "medicare_discharges": 999
     },
     {
       "facility_id": "010089",
@@ -94,8 +94,8 @@
       "ownership": "Proprietary",
       "lat": 33.8268,
       "lon": -87.2266,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.217,
+      "medicare_discharges": 1004
     },
     {
       "facility_id": "010016",
@@ -105,8 +105,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.2214,
       "lon": -86.7877,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.273,
+      "medicare_discharges": 1504
     },
     {
       "facility_id": "010018",
@@ -116,8 +116,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.5092,
       "lon": -86.8014,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.121,
+      "medicare_discharges": 11
     },
     {
       "facility_id": "010130",
@@ -127,8 +127,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.6334,
       "lon": -86.2887,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.349,
+      "medicare_discharges": 469
     },
     {
       "facility_id": "010058",
@@ -138,8 +138,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.9513,
       "lon": -87.1473,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.225,
+      "medicare_discharges": 75
     },
     {
       "facility_id": "010173",
@@ -149,8 +149,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 32.8116,
       "lon": -86.6732,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.192,
+      "medicare_discharges": 125
     },
     {
       "facility_id": "011305",
@@ -160,8 +160,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.9411,
       "lon": -86.4506,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -217,6 +217,6 @@
     "hospital_employment": 29879,
     "msa_total_employment": 510871,
     "hospital_emp_share": 0.0585,
-    "avg_govt_payer_share": 0.6506
+    "avg_govt_payer_share": 0.2949
   }
 }

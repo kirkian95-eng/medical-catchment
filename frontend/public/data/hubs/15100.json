@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15100",
   "cbsa_name": "Brookings, SD",
-  "mdi": 0.0489,
+  "mdi": 0.1377,
   "bbox": [
     -98.27,
     43.3,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 44.3026,
       "lon": -96.7683,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.325,
+      "medicare_discharges": 569
     }
   ],
   "catchment_counties": [
@@ -74,6 +74,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 19122,
     "hospital_emp_share": 0.0132,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3246
   }
 }

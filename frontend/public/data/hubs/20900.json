@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20900",
   "cbsa_name": "El Campo, TX",
-  "mdi": 0.283,
+  "mdi": 0.3275,
   "bbox": [
     -97.77,
     28.2,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 29.2044,
       "lon": -96.2727,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.25,
+      "medicare_discharges": 283
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 723,
     "msa_total_employment": 16396,
     "hospital_emp_share": 0.0441,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.25
   }
 }

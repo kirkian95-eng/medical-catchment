@@ -1,7 +1,7 @@
 {
   "cbsa_code": "21500",
   "cbsa_name": "Erie, PA",
-  "mdi": 0.4001,
+  "mdi": 0.5051,
   "bbox": [
     -81.59,
     40.92,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.1112,
       "lon": -80.0787,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.332,
+      "medicare_discharges": 2904
     },
     {
       "facility_id": "390063",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.1329,
       "lon": -80.0874,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.43,
+      "medicare_discharges": 4171
     },
     {
       "facility_id": "390198",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.0605,
       "lon": -80.0458,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.239,
+      "medicare_discharges": 248
     },
     {
       "facility_id": "391308",
@@ -50,8 +50,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 41.9158,
       "lon": -79.6847,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -83,6 +83,6 @@
     "hospital_employment": 6446,
     "msa_total_employment": 118403,
     "hospital_emp_share": 0.0544,
-    "avg_govt_payer_share": 0.6523
+    "avg_govt_payer_share": 0.3637
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35060",
   "cbsa_name": "Natchitoches, LA",
-  "mdi": 0.2613,
+  "mdi": 0.3081,
   "bbox": [
     -94.58,
     30.75,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 31.7534,
       "lon": -93.0782,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.254,
+      "medicare_discharges": 453
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 14345,
     "hospital_emp_share": 0.0347,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2538
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "38940",
   "cbsa_name": "Port St. Lucie, FL",
-  "mdi": 0.318,
+  "mdi": 0.4636,
   "bbox": [
     -81.85,
     26.03,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 27.1987,
       "lon": -80.2431,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.518,
+      "medicare_discharges": 10752
     },
     {
       "facility_id": "100246",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 27.43,
       "lon": -80.3473,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.324,
+      "medicare_discharges": 4344
     },
     {
       "facility_id": "100260",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 27.2888,
       "lon": -80.2956,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.408,
+      "medicare_discharges": 3863
     }
   ],
   "catchment_counties": [
@@ -88,6 +88,6 @@
     "hospital_employment": 7462,
     "msa_total_employment": 164426,
     "hospital_emp_share": 0.0454,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4201
   }
 }

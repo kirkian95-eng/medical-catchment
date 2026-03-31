@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25740",
   "cbsa_name": "Helena, MT",
-  "mdi": 0.2464,
+  "mdi": 0.4234,
   "bbox": [
     -113.5,
     45.42,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.5841,
       "lon": -111.996,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.548,
+      "medicare_discharges": 1728
     },
     {
       "facility_id": "271333",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.4167,
       "lon": -111.4426,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -69,6 +69,6 @@
     "hospital_employment": 1032,
     "msa_total_employment": 40512,
     "hospital_emp_share": 0.0239,
-    "avg_govt_payer_share": 0.6702
+    "avg_govt_payer_share": 0.5748
   }
 }

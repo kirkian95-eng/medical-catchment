@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24500",
   "cbsa_name": "Great Falls, MT",
-  "mdi": 0.5253,
+  "mdi": 0.6262,
   "bbox": [
     -113.57,
     45.48,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.4921,
       "lon": -111.2625,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.332,
+      "medicare_discharges": 2875
     },
     {
       "facility_id": "270086",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 47.289,
       "lon": -111.3005,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.611,
+      "medicare_discharges": 583
     }
   ],
   "catchment_counties": [
@@ -125,6 +125,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 36297,
     "hospital_emp_share": 0.0672,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.345
   }
 }

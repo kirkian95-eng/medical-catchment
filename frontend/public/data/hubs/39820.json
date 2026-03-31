@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39820",
   "cbsa_name": "Redding, CA",
-  "mdi": 0.4091,
+  "mdi": 0.5617,
   "bbox": [
     -124.31,
     39.08,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.5621,
       "lon": -122.4008,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.63,
+      "medicare_discharges": 5380
     },
     {
       "facility_id": "050764",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 40.5772,
       "lon": -122.4547,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.351,
+      "medicare_discharges": 2900
     },
     {
       "facility_id": "051305",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 41.0074,
       "lon": -121.4575,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "050697",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 40.5772,
       "lon": -122.4547,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.236,
+      "medicare_discharges": 80
     }
   ],
   "catchment_counties": [
@@ -91,6 +91,6 @@
     "hospital_employment": 2952,
     "msa_total_employment": 68529,
     "hospital_emp_share": 0.0431,
-    "avg_govt_payer_share": 0.6688
+    "avg_govt_payer_share": 0.5267
   }
 }

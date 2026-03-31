@@ -1,7 +1,7 @@
 {
   "cbsa_code": "11620",
   "cbsa_name": "Ardmore, OK",
-  "mdi": 0.4193,
+  "mdi": 0.5157,
   "bbox": [
     -99.0,
     33.19,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 34.1885,
       "lon": -97.1416,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.349,
+      "medicare_discharges": 2105
     },
     {
       "facility_id": "371310",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.2816,
       "lon": -97.5032,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "370247",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 34.2078,
       "lon": -97.1068,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -80,6 +80,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 23358,
     "hospital_emp_share": 0.051,
-    "avg_govt_payer_share": 0.66
+    "avg_govt_payer_share": 0.3879
   }
 }

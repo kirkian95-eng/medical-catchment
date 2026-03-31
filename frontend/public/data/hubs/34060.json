@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34060",
   "cbsa_name": "Morgantown, WV",
-  "mdi": 0.7101,
+  "mdi": 0.874,
   "bbox": [
     -81.47,
     38.49,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.6504,
       "lon": -79.9653,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.494,
+      "medicare_discharges": 8082
     },
     {
       "facility_id": "510024",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.662,
       "lon": -79.9466,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 2284
     },
     {
       "facility_id": "511312",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 39.4881,
       "lon": -79.7099,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -88,6 +88,6 @@
     "hospital_employment": 11165,
     "msa_total_employment": 65519,
     "hospital_emp_share": 0.1704,
-    "avg_govt_payer_share": 0.6534
+    "avg_govt_payer_share": 0.4679
   }
 }

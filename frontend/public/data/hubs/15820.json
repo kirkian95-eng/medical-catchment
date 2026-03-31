@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15820",
   "cbsa_name": "Campbellsville, KY",
-  "mdi": 0.4825,
+  "mdi": 0.5288,
   "bbox": [
     -87.03,
     36.23,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 37.368,
       "lon": -85.3391,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.283,
+      "medicare_discharges": 582
     },
     {
       "facility_id": "181325",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.2283,
       "lon": -85.5323,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -77,6 +77,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 13717,
     "hospital_emp_share": 0.0478,
-    "avg_govt_payer_share": 0.678
+    "avg_govt_payer_share": 0.3943
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23180",
   "cbsa_name": "Frankfort, KY",
-  "mdi": 0.1459,
+  "mdi": 0.2024,
   "bbox": [
     -86.37,
     37.23,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 38.2349,
       "lon": -84.8688,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 1032
     }
   ],
   "catchment_counties": [
@@ -74,6 +74,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 33687,
     "hospital_emp_share": 0.0239,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.27
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18260",
   "cbsa_name": "Cookeville, TN",
-  "mdi": 0.3305,
+  "mdi": 0.448,
   "bbox": [
     -87.01,
     34.95,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 36.1706,
       "lon": -85.5093,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.464,
+      "medicare_discharges": 4280
     },
     {
       "facility_id": "440187",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 36.3851,
       "lon": -85.3281,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.242,
+      "medicare_discharges": 453
     },
     {
       "facility_id": "440192",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 35.9531,
       "lon": -85.4304,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.203,
+      "medicare_discharges": 175
     }
   ],
   "catchment_counties": [
@@ -136,6 +136,6 @@
     "hospital_employment": 2364,
     "msa_total_employment": 52173,
     "hospital_emp_share": 0.044,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3729
   }
 }

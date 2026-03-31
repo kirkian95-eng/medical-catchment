@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36620",
   "cbsa_name": "Ontario, OR-ID",
-  "mdi": 0.0896,
+  "mdi": 0.1579,
   "bbox": [
     -118.48,
     43.03,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 44.0263,
       "lon": -116.9751,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.29,
+      "medicare_discharges": 335
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 13224,
     "hospital_emp_share": 0.0168,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.29
   }
 }

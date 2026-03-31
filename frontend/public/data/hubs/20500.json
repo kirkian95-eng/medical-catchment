@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20500",
   "cbsa_name": "Durham-Chapel Hill, NC",
-  "mdi": 0.3661,
+  "mdi": 0.49,
   "bbox": [
     -80.93,
     34.73,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 36.0082,
       "lon": -78.9387,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.411,
+      "medicare_discharges": 8994
     },
     {
       "facility_id": "340061",
@@ -28,8 +28,8 @@
       "ownership": "Government - State",
       "lat": 35.9031,
       "lon": -79.0497,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.413,
+      "medicare_discharges": 6211
     },
     {
       "facility_id": "340155",
@@ -39,8 +39,8 @@
       "ownership": "Government - Local",
       "lat": 36.0379,
       "lon": -78.8979,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.327,
+      "medicare_discharges": 2900
     },
     {
       "facility_id": "341311",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.7257,
       "lon": -79.4264,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "340159",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 36.399,
       "lon": -78.9751,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.212,
+      "medicare_discharges": 204
     },
     {
       "facility_id": "340049",
@@ -72,8 +72,8 @@
       "ownership": "Proprietary",
       "lat": 36.0424,
       "lon": -78.8288,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.194,
+      "medicare_discharges": 184
     }
   ],
   "catchment_counties": [
@@ -121,6 +121,6 @@
     "hospital_employment": 15998,
     "msa_total_employment": 337959,
     "hospital_emp_share": 0.0473,
-    "avg_govt_payer_share": 0.653
+    "avg_govt_payer_share": 0.3986
   }
 }

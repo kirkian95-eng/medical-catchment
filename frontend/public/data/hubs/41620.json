@@ -1,7 +1,7 @@
 {
   "cbsa_code": "41620",
   "cbsa_name": "Salt Lake City-Murray, UT",
-  "mdi": 0.297,
+  "mdi": 0.3575,
   "bbox": [
     -115.61,
     37.88,
@@ -17,8 +17,8 @@
       "ownership": "Government - State",
       "lat": 40.7702,
       "lon": -111.843,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.302,
+      "medicare_discharges": 6432
     },
     {
       "facility_id": "460010",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.6785,
       "lon": -111.8911,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.332,
+      "medicare_discharges": 5087
     },
     {
       "facility_id": "460047",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 40.6778,
       "lon": -111.7976,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.281,
+      "medicare_discharges": 2547
     },
     {
       "facility_id": "460006",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.7786,
       "lon": -111.8787,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.217,
+      "medicare_discharges": 849
     },
     {
       "facility_id": "460051",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.5879,
       "lon": -111.9763,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.243,
+      "medicare_discharges": 1134
     },
     {
       "facility_id": "460003",
@@ -72,8 +72,8 @@
       "ownership": "Proprietary",
       "lat": 40.7599,
       "lon": -111.8636,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.179,
+      "medicare_discharges": 386
     },
     {
       "facility_id": "460058",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.5223,
       "lon": -111.9813,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.199,
+      "medicare_discharges": 487
     },
     {
       "facility_id": "460044",
@@ -94,8 +94,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.578,
       "lon": -111.8532,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.227,
+      "medicare_discharges": 480
     },
     {
       "facility_id": "460060",
@@ -105,8 +105,8 @@
       "ownership": "Proprietary",
       "lat": 40.534,
       "lon": -111.8916,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.182,
+      "medicare_discharges": 279
     },
     {
       "facility_id": "460014",
@@ -116,8 +116,8 @@
       "ownership": "Proprietary",
       "lat": 40.5665,
       "lon": -112.2957,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.23,
+      "medicare_discharges": 312
     }
   ],
   "catchment_counties": [
@@ -173,6 +173,6 @@
     "hospital_employment": 31967,
     "msa_total_employment": 807244,
     "hospital_emp_share": 0.0396,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2768
   }
 }

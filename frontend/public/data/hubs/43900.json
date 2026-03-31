@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43900",
   "cbsa_name": "Spartanburg, SC",
-  "mdi": 0.2794,
+  "mdi": 0.377,
   "bbox": [
     -83.47,
     33.69,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.9677,
       "lon": -81.9411,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.365,
+      "medicare_discharges": 7064
     },
     {
       "facility_id": "420108",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 34.6876,
       "lon": -81.6016,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.159,
+      "medicare_discharges": 146
     },
     {
       "facility_id": "420033",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.9263,
       "lon": -81.9671,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.416,
+      "medicare_discharges": 1271
     }
   ],
   "catchment_counties": [
@@ -72,6 +72,6 @@
     "hospital_employment": 259,
     "msa_total_employment": 159832,
     "hospital_emp_share": 0.0422,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3393
   }
 }

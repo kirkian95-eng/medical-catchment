@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34740",
   "cbsa_name": "Muskegon-Norton Shores, MI",
-  "mdi": 0.3028,
+  "mdi": 0.3999,
   "bbox": [
     -87.71,
     42.21,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.2051,
       "lon": -86.2079,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.339,
+      "medicare_discharges": 2977
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 62247,
     "hospital_emp_share": 0.0414,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3386
   }
 }

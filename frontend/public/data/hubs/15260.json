@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15260",
   "cbsa_name": "Brunswick-St. Simons, GA",
-  "mdi": 0.2988,
+  "mdi": 0.4313,
   "bbox": [
     -82.99,
     30.18,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 31.1781,
       "lon": -81.4876,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.398,
+      "medicare_discharges": 3188
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 41046,
     "hospital_emp_share": 0.039,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3981
   }
 }

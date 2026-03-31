@@ -1,7 +1,7 @@
 {
   "cbsa_code": "21700",
   "cbsa_name": "Eureka-Arcata, CA",
-  "mdi": 0.4219,
+  "mdi": 0.593,
   "bbox": [
     -125.64,
     39.09,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.7838,
       "lon": -124.1416,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.655,
+      "medicare_discharges": 2808
     },
     {
       "facility_id": "050028",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 40.8965,
       "lon": -124.0903,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.274,
+      "medicare_discharges": 345
     },
     {
       "facility_id": "051318",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.5668,
       "lon": -124.126,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "051309",
@@ -50,8 +50,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 40.0933,
       "lon": -123.7598,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -75,6 +75,6 @@
     "hospital_employment": 118,
     "msa_total_employment": 49789,
     "hospital_emp_share": 0.0479,
-    "avg_govt_payer_share": 0.6657
+    "avg_govt_payer_share": 0.5424
   }
 }

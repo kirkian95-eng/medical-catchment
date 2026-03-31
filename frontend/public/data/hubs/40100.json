@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40100",
   "cbsa_name": "Rio Grande City-Roma, TX",
-  "mdi": 0.0991,
+  "mdi": 0.1689,
   "bbox": [
     -100.37,
     25.39,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 26.3869,
       "lon": -98.8716,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.292,
+      "medicare_discharges": 175
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 15017,
     "hospital_emp_share": 0.0163,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2925
   }
 }

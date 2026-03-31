@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48200",
   "cbsa_name": "Waynesville, NC",
-  "mdi": 0.4381,
+  "mdi": 0.5144,
   "bbox": [
     -84.45,
     34.53,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 35.5275,
       "lon": -82.9454,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.303,
+      "medicare_discharges": 1495
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 17495,
     "hospital_emp_share": 0.0545,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3035
   }
 }

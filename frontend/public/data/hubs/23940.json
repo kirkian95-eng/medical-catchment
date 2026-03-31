@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23940",
   "cbsa_name": "Gillette, WY",
-  "mdi": 0.1363,
+  "mdi": 0.1888,
   "bbox": [
     -107.22,
     43.28,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 44.5355,
       "lon": -105.6427,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.263,
+      "medicare_discharges": 636
     }
   ],
   "catchment_counties": [
@@ -74,6 +74,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 24947,
     "hospital_emp_share": 0.025,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2634
   }
 }

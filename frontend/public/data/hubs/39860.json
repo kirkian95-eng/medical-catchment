@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39860",
   "cbsa_name": "Red Wing, MN",
-  "mdi": 0.2876,
+  "mdi": 0.3427,
   "bbox": [
     -94.37,
     43.48,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.5599,
       "lon": -92.5753,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.296,
+      "medicare_discharges": 547
     },
     {
       "facility_id": "241346",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.4806,
       "lon": -92.8711,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -69,6 +69,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 21221,
     "hospital_emp_share": 0.0337,
-    "avg_govt_payer_share": 0.6731
+    "avg_govt_payer_share": 0.3843
   }
 }

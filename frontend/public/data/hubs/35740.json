@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35740",
   "cbsa_name": "Norfolk, NE",
-  "mdi": 0.3712,
+  "mdi": 0.4676,
   "bbox": [
     -99.75,
     40.5,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 42.0326,
       "lon": -97.4511,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.38,
+      "medicare_discharges": 1582
     },
     {
       "facility_id": "281347",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.3423,
       "lon": -97.6137,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "281346",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 42.3095,
       "lon": -97.8247,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -144,6 +144,6 @@
     "hospital_employment": 224,
     "msa_total_employment": 24120,
     "hospital_emp_share": 0.0461,
-    "avg_govt_payer_share": 0.6708
+    "avg_govt_payer_share": 0.4425
   }
 }

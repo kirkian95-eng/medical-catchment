@@ -1,7 +1,7 @@
 {
   "cbsa_code": "46700",
   "cbsa_name": "Vallejo, CA",
-  "mdi": 0.1727,
+  "mdi": 0.2624,
   "bbox": [
     -123.75,
     37.13,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.1283,
       "lon": -122.2478,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.192,
+      "medicare_discharges": 514
     },
     {
       "facility_id": "050367",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.261,
       "lon": -122.0483,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.779,
+      "medicare_discharges": 3475
     },
     {
       "facility_id": "050101",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.1415,
       "lon": -122.2469,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.438,
+      "medicare_discharges": 1213
     },
     {
       "facility_id": "050767",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.3901,
       "lon": -121.9375,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.264,
+      "medicare_discharges": 345
     }
   ],
   "catchment_counties": [
@@ -83,6 +83,6 @@
     "hospital_employment": 3418,
     "msa_total_employment": 139939,
     "hospital_emp_share": 0.0244,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.326
   }
 }

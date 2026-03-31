@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39540",
   "cbsa_name": "Racine-Mount Pleasant, WI",
-  "mdi": 0.1426,
+  "mdi": 0.18,
   "bbox": [
     -89.78,
     41.66,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 42.734,
       "lon": -87.8265,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.231,
+      "medicare_discharges": 1520
     },
     {
       "facility_id": "520059",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.6636,
       "lon": -88.2803,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 824
     }
   ],
   "catchment_counties": [
@@ -53,6 +53,6 @@
     "hospital_employment": 1956,
     "msa_total_employment": 75597,
     "hospital_emp_share": 0.0259,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.238
   }
 }

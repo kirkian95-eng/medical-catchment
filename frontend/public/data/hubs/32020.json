@@ -1,7 +1,7 @@
 {
   "cbsa_code": "32020",
   "cbsa_name": "Marion, OH",
-  "mdi": 0.7,
+  "mdi": 0.7463,
   "bbox": [
     -84.63,
     39.57,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.5721,
       "lon": -83.1292,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.253,
+      "medicare_discharges": 2041
     }
   ],
   "catchment_counties": [
@@ -82,6 +82,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 23109,
     "hospital_emp_share": 0.0973,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2529
   }
 }

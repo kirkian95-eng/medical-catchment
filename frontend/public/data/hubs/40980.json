@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40980",
   "cbsa_name": "Saginaw, MI",
-  "mdi": 0.7,
+  "mdi": 0.7607,
   "bbox": [
     -85.77,
     42.0,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.4285,
       "lon": -83.9557,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.337,
+      "medicare_discharges": 4714
     },
     {
       "facility_id": "230275",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 43.4588,
       "lon": -84.0295,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.121,
+      "medicare_discharges": 16
     },
     {
       "facility_id": "230077",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 43.395,
       "lon": -83.8893,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.3,
+      "medicare_discharges": 1890
     }
   ],
   "catchment_counties": [
@@ -96,6 +96,6 @@
     "hospital_employment": 1209,
     "msa_total_employment": 79433,
     "hospital_emp_share": 0.108,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2771
   }
 }

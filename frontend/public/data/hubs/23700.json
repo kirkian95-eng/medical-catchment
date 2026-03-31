@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23700",
   "cbsa_name": "Gallup, NM",
-  "mdi": 0.7864,
+  "mdi": 0.8344,
   "bbox": [
     -110.35,
     34.07,
@@ -17,8 +17,8 @@
       "ownership": "Government - Federal",
       "lat": 35.5084,
       "lon": -108.7292,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.332,
+      "medicare_discharges": 491
     },
     {
       "facility_id": "321313",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.5221,
       "lon": -108.7632,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "320060",
@@ -39,8 +39,8 @@
       "ownership": "Government - Federal",
       "lat": 35.0702,
       "lon": -108.8454,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.253,
+      "medicare_discharges": 88
     },
     {
       "facility_id": "320062",
@@ -50,8 +50,8 @@
       "ownership": "Government - Federal",
       "lat": 35.7982,
       "lon": -108.221,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.217,
+      "medicare_discharges": 38
     }
   ],
   "catchment_counties": [
@@ -83,6 +83,6 @@
     "hospital_employment": 1606,
     "msa_total_employment": 19828,
     "hospital_emp_share": 0.081,
-    "avg_govt_payer_share": 0.683
+    "avg_govt_payer_share": 0.4226
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "10580",
   "cbsa_name": "Albany-Schenectady-Troy, NY",
-  "mdi": 0.2781,
+  "mdi": 0.4156,
   "bbox": [
     -76.03,
     41.65,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.6526,
       "lon": -73.7753,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.452,
+      "medicare_discharges": 7376
     },
     {
       "facility_id": "330057",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.653,
       "lon": -73.81,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.409,
+      "medicare_discharges": 5786
     },
     {
       "facility_id": "330153",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.8195,
       "lon": -73.9178,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.323,
+      "medicare_discharges": 2375
     },
     {
       "facility_id": "330180",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.7341,
       "lon": -73.6714,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.38,
+      "medicare_discharges": 2360
     },
     {
       "facility_id": "330222",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.0849,
       "lon": -73.7966,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.476,
+      "medicare_discharges": 2479
     },
     {
       "facility_id": "331320",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.694,
       "lon": -74.5305,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -121,6 +121,6 @@
     "hospital_employment": 1542,
     "msa_total_employment": 440776,
     "hospital_emp_share": 0.0374,
-    "avg_govt_payer_share": 0.652
+    "avg_govt_payer_share": 0.4164
   }
 }

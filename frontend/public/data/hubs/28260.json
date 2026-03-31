@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28260",
   "cbsa_name": "Kearney, NE",
-  "mdi": 0.4372,
+  "mdi": 0.6108,
   "bbox": [
     -100.97,
     39.0,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 40.6992,
       "lon": -99.0747,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.398,
+      "medicare_discharges": 1800
     },
     {
       "facility_id": "280134",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 40.7122,
       "lon": -99.108,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.793,
+      "medicare_discharges": 1585
     },
     {
       "facility_id": "281306",
@@ -39,8 +39,8 @@
       "ownership": "Government - Local",
       "lat": 40.4855,
       "lon": -98.9231,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -176,6 +176,6 @@
     "hospital_employment": 1692,
     "msa_total_employment": 29848,
     "hospital_emp_share": 0.0567,
-    "avg_govt_payer_share": 0.6546
+    "avg_govt_payer_share": 0.4904
   }
 }

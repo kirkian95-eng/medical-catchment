@@ -1,7 +1,7 @@
 {
   "cbsa_code": "12860",
   "cbsa_name": "Batavia, NY",
-  "mdi": 0.278,
+  "mdi": 0.3506,
   "bbox": [
     -79.68,
     42.0,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.004,
       "lon": -78.1769,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.297,
+      "medicare_discharges": 934
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 317,
     "msa_total_employment": 23004,
     "hospital_emp_share": 0.0385,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2972
   }
 }

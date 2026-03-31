@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17020",
   "cbsa_name": "Chico, CA",
-  "mdi": 0.6281,
+  "mdi": 0.913,
   "bbox": [
     -123.35,
     38.34,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.7426,
       "lon": -121.8492,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.702,
+      "medicare_discharges": 8192
     },
     {
       "facility_id": "050030",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.4754,
       "lon": -121.4141,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.646,
+      "medicare_discharges": 3967
     },
     {
       "facility_id": "051311",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.3393,
       "lon": -121.7708,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -80,6 +80,6 @@
     "hospital_employment": 5801,
     "msa_total_employment": 78295,
     "hospital_emp_share": 0.0741,
-    "avg_govt_payer_share": 0.6551
+    "avg_govt_payer_share": 0.6829
   }
 }

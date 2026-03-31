@@ -1,7 +1,7 @@
 {
   "cbsa_code": "37580",
   "cbsa_name": "Paris, TX",
-  "mdi": 0.7,
+  "mdi": 0.7589,
   "bbox": [
     -97.05,
     32.69,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 33.6861,
       "lon": -95.5456,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.274,
+      "medicare_discharges": 2643
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 22001,
     "hospital_emp_share": 0.0853,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2741
   }
 }

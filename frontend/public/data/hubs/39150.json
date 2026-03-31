@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39150",
   "cbsa_name": "Prescott Valley-Prescott, AZ",
-  "mdi": 0.119,
+  "mdi": 0.297,
   "bbox": [
     -113.98,
     33.56,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.5608,
       "lon": -112.4821,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.523,
+      "medicare_discharges": 4208
     },
     {
       "facility_id": "030007",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.7384,
       "lon": -112.031,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 1494
     }
   ],
   "catchment_counties": [
@@ -53,6 +53,6 @@
     "hospital_employment": 1266,
     "msa_total_employment": 70562,
     "hospital_emp_share": 0.0179,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4745
   }
 }

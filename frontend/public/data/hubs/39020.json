@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39020",
   "cbsa_name": "Portsmouth, OH",
-  "mdi": 0.7,
+  "mdi": 0.8061,
   "bbox": [
     -84.48,
     37.75,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 38.7534,
       "lon": -82.9783,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.363,
+      "medicare_discharges": 2507
     },
     {
       "facility_id": "360361",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.7923,
       "lon": -82.9119,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.135,
+      "medicare_discharges": 16
     }
   ],
   "catchment_counties": [
@@ -85,6 +85,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 24676,
     "hospital_emp_share": 0.0857,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3536
   }
 }

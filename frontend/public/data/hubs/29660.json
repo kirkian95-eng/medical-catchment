@@ -1,7 +1,7 @@
 {
   "cbsa_code": "29660",
   "cbsa_name": "Laramie, WY",
-  "mdi": 0.2319,
+  "mdi": 0.2661,
   "bbox": [
     -107.06,
     40.31,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 41.3122,
       "lon": -105.5574,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.233,
+      "medicare_discharges": 484
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 16695,
     "hospital_emp_share": 0.0332,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2325
   }
 }

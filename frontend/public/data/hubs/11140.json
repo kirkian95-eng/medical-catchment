@@ -1,7 +1,7 @@
 {
   "cbsa_code": "11140",
   "cbsa_name": "Americus, GA",
-  "mdi": 0.5532,
+  "mdi": 0.6012,
   "bbox": [
     -85.75,
     31.07,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.0651,
       "lon": -84.2532,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.256,
+      "medicare_discharges": 523
     }
   ],
   "catchment_counties": [
@@ -74,6 +74,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 10387,
     "hospital_emp_share": 0.0656,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2558
   }
 }

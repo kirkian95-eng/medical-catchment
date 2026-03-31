@@ -1,7 +1,7 @@
 {
   "cbsa_code": "46460",
   "cbsa_name": "Union City, TN",
-  "mdi": 0.4882,
+  "mdi": 0.5209,
   "bbox": [
     -90.54,
     35.41,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.4147,
       "lon": -89.0439,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.23,
+      "medicare_discharges": 630
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 12189,
     "hospital_emp_share": 0.0593,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.23
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17660",
   "cbsa_name": "Coeur d'Alene, ID",
-  "mdi": 0.4204,
+  "mdi": 0.564,
   "bbox": [
     -118.48,
     46.69,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 47.6907,
       "lon": -116.6549,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.437,
+      "medicare_discharges": 4849
     },
     {
       "facility_id": "130066",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 47.7264,
       "lon": -116.9761,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.22,
+      "medicare_discharges": 316
     }
   ],
   "catchment_counties": [
@@ -69,6 +69,6 @@
     "hospital_employment": 3860,
     "msa_total_employment": 70758,
     "hospital_emp_share": 0.0546,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4166
   }
 }

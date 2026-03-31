@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25620",
   "cbsa_name": "Hattiesburg, MS",
-  "mdi": 0.4456,
+  "mdi": 0.5846,
   "bbox": [
     -90.86,
     30.32,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 31.3516,
       "lon": -89.3406,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.435,
+      "medicare_discharges": 6651
     },
     {
       "facility_id": "250094",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 31.3235,
       "lon": -89.3641,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.343,
+      "medicare_discharges": 1744
     }
   ],
   "catchment_counties": [
@@ -93,6 +93,6 @@
     "hospital_employment": 3626,
     "msa_total_employment": 59988,
     "hospital_emp_share": 0.0591,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.409
   }
 }

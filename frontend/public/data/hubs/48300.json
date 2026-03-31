@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48300",
   "cbsa_name": "Wenatchee-East Wenatchee, WA",
-  "mdi": 0.5294,
+  "mdi": 0.7076,
   "bbox": [
     -122.34,
     46.27,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.4063,
       "lon": -120.3244,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.531,
+      "medicare_discharges": 3523
     },
     {
       "facility_id": "501334",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 48.0554,
       "lon": -120.332,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "501313",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 47.7831,
       "lon": -120.8432,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -72,6 +72,6 @@
     "hospital_employment": 3499,
     "msa_total_employment": 45431,
     "hospital_emp_share": 0.0606,
-    "avg_govt_payer_share": 0.6657
+    "avg_govt_payer_share": 0.5545
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15180",
   "cbsa_name": "Brownsville-Harlingen, TX",
-  "mdi": 0.1623,
+  "mdi": 0.2404,
   "bbox": [
     -99.22,
     24.92,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 26.1742,
       "lon": -97.6712,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.284,
+      "medicare_discharges": 2260
     },
     {
       "facility_id": "450028",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 25.9176,
       "lon": -97.5115,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.337,
+      "medicare_discharges": 1217
     },
     {
       "facility_id": "450662",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 25.9778,
       "lon": -97.5144,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.312,
+      "medicare_discharges": 1261
     },
     {
       "facility_id": "450855",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 26.204,
       "lon": -97.7177,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.346,
+      "medicare_discharges": 982
     }
   ],
   "catchment_counties": [
@@ -83,6 +83,6 @@
     "hospital_employment": 3638,
     "msa_total_employment": 154822,
     "hospital_emp_share": 0.0235,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3065
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "33500",
   "cbsa_name": "Minot, ND",
-  "mdi": 0.5879,
+  "mdi": 0.6429,
   "bbox": [
     -103.91,
     46.78,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 48.2321,
       "lon": -101.2883,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.273,
+      "medicare_discharges": 2348
     },
     {
       "facility_id": "351305",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 48.7134,
       "lon": -102.0941,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -133,6 +133,6 @@
     "hospital_employment": 25,
     "msa_total_employment": 31117,
     "hospital_emp_share": 0.0781,
-    "avg_govt_payer_share": 0.6557
+    "avg_govt_payer_share": 0.2963
   }
 }

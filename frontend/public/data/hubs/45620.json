@@ -1,7 +1,7 @@
 {
   "cbsa_code": "45620",
   "cbsa_name": "Thomasville, GA",
-  "mdi": 0.4822,
+  "mdi": 0.5414,
   "bbox": [
     -85.7,
     29.83,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.8288,
       "lon": -83.9884,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.298,
+      "medicare_discharges": 1588
     },
     {
       "facility_id": "110121",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.8633,
       "lon": -84.2001,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.172,
+      "medicare_discharges": 77
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 73,
     "msa_total_employment": 27147,
     "hospital_emp_share": 0.0674,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2746
   }
 }

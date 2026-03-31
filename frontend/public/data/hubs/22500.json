@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22500",
   "cbsa_name": "Florence, SC",
-  "mdi": 0.5792,
+  "mdi": 0.6996,
   "bbox": [
     -81.61,
     33.16,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.196,
       "lon": -79.7593,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.486,
+      "medicare_discharges": 6997
     },
     {
       "facility_id": "420091",
@@ -28,8 +28,8 @@
       "ownership": "Government - State",
       "lat": 34.1574,
       "lon": -79.7524,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.29,
+      "medicare_discharges": 2786
     },
     {
       "facility_id": "420010",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 34.3488,
       "lon": -80.1058,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.268,
+      "medicare_discharges": 762
     }
   ],
   "catchment_counties": [
@@ -96,6 +96,6 @@
     "hospital_employment": 353,
     "msa_total_employment": 88217,
     "hospital_emp_share": 0.079,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3777
   }
 }

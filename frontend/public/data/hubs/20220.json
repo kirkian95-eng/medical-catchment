@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20220",
   "cbsa_name": "Dubuque, IA",
-  "mdi": 0.6052,
+  "mdi": 0.6667,
   "bbox": [
     -92.64,
     41.49,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 42.4928,
       "lon": -90.6745,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 3632
     },
     {
       "facility_id": "160117",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.495,
       "lon": -90.6876,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.324,
+      "medicare_discharges": 1589
     },
     {
       "facility_id": "161378",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.5036,
       "lon": -91.1417,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -104,6 +104,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 58552,
     "hospital_emp_share": 0.0774,
-    "avg_govt_payer_share": 0.6535
+    "avg_govt_payer_share": 0.2965
   }
 }

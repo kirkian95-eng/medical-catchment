@@ -1,7 +1,7 @@
 {
   "cbsa_code": "10220",
   "cbsa_name": "Ada, OK",
-  "mdi": 0.3525,
+  "mdi": 0.4285,
   "bbox": [
     -98.19,
     33.78,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.7774,
       "lon": -96.6346,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 1385
     },
     {
       "facility_id": "370180",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 34.7799,
       "lon": -96.6925,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.267,
+      "medicare_discharges": 378
     }
   ],
   "catchment_counties": [
@@ -69,6 +69,6 @@
     "hospital_employment": 1029,
     "msa_total_employment": 19594,
     "hospital_emp_share": 0.0525,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.303
   }
 }

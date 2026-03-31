@@ -1,7 +1,7 @@
 {
   "cbsa_code": "21660",
   "cbsa_name": "Eugene-Springfield, OR",
-  "mdi": 0.3969,
+  "mdi": 0.5146,
   "bbox": [
     -125.62,
     42.75,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.0821,
       "lon": -123.028,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.395,
+      "medicare_discharges": 4636
     },
     {
       "facility_id": "380020",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.0525,
       "lon": -123.0044,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.361,
+      "medicare_discharges": 1371
     },
     {
       "facility_id": "381316",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 43.9745,
       "lon": -124.1168,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "381301",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 43.7468,
       "lon": -123.0534,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -75,6 +75,6 @@
     "hospital_employment": 420,
     "msa_total_employment": 157194,
     "hospital_emp_share": 0.0472,
-    "avg_govt_payer_share": 0.6565
+    "avg_govt_payer_share": 0.406
   }
 }

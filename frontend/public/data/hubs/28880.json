@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28880",
   "cbsa_name": "Kiryas Joel-Poughkeepsie-Newburgh, NY",
-  "mdi": 0.2859,
+  "mdi": 0.4716,
   "bbox": [
     -76.13,
     40.26,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.4404,
       "lon": -74.3653,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.529,
+      "medicare_discharges": 6766
     },
     {
       "facility_id": "330023",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.6945,
       "lon": -73.9356,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.583,
+      "medicare_discharges": 6802
     },
     {
       "facility_id": "330264",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 41.5396,
       "lon": -74.0572,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.385,
+      "medicare_discharges": 2579
     },
     {
       "facility_id": "330135",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 41.3753,
       "lon": -74.6315,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.278,
+      "medicare_discharges": 756
     },
     {
       "facility_id": "330049",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.9349,
       "lon": -73.9115,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.616,
+      "medicare_discharges": 1694
     },
     {
       "facility_id": "330205",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 41.2628,
       "lon": -74.3565,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.356,
+      "medicare_discharges": 628
     }
   ],
   "catchment_counties": [
@@ -177,6 +177,6 @@
     "hospital_employment": 10719,
     "msa_total_employment": 262208,
     "hospital_emp_share": 0.0409,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4875
   }
 }

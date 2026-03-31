@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28500",
   "cbsa_name": "Kerrville, TX",
-  "mdi": 0.1208,
+  "mdi": 0.2252,
   "bbox": [
     -100.65,
     29.04,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.0434,
       "lon": -99.1509,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.351,
+      "medicare_discharges": 1691
     }
   ],
   "catchment_counties": [
@@ -130,6 +130,6 @@
     "hospital_employment": 379,
     "msa_total_employment": 19106,
     "hospital_emp_share": 0.0198,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3507
   }
 }

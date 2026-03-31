@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19300",
   "cbsa_name": "Daphne-Fairhope-Foley, AL",
-  "mdi": 0.1895,
+  "mdi": 0.3213,
   "bbox": [
     -89.39,
     29.43,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.5199,
       "lon": -87.8897,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.487,
+      "medicare_discharges": 2879
     },
     {
       "facility_id": "010083",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 30.4272,
       "lon": -87.6833,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.379,
+      "medicare_discharges": 1564
     },
     {
       "facility_id": "010129",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.9021,
       "lon": -87.7833,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.234,
+      "medicare_discharges": 327
     }
   ],
   "catchment_counties": [
@@ -64,6 +64,6 @@
     "hospital_employment": 2496,
     "msa_total_employment": 82764,
     "hospital_emp_share": 0.0302,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3967
   }
 }

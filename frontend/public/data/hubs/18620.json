@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18620",
   "cbsa_name": "Corsicana, TX",
-  "mdi": 0.4041,
+  "mdi": 0.4372,
   "bbox": [
     -98.0,
     31.09,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.085,
       "lon": -96.5038,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.231,
+      "medicare_discharges": 596
     }
   ],
   "catchment_counties": [
@@ -82,6 +82,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 16657,
     "hospital_emp_share": 0.0518,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2308
   }
 }

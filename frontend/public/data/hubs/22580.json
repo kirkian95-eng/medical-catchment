@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22580",
   "cbsa_name": "Forest City, NC",
-  "mdi": 0.3877,
+  "mdi": 0.4364,
   "bbox": [
     -83.47,
     34.36,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 35.3644,
       "lon": -81.9652,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.257,
+      "medicare_discharges": 838
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 92,
     "msa_total_employment": 18324,
     "hospital_emp_share": 0.0413,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2569
   }
 }

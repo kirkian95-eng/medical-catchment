@@ -1,7 +1,7 @@
 {
   "cbsa_code": "12620",
   "cbsa_name": "Bangor, ME",
-  "mdi": 0.7028,
+  "mdi": 0.8315,
   "bbox": [
     -71.15,
     43.04,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.81,
       "lon": -68.7494,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.41,
+      "medicare_discharges": 3600
     },
     {
       "facility_id": "200001",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 44.8485,
       "lon": -68.8504,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.421,
+      "medicare_discharges": 1195
     },
     {
       "facility_id": "201303",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.4455,
       "lon": -68.5345,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "201307",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.9958,
       "lon": -68.9283,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -123,6 +123,6 @@
     "hospital_employment": 5620,
     "msa_total_employment": 70445,
     "hospital_emp_share": 0.0798,
-    "avg_govt_payer_share": 0.6587
+    "avg_govt_payer_share": 0.4356
   }
 }

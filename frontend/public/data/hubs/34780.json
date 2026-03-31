@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34780",
   "cbsa_name": "Muskogee, OK",
-  "mdi": 0.4378,
+  "mdi": 0.5303,
   "bbox": [
     -96.91,
     34.75,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.7538,
       "lon": -95.4061,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.331,
+      "medicare_discharges": 3140
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 1367,
     "msa_total_employment": 27852,
     "hospital_emp_share": 0.0491,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3309
   }
 }

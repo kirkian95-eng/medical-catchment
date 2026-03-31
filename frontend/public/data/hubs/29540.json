@@ -1,7 +1,7 @@
 {
   "cbsa_code": "29540",
   "cbsa_name": "Lancaster, PA",
-  "mdi": 0.2823,
+  "mdi": 0.3926,
   "bbox": [
     -77.88,
     39.05,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.047,
       "lon": -76.3052,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.403,
+      "medicare_discharges": 7828
     },
     {
       "facility_id": "390068",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 40.1314,
       "lon": -76.3107,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.228,
+      "medicare_discharges": 856
     },
     {
       "facility_id": "390339",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.0813,
       "lon": -76.3821,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.318,
+      "medicare_discharges": 1253
     },
     {
       "facility_id": "390225",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 40.1871,
       "lon": -76.1818,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.35,
+      "medicare_discharges": 1523
     }
   ],
   "catchment_counties": [
@@ -83,6 +83,6 @@
     "hospital_employment": 9892,
     "msa_total_employment": 249580,
     "hospital_emp_share": 0.0396,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3606
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25775",
   "cbsa_name": "Henderson, KY",
-  "mdi": 0.3872,
+  "mdi": 0.4347,
   "bbox": [
     -89.08,
     36.85,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 37.8528,
       "lon": -87.582,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.255,
+      "medicare_discharges": 1044
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 19067,
     "hospital_emp_share": 0.0509,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.255
   }
 }

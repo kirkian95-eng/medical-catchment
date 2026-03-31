@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34420",
   "cbsa_name": "Mount Pleasant, TX",
-  "mdi": 0.3446,
+  "mdi": 0.3704,
   "bbox": [
     -96.47,
     31.97,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 33.1757,
       "lon": -94.9718,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.225,
+      "medicare_discharges": 701
     },
     {
       "facility_id": "451367",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 32.9671,
       "lon": -94.9442,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -77,6 +77,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 21191,
     "hospital_emp_share": 0.0417,
-    "avg_govt_payer_share": 0.6632
+    "avg_govt_payer_share": 0.2849
   }
 }

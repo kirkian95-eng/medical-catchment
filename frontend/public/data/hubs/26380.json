@@ -1,7 +1,7 @@
 {
   "cbsa_code": "26380",
   "cbsa_name": "Houma-Bayou Cane-Thibodaux, LA",
-  "mdi": 0.1494,
+  "mdi": 0.1947,
   "bbox": [
     -92.31,
     28.5,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 29.5975,
       "lon": -90.7207,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.261,
+      "medicare_discharges": 1796
     },
     {
       "facility_id": "190004",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 29.7802,
       "lon": -90.8063,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.289,
+      "medicare_discharges": 1427
     },
     {
       "facility_id": "190183",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 29.5067,
       "lon": -90.7008,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.238,
+      "medicare_discharges": 231
     },
     {
       "facility_id": "191324",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 29.7015,
       "lon": -90.5613,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "190241",
@@ -61,8 +61,8 @@
       "ownership": "Physician",
       "lat": 29.5787,
       "lon": -90.8054,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.127,
+      "medicare_discharges": 26
     },
     {
       "facility_id": "191325",
@@ -72,8 +72,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 29.5018,
       "lon": -90.2379,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -113,6 +113,6 @@
     "hospital_employment": 2025,
     "msa_total_employment": 82108,
     "hospital_emp_share": 0.0247,
-    "avg_govt_payer_share": 0.6579
+    "avg_govt_payer_share": 0.2911
   }
 }

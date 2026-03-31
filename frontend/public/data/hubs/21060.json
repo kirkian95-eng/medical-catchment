@@ -1,7 +1,7 @@
 {
   "cbsa_code": "21060",
   "cbsa_name": "Elizabethtown, KY",
-  "mdi": 0.3439,
+  "mdi": 0.462,
   "bbox": [
     -87.34,
     36.7,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 37.7032,
       "lon": -85.8395,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.374,
+      "medicare_discharges": 3340
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 2112,
     "msa_total_employment": 47592,
     "hospital_emp_share": 0.0422,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3738
   }
 }

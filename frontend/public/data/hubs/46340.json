@@ -1,7 +1,7 @@
 {
   "cbsa_code": "46340",
   "cbsa_name": "Tyler, TX",
-  "mdi": 0.565,
+  "mdi": 0.6854,
   "bbox": [
     -96.8,
     31.32,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.3422,
       "lon": -95.292,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.405,
+      "medicare_discharges": 7170
     },
     {
       "facility_id": "450083",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 32.3382,
       "lon": -95.2917,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.416,
+      "medicare_discharges": 5775
     },
     {
       "facility_id": "450690",
@@ -39,8 +39,8 @@
       "ownership": "Government - State",
       "lat": 32.4132,
       "lon": -95.2087,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.192,
+      "medicare_discharges": 221
     },
     {
       "facility_id": "450864",
@@ -50,8 +50,8 @@
       "ownership": "Physician",
       "lat": 32.3229,
       "lon": -95.2963,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.533,
+      "medicare_discharges": 742
     }
   ],
   "catchment_counties": [
@@ -91,6 +91,6 @@
     "hospital_employment": 7887,
     "msa_total_employment": 112279,
     "hospital_emp_share": 0.0702,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3778
   }
 }

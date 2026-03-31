@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19060",
   "cbsa_name": "Cumberland, MD-WV",
-  "mdi": 0.3377,
+  "mdi": 0.5827,
   "bbox": [
     -80.49,
     38.4,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.65,
       "lon": -78.7328,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.63,
+      "medicare_discharges": 4543
     },
     {
       "facility_id": "511315",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.4028,
       "lon": -78.9854,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -77,6 +77,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 35139,
     "hospital_emp_share": 0.0417,
-    "avg_govt_payer_share": 0.6594
+    "avg_govt_payer_share": 0.635
   }
 }

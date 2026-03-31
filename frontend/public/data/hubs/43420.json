@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43420",
   "cbsa_name": "Sierra Vista-Douglas, AZ",
-  "mdi": 0.3401,
+  "mdi": 0.407,
   "bbox": [
     -111.91,
     30.43,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 31.5545,
       "lon": -110.2305,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.355,
+      "medicare_discharges": 1411
     },
     {
       "facility_id": "031302",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.4607,
       "lon": -110.0003,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "031301",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.1675,
       "lon": -110.4119,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "031312",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 31.4327,
       "lon": -109.9191,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -75,6 +75,6 @@
     "hospital_employment": 1222,
     "msa_total_employment": 34678,
     "hospital_emp_share": 0.0352,
-    "avg_govt_payer_share": 0.6875
+    "avg_govt_payer_share": 0.477
   }
 }

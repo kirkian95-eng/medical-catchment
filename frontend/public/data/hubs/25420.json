@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25420",
   "cbsa_name": "Harrisburg-Carlisle, PA",
-  "mdi": 0.4604,
+  "mdi": 0.564,
   "bbox": [
     -78.72,
     39.19,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.2565,
       "lon": -76.875,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.353,
+      "medicare_discharges": 7689
     },
     {
       "facility_id": "390256",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.2732,
       "lon": -76.6757,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.394,
+      "medicare_discharges": 5238
     },
     {
       "facility_id": "390004",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.2348,
       "lon": -76.9288,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 2604
     },
     {
       "facility_id": "390058",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.1856,
       "lon": -77.2184,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.297,
+      "medicare_discharges": 1590
     },
     {
       "facility_id": "390336",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.2943,
       "lon": -76.9875,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.279,
+      "medicare_discharges": 972
     }
   ],
   "catchment_counties": [
@@ -102,6 +102,6 @@
     "hospital_employment": 19272,
     "msa_total_employment": 324327,
     "hospital_emp_share": 0.058,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3495
   }
 }

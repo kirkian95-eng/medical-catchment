@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44860",
   "cbsa_name": "Sulphur Springs, TX",
-  "mdi": 0.2462,
+  "mdi": 0.3287,
   "bbox": [
     -97.1,
     32.16,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.1564,
       "lon": -95.6,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 928
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 14177,
     "hospital_emp_share": 0.0352,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3139
   }
 }

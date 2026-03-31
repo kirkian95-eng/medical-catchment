@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36500",
   "cbsa_name": "Olympia-Lacey-Tumwater, WA",
-  "mdi": 0.2098,
+  "mdi": 0.4087,
   "bbox": [
     -124.45,
     46.04,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.0528,
       "lon": -122.8446,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.564,
+      "medicare_discharges": 4907
     },
     {
       "facility_id": "500139",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.0419,
       "lon": -122.9523,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.343,
+      "medicare_discharges": 1389
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 3774,
     "msa_total_employment": 126811,
     "hospital_emp_share": 0.0298,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.5097
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "37500",
   "cbsa_name": "Paragould, AR",
-  "mdi": 0.3322,
+  "mdi": 0.3921,
   "bbox": [
     -92.0,
     35.05,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.0525,
       "lon": -90.4989,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.276,
+      "medicare_discharges": 754
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 15882,
     "hospital_emp_share": 0.0427,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2757
   }
 }

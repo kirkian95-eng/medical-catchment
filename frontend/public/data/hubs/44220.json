@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44220",
   "cbsa_name": "Springfield, OH",
-  "mdi": 0.2648,
+  "mdi": 0.341,
   "bbox": [
     -85.4,
     38.93,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.9269,
       "lon": -83.82,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.319,
+      "medicare_discharges": 2303
     },
     {
       "facility_id": "360355",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.0012,
       "lon": -83.9,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.139,
+      "medicare_discharges": 41
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 1803,
     "msa_total_employment": 47329,
     "hospital_emp_share": 0.0381,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3033
   }
 }

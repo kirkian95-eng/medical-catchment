@@ -1,7 +1,7 @@
 {
   "cbsa_code": "30340",
   "cbsa_name": "Lewiston-Auburn, ME",
-  "mdi": 0.37,
+  "mdi": 0.4615,
   "bbox": [
     -71.71,
     43.1,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.1015,
       "lon": -70.2139,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.329,
+      "medicare_discharges": 1703
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 48102,
     "hospital_emp_share": 0.0507,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3291
   }
 }

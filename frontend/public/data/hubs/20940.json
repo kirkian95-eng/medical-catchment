@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20940",
   "cbsa_name": "El Centro, CA",
-  "mdi": 0.1662,
+  "mdi": 0.305,
   "bbox": [
     -117.1,
     31.75,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 32.7702,
       "lon": -115.5986,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.407,
+      "medicare_discharges": 1278
     },
     {
       "facility_id": "050342",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.9599,
       "lon": -115.554,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.412,
+      "medicare_discharges": 810
     }
   ],
   "catchment_counties": [
@@ -69,6 +69,6 @@
     "hospital_employment": 1808,
     "msa_total_employment": 65766,
     "hospital_emp_share": 0.0275,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4086
   }
 }

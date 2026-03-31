@@ -1,7 +1,7 @@
 {
   "cbsa_code": "47300",
   "cbsa_name": "Visalia, CA",
-  "mdi": 0.28,
+  "mdi": 0.466,
   "bbox": [
     -122.97,
     33.17,
@@ -17,8 +17,8 @@
       "ownership": "Government - State",
       "lat": 36.0583,
       "lon": -119.1521,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "050057",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 36.3274,
       "lon": -119.2958,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.447,
+      "medicare_discharges": 5024
     },
     {
       "facility_id": "050261",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.0694,
       "lon": -119.0271,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.416,
+      "medicare_discharges": 1340
     },
     {
       "facility_id": "050784",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.2202,
       "lon": -119.3378,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.287,
+      "medicare_discharges": 422
     }
   ],
   "catchment_counties": [
@@ -91,6 +91,6 @@
     "hospital_employment": 6873,
     "msa_total_employment": 174904,
     "hospital_emp_share": 0.0393,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4882
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16260",
   "cbsa_name": "Cedar City, UT",
-  "mdi": 0.2118,
+  "mdi": 0.2513,
   "bbox": [
     -114.56,
     36.7,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.6999,
       "lon": -113.064,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.241,
+      "medicare_discharges": 393
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 24157,
     "hospital_emp_share": 0.0296,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2415
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27900",
   "cbsa_name": "Joplin, MO-KS",
-  "mdi": 0.5976,
+  "mdi": 0.6719,
   "bbox": [
     -96.4,
     35.86,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.0551,
       "lon": -94.5241,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.352,
+      "medicare_discharges": 3751
     },
     {
       "facility_id": "260001",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 37.0403,
       "lon": -94.5187,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.286,
+      "medicare_discharges": 2949
     },
     {
       "facility_id": "170203",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.1258,
       "lon": -94.6553,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.165,
+      "medicare_discharges": 143
     },
     {
       "facility_id": "171308",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 37.1566,
       "lon": -94.8953,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "261331",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.8611,
       "lon": -94.4014,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "261338",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.1893,
       "lon": -94.2793,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -121,6 +121,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 85699,
     "hospital_emp_share": 0.0714,
-    "avg_govt_payer_share": 0.6583
+    "avg_govt_payer_share": 0.3423
   }
 }

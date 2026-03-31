@@ -1,7 +1,7 @@
 {
   "cbsa_code": "38740",
   "cbsa_name": "Poplar Bluff, MO",
-  "mdi": 0.3626,
+  "mdi": 0.5033,
   "bbox": [
     -91.94,
     35.79,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 36.7889,
       "lon": -90.4393,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.412,
+      "medicare_discharges": 2516
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 759,
     "msa_total_employment": 18055,
     "hospital_emp_share": 0.042,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4118
   }
 }

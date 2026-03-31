@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19980",
   "cbsa_name": "Dodge City, KS",
-  "mdi": 0.3154,
+  "mdi": 0.3356,
   "bbox": [
     -101.53,
     36.23,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 37.7863,
       "lon": -100.015,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.218,
+      "medicare_discharges": 421
     },
     {
       "facility_id": "171368",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 37.4355,
       "lon": -99.9684,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -157,6 +157,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 17780,
     "hospital_emp_share": 0.0366,
-    "avg_govt_payer_share": 0.6702
+    "avg_govt_payer_share": 0.3108
   }
 }

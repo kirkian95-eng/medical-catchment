@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42100",
   "cbsa_name": "Santa Cruz-Watsonville, CA",
-  "mdi": 0.1505,
+  "mdi": 0.3352,
   "bbox": [
     -123.48,
     35.93,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.9901,
       "lon": -121.9836,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.58,
+      "medicare_discharges": 4079
     },
     {
       "facility_id": "050194",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 36.9282,
       "lon": -121.7928,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.386,
+      "medicare_discharges": 1009
     },
     {
       "facility_id": "050714",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.9877,
       "lon": -121.9775,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.14,
+      "medicare_discharges": 63
     }
   ],
   "catchment_counties": [
@@ -64,6 +64,6 @@
     "hospital_employment": 2243,
     "msa_total_employment": 103428,
     "hospital_emp_share": 0.0217,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.486
   }
 }

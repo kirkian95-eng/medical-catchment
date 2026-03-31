@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35220",
   "cbsa_name": "New Castle, IN",
-  "mdi": 0.5973,
+  "mdi": 0.6537,
   "bbox": [
     -86.87,
     38.94,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 39.9412,
       "lon": -85.3652,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 572
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 891,
     "msa_total_employment": 13206,
     "hospital_emp_share": 0.0675,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2699
   }
 }

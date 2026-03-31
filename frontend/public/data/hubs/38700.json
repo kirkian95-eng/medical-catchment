@@ -1,7 +1,7 @@
 {
   "cbsa_code": "38700",
   "cbsa_name": "Pontiac, IL",
-  "mdi": 0.1975,
+  "mdi": 0.2395,
   "bbox": [
     -90.13,
     39.88,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 40.8833,
       "lon": -88.6259,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.246,
+      "medicare_discharges": 566
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 13770,
     "hospital_emp_share": 0.0304,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2456
   }
 }

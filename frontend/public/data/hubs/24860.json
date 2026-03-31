@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24860",
   "cbsa_name": "Greenville-Anderson-Greer, SC",
-  "mdi": 0.2094,
+  "mdi": 0.3122,
   "bbox": [
     -84.22,
     33.34,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.8215,
       "lon": -82.4136,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.344,
+      "medicare_discharges": 7651
     },
     {
       "facility_id": "420027",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.5103,
       "lon": -82.647,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.323,
+      "medicare_discharges": 4616
     },
     {
       "facility_id": "420023",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.8426,
       "lon": -82.4215,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.519,
+      "medicare_discharges": 5325
     },
     {
       "facility_id": "420015",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.8777,
       "lon": -82.5754,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.331,
+      "medicare_discharges": 1205
     },
     {
       "facility_id": "420038",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.4682,
       "lon": -81.8452,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.33,
+      "medicare_discharges": 759
     },
     {
       "facility_id": "420102",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.8528,
       "lon": -82.3263,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.134,
+      "medicare_discharges": 145
     },
     {
       "facility_id": "420011",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.9438,
       "lon": -82.7211,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.185,
+      "medicare_discharges": 119
     },
     {
       "facility_id": "420103",
@@ -94,8 +94,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 35.0238,
       "lon": -82.2796,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.43,
+      "medicare_discharges": 925
     },
     {
       "facility_id": "420037",
@@ -105,8 +105,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.7677,
       "lon": -82.225,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.417,
+      "medicare_discharges": 836
     },
     {
       "facility_id": "421304",
@@ -116,8 +116,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.3403,
       "lon": -82.0902,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -157,6 +157,6 @@
     "hospital_employment": 13580,
     "msa_total_employment": 422681,
     "hospital_emp_share": 0.0321,
-    "avg_govt_payer_share": 0.6512
+    "avg_govt_payer_share": 0.3542
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "29100",
   "cbsa_name": "La Crosse-Onalaska, WI-MN",
-  "mdi": 0.7208,
+  "mdi": 0.7995,
   "bbox": [
     -92.75,
     42.53,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.8041,
       "lon": -91.2396,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.244,
+      "medicare_discharges": 1587
     },
     {
       "facility_id": "520087",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.7945,
       "lon": -91.2459,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.395,
+      "medicare_discharges": 3536
     },
     {
       "facility_id": "521304",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.5817,
       "lon": -90.4224,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "521348",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.532,
       "lon": -90.9286,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -123,6 +123,6 @@
     "hospital_employment": 8341,
     "msa_total_employment": 77670,
     "hospital_emp_share": 0.1008,
-    "avg_govt_payer_share": 0.6569
+    "avg_govt_payer_share": 0.3426
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20740",
   "cbsa_name": "Eau Claire, WI",
-  "mdi": 0.4241,
+  "mdi": 0.5966,
   "bbox": [
     -93.02,
     43.79,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.8121,
       "lon": -91.5136,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.5,
+      "medicare_discharges": 4442
     },
     {
       "facility_id": "520210",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.7939,
       "lon": -91.5192,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.55,
+      "medicare_discharges": 614
     },
     {
       "facility_id": "521311",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.9671,
       "lon": -90.9271,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "521314",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.1078,
       "lon": -91.4844,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "520196",
@@ -61,8 +61,8 @@
       "ownership": "Physician",
       "lat": 44.805,
       "lon": -91.437,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.234,
+      "medicare_discharges": 120
     }
   ],
   "catchment_counties": [
@@ -118,6 +118,6 @@
     "hospital_employment": 4583,
     "msa_total_employment": 84379,
     "hospital_emp_share": 0.0543,
-    "avg_govt_payer_share": 0.6597
+    "avg_govt_payer_share": 0.5147
   }
 }

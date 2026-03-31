@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31260",
   "cbsa_name": "Lufkin, TX",
-  "mdi": 0.3092,
+  "mdi": 0.3922,
   "bbox": [
     -96.26,
     30.33,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 31.337,
       "lon": -94.7433,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.263,
+      "medicare_discharges": 1651
     },
     {
       "facility_id": "450484",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 31.3275,
       "lon": -94.756,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.437,
+      "medicare_discharges": 1780
     }
   ],
   "catchment_counties": [
@@ -69,6 +69,6 @@
     "hospital_employment": 1489,
     "msa_total_employment": 35097,
     "hospital_emp_share": 0.0424,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3147
   }
 }

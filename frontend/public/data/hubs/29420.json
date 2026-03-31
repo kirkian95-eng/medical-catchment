@@ -1,7 +1,7 @@
 {
   "cbsa_code": "29420",
   "cbsa_name": "Lake Havasu City-Kingman, AZ",
-  "mdi": 0.4875,
+  "mdi": 0.5613,
   "bbox": [
     -116.53,
     32.94,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 35.2179,
       "lon": -114.0355,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.307,
+      "medicare_discharges": 1588
     },
     {
       "facility_id": "030069",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 34.4798,
       "lon": -114.3397,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.336,
+      "medicare_discharges": 1657
     },
     {
       "facility_id": "030101",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 35.0896,
       "lon": -114.5609,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.305,
+      "medicare_discharges": 1314
     },
     {
       "facility_id": "030117",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 35.0012,
       "lon": -114.5979,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.178,
+      "medicare_discharges": 204
     },
     {
       "facility_id": "030155",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 35.0896,
       "lon": -114.5609,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -110,6 +110,6 @@
     "hospital_employment": 3285,
     "msa_total_employment": 55181,
     "hospital_emp_share": 0.0595,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2993
   }
 }

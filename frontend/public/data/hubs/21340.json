@@ -1,7 +1,7 @@
 {
   "cbsa_code": "21340",
   "cbsa_name": "El Paso, TX",
-  "mdi": 0.1897,
+  "mdi": 0.2418,
   "bbox": [
     -109.84,
     29.06,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 31.7702,
       "lon": -106.4986,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.272,
+      "medicare_discharges": 2912
     },
     {
       "facility_id": "450002",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 31.7717,
       "lon": -106.4999,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.199,
+      "medicare_discharges": 950
     },
     {
       "facility_id": "450024",
@@ -39,8 +39,8 @@
       "ownership": "Physician",
       "lat": 31.7704,
       "lon": -106.4332,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.281,
+      "medicare_discharges": 1404
     },
     {
       "facility_id": "450668",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 31.7849,
       "lon": -106.4969,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.269,
+      "medicare_discharges": 1465
     },
     {
       "facility_id": "670047",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 31.7901,
       "lon": -106.2675,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 1409
     },
     {
       "facility_id": "670120",
@@ -72,8 +72,8 @@
       "ownership": "Proprietary",
       "lat": 31.8882,
       "lon": -106.5625,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.319,
+      "medicare_discharges": 1011
     },
     {
       "facility_id": "670124",
@@ -83,8 +83,8 @@
       "ownership": "Proprietary",
       "lat": 31.6786,
       "lon": -106.1151,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.189,
+      "medicare_discharges": 77
     }
   ],
   "catchment_counties": [
@@ -156,6 +156,6 @@
     "hospital_employment": 10175,
     "msa_total_employment": 325804,
     "hospital_emp_share": 0.0311,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2628
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40740",
   "cbsa_name": "Roswell, NM",
-  "mdi": 0.3581,
+  "mdi": 0.4274,
   "bbox": [
     -106.03,
     32.42,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 33.4234,
       "lon": -104.5285,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.291,
+      "medicare_discharges": 1076
     },
     {
       "facility_id": "320086",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 33.416,
       "lon": -104.5216,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.294,
+      "medicare_discharges": 257
     }
   ],
   "catchment_counties": [
@@ -69,6 +69,6 @@
     "hospital_employment": 73,
     "msa_total_employment": 21267,
     "hospital_emp_share": 0.0447,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2915
   }
 }

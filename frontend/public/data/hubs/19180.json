@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19180",
   "cbsa_name": "Danville, IL",
-  "mdi": 0.4284,
+  "mdi": 0.4606,
   "bbox": [
     -89.16,
     39.13,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 40.1349,
       "lon": -87.645,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.235,
+      "medicare_discharges": 990
     },
     {
       "facility_id": "141316",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.4666,
       "lon": -87.6616,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -77,6 +77,6 @@
     "hospital_employment": 1260,
     "msa_total_employment": 25475,
     "hospital_emp_share": 0.0495,
-    "avg_govt_payer_share": 0.6599
+    "avg_govt_payer_share": 0.279
   }
 }

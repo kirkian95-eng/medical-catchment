@@ -1,7 +1,7 @@
 {
   "cbsa_code": "41940",
   "cbsa_name": "San Jose-Sunnyvale-Santa Clara, CA",
-  "mdi": 0.2801,
+  "mdi": 0.4142,
   "bbox": [
     -123.67,
     36.18,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 37.3134,
       "lon": -121.9342,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.326,
+      "medicare_discharges": 5077
     },
     {
       "facility_id": "050441",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.4183,
       "lon": -122.1709,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.717,
+      "medicare_discharges": 12360
     },
     {
       "facility_id": "050380",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 37.2512,
       "lon": -121.9467,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.382,
+      "medicare_discharges": 4852
     },
     {
       "facility_id": "050308",
@@ -50,8 +50,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 37.3693,
       "lon": -122.0805,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.439,
+      "medicare_discharges": 6156
     },
     {
       "facility_id": "050071",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.3378,
       "lon": -121.9957,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.199,
+      "medicare_discharges": 636
     },
     {
       "facility_id": "050125",
@@ -72,8 +72,8 @@
       "ownership": "Government - Federal",
       "lat": 37.3505,
       "lon": -121.8526,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.464,
+      "medicare_discharges": 2661
     },
     {
       "facility_id": "050604",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.2395,
       "lon": -121.803,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.205,
+      "medicare_discharges": 551
     },
     {
       "facility_id": "051337",
@@ -94,8 +94,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 37.1801,
       "lon": -121.9016,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -143,6 +143,6 @@
     "hospital_employment": 48785,
     "msa_total_employment": 1119710,
     "hospital_emp_share": 0.0435,
-    "avg_govt_payer_share": 0.6507
+    "avg_govt_payer_share": 0.4041
   }
 }

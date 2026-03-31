@@ -1,7 +1,7 @@
 {
   "cbsa_code": "46860",
   "cbsa_name": "Vernal, UT",
-  "mdi": 0.1313,
+  "mdi": 0.1524,
   "bbox": [
     -111.03,
     39.46,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 40.4572,
       "lon": -109.5314,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.21,
+      "medicare_discharges": 220
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 14320,
     "hospital_emp_share": 0.0225,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2105
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25850",
   "cbsa_name": "Hermitage, PA",
-  "mdi": 0.2574,
+  "mdi": 0.2829,
   "bbox": [
     -82.0,
     40.17,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 41.2348,
       "lon": -80.4994,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.242,
+      "medicare_discharges": 1119
     },
     {
       "facility_id": "390178",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.4112,
       "lon": -80.3724,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.202,
+      "medicare_discharges": 676
     },
     {
       "facility_id": "390266",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.173,
       "lon": -80.073,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.196,
+      "medicare_discharges": 258
     },
     {
       "facility_id": "390307",
@@ -50,8 +50,8 @@
       "ownership": "Physician",
       "lat": 41.3259,
       "lon": -80.4201,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.149,
+      "medicare_discharges": 43
     }
   ],
   "catchment_counties": [
@@ -83,6 +83,6 @@
     "hospital_employment": 1703,
     "msa_total_employment": 43140,
     "hospital_emp_share": 0.0395,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.218
   }
 }

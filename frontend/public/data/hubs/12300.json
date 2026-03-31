@@ -1,7 +1,7 @@
 {
   "cbsa_code": "12300",
   "cbsa_name": "Augusta-Waterville, ME",
-  "mdi": 0.2201,
+  "mdi": 0.3336,
   "bbox": [
     -71.29,
     43.36,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 44.3552,
       "lon": -69.7881,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 1709
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 1795,
     "msa_total_employment": 61825,
     "hospital_emp_share": 0.029,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.366
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "12260",
   "cbsa_name": "Augusta-Richmond County, GA-SC",
-  "mdi": 0.5202,
+  "mdi": 0.6063,
   "bbox": [
     -83.59,
     32.09,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 33.4704,
       "lon": -81.9887,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.295,
+      "medicare_discharges": 3412
     },
     {
       "facility_id": "110028",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 33.4731,
       "lon": -81.9818,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.36,
+      "medicare_discharges": 5183
     },
     {
       "facility_id": "110177",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 33.483,
       "lon": -82.0918,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.328,
+      "medicare_discharges": 2621
     },
     {
       "facility_id": "420082",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 33.5841,
       "lon": -81.7595,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.312,
+      "medicare_discharges": 2421
     },
     {
       "facility_id": "110113",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 33.0851,
       "lon": -81.9787,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.137,
+      "medicare_discharges": 70
     }
   ],
   "catchment_counties": [
@@ -182,6 +182,6 @@
     "hospital_employment": 15106,
     "msa_total_employment": 176372,
     "hospital_emp_share": 0.0661,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3198
   }
 }

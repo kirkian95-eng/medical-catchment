@@ -1,7 +1,7 @@
 {
   "cbsa_code": "38220",
   "cbsa_name": "Pine Bluff, AR",
-  "mdi": 0.4942,
+  "mdi": 0.5614,
   "bbox": [
     -93.52,
     33.19,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.189,
       "lon": -92.0187,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.288,
+      "medicare_discharges": 1672
     }
   ],
   "catchment_counties": [
@@ -74,6 +74,6 @@
     "hospital_employment": 16,
     "msa_total_employment": 25848,
     "hospital_emp_share": 0.0624,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2881
   }
 }

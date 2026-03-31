@@ -1,7 +1,7 @@
 {
   "cbsa_code": "26860",
   "cbsa_name": "Indiana, PA",
-  "mdi": 0.3071,
+  "mdi": 0.3551,
   "bbox": [
     -80.66,
     39.61,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.6081,
       "lon": -79.1589,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.256,
+      "medicare_discharges": 985
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 27671,
     "hospital_emp_share": 0.0429,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2558
   }
 }

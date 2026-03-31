@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34260",
   "cbsa_name": "Mountain Home, AR",
-  "mdi": 0.7256,
+  "mdi": 0.8129,
   "bbox": [
     -93.89,
     35.13,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.3429,
       "lon": -92.394,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.336,
+      "medicare_discharges": 3029
     },
     {
       "facility_id": "041306",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.1341,
       "lon": -92.1803,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -85,6 +85,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 16074,
     "hospital_emp_share": 0.1018,
-    "avg_govt_payer_share": 0.6585
+    "avg_govt_payer_share": 0.365
   }
 }

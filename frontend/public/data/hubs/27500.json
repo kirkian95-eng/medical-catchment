@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27500",
   "cbsa_name": "Janesville-Beloit, WI",
-  "mdi": 0.5044,
+  "mdi": 0.5785,
   "bbox": [
     -90.59,
     41.55,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.5468,
       "lon": -89.0106,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.265,
+      "medicare_discharges": 1315
     },
     {
       "facility_id": "520066",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.6868,
       "lon": -89.0332,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.315,
+      "medicare_discharges": 1642
     },
     {
       "facility_id": "520208",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 42.6522,
       "lon": -88.9482,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.481,
+      "medicare_discharges": 994
     },
     {
       "facility_id": "521319",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.8608,
       "lon": -89.0933,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -75,6 +75,6 @@
     "hospital_employment": 4229,
     "msa_total_employment": 68706,
     "hospital_emp_share": 0.0616,
-    "avg_govt_payer_share": 0.655
+    "avg_govt_payer_share": 0.3253
   }
 }

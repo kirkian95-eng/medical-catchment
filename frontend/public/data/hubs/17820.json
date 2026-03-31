@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17820",
   "cbsa_name": "Colorado Springs, CO",
-  "mdi": 0.3077,
+  "mdi": 0.4445,
   "bbox": [
     -107.28,
     37.07,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 38.8389,
       "lon": -104.7992,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.361,
+      "medicare_discharges": 6548
     },
     {
       "facility_id": "060031",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.8656,
       "lon": -104.8218,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.489,
+      "medicare_discharges": 5427
     },
     {
       "facility_id": "060133",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.0609,
       "lon": -104.8191,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "060130",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.9104,
       "lon": -104.7804,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.193,
+      "medicare_discharges": 129
     },
     {
       "facility_id": "061326",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.0327,
       "lon": -105.0544,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -150,6 +150,6 @@
     "hospital_employment": 13780,
     "msa_total_employment": 315793,
     "hospital_emp_share": 0.0436,
-    "avg_govt_payer_share": 0.6515
+    "avg_govt_payer_share": 0.413
   }
 }

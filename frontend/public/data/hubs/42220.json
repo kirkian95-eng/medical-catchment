@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42220",
   "cbsa_name": "Santa Rosa-Petaluma, CA",
-  "mdi": 0.1894,
+  "mdi": 0.2981,
   "bbox": [
     -124.39,
     37.25,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.4429,
       "lon": -122.7021,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.449,
+      "medicare_discharges": 4418
     },
     {
       "facility_id": "050690",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 38.4715,
       "lon": -122.7264,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.184,
+      "medicare_discharges": 292
     },
     {
       "facility_id": "050291",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 38.4963,
       "lon": -122.7512,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.468,
+      "medicare_discharges": 2640
     },
     {
       "facility_id": "050136",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 38.2537,
       "lon": -122.6335,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.309,
+      "medicare_discharges": 711
     },
     {
       "facility_id": "050090",
@@ -61,8 +61,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 38.2558,
       "lon": -122.4609,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.23,
+      "medicare_discharges": 390
     },
     {
       "facility_id": "051321",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.623,
       "lon": -122.8891,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -105,6 +105,6 @@
     "hospital_employment": 5381,
     "msa_total_employment": 207356,
     "hospital_emp_share": 0.026,
-    "avg_govt_payer_share": 0.6529
+    "avg_govt_payer_share": 0.3726
   }
 }

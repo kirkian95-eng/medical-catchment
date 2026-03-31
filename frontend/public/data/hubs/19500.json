@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19500",
   "cbsa_name": "Decatur, IL",
-  "mdi": 0.6604,
+  "mdi": 0.7195,
   "bbox": [
     -90.46,
     38.81,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 39.8658,
       "lon": -88.9608,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.311,
+      "medicare_discharges": 2628
     },
     {
       "facility_id": "140166",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.8102,
       "lon": -88.9278,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.236,
+      "medicare_discharges": 1339
     }
   ],
   "catchment_counties": [
@@ -69,6 +69,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 45500,
     "hospital_emp_share": 0.1031,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2744
   }
 }

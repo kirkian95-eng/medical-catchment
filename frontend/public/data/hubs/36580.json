@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36580",
   "cbsa_name": "Oneonta, NY",
-  "mdi": 0.4536,
+  "mdi": 0.6236,
   "bbox": [
     -76.54,
     41.48,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.6959,
       "lon": -74.9233,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.499,
+      "medicare_discharges": 2720
     },
     {
       "facility_id": "330085",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.4834,
       "lon": -75.0369,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.348,
+      "medicare_discharges": 576
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 21668,
     "hospital_emp_share": 0.0611,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4612
   }
 }

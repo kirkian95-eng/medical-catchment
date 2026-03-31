@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17900",
   "cbsa_name": "Columbia, SC",
-  "mdi": 0.1957,
+  "mdi": 0.3199,
   "bbox": [
     -82.65,
     33.0,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.066,
       "lon": -81.0244,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.352,
+      "medicare_discharges": 4938
     },
     {
       "facility_id": "420073",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.0046,
       "lon": -81.1158,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.584,
+      "medicare_discharges": 9147
     },
     {
       "facility_id": "420086",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.0071,
       "lon": -81.0341,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.251,
+      "medicare_discharges": 1784
     },
     {
       "facility_id": "420026",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.029,
       "lon": -80.9998,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.33,
+      "medicare_discharges": 2775
     },
     {
       "facility_id": "420048",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 34.2525,
       "lon": -80.5895,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.299,
+      "medicare_discharges": 951
     },
     {
       "facility_id": "420106",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.0803,
       "lon": -81.1498,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.381,
+      "medicare_discharges": 1156
     }
   ],
   "catchment_counties": [
@@ -153,6 +153,6 @@
     "hospital_employment": 11417,
     "msa_total_employment": 372488,
     "hospital_emp_share": 0.0294,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3842
   }
 }

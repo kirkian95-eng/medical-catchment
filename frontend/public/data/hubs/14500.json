@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14500",
   "cbsa_name": "Boulder, CO",
-  "mdi": 0.1387,
+  "mdi": 0.1894,
   "bbox": [
     -106.74,
     38.95,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.9723,
       "lon": -105.0882,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.218,
+      "medicare_discharges": 998
     },
     {
       "facility_id": "060003",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.1814,
       "lon": -105.1269,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.2,
+      "medicare_discharges": 556
     },
     {
       "facility_id": "060027",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.016,
       "lon": -105.2364,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.362,
+      "medicare_discharges": 2505
     },
     {
       "facility_id": "060103",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 39.951,
       "lon": -105.1482,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.186,
+      "medicare_discharges": 493
     },
     {
       "facility_id": "060128",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.1764,
       "lon": -104.9695,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.396,
+      "medicare_discharges": 1208
     }
   ],
   "catchment_counties": [
@@ -150,6 +150,6 @@
     "hospital_employment": 5406,
     "msa_total_employment": 195224,
     "hospital_emp_share": 0.0277,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2604
   }
 }

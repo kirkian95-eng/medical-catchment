@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39340",
   "cbsa_name": "Provo-Orem-Lehi, UT",
-  "mdi": 0.1643,
+  "mdi": 0.2101,
   "bbox": [
     -114.34,
     37.74,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.249,
       "lon": -111.6673,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.292,
+      "medicare_discharges": 3485
     },
     {
       "facility_id": "460013",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 40.0445,
       "lon": -111.7159,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.192,
+      "medicare_discharges": 479
     },
     {
       "facility_id": "460052",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 40.3121,
       "lon": -111.7147,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.178,
+      "medicare_discharges": 404
     },
     {
       "facility_id": "460023",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.3804,
       "lon": -111.769,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.244,
+      "medicare_discharges": 678
     },
     {
       "facility_id": "460062",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.133,
       "lon": -111.6411,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.19,
+      "medicare_discharges": 164
     },
     {
       "facility_id": "461304",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.7307,
       "lon": -111.8373,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "460043",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.3037,
       "lon": -111.7055,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -180,6 +180,6 @@
     "hospital_employment": 7590,
     "msa_total_employment": 295229,
     "hospital_emp_share": 0.0257,
-    "avg_govt_payer_share": 0.6531
+    "avg_govt_payer_share": 0.2678
   }
 }

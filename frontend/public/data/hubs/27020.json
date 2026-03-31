@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27020",
   "cbsa_name": "Iron Mountain, MI-WI",
-  "mdi": 0.4096,
+  "mdi": 0.4612,
   "bbox": [
     -89.54,
     44.81,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 45.8089,
       "lon": -88.0431,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.262,
+      "medicare_discharges": 526
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 697,
     "msa_total_employment": 13935,
     "hospital_emp_share": 0.0467,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2618
   }
 }

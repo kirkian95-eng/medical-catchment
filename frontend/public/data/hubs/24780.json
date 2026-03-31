@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24780",
   "cbsa_name": "Greenville, NC",
-  "mdi": 0.7,
+  "mdi": 0.8566,
   "bbox": [
     -78.9,
     34.61,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.6056,
       "lon": -77.4034,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.439,
+      "medicare_discharges": 10265
     }
   ],
   "catchment_counties": [
@@ -74,6 +74,6 @@
     "hospital_employment": 8769,
     "msa_total_employment": 80183,
     "hospital_emp_share": 0.1094,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4386
   }
 }

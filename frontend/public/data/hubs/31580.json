@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31580",
   "cbsa_name": "Madisonville, KY",
-  "mdi": 0.7,
+  "mdi": 0.7419,
   "bbox": [
     -88.99,
     36.34,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.3392,
       "lon": -87.4927,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.246,
+      "medicare_discharges": 1430
     }
   ],
   "catchment_counties": [
@@ -82,6 +82,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 17396,
     "hospital_emp_share": 0.1296,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2455
   }
 }

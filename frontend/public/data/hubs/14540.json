@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14540",
   "cbsa_name": "Bowling Green, KY",
-  "mdi": 0.3314,
+  "mdi": 0.4298,
   "bbox": [
     -87.95,
     35.77,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.9948,
       "lon": -86.4324,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.387,
+      "medicare_discharges": 3581
     },
     {
       "facility_id": "180124",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 36.8769,
       "lon": -86.4512,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.277,
+      "medicare_discharges": 1681
     },
     {
       "facility_id": "181324",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.7701,
       "lon": -86.1807,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -136,6 +136,6 @@
     "hospital_employment": 3580,
     "msa_total_employment": 74217,
     "hospital_emp_share": 0.0454,
-    "avg_govt_payer_share": 0.654
+    "avg_govt_payer_share": 0.361
   }
 }

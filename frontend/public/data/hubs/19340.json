@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19340",
   "cbsa_name": "Davenport-Moline-Rock Island, IA-IL",
-  "mdi": 0.0973,
+  "mdi": 0.1529,
   "bbox": [
     -92.22,
     40.21,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.5428,
       "lon": -90.5572,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.291,
+      "medicare_discharges": 4249
     },
     {
       "facility_id": "140280",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.4828,
       "lon": -90.5727,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.296,
+      "medicare_discharges": 2559
     },
     {
       "facility_id": "160104",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.5654,
       "lon": -90.5174,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.228,
+      "medicare_discharges": 747
     },
     {
       "facility_id": "140275",
@@ -50,8 +50,8 @@
       "ownership": "Government - Local",
       "lat": 41.493,
       "lon": -90.4186,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.221,
+      "medicare_discharges": 633
     },
     {
       "facility_id": "141319",
@@ -61,8 +61,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 41.4672,
       "lon": -90.1496,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "141325",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.2637,
       "lon": -89.9449,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "141304",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.2107,
       "lon": -90.7178,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -132,6 +132,6 @@
     "hospital_employment": 3037,
     "msa_total_employment": 178208,
     "hospital_emp_share": 0.017,
-    "avg_govt_payer_share": 0.6561
+    "avg_govt_payer_share": 0.2992
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14020",
   "cbsa_name": "Bloomington, IN",
-  "mdi": 0.3088,
+  "mdi": 0.4361,
   "bbox": [
     -88.11,
     38.09,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.1613,
       "lon": -86.5403,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.39,
+      "medicare_discharges": 3076
     },
     {
       "facility_id": "150183",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 39.0852,
       "lon": -86.6123,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.386,
+      "medicare_discharges": 547
     }
   ],
   "catchment_counties": [
@@ -85,6 +85,6 @@
     "hospital_employment": 3392,
     "msa_total_employment": 67077,
     "hospital_emp_share": 0.0468,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3893
   }
 }

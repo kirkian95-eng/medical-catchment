@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18500",
   "cbsa_name": "Corning, NY",
-  "mdi": 0.3575,
+  "mdi": 0.4228,
   "bbox": [
     -79.14,
     41.13,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.3343,
       "lon": -77.6353,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.214,
+      "medicare_discharges": 328
     },
     {
       "facility_id": "330277",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.1294,
       "lon": -76.9936,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.421,
+      "medicare_discharges": 1032
     }
   ],
   "catchment_counties": [
@@ -53,6 +53,6 @@
     "hospital_employment": 1861,
     "msa_total_employment": 34949,
     "hospital_emp_share": 0.0532,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2849
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35820",
   "cbsa_name": "North Platte, NE",
-  "mdi": 0.4049,
+  "mdi": 0.5863,
   "bbox": [
     -102.68,
     39.6,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.1208,
       "lon": -100.7682,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.48,
+      "medicare_discharges": 2120
     }
   ],
   "catchment_counties": [
@@ -226,6 +226,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 14609,
     "hospital_emp_share": 0.0496,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4804
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16660",
   "cbsa_name": "Charleston-Mattoon, IL",
-  "mdi": 0.5358,
+  "mdi": 0.6581,
   "bbox": [
     -89.89,
     38.37,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.3724,
       "lon": -88.3911,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.381,
+      "medicare_discharges": 2648
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 23584,
     "hospital_emp_share": 0.0671,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3809
   }
 }

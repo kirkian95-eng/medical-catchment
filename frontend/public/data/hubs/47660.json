@@ -1,7 +1,7 @@
 {
   "cbsa_code": "47660",
   "cbsa_name": "Warrensburg, MO",
-  "mdi": 0.3582,
+  "mdi": 0.3977,
   "bbox": [
     -95.22,
     37.77,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 38.7656,
       "lon": -93.7236,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.241,
+      "medicare_discharges": 504
     }
   ],
   "catchment_counties": [
@@ -82,6 +82,6 @@
     "hospital_employment": 702,
     "msa_total_employment": 16015,
     "hospital_emp_share": 0.0438,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2415
   }
 }

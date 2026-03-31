@@ -1,7 +1,7 @@
 {
   "cbsa_code": "33940",
   "cbsa_name": "Montrose, CO",
-  "mdi": 0.3344,
+  "mdi": 0.3908,
   "bbox": [
     -109.37,
     37.48,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.4804,
       "lon": -107.8693,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 697
     }
   ],
   "catchment_counties": [
@@ -74,6 +74,6 @@
     "hospital_employment": 731,
     "msa_total_employment": 16572,
     "hospital_emp_share": 0.0441,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.27
   }
 }

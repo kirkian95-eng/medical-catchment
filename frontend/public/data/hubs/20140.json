@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20140",
   "cbsa_name": "Dublin, GA",
-  "mdi": 0.7,
+  "mdi": 0.7899,
   "bbox": [
     -84.45,
     31.53,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 32.534,
       "lon": -82.9503,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.326,
+      "medicare_discharges": 1531
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 1820,
     "msa_total_employment": 19576,
     "hospital_emp_share": 0.0869,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3264
   }
 }

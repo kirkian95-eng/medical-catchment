@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15900",
   "cbsa_name": "Canton, IL",
-  "mdi": 0.7,
+  "mdi": 0.7375,
   "bbox": [
     -91.54,
     39.55,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.5532,
       "lon": -90.0407,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.238,
+      "medicare_discharges": 636
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 8332,
     "hospital_emp_share": 0.0914,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.238
   }
 }

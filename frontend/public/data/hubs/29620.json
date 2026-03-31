@@ -1,7 +1,7 @@
 {
   "cbsa_code": "29620",
   "cbsa_name": "Lansing-East Lansing, MI",
-  "mdi": 0.2497,
+  "mdi": 0.32,
   "bbox": [
     -86.35,
     41.51,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 42.7337,
       "lon": -84.5354,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.31,
+      "medicare_discharges": 3868
     },
     {
       "facility_id": "230167",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.7015,
       "lon": -84.4989,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.29,
+      "medicare_discharges": 2135
     },
     {
       "facility_id": "231324",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.5084,
       "lon": -84.6613,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "231326",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 43.0067,
       "lon": -84.5792,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "231327",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 42.5734,
       "lon": -84.8457,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -102,6 +102,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 215404,
     "hospital_emp_share": 0.0348,
-    "avg_govt_payer_share": 0.6571
+    "avg_govt_payer_share": 0.3292
   }
 }

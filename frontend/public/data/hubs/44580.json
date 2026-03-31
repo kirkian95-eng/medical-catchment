@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44580",
   "cbsa_name": "Sterling, IL",
-  "mdi": 0.2696,
+  "mdi": 0.3725,
   "bbox": [
     -91.46,
     40.8,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 41.8017,
       "lon": -89.6967,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.392,
+      "medicare_discharges": 1345
     },
     {
       "facility_id": "141329",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 41.8266,
       "lon": -89.9635,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -53,6 +53,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 21015,
     "hospital_emp_share": 0.0307,
-    "avg_govt_payer_share": 0.6703
+    "avg_govt_payer_share": 0.4508
   }
 }

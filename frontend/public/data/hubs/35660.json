@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35660",
   "cbsa_name": "Niles, MI",
-  "mdi": 0.2437,
+  "mdi": 0.3526,
   "bbox": [
     -87.98,
     41.09,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.0902,
       "lon": -86.4781,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.324,
+      "medicare_discharges": 2774
     },
     {
       "facility_id": "230078",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.1639,
       "lon": -86.24,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 60306,
     "hospital_emp_share": 0.0358,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3583
   }
 }

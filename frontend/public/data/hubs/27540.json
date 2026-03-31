@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27540",
   "cbsa_name": "Jasper, IN",
-  "mdi": 0.2114,
+  "mdi": 0.275,
   "bbox": [
     -88.44,
     37.39,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.3938,
       "lon": -86.9421,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.282,
+      "medicare_discharges": 1510
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 27911,
     "hospital_emp_share": 0.0312,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.282
   }
 }

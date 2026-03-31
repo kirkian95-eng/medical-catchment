@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18020",
   "cbsa_name": "Columbus, IN",
-  "mdi": 0.2145,
+  "mdi": 0.3789,
   "bbox": [
     -87.39,
     38.22,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 39.216,
       "lon": -85.8944,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.452,
+      "medicare_discharges": 2929
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 1794,
     "msa_total_employment": 50376,
     "hospital_emp_share": 0.0356,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4518
   }
 }

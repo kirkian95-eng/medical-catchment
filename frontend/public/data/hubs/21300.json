@@ -1,7 +1,7 @@
 {
   "cbsa_code": "21300",
   "cbsa_name": "Elmira, NY",
-  "mdi": 0.3074,
+  "mdi": 0.3838,
   "bbox": [
     -78.33,
     41.1,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.0992,
       "lon": -76.8272,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.304,
+      "medicare_discharges": 1649
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 33284,
     "hospital_emp_share": 0.0442,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3036
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18300",
   "cbsa_name": "Coos Bay-North Bend, OR",
-  "mdi": 0.5496,
+  "mdi": 0.6628,
   "bbox": [
     -125.85,
     42.06,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 43.3468,
       "lon": -124.1057,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.425,
+      "medicare_discharges": 2358
     },
     {
       "facility_id": "381312",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 43.1858,
       "lon": -124.1742,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "381304",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 43.059,
       "lon": -124.3468,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -64,6 +64,6 @@
     "hospital_employment": 1300,
     "msa_total_employment": 23277,
     "hospital_emp_share": 0.0558,
-    "avg_govt_payer_share": 0.6739
+    "avg_govt_payer_share": 0.4863
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31500",
   "cbsa_name": "Madison, IN",
-  "mdi": 0.1399,
+  "mdi": 0.2335,
   "bbox": [
     -86.86,
     37.81,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.8115,
       "lon": -85.3621,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 856
     }
   ],
   "catchment_counties": [
@@ -98,6 +98,6 @@
     "hospital_employment": 322,
     "msa_total_employment": 12643,
     "hospital_emp_share": 0.0255,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3326
   }
 }

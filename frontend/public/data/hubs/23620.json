@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23620",
   "cbsa_name": "Gainesville, TX",
-  "mdi": 0.2192,
+  "mdi": 0.2807,
   "bbox": [
     -98.88,
     32.64,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.6414,
       "lon": -97.1625,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.31,
+      "medicare_discharges": 475
     },
     {
       "facility_id": "451335",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 33.6707,
       "lon": -97.378,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 15697,
     "hospital_emp_share": 0.0256,
-    "avg_govt_payer_share": 0.6731
+    "avg_govt_payer_share": 0.3951
   }
 }

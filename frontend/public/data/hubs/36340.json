@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36340",
   "cbsa_name": "Oil City, PA",
-  "mdi": 0.4445,
+  "mdi": 0.5119,
   "bbox": [
     -81.21,
     40.36,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 41.3584,
       "lon": -79.7078,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.288,
+      "medicare_discharges": 1152
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 16497,
     "hospital_emp_share": 0.0561,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2884
   }
 }

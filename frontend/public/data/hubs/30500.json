@@ -1,7 +1,7 @@
 {
   "cbsa_code": "30500",
   "cbsa_name": "Lexington Park, MD",
-  "mdi": 0.1443,
+  "mdi": 0.3631,
   "bbox": [
     -78.1,
     37.56,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 38.56,
       "lon": -76.5982,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.543,
+      "medicare_discharges": 2315
     }
   ],
   "catchment_counties": [
@@ -106,6 +106,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 22057,
     "hospital_emp_share": 0.0267,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.5432
   }
 }

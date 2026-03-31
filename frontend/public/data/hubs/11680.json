@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 37.2448,
       "lon": -96.982,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 510,
     "msa_total_employment": 13509,
     "hospital_emp_share": 0.0378,
-    "avg_govt_payer_share": 0.75
+    "avg_govt_payer_share": 0.68
   }
 }

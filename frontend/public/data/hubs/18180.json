@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18180",
   "cbsa_name": "Concord, NH",
-  "mdi": 0.2948,
+  "mdi": 0.4404,
   "bbox": [
     -73.49,
     42.2,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.1965,
       "lon": -71.5627,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.462,
+      "medicare_discharges": 4211
     },
     {
       "facility_id": "301304",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.4177,
       "lon": -71.9906,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "301306",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.449,
       "lon": -71.6742,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -72,6 +72,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 76731,
     "hospital_emp_share": 0.0391,
-    "avg_govt_payer_share": 0.6645
+    "avg_govt_payer_share": 0.4933
   }
 }

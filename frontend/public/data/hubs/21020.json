@@ -1,7 +1,7 @@
 {
   "cbsa_code": "21020",
   "cbsa_name": "Elizabeth City, NC",
-  "mdi": 0.4975,
+  "mdi": 0.6069,
   "bbox": [
     -77.73,
     35.29,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 36.2927,
       "lon": -76.2316,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.359,
+      "medicare_discharges": 1922
     }
   ],
   "catchment_counties": [
@@ -98,6 +98,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 15883,
     "hospital_emp_share": 0.0615,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3591
   }
 }

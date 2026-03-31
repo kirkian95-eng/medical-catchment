@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13700",
   "cbsa_name": "Big Spring, TX",
-  "mdi": 0.429,
+  "mdi": 0.4291,
   "bbox": [
     -102.99,
     31.24,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 32.2411,
       "lon": -101.4872,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.175,
+      "medicare_discharges": 167
     }
   ],
   "catchment_counties": [
@@ -74,6 +74,6 @@
     "hospital_employment": 693,
     "msa_total_employment": 12602,
     "hospital_emp_share": 0.055,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.1752
   }
 }

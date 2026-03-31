@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40620",
   "cbsa_name": "Rolla, MO",
-  "mdi": 0.5544,
+  "mdi": 0.6213,
   "bbox": [
     -93.29,
     36.95,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 37.9515,
       "lon": -91.7864,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.288,
+      "medicare_discharges": 1732
     }
   ],
   "catchment_counties": [
@@ -90,6 +90,6 @@
     "hospital_employment": 1472,
     "msa_total_employment": 19155,
     "hospital_emp_share": 0.0768,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2877
   }
 }

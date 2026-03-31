@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35460",
   "cbsa_name": "Newport, TN",
-  "mdi": 0.3999,
+  "mdi": 0.4435,
   "bbox": [
     -84.68,
     34.96,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 35.9648,
       "lon": -83.1815,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.248,
+      "medicare_discharges": 350
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 7824,
     "hospital_emp_share": 0.0487,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2484
   }
 }

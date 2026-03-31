@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25500",
   "cbsa_name": "Harrisonburg, VA",
-  "mdi": 0.2033,
+  "mdi": 0.3608,
   "bbox": [
     -80.35,
     37.4,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.4048,
       "lon": -78.8533,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.44,
+      "medicare_discharges": 3966
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 31109,
     "hospital_emp_share": 0.0302,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4402
   }
 }

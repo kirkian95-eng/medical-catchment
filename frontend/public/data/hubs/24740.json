@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24740",
   "cbsa_name": "Greenville, MS",
-  "mdi": 0.7,
+  "mdi": 0.7584,
   "bbox": [
     -92.53,
     32.41,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 33.4099,
       "lon": -91.0349,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.273,
+      "medicare_discharges": 922
     }
   ],
   "catchment_counties": [
@@ -74,6 +74,6 @@
     "hospital_employment": 492,
     "msa_total_employment": 14525,
     "hospital_emp_share": 0.1021,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2733
   }
 }

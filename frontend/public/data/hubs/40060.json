@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40060",
   "cbsa_name": "Richmond, VA",
-  "mdi": 0.1304,
+  "mdi": 0.2719,
   "bbox": [
     -79.16,
     36.18,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 37.5397,
       "lon": -77.43,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.393,
+      "medicare_discharges": 7119
     },
     {
       "facility_id": "490112",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 37.5197,
       "lon": -77.5106,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.388,
+      "medicare_discharges": 9027
     },
     {
       "facility_id": "490059",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.5844,
       "lon": -77.5131,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.419,
+      "medicare_discharges": 5386
     },
     {
       "facility_id": "490118",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 37.588,
       "lon": -77.5702,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.438,
+      "medicare_discharges": 5379
     },
     {
       "facility_id": "490067",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 37.1832,
       "lon": -77.3622,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.391,
+      "medicare_discharges": 3165
     },
     {
       "facility_id": "490069",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 37.6261,
       "lon": -77.3893,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.603,
+      "medicare_discharges": 5267
     },
     {
       "facility_id": "490020",
@@ -83,8 +83,8 @@
       "ownership": "Proprietary",
       "lat": 37.2747,
       "lon": -77.2274,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.277,
+      "medicare_discharges": 1241
     },
     {
       "facility_id": "490136",
@@ -94,8 +94,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 37.4662,
       "lon": -77.6599,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.561,
+      "medicare_discharges": 3294
     },
     {
       "facility_id": "490094",
@@ -105,8 +105,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.5578,
       "lon": -77.3789,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.29,
+      "medicare_discharges": 186
     },
     {
       "facility_id": "490104",
@@ -116,8 +116,8 @@
       "ownership": "Government - State",
       "lat": 37.2151,
       "lon": -77.4704,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -357,6 +357,6 @@
     "hospital_employment": 13889,
     "msa_total_employment": 568671,
     "hospital_emp_share": 0.0229,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4131
   }
 }

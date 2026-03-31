@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36540",
   "cbsa_name": "Omaha, NE-IA",
-  "mdi": 0.2329,
+  "mdi": 0.34,
   "bbox": [
     -98.12,
     39.99,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.2543,
       "lon": -95.9783,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.443,
+      "medicare_discharges": 6962
     },
     {
       "facility_id": "280040",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.2596,
       "lon": -96.0417,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.397,
+      "medicare_discharges": 5644
     },
     {
       "facility_id": "280060",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.238,
       "lon": -96.0288,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.368,
+      "medicare_discharges": 3737
     },
     {
       "facility_id": "280081",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.322,
       "lon": -96.0238,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.26,
+      "medicare_discharges": 1433
     },
     {
       "facility_id": "160047",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.2691,
       "lon": -95.8352,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.303,
+      "medicare_discharges": 1842
     },
     {
       "facility_id": "160028",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.2685,
       "lon": -95.8391,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.283,
+      "medicare_discharges": 1102
     },
     {
       "facility_id": "280130",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 41.2372,
       "lon": -96.1788,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.386,
+      "medicare_discharges": 2087
     },
     {
       "facility_id": "280105",
@@ -94,8 +94,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 41.1218,
       "lon": -96.0528,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.177,
+      "medicare_discharges": 375
     },
     {
       "facility_id": "280132",
@@ -105,8 +105,8 @@
       "ownership": "Proprietary",
       "lat": 41.1022,
       "lon": -95.9476,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.572,
+      "medicare_discharges": 2086
     },
     {
       "facility_id": "280133",
@@ -116,8 +116,8 @@
       "ownership": "Proprietary",
       "lat": 41.3634,
       "lon": -96.0519,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.196,
+      "medicare_discharges": 250
     },
     {
       "facility_id": "161309",
@@ -127,8 +127,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.5595,
       "lon": -95.9153,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "281359",
@@ -138,8 +138,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.552,
       "lon": -96.1452,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "280129",
@@ -149,8 +149,8 @@
       "ownership": "Physician",
       "lat": 41.235,
       "lon": -96.1184,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.167,
+      "medicare_discharges": 140
     },
     {
       "facility_id": "280131",
@@ -160,8 +160,8 @@
       "ownership": "Physician",
       "lat": 41.2631,
       "lon": -96.052,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.221,
+      "medicare_discharges": 209
     },
     {
       "facility_id": "281307",
@@ -171,8 +171,8 @@
       "ownership": "Government - Local",
       "lat": 41.1846,
       "lon": -96.6189,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -332,6 +332,6 @@
     "hospital_employment": 16974,
     "msa_total_employment": 478025,
     "hospital_emp_share": 0.0348,
-    "avg_govt_payer_share": 0.6523
+    "avg_govt_payer_share": 0.3671
   }
 }

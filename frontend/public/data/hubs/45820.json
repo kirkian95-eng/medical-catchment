@@ -1,7 +1,7 @@
 {
   "cbsa_code": "45820",
   "cbsa_name": "Topeka, KS",
-  "mdi": 0.5605,
+  "mdi": 0.6375,
   "bbox": [
     -97.2,
     37.98,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.0514,
       "lon": -95.6962,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.341,
+      "medicare_discharges": 6320
     },
     {
       "facility_id": "170016",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 39.0561,
       "lon": -95.6962,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.26,
+      "medicare_discharges": 2513
     },
     {
       "facility_id": "171314",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.3286,
       "lon": -95.2461,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "171319",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.4683,
       "lon": -95.7038,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -139,6 +139,6 @@
     "hospital_employment": 1838,
     "msa_total_employment": 108126,
     "hospital_emp_share": 0.0618,
-    "avg_govt_payer_share": 0.6537
+    "avg_govt_payer_share": 0.3233
   }
 }

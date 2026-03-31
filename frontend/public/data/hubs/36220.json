@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36220",
   "cbsa_name": "Odessa, TX",
-  "mdi": 0.3219,
+  "mdi": 0.3781,
   "bbox": [
     -105.1,
     29.67,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 31.8443,
       "lon": -102.3752,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.305,
+      "medicare_discharges": 2547
     },
     {
       "facility_id": "450661",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 31.8513,
       "lon": -102.3661,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.208,
+      "medicare_discharges": 618
     }
   ],
   "catchment_counties": [
@@ -141,6 +141,6 @@
     "hospital_employment": 771,
     "msa_total_employment": 77908,
     "hospital_emp_share": 0.0508,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2695
   }
 }

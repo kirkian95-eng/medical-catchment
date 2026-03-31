@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22100",
   "cbsa_name": "Farmington, MO",
-  "mdi": 0.3626,
+  "mdi": 0.4537,
   "bbox": [
     -91.94,
     36.78,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.7807,
       "lon": -90.4384,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.328,
+      "medicare_discharges": 1142
     }
   ],
   "catchment_counties": [
@@ -106,6 +106,6 @@
     "hospital_employment": 1194,
     "msa_total_employment": 22292,
     "hospital_emp_share": 0.0536,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3283
   }
 }

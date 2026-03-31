@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48820",
   "cbsa_name": "Willmar, MN",
-  "mdi": 0.4981,
+  "mdi": 0.5263,
   "bbox": [
     -96.55,
     44.12,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 45.1204,
       "lon": -95.0464,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.222,
+      "medicare_discharges": 593
     }
   ],
   "catchment_counties": [
@@ -98,6 +98,6 @@
     "hospital_employment": 127,
     "msa_total_employment": 22790,
     "hospital_emp_share": 0.0614,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2225
   }
 }

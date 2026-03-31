@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27740",
   "cbsa_name": "Johnson City, TN",
-  "mdi": 0.2613,
+  "mdi": 0.3486,
   "bbox": [
     -83.9,
     35.31,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.3094,
       "lon": -82.3865,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 4941
     },
     {
       "facility_id": "440018",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.3705,
       "lon": -82.1223,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.242,
+      "medicare_discharges": 579
     },
     {
       "facility_id": "440184",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.338,
       "lon": -82.4017,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 1028
     }
   ],
   "catchment_counties": [
@@ -88,6 +88,6 @@
     "hospital_employment": 2604,
     "msa_total_employment": 76833,
     "hospital_emp_share": 0.0318,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3221
   }
 }

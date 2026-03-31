@@ -1,7 +1,7 @@
 {
   "cbsa_code": "11200",
   "cbsa_name": "Amherst Town-Northampton, MA",
-  "mdi": 0.0514,
+  "mdi": 0.2169,
   "bbox": [
     -74.15,
     41.33,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.3293,
       "lon": -72.6546,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.454,
+      "medicare_discharges": 2146
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 804,
     "msa_total_employment": 65483,
     "hospital_emp_share": 0.0123,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4536
   }
 }

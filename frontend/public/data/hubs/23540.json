@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23540",
   "cbsa_name": "Gainesville, FL",
-  "mdi": 0.2097,
+  "mdi": 0.3654,
   "bbox": [
     -83.91,
     28.64,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 29.6388,
       "lon": -82.3447,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.412,
+      "medicare_discharges": 9421
     },
     {
       "facility_id": "100204",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 29.6598,
       "lon": -82.4114,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.486,
+      "medicare_discharges": 8838
     }
   ],
   "catchment_counties": [
@@ -101,6 +101,6 @@
     "hospital_employment": 4014,
     "msa_total_employment": 138542,
     "hospital_emp_share": 0.0265,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.437
   }
 }

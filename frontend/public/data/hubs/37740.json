@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 34.2311,
       "lon": -111.3212,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "031314",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.559,
       "lon": -110.7691,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "031320",
@@ -39,8 +39,8 @@
       "ownership": "Tribal",
       "lat": 33.3247,
       "lon": -110.3108,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -64,6 +64,6 @@
     "hospital_employment": 9,
     "msa_total_employment": 14977,
     "hospital_emp_share": 0.0279,
-    "avg_govt_payer_share": 0.75
+    "avg_govt_payer_share": 0.68
   }
 }

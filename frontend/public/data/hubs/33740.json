@@ -1,7 +1,7 @@
 {
   "cbsa_code": "33740",
   "cbsa_name": "Monroe, LA",
-  "mdi": 0.288,
+  "mdi": 0.3747,
   "bbox": [
     -94.16,
     31.41,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.4991,
       "lon": -92.1144,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.409,
+      "medicare_discharges": 3282
     },
     {
       "facility_id": "190160",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 32.5652,
       "lon": -92.1732,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.33,
+      "medicare_discharges": 2401
     },
     {
       "facility_id": "190011",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.4509,
       "lon": -92.1055,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.252,
+      "medicare_discharges": 449
     },
     {
       "facility_id": "190116",
@@ -50,8 +50,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.7752,
       "lon": -91.9172,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.261,
+      "medicare_discharges": 158
     },
     {
       "facility_id": "190151",
@@ -61,8 +61,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.4406,
       "lon": -91.7938,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.288,
+      "medicare_discharges": 146
     },
     {
       "facility_id": "191323",
@@ -72,8 +72,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.4144,
       "lon": -91.4967,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "191301",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.7794,
       "lon": -92.352,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "191326",
@@ -94,8 +94,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.8292,
       "lon": -92.6605,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "190245",
@@ -105,8 +105,8 @@
       "ownership": "Proprietary",
       "lat": 32.5396,
       "lon": -92.1069,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.177,
+      "medicare_discharges": 51
     }
   ],
   "catchment_counties": [
@@ -186,6 +186,6 @@
     "hospital_employment": 3252,
     "msa_total_employment": 86989,
     "hospital_emp_share": 0.0374,
-    "avg_govt_payer_share": 0.6561
+    "avg_govt_payer_share": 0.3515
   }
 }

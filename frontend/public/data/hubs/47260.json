@@ -1,7 +1,7 @@
 {
   "cbsa_code": "47260",
   "cbsa_name": "Virginia Beach-Chesapeake-Norfolk, VA-NC",
-  "mdi": 0.0229,
+  "mdi": 0.1885,
   "bbox": [
     -78.24,
     35.75,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.0727,
       "lon": -76.4772,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.397,
+      "medicare_discharges": 6405
     },
     {
       "facility_id": "490007",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 36.8626,
       "lon": -76.3049,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.459,
+      "medicare_discharges": 6371
     },
     {
       "facility_id": "490017",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.8418,
       "lon": -76.3403,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.288,
+      "medicare_discharges": 2171
     },
     {
       "facility_id": "490120",
@@ -50,8 +50,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 36.7466,
       "lon": -76.245,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.506,
+      "medicare_discharges": 4581
     },
     {
       "facility_id": "490057",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 36.8646,
       "lon": -76.0551,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.586,
+      "medicare_discharges": 5237
     },
     {
       "facility_id": "490046",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 36.8508,
       "lon": -76.1916,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.572,
+      "medicare_discharges": 5045
     },
     {
       "facility_id": "490093",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.0631,
       "lon": -76.3975,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.334,
+      "medicare_discharges": 2078
     },
     {
       "facility_id": "490044",
@@ -94,8 +94,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 36.7765,
       "lon": -76.5826,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.522,
+      "medicare_discharges": 3453
     },
     {
       "facility_id": "490119",
@@ -105,8 +105,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 36.7461,
       "lon": -76.071,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.679,
+      "medicare_discharges": 4279
     },
     {
       "facility_id": "490066",
@@ -116,8 +116,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.3367,
       "lon": -76.7382,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.467,
+      "medicare_discharges": 2599
     },
     {
       "facility_id": "490041",
@@ -127,8 +127,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.145,
       "lon": -76.512,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.358,
+      "medicare_discharges": 1237
     },
     {
       "facility_id": "490130",
@@ -138,8 +138,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.4277,
       "lon": -76.5376,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.35,
+      "medicare_discharges": 1000
     },
     {
       "facility_id": "490143",
@@ -149,8 +149,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.2397,
       "lon": -76.7014,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.449,
+      "medicare_discharges": 932
     }
   ],
   "catchment_counties": [
@@ -350,6 +350,6 @@
     "hospital_employment": 7021,
     "msa_total_employment": 691638,
     "hospital_emp_share": 0.0094,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4537
   }
 }

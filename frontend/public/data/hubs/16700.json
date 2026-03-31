@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16700",
   "cbsa_name": "Charleston-North Charleston, SC",
-  "mdi": 0.1615,
+  "mdi": 0.2929,
   "bbox": [
     -81.68,
     31.78,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.7847,
       "lon": -79.9463,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.451,
+      "medicare_discharges": 9370
     },
     {
       "facility_id": "420079",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 32.9778,
       "lon": -80.0731,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.387,
+      "medicare_discharges": 5884
     },
     {
       "facility_id": "420087",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.7772,
       "lon": -79.932,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.389,
+      "medicare_discharges": 4609
     },
     {
       "facility_id": "420065",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.8103,
       "lon": -80.0404,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.351,
+      "medicare_discharges": 2195
     },
     {
       "facility_id": "420089",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 32.821,
       "lon": -79.8507,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.227,
+      "medicare_discharges": 977
     },
     {
       "facility_id": "420104",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.8755,
       "lon": -79.7837,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.388,
+      "medicare_discharges": 1268
     },
     {
       "facility_id": "420110",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.1777,
       "lon": -80.1763,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.43,
+      "medicare_discharges": 974
     }
   ],
   "catchment_counties": [
@@ -132,6 +132,6 @@
     "hospital_employment": 10148,
     "msa_total_employment": 313513,
     "hospital_emp_share": 0.0269,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3961
   }
 }

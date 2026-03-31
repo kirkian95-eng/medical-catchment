@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44420",
   "cbsa_name": "Staunton-Stuarts Draft, VA",
-  "mdi": 0.091,
+  "mdi": 0.1996,
   "bbox": [
     -80.49,
     37.09,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.0941,
       "lon": -78.9853,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.358,
+      "medicare_discharges": 3453
     }
   ],
   "catchment_counties": [
@@ -82,6 +82,6 @@
     "hospital_employment": 61,
     "msa_total_employment": 29740,
     "hospital_emp_share": 0.0184,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3578
   }
 }

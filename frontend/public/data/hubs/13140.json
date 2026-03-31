@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13140",
   "cbsa_name": "Beaumont-Port Arthur, TX",
-  "mdi": 0.1618,
+  "mdi": 0.2127,
   "bbox": [
     -95.69,
     28.8,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.0857,
       "lon": -94.1319,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.279,
+      "medicare_discharges": 3317
     },
     {
       "facility_id": "450346",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.0686,
       "lon": -94.1192,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.258,
+      "medicare_discharges": 2680
     },
     {
       "facility_id": "450518",
@@ -39,8 +39,8 @@
       "ownership": "Physician",
       "lat": 29.9351,
       "lon": -93.9864,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.227,
+      "medicare_discharges": 844
     },
     {
       "facility_id": "670134",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 30.2268,
       "lon": -94.1889,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.261,
+      "medicare_discharges": 50
     }
   ],
   "catchment_counties": [
@@ -139,6 +139,6 @@
     "hospital_employment": 4274,
     "msa_total_employment": 131345,
     "hospital_emp_share": 0.0276,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2607
   }
 }

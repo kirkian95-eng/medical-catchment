@@ -1,7 +1,7 @@
 {
   "cbsa_code": "47580",
   "cbsa_name": "Warner Robins, GA",
-  "mdi": 0.1907,
+  "mdi": 0.3861,
   "bbox": [
     -85.29,
     31.62,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.6181,
       "lon": -83.6314,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.548,
+      "medicare_discharges": 3218
     },
     {
       "facility_id": "111310",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.6654,
       "lon": -83.7861,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -85,6 +85,6 @@
     "hospital_employment": 2048,
     "msa_total_employment": 75162,
     "hospital_emp_share": 0.0272,
-    "avg_govt_payer_share": 0.6618
+    "avg_govt_payer_share": 0.5638
   }
 }

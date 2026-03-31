@@ -1,7 +1,7 @@
 {
   "cbsa_code": "33910",
   "cbsa_name": "Monticello, NY",
-  "mdi": 0.4997,
+  "mdi": 0.5774,
   "bbox": [
     -76.49,
     40.71,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.7063,
       "lon": -74.7312,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.318,
+      "medicare_discharges": 934
     },
     {
       "facility_id": "331303",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.7531,
       "lon": -74.9877,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -53,6 +53,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 30290,
     "hospital_emp_share": 0.0629,
-    "avg_govt_payer_share": 0.6584
+    "avg_govt_payer_share": 0.3482
   }
 }

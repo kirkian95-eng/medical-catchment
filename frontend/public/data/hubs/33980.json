@@ -1,7 +1,7 @@
 {
   "cbsa_code": "33980",
   "cbsa_name": "Morehead City, NC",
-  "mdi": 0.3357,
+  "mdi": 0.5266,
   "bbox": [
     -78.26,
     33.73,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 34.725,
       "lon": -76.7556,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.496,
+      "medicare_discharges": 1981
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 1119,
     "msa_total_employment": 24724,
     "hospital_emp_share": 0.0453,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4963
   }
 }

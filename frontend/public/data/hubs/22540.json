@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22540",
   "cbsa_name": "Fond du Lac, WI",
-  "mdi": 0.2642,
+  "mdi": 0.3413,
   "bbox": [
     -90.33,
     42.63,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.7786,
       "lon": -88.4309,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 1327
     },
     {
       "facility_id": "521321",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.8551,
       "lon": -88.8336,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "521327",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.6347,
       "lon": -88.7376,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -72,6 +72,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 45679,
     "hospital_emp_share": 0.0323,
-    "avg_govt_payer_share": 0.6679
+    "avg_govt_payer_share": 0.3954
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25880",
   "cbsa_name": "Hillsdale, MI",
-  "mdi": 0.2497,
+  "mdi": 0.2822,
   "bbox": [
     -86.13,
     40.91,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.9113,
       "lon": -84.6318,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.23,
+      "medicare_discharges": 348
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 12610,
     "hospital_emp_share": 0.0353,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2296
   }
 }

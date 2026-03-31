@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28450",
   "cbsa_name": "Kenosha, WI",
-  "mdi": 0.2513,
+  "mdi": 0.3294,
   "bbox": [
     -89.44,
     41.56,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 42.5616,
       "lon": -87.829,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.239,
+      "medicare_discharges": 1495
     },
     {
       "facility_id": "520189",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.5699,
       "lon": -87.9352,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.655,
+      "medicare_discharges": 2051
     }
   ],
   "catchment_counties": [
@@ -69,6 +69,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 72811,
     "hospital_emp_share": 0.0368,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3065
   }
 }

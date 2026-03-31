@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34620",
   "cbsa_name": "Muncie, IN",
-  "mdi": 0.4112,
+  "mdi": 0.546,
   "bbox": [
     -86.91,
     39.2,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.1975,
       "lon": -85.4147,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.402,
+      "medicare_discharges": 4284
     }
   ],
   "catchment_counties": [
@@ -74,6 +74,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 44307,
     "hospital_emp_share": 0.053,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.402
   }
 }

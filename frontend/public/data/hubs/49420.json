@@ -1,7 +1,7 @@
 {
   "cbsa_code": "49420",
   "cbsa_name": "Yakima, WA",
-  "mdi": 0.2391,
+  "mdi": 0.3684,
   "bbox": [
     -122.05,
     45.11,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.5926,
       "lon": -120.5469,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.444,
+      "medicare_discharges": 3068
     },
     {
       "facility_id": "500037",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.2378,
       "lon": -120.3688,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.301,
+      "medicare_discharges": 123
     },
     {
       "facility_id": "501330",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 46.507,
       "lon": -119.672,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -80,6 +80,6 @@
     "hospital_employment": 3283,
     "msa_total_employment": 116050,
     "hospital_emp_share": 0.0283,
-    "avg_govt_payer_share": 0.6582
+    "avg_govt_payer_share": 0.4338
   }
 }

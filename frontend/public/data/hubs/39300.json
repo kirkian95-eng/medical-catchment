@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39300",
   "cbsa_name": "Providence-Warwick, RI-MA",
-  "mdi": 0.2903,
+  "mdi": 0.4183,
   "bbox": [
     -73.42,
     40.06,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.7104,
       "lon": -71.1466,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.51,
+      "medicare_discharges": 10757
     },
     {
       "facility_id": "410009",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 41.705,
       "lon": -71.4788,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.298,
+      "medicare_discharges": 2777
     },
     {
       "facility_id": "410005",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 41.8583,
       "lon": -71.4363,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.208,
+      "medicare_discharges": 806
     },
     {
       "facility_id": "410012",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.8395,
       "lon": -71.3892,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.466,
+      "medicare_discharges": 4579
     },
     {
       "facility_id": "410004",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 41.839,
       "lon": -71.4393,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.248,
+      "medicare_discharges": 801
     },
     {
       "facility_id": "410011",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.0052,
       "lon": -71.4962,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.254,
+      "medicare_discharges": 1071
     },
     {
       "facility_id": "410010",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.81,
       "lon": -71.4136,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.19,
+      "medicare_discharges": 111
     },
     {
       "facility_id": "220020",
@@ -94,8 +94,8 @@
       "ownership": "Proprietary",
       "lat": 41.6744,
       "lon": -71.1485,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.579,
+      "medicare_discharges": 3205
     },
     {
       "facility_id": "220073",
@@ -105,8 +105,8 @@
       "ownership": "Proprietary",
       "lat": 41.9091,
       "lon": -71.1183,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.636,
+      "medicare_discharges": 3160
     },
     {
       "facility_id": "410006",
@@ -116,8 +116,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.498,
       "lon": -71.3072,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.315,
+      "medicare_discharges": 1202
     },
     {
       "facility_id": "220008",
@@ -127,8 +127,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 41.9426,
       "lon": -71.2755,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.677,
+      "medicare_discharges": 3085
     },
     {
       "facility_id": "410013",
@@ -138,8 +138,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.3578,
       "lon": -71.7896,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.322,
+      "medicare_discharges": 1062
     },
     {
       "facility_id": "410008",
@@ -149,8 +149,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.4322,
       "lon": -71.4963,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.398,
+      "medicare_discharges": 1712
     }
   ],
   "catchment_counties": [
@@ -262,6 +262,6 @@
     "hospital_employment": 28317,
     "msa_total_employment": 687284,
     "hospital_emp_share": 0.0403,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3905
   }
 }

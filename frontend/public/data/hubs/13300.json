@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13300",
   "cbsa_name": "Beeville, TX",
-  "mdi": 0.3284,
+  "mdi": 0.3658,
   "bbox": [
     -99.23,
     27.41,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 28.4078,
       "lon": -97.7328,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.238,
+      "medicare_discharges": 299
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 8402,
     "hospital_emp_share": 0.0422,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2379
   }
 }

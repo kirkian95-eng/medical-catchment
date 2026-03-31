@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48620",
   "cbsa_name": "Wichita, KS",
-  "mdi": 0.1914,
+  "mdi": 0.2625,
   "bbox": [
     -99.19,
     35.83,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.7003,
       "lon": -97.3315,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.274,
+      "medicare_discharges": 7365
     },
     {
       "facility_id": "170123",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 37.6943,
       "lon": -97.2989,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.329,
+      "medicare_discharges": 7182
     },
     {
       "facility_id": "170103",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.0222,
       "lon": -97.3333,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.307,
+      "medicare_discharges": 834
     },
     {
       "facility_id": "170017",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.8175,
       "lon": -96.8589,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.179,
+      "medicare_discharges": 174
     },
     {
       "facility_id": "170200",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 37.689,
       "lon": -97.5,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.396,
+      "medicare_discharges": 1208
     },
     {
       "facility_id": "170197",
@@ -72,8 +72,8 @@
       "ownership": "Proprietary",
       "lat": 37.7008,
       "lon": -97.1069,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.374,
+      "medicare_discharges": 881
     },
     {
       "facility_id": "170186",
@@ -83,8 +83,8 @@
       "ownership": "Proprietary",
       "lat": 37.7687,
       "lon": -97.2203,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.364,
+      "medicare_discharges": 808
     },
     {
       "facility_id": "170196",
@@ -94,8 +94,8 @@
       "ownership": "Physician",
       "lat": 37.7687,
       "lon": -97.2203,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.306,
+      "medicare_discharges": 744
     },
     {
       "facility_id": "170204",
@@ -105,8 +105,8 @@
       "ownership": "Proprietary",
       "lat": 37.5718,
       "lon": -97.2172,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.283,
+      "medicare_discharges": 400
     },
     {
       "facility_id": "170183",
@@ -116,8 +116,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.7687,
       "lon": -97.2203,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.15,
+      "medicare_discharges": 103
     },
     {
       "facility_id": "171329",
@@ -127,8 +127,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 37.0769,
       "lon": -97.6269,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -248,6 +248,6 @@
     "hospital_employment": 9229,
     "msa_total_employment": 302161,
     "hospital_emp_share": 0.0305,
-    "avg_govt_payer_share": 0.6509
+    "avg_govt_payer_share": 0.2993
   }
 }

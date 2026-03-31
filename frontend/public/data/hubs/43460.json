@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43460",
   "cbsa_name": "Sikeston, MO",
-  "mdi": 0.4365,
+  "mdi": 0.4959,
   "bbox": [
     -91.09,
     35.89,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.8923,
       "lon": -89.5894,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.275,
+      "medicare_discharges": 806
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 16000,
     "hospital_emp_share": 0.053,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.275
   }
 }

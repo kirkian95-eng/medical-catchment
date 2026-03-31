@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25860",
   "cbsa_name": "Hickory-Lenoir-Morganton, NC",
-  "mdi": 0.1393,
+  "mdi": 0.2088,
   "bbox": [
     -83.16,
     34.71,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 35.7379,
       "lon": -81.3376,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.266,
+      "medicare_discharges": 2105
     },
     {
       "facility_id": "340143",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 35.7138,
       "lon": -81.2652,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.289,
+      "medicare_discharges": 1749
     },
     {
       "facility_id": "340075",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 35.7276,
       "lon": -81.6647,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.303,
+      "medicare_discharges": 1344
     },
     {
       "facility_id": "340041",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 35.9788,
       "lon": -81.5478,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.357,
+      "medicare_discharges": 895
     }
   ],
   "catchment_counties": [
@@ -123,6 +123,6 @@
     "hospital_employment": 3596,
     "msa_total_employment": 144990,
     "hospital_emp_share": 0.0234,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2919
   }
 }

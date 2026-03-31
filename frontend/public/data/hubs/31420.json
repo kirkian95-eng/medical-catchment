@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31420",
   "cbsa_name": "Macon-Bibb County, GA",
-  "mdi": 0.4438,
+  "mdi": 0.5401,
   "bbox": [
     -85.44,
     31.83,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.8331,
       "lon": -83.6361,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 4698
     },
     {
       "facility_id": "110164",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.8457,
       "lon": -83.6181,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 2172
     },
     {
       "facility_id": "110201",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 32.9076,
       "lon": -83.7351,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.207,
+      "medicare_discharges": 530
     },
     {
       "facility_id": "111318",
@@ -50,8 +50,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 33.0436,
       "lon": -83.9353,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -179,6 +179,6 @@
     "hospital_employment": 5826,
     "msa_total_employment": 87519,
     "hospital_emp_share": 0.0616,
-    "avg_govt_payer_share": 0.6525
+    "avg_govt_payer_share": 0.3496
   }
 }

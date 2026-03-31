@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13340",
   "cbsa_name": "Bellefontaine, OH",
-  "mdi": 0.2098,
+  "mdi": 0.2165,
   "bbox": [
     -85.26,
     39.37,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.369,
       "lon": -83.7556,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.186,
+      "medicare_discharges": 370
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 19274,
     "hospital_emp_share": 0.0312,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.1863
   }
 }

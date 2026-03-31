@@ -1,7 +1,7 @@
 {
   "cbsa_code": "49180",
   "cbsa_name": "Winston-Salem, NC",
-  "mdi": 0.6943,
+  "mdi": 0.7746,
   "bbox": [
     -81.82,
     34.88,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.0763,
       "lon": -80.2995,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.356,
+      "medicare_discharges": 7432
     },
     {
       "facility_id": "340047",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.0904,
       "lon": -80.2718,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.321,
+      "medicare_discharges": 6317
     },
     {
       "facility_id": "340085",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.8823,
       "lon": -80.1119,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.214,
+      "medicare_discharges": 420
     },
     {
       "facility_id": "340148",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 36.0582,
       "lon": -80.3215,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.129,
+      "medicare_discharges": 116
     },
     {
       "facility_id": "341317",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 36.4475,
       "lon": -80.2188,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -134,6 +134,6 @@
     "hospital_employment": 23246,
     "msa_total_employment": 246644,
     "hospital_emp_share": 0.0861,
-    "avg_govt_payer_share": 0.6543
+    "avg_govt_payer_share": 0.3318
   }
 }

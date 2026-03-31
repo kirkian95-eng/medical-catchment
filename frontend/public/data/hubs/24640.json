@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24640",
   "cbsa_name": "Greenfield, MA",
-  "mdi": 0.2897,
+  "mdi": 0.4644,
   "bbox": [
     -74.09,
     41.6,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.5963,
       "lon": -72.5907,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.469,
+      "medicare_discharges": 1619
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 25935,
     "hospital_emp_share": 0.0407,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4692
   }
 }

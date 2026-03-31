@@ -1,7 +1,7 @@
 {
   "cbsa_code": "21780",
   "cbsa_name": "Evansville, IN",
-  "mdi": 0.4531,
+  "mdi": 0.5125,
   "bbox": [
     -89.0,
     36.95,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.9625,
       "lon": -87.5049,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.31,
+      "medicare_discharges": 3613
     },
     {
       "facility_id": "150149",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 37.9529,
       "lon": -87.3465,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.124,
+      "medicare_discharges": 37
     },
     {
       "facility_id": "151325",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.0514,
       "lon": -87.2545,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -96,6 +96,6 @@
     "hospital_employment": 8045,
     "msa_total_employment": 125068,
     "hospital_emp_share": 0.0602,
-    "avg_govt_payer_share": 0.6567
+    "avg_govt_payer_share": 0.3088
   }
 }

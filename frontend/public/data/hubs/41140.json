@@ -1,7 +1,7 @@
 {
   "cbsa_code": "41140",
   "cbsa_name": "St. Joseph, MO-KS",
-  "mdi": 0.2367,
+  "mdi": 0.396,
   "bbox": [
     -96.27,
     38.77,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.7702,
       "lon": -94.7718,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.443,
+      "medicare_discharges": 5036
     }
   ],
   "catchment_counties": [
@@ -186,6 +186,6 @@
     "hospital_employment": 391,
     "msa_total_employment": 45486,
     "hospital_emp_share": 0.0403,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4431
   }
 }

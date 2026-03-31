@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27620",
   "cbsa_name": "Jefferson City, MO",
-  "mdi": 0.0682,
+  "mdi": 0.1541,
   "bbox": [
     -93.78,
     37.57,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 38.5735,
       "lon": -92.2768,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.32,
+      "medicare_discharges": 1277
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 53455,
     "hospital_emp_share": 0.0173,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3197
   }
 }

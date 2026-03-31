@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20420",
   "cbsa_name": "Durango, CO",
-  "mdi": 0.1975,
+  "mdi": 0.3212,
   "bbox": [
     -109.33,
     36.24,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 37.2364,
       "lon": -107.826,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.416,
+      "medicare_discharges": 1359
     },
     {
       "facility_id": "060117",
@@ -28,8 +28,8 @@
       "ownership": "Physician",
       "lat": 37.5294,
       "lon": -107.8215,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.156,
+      "medicare_discharges": 53
     }
   ],
   "catchment_counties": [
@@ -93,6 +93,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 26763,
     "hospital_emp_share": 0.0313,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3832
   }
 }

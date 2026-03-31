@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44620",
   "cbsa_name": "Stevens Point-Plover, WI",
-  "mdi": 0.2077,
+  "mdi": 0.2457,
   "bbox": [
     -91.07,
     43.53,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 44.5263,
       "lon": -89.5663,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.243,
+      "medicare_discharges": 692
     },
     {
       "facility_id": "520215",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.5504,
       "lon": -89.5094,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.184,
+      "medicare_discharges": 67
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 32980,
     "hospital_emp_share": 0.0315,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.239
   }
 }

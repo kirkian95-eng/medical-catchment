@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35020",
   "cbsa_name": "Natchez, MS-LA",
-  "mdi": 0.5746,
+  "mdi": 0.6216,
   "bbox": [
     -93.08,
     30.55,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 31.5505,
       "lon": -91.3557,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.265,
+      "medicare_discharges": 661
     },
     {
       "facility_id": "191318",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 31.6685,
       "lon": -91.5816,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -93,6 +93,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 15339,
     "hospital_emp_share": 0.0678,
-    "avg_govt_payer_share": 0.6623
+    "avg_govt_payer_share": 0.316
   }
 }

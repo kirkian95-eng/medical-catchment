@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18100",
   "cbsa_name": "Columbus, NE",
-  "mdi": 0.2666,
+  "mdi": 0.3446,
   "bbox": [
     -99.27,
     40.45,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 41.4534,
       "lon": -97.3846,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.432,
+      "medicare_discharges": 695
     },
     {
       "facility_id": "281323",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.4925,
       "lon": -97.0886,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "281312",
@@ -39,8 +39,8 @@
       "ownership": "Government - Local",
       "lat": 41.4588,
       "lon": -97.7663,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -88,6 +88,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 25038,
     "hospital_emp_share": 0.0211,
-    "avg_govt_payer_share": 0.6989
+    "avg_govt_payer_share": 0.5532
   }
 }

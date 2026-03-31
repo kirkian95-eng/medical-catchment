@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28680",
   "cbsa_name": "Kingsland, GA",
-  "mdi": 0.0955,
+  "mdi": 0.1412,
   "bbox": [
     -83.01,
     29.8,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.8023,
       "lon": -81.5077,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.252,
+      "medicare_discharges": 274
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 15608,
     "hospital_emp_share": 0.0184,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2519
   }
 }

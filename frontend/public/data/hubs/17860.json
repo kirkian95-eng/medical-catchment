@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17860",
   "cbsa_name": "Columbia, MO",
-  "mdi": 0.7,
+  "mdi": 0.8135,
   "bbox": [
     -93.83,
     37.83,
@@ -17,8 +17,8 @@
       "ownership": "Government - State",
       "lat": 38.9377,
       "lon": -92.3296,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.375,
+      "medicare_discharges": 4883
     },
     {
       "facility_id": "260068",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 38.9506,
       "lon": -92.317,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.352,
+      "medicare_discharges": 4518
     }
   ],
   "catchment_counties": [
@@ -149,6 +149,6 @@
     "hospital_employment": 10489,
     "msa_total_employment": 98458,
     "hospital_emp_share": 0.0994,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.366
   }
 }

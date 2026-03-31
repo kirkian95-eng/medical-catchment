@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31340",
   "cbsa_name": "Lynchburg, VA",
-  "mdi": 0.3107,
+  "mdi": 0.436,
   "bbox": [
     -81.03,
     36.34,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.4182,
       "lon": -79.1697,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.441,
+      "medicare_discharges": 7410
     },
     {
       "facility_id": "490088",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.3369,
       "lon": -79.5257,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.208,
+      "medicare_discharges": 626
     }
   ],
   "catchment_counties": [
@@ -125,6 +125,6 @@
     "hospital_employment": 66,
     "msa_total_employment": 67143,
     "hospital_emp_share": 0.0447,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3858
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16620",
   "cbsa_name": "Charleston, WV",
-  "mdi": 0.6964,
+  "mdi": 0.8025,
   "bbox": [
     -83.25,
     37.03,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.3476,
       "lon": -81.6257,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.377,
+      "medicare_discharges": 8165
     },
     {
       "facility_id": "510029",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.3552,
       "lon": -81.7272,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.321,
+      "medicare_discharges": 2124
     },
     {
       "facility_id": "510091",
@@ -39,8 +39,8 @@
       "ownership": "Physician",
       "lat": 38.3513,
       "lon": -81.628,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.125,
+      "medicare_discharges": 30
     },
     {
       "facility_id": "511313",
@@ -50,8 +50,8 @@
       "ownership": "Government - Local",
       "lat": 38.0327,
       "lon": -81.7521,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -155,6 +155,6 @@
     "hospital_employment": 9226,
     "msa_total_employment": 101509,
     "hospital_emp_share": 0.0894,
-    "avg_govt_payer_share": 0.652
+    "avg_govt_payer_share": 0.3638
   }
 }

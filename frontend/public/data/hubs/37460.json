@@ -1,7 +1,7 @@
 {
   "cbsa_code": "37460",
   "cbsa_name": "Panama City-Panama City Beach, FL",
-  "mdi": 0.2358,
+  "mdi": 0.3258,
   "bbox": [
     -87.17,
     29.16,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.1584,
       "lon": -85.638,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.294,
+      "medicare_discharges": 2687
     },
     {
       "facility_id": "100242",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 30.1896,
       "lon": -85.6675,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.396,
+      "medicare_discharges": 3673
     },
     {
       "facility_id": "101308",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.6157,
       "lon": -85.5729,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -88,6 +88,6 @@
     "hospital_employment": 2755,
     "msa_total_employment": 86552,
     "hospital_emp_share": 0.0318,
-    "avg_govt_payer_share": 0.6589
+    "avg_govt_payer_share": 0.3715
   }
 }

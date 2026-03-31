@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42860",
   "cbsa_name": "Seneca, SC",
-  "mdi": 0.2521,
+  "mdi": 0.3722,
   "bbox": [
     -84.49,
     33.7,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.6953,
       "lon": -82.9851,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.377,
+      "medicare_discharges": 2106
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 988,
     "msa_total_employment": 25506,
     "hospital_emp_share": 0.0387,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3773
   }
 }

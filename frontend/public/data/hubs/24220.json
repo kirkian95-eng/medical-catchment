@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24220",
   "cbsa_name": "Grand Forks, ND-MN",
-  "mdi": 0.393,
+  "mdi": 0.5063,
   "bbox": [
     -99.44,
     46.13,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 47.9097,
       "lon": -97.0666,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.441,
+      "medicare_discharges": 3625
     },
     {
       "facility_id": "241357",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.5681,
       "lon": -95.7278,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "241320",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.7432,
       "lon": -96.5554,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "351312",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 47.755,
       "lon": -97.6291,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -187,6 +187,6 @@
     "hospital_employment": 542,
     "msa_total_employment": 51741,
     "hospital_emp_share": 0.0449,
-    "avg_govt_payer_share": 0.6784
+    "avg_govt_payer_share": 0.5092
   }
 }

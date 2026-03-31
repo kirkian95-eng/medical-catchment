@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23300",
   "cbsa_name": "Freeport, IL",
-  "mdi": 0.495,
+  "mdi": 0.5345,
   "bbox": [
     -91.14,
     41.3,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.2957,
       "lon": -89.6386,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.242,
+      "medicare_discharges": 935
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 17144,
     "hospital_emp_share": 0.064,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2416
   }
 }

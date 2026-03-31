@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14380",
   "cbsa_name": "Boone, NC",
-  "mdi": 0.2963,
+  "mdi": 0.4062,
   "bbox": [
     -83.15,
     35.2,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 36.2002,
       "lon": -81.6514,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.36,
+      "medicare_discharges": 1340
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 25041,
     "hospital_emp_share": 0.0388,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3599
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20100",
   "cbsa_name": "Dover, DE",
-  "mdi": 0.3071,
+  "mdi": 0.5027,
   "bbox": [
     -77.02,
     38.15,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.1507,
       "lon": -75.5224,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.504,
+      "medicare_discharges": 4444
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 88,
     "msa_total_employment": 70304,
     "hospital_emp_share": 0.038,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.5042
   }
 }

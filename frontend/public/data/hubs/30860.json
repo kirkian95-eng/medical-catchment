@@ -1,7 +1,7 @@
 {
   "cbsa_code": "30860",
   "cbsa_name": "Logan, UT-ID",
-  "mdi": 0.2082,
+  "mdi": 0.2275,
   "bbox": [
     -113.32,
     40.75,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.757,
       "lon": -111.8212,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.223,
+      "medicare_discharges": 905
     },
     {
       "facility_id": "460054",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 41.7758,
       "lon": -111.8229,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.147,
+      "medicare_discharges": 78
     },
     {
       "facility_id": "131322",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 42.1812,
       "lon": -111.7532,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -96,6 +96,6 @@
     "hospital_employment": 333,
     "msa_total_employment": 67333,
     "hospital_emp_share": 0.0286,
-    "avg_govt_payer_share": 0.6602
+    "avg_govt_payer_share": 0.259
   }
 }

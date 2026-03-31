@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48460",
   "cbsa_name": "West Plains, MO",
-  "mdi": 0.5547,
+  "mdi": 0.6302,
   "bbox": [
     -93.38,
     35.74,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.7385,
       "lon": -91.8755,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.329,
+      "medicare_discharges": 1123
     },
     {
       "facility_id": "261335",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.0057,
       "lon": -91.712,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -77,6 +77,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 15438,
     "hospital_emp_share": 0.059,
-    "avg_govt_payer_share": 0.6672
+    "avg_govt_payer_share": 0.3893
   }
 }

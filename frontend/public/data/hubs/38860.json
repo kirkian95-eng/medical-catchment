@@ -1,7 +1,7 @@
 {
   "cbsa_code": "38860",
   "cbsa_name": "Portland-South Portland, ME",
-  "mdi": 0.3314,
+  "mdi": 0.4496,
   "bbox": [
     -72.24,
     42.17,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.6523,
       "lon": -70.2751,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.422,
+      "medicare_discharges": 6270
     },
     {
       "facility_id": "200008",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 43.6536,
       "lon": -70.2644,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.238,
+      "medicare_discharges": 827
     },
     {
       "facility_id": "200021",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.9058,
       "lon": -69.8918,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.483,
+      "medicare_discharges": 1350
     },
     {
       "facility_id": "200020",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.1665,
       "lon": -70.679,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.336,
+      "medicare_discharges": 881
     },
     {
       "facility_id": "201310",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.0475,
       "lon": -70.7433,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -94,6 +94,6 @@
     "hospital_employment": 51,
     "msa_total_employment": 267410,
     "hospital_emp_share": 0.0424,
-    "avg_govt_payer_share": 0.6524
+    "avg_govt_payer_share": 0.3863
   }
 }

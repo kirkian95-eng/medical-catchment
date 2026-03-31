@@ -1,7 +1,7 @@
 {
   "cbsa_code": "12780",
   "cbsa_name": "Bartlesville, OK",
-  "mdi": 0.2399,
+  "mdi": 0.3393,
   "bbox": [
     -97.43,
     35.75,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.7507,
       "lon": -95.9338,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.342,
+      "medicare_discharges": 1669
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 19178,
     "hospital_emp_share": 0.0365,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3423
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "33300",
   "cbsa_name": "Milledgeville, GA",
-  "mdi": 0.3292,
+  "mdi": 0.3632,
   "bbox": [
     -84.74,
     32.09,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 33.0883,
       "lon": -83.2449,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.232,
+      "medicare_discharges": 454
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 4,
     "msa_total_employment": 15659,
     "hospital_emp_share": 0.0515,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2321
   }
 }

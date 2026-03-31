@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27220",
   "cbsa_name": "Jackson, WY-ID",
-  "mdi": 0.0926,
+  "mdi": 0.1592,
   "bbox": [
     -112.8,
     42.41,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 43.4135,
       "lon": -110.787,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.315,
+      "medicare_discharges": 689
     },
     {
       "facility_id": "131313",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.6891,
       "lon": -111.3011,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 27991,
     "hospital_emp_share": 0.0121,
-    "avg_govt_payer_share": 0.6697
+    "avg_govt_payer_share": 0.3865
   }
 }

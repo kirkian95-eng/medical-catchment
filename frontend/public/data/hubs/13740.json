@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13740",
   "cbsa_name": "Billings, MT",
-  "mdi": 0.6311,
+  "mdi": 0.7996,
   "bbox": [
     -113.16,
     42.22,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.7903,
       "lon": -108.5143,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.536,
+      "medicare_discharges": 5109
     },
     {
       "facility_id": "270049",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 45.7935,
       "lon": -108.5204,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.396,
+      "medicare_discharges": 3456
     },
     {
       "facility_id": "271326",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.0871,
       "lon": -109.5584,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "271330",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.6287,
       "lon": -109.2407,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -203,6 +203,6 @@
     "hospital_employment": 6809,
     "msa_total_employment": 93282,
     "hospital_emp_share": 0.073,
-    "avg_govt_payer_share": 0.6533
+    "avg_govt_payer_share": 0.4753
   }
 }

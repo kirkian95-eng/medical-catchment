@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23420",
   "cbsa_name": "Fresno, CA",
-  "mdi": 0.3525,
+  "mdi": 0.5134,
   "bbox": [
     -122.98,
     34.14,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.7421,
       "lon": -119.7838,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.431,
+      "medicare_discharges": 6347
     },
     {
       "facility_id": "050093",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 36.8372,
       "lon": -119.7635,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.531,
+      "medicare_discharges": 6503
     },
     {
       "facility_id": "050492",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.8372,
       "lon": -119.6692,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.797,
+      "medicare_discharges": 5011
     },
     {
       "facility_id": "050710",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.8439,
       "lon": -119.7837,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.179,
+      "medicare_discharges": 325
     },
     {
       "facility_id": "051338",
@@ -61,8 +61,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 36.1675,
       "lon": -120.4386,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "050192",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.6079,
       "lon": -119.4512,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.246,
+      "medicare_discharges": 84
     },
     {
       "facility_id": "050708",
@@ -83,8 +83,8 @@
       "ownership": "Proprietary",
       "lat": 36.8241,
       "lon": -119.7627,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.248,
+      "medicare_discharges": 496
     }
   ],
   "catchment_counties": [
@@ -132,6 +132,6 @@
     "hospital_employment": 19902,
     "msa_total_employment": 418515,
     "hospital_emp_share": 0.0421,
-    "avg_govt_payer_share": 0.6576
+    "avg_govt_payer_share": 0.4841
   }
 }

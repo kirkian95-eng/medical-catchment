@@ -1,7 +1,7 @@
 {
   "cbsa_code": "11740",
   "cbsa_name": "Ashland, OH",
-  "mdi": 0.2503,
+  "mdi": 0.288,
   "bbox": [
     -83.82,
     39.87,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 40.8732,
       "lon": -82.3228,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.238,
+      "medicare_discharges": 673
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 18785,
     "hospital_emp_share": 0.0343,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2385
   }
 }

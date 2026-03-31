@@ -1,7 +1,7 @@
 {
   "cbsa_code": "33540",
   "cbsa_name": "Missoula, MT",
-  "mdi": 0.3388,
+  "mdi": 0.4601,
   "bbox": [
     -116.69,
     45.43,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 46.8742,
       "lon": -114.0008,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.464,
+      "medicare_discharges": 3878
     },
     {
       "facility_id": "270023",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.8454,
       "lon": -114.0472,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.271,
+      "medicare_discharges": 889
     },
     {
       "facility_id": "271331",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 47.1048,
       "lon": -114.9088,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -112,6 +112,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 66040,
     "hospital_emp_share": 0.0425,
-    "avg_govt_payer_share": 0.6558
+    "avg_govt_payer_share": 0.4086
   }
 }

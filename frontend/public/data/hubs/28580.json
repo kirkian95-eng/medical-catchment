@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28580",
   "cbsa_name": "Key West-Key Largo, FL",
-  "mdi": 0.1344,
+  "mdi": 0.166,
   "bbox": [
     -83.24,
     23.58,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 24.5817,
       "lon": -81.7432,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.239,
+      "medicare_discharges": 834
     },
     {
       "facility_id": "101313",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 25.011,
       "lon": -80.5293,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "101312",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 24.7499,
       "lon": -80.9866,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -64,6 +64,6 @@
     "hospital_employment": 774,
     "msa_total_employment": 45695,
     "hospital_emp_share": 0.0169,
-    "avg_govt_payer_share": 0.6665
+    "avg_govt_payer_share": 0.3115
   }
 }

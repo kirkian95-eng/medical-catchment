@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43780",
   "cbsa_name": "South Bend-Mishawaka, IN-MI",
-  "mdi": 0.4328,
+  "mdi": 0.5135,
   "bbox": [
     -87.75,
     40.68,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.6842,
       "lon": -86.2506,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.312,
+      "medicare_discharges": 3774
     },
     {
       "facility_id": "150012",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.7064,
       "lon": -86.1744,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.338,
+      "medicare_discharges": 2965
     },
     {
       "facility_id": "150177",
@@ -39,8 +39,8 @@
       "ownership": "Physician",
       "lat": 41.6935,
       "lon": -86.1466,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.137,
+      "medicare_discharges": 69
     },
     {
       "facility_id": "231315",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 42.0047,
       "lon": -86.1207,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -99,6 +99,6 @@
     "hospital_employment": 7423,
     "msa_total_employment": 130131,
     "hospital_emp_share": 0.057,
-    "avg_govt_payer_share": 0.6531
+    "avg_govt_payer_share": 0.3263
   }
 }

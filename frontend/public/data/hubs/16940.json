@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16940",
   "cbsa_name": "Cheyenne, WY",
-  "mdi": 0.1291,
+  "mdi": 0.2776,
   "bbox": [
     -106.67,
     39.67,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 41.1401,
       "lon": -104.8166,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.425,
+      "medicare_discharges": 3135
     }
   ],
   "catchment_counties": [
@@ -90,6 +90,6 @@
     "hospital_employment": 925,
     "msa_total_employment": 47486,
     "hospital_emp_share": 0.0195,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.425
   }
 }

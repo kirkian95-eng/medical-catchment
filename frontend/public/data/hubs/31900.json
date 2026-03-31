@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31900",
   "cbsa_name": "Mansfield, OH",
-  "mdi": 0.3946,
+  "mdi": 0.4972,
   "bbox": [
     -84.15,
     39.75,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.7533,
       "lon": -82.5278,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.355,
+      "medicare_discharges": 3385
     },
     {
       "facility_id": "360365",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.7702,
       "lon": -82.5915,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.411,
+      "medicare_discharges": 401
     },
     {
       "facility_id": "361324",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.89,
       "lon": -82.6517,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -64,6 +64,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 48509,
     "hospital_emp_share": 0.0491,
-    "avg_govt_payer_share": 0.6561
+    "avg_govt_payer_share": 0.3786
   }
 }

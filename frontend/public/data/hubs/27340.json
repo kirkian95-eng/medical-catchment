@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27340",
   "cbsa_name": "Jacksonville, NC",
-  "mdi": 0.2459,
+  "mdi": 0.3852,
   "bbox": [
     -78.88,
     33.76,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.7608,
       "lon": -77.3823,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.41,
+      "medicare_discharges": 1314
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 1786,
     "msa_total_employment": 53452,
     "hospital_emp_share": 0.0334,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4096
   }
 }

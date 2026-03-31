@@ -1,7 +1,7 @@
 {
   "cbsa_code": "45940",
   "cbsa_name": "Trenton-Princeton, NJ",
-  "mdi": 0.245,
+  "mdi": 0.3377,
   "bbox": [
     -76.31,
     39.23,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.2969,
       "lon": -74.8079,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.305,
+      "medicare_discharges": 2312
     },
     {
       "facility_id": "310110",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.2258,
       "lon": -74.6601,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.342,
+      "medicare_discharges": 2478
     },
     {
       "facility_id": "310092",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.254,
       "lon": -74.7634,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.358,
+      "medicare_discharges": 1690
     }
   ],
   "catchment_counties": [
@@ -168,6 +168,6 @@
     "hospital_employment": 10302,
     "msa_total_employment": 261777,
     "hospital_emp_share": 0.0394,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.331
   }
 }

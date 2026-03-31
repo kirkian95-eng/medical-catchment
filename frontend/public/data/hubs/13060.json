@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13060",
   "cbsa_name": "Bay City, TX",
-  "mdi": 0.2493,
+  "mdi": 0.2826,
   "bbox": [
     -97.73,
     27.71,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 28.9836,
       "lon": -95.982,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.247,
+      "medicare_discharges": 320
     },
     {
       "facility_id": "451332",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 28.7119,
       "lon": -96.2261,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 36,
     "msa_total_employment": 11184,
     "hospital_emp_share": 0.0345,
-    "avg_govt_payer_share": 0.6727
+    "avg_govt_payer_share": 0.3455
   }
 }

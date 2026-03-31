@@ -1,7 +1,7 @@
 {
   "cbsa_code": "49620",
   "cbsa_name": "York-Hanover, PA",
-  "mdi": 0.2813,
+  "mdi": 0.4272,
   "bbox": [
     -78.48,
     38.81,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.9467,
       "lon": -76.7204,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.435,
+      "medicare_discharges": 7266
     },
     {
       "facility_id": "390101",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.9068,
       "lon": -76.7936,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.359,
+      "medicare_discharges": 1582
     },
     {
       "facility_id": "390233",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.8081,
       "lon": -76.9831,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.473,
+      "medicare_discharges": 2029
     },
     {
       "facility_id": "390325",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 39.957,
       "lon": -76.66,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.236,
+      "medicare_discharges": 390
     }
   ],
   "catchment_counties": [
@@ -115,6 +115,6 @@
     "hospital_employment": 7568,
     "msa_total_employment": 181934,
     "hospital_emp_share": 0.0416,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4206
   }
 }

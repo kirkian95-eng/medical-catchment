@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35940",
   "cbsa_name": "Norwalk, OH",
-  "mdi": 0.2425,
+  "mdi": 0.2995,
   "bbox": [
     -84.21,
     40.09,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.2246,
       "lon": -82.6008,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.284,
+      "medicare_discharges": 1011
     },
     {
       "facility_id": "361310",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.0852,
       "lon": -82.7106,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -53,6 +53,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 21654,
     "hospital_emp_share": 0.0308,
-    "avg_govt_payer_share": 0.6618
+    "avg_govt_payer_share": 0.3306
   }
 }

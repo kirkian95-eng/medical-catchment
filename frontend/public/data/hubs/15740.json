@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15740",
   "cbsa_name": "Cambridge, OH",
-  "mdi": 0.681,
+  "mdi": 0.7032,
   "bbox": [
     -83.08,
     39.04,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.0394,
       "lon": -81.5768,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.212,
+      "medicare_discharges": 656
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 14529,
     "hospital_emp_share": 0.0828,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2124
   }
 }

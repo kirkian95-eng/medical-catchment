@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43340",
   "cbsa_name": "Shreveport-Bossier City, LA",
-  "mdi": 0.7056,
+  "mdi": 0.8239,
   "bbox": [
     -95.48,
     31.02,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.4838,
       "lon": -93.7794,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.386,
+      "medicare_discharges": 9069
     },
     {
       "facility_id": "190041",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.424,
       "lon": -93.7201,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.429,
+      "medicare_discharges": 3787
     },
     {
       "facility_id": "190317",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.4948,
       "lon": -93.7512,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.213,
+      "medicare_discharges": 38
     },
     {
       "facility_id": "190118",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.0154,
       "lon": -93.6564,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.261,
+      "medicare_discharges": 142
     },
     {
       "facility_id": "191304",
@@ -61,8 +61,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.8422,
       "lon": -93.9784,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "190278",
@@ -72,8 +72,8 @@
       "ownership": "Proprietary",
       "lat": 32.5054,
       "lon": -93.7487,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.349,
+      "medicare_discharges": 375
     }
   ],
   "catchment_counties": [
@@ -129,6 +129,6 @@
     "hospital_employment": 13684,
     "msa_total_employment": 116165,
     "hospital_emp_share": 0.0942,
-    "avg_govt_payer_share": 0.6519
+    "avg_govt_payer_share": 0.3835
   }
 }

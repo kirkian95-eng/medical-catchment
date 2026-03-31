@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16460",
   "cbsa_name": "Centralia, IL",
-  "mdi": 0.5679,
+  "mdi": 0.6626,
   "bbox": [
     -90.64,
     37.51,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 38.511,
       "lon": -89.1405,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 1223
     },
     {
       "facility_id": "141345",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 38.6386,
       "lon": -88.9273,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -93,6 +93,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 12623,
     "hospital_emp_share": 0.063,
-    "avg_govt_payer_share": 0.6667
+    "avg_govt_payer_share": 0.4185
   }
 }

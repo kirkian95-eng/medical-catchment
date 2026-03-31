@@ -1,7 +1,7 @@
 {
   "cbsa_code": "41060",
   "cbsa_name": "St. Cloud, MN",
-  "mdi": 0.6532,
+  "mdi": 0.7599,
   "bbox": [
     -96.45,
     44.38,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.5752,
       "lon": -94.1702,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.389,
+      "medicare_discharges": 6297
     },
     {
       "facility_id": "241349",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.375,
       "lon": -94.7169,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "241330",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.675,
       "lon": -94.8238,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "241368",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.7454,
       "lon": -94.9547,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -163,6 +163,6 @@
     "hospital_employment": 8105,
     "msa_total_employment": 86051,
     "hospital_emp_share": 0.0781,
-    "avg_govt_payer_share": 0.6658
+    "avg_govt_payer_share": 0.4347
   }
 }

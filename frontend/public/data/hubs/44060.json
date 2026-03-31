@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44060",
   "cbsa_name": "Spokane-Spokane Valley, WA",
-  "mdi": 0.4503,
+  "mdi": 0.5375,
   "bbox": [
     -119.39,
     46.59,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 47.6483,
       "lon": -117.4141,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.374,
+      "medicare_discharges": 5451
     },
     {
       "facility_id": "500044",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.6515,
       "lon": -117.4242,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.284,
+      "medicare_discharges": 2902
     },
     {
       "facility_id": "500077",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.7099,
       "lon": -117.406,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.294,
+      "medicare_discharges": 1708
     },
     {
       "facility_id": "500119",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.6715,
       "lon": -117.2348,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.349,
+      "medicare_discharges": 1357
     },
     {
       "facility_id": "501309",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 48.2924,
       "lon": -117.6986,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "501326",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 48.5412,
       "lon": -117.8933,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -137,6 +137,6 @@
     "hospital_employment": 2185,
     "msa_total_employment": 252949,
     "hospital_emp_share": 0.0514,
-    "avg_govt_payer_share": 0.656
+    "avg_govt_payer_share": 0.3524
   }
 }

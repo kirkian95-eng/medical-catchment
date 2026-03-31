@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31980",
   "cbsa_name": "Marion, IN",
-  "mdi": 0.2623,
+  "mdi": 0.3539,
   "bbox": [
     -87.17,
     39.56,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.5642,
       "lon": -85.6656,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.329,
+      "medicare_discharges": 1072
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 927,
     "msa_total_employment": 26960,
     "hospital_emp_share": 0.0344,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3293
   }
 }

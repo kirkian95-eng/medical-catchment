@@ -1,7 +1,7 @@
 {
   "cbsa_code": "47460",
   "cbsa_name": "Walla Walla, WA",
-  "mdi": 0.0934,
+  "mdi": 0.2251,
   "bbox": [
     -119.84,
     45.06,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.0626,
       "lon": -118.3438,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.397,
+      "medicare_discharges": 1763
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 483,
     "msa_total_employment": 29009,
     "hospital_emp_share": 0.0167,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3967
   }
 }

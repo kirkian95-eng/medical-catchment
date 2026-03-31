@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44100",
   "cbsa_name": "Springfield, IL",
-  "mdi": 0.4017,
+  "mdi": 0.5161,
   "bbox": [
     -91.28,
     38.51,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 39.8072,
       "lon": -89.6456,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.331,
+      "medicare_discharges": 5329
     },
     {
       "facility_id": "140148",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.8091,
       "lon": -89.6545,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.415,
+      "medicare_discharges": 6040
     }
   ],
   "catchment_counties": [
@@ -133,6 +133,6 @@
     "hospital_employment": 6897,
     "msa_total_employment": 128309,
     "hospital_emp_share": 0.053,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3675
   }
 }

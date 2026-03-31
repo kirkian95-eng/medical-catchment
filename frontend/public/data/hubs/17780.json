@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17780",
   "cbsa_name": "College Station-Bryan, TX",
-  "mdi": 0.3264,
+  "mdi": 0.4557,
   "bbox": [
     -98.18,
     29.54,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.6556,
       "lon": -96.347,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.397,
+      "medicare_discharges": 4227
     },
     {
       "facility_id": "670088",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.5855,
       "lon": -96.2803,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.447,
+      "medicare_discharges": 2322
     },
     {
       "facility_id": "451305",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.5375,
       "lon": -96.6805,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "450834",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 30.6609,
       "lon": -96.3223,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.185,
+      "medicare_discharges": 227
     }
   ],
   "catchment_counties": [
@@ -131,6 +131,6 @@
     "hospital_employment": 5619,
     "msa_total_employment": 125687,
     "hospital_emp_share": 0.0428,
-    "avg_govt_payer_share": 0.6551
+    "avg_govt_payer_share": 0.4183
   }
 }

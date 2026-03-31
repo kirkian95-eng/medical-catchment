@@ -1,7 +1,7 @@
 {
   "cbsa_code": "45460",
   "cbsa_name": "Terre Haute, IN",
-  "mdi": 0.419,
+  "mdi": 0.5144,
   "bbox": [
     -88.95,
     38.12,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.4849,
       "lon": -87.4069,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.454,
+      "medicare_discharges": 5054
     },
     {
       "facility_id": "150046",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 39.4198,
       "lon": -87.407,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.244,
+      "medicare_discharges": 1204
     },
     {
       "facility_id": "151309",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.5236,
       "lon": -87.1233,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "151326",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.6782,
       "lon": -87.4536,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "151327",
@@ -61,8 +61,8 @@
       "ownership": "Government - Local",
       "lat": 39.1223,
       "lon": -87.4092,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -126,6 +126,6 @@
     "hospital_employment": 3256,
     "msa_total_employment": 63810,
     "hospital_emp_share": 0.051,
-    "avg_govt_payer_share": 0.6612
+    "avg_govt_payer_share": 0.392
   }
 }

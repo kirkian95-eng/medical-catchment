@@ -1,7 +1,7 @@
 {
   "cbsa_code": "37100",
   "cbsa_name": "Oxnard-Thousand Oaks-Ventura, CA",
-  "mdi": 0.238,
+  "mdi": 0.4135,
   "bbox": [
     -120.82,
     32.96,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 34.2066,
       "lon": -118.8825,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.661,
+      "medicare_discharges": 6585
     },
     {
       "facility_id": "050159",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 34.2784,
       "lon": -119.2543,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.346,
+      "medicare_discharges": 1721
     },
     {
       "facility_id": "050082",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.2176,
       "lon": -119.1582,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.551,
+      "medicare_discharges": 4377
     },
     {
       "facility_id": "050394",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.2741,
       "lon": -119.2573,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.394,
+      "medicare_discharges": 3224
     },
     {
       "facility_id": "050236",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.2624,
       "lon": -118.7722,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.51,
+      "medicare_discharges": 2460
     },
     {
       "facility_id": "051334",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.5091,
       "lon": -119.2519,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -113,6 +113,6 @@
     "hospital_employment": 10506,
     "msa_total_employment": 330058,
     "hospital_emp_share": 0.0318,
-    "avg_govt_payer_share": 0.657
+    "avg_govt_payer_share": 0.506
   }
 }

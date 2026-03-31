@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39380",
   "cbsa_name": "Pueblo, CO",
-  "mdi": 0.6171,
+  "mdi": 0.663,
   "bbox": [
     -107.06,
     36.18,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 38.0441,
       "lon": -104.7144,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.174,
+      "medicare_discharges": 383
     },
     {
       "facility_id": "060020",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.2816,
       "lon": -104.6137,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.344,
+      "medicare_discharges": 3222
     }
   ],
   "catchment_counties": [
@@ -165,6 +165,6 @@
     "hospital_employment": 856,
     "msa_total_employment": 62976,
     "hospital_emp_share": 0.0784,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2522
   }
 }

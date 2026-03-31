@@ -1,7 +1,7 @@
 {
   "cbsa_code": "29460",
   "cbsa_name": "Lakeland-Winter Haven, FL",
-  "mdi": 0.2413,
+  "mdi": 0.3291,
   "bbox": [
     -83.45,
     26.88,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 28.0616,
       "lon": -81.9534,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.362,
+      "medicare_discharges": 9204
     },
     {
       "facility_id": "100052",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 28.0276,
       "lon": -81.7267,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.3,
+      "medicare_discharges": 3459
     },
     {
       "facility_id": "100137",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 28.1842,
       "lon": -81.6401,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 1596
     },
     {
       "facility_id": "100099",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 27.9008,
       "lon": -81.5857,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.263,
+      "medicare_discharges": 685
     },
     {
       "facility_id": "100121",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 27.8832,
       "lon": -81.811,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.292,
+      "medicare_discharges": 563
     }
   ],
   "catchment_counties": [
@@ -110,6 +110,6 @@
     "hospital_employment": 9592,
     "msa_total_employment": 258740,
     "hospital_emp_share": 0.0371,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3228
   }
 }

@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 48.3816,
       "lon": -102.9319,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "351334",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 48.1553,
       "lon": -103.6456,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -109,6 +109,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 26224,
     "hospital_emp_share": 0.0171,
-    "avg_govt_payer_share": 0.75
+    "avg_govt_payer_share": 0.68
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36100",
   "cbsa_name": "Ocala, FL",
-  "mdi": 0.31,
+  "mdi": 0.4662,
   "bbox": [
     -83.64,
     28.16,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 29.1618,
       "lon": -82.1268,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.486,
+      "medicare_discharges": 10142
     },
     {
       "facility_id": "100062",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 29.1737,
       "lon": -82.138,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.369,
+      "medicare_discharges": 4271
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 4927,
     "msa_total_employment": 117386,
     "hospital_emp_share": 0.042,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4379
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "45980",
   "cbsa_name": "Troy, AL",
-  "mdi": 0.2327,
+  "mdi": 0.2449,
   "bbox": [
     -87.4,
     30.91,
@@ -17,8 +17,8 @@
       "ownership": "Government - Federal",
       "lat": 31.9112,
       "lon": -85.8981,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.196,
+      "medicare_discharges": 164
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 15356,
     "hospital_emp_share": 0.0328,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.1956
   }
 }

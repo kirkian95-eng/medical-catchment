@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13780",
   "cbsa_name": "Binghamton, NY",
-  "mdi": 0.373,
+  "mdi": 0.4733,
   "bbox": [
     -77.44,
     41.09,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.0882,
       "lon": -75.9143,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.345,
+      "medicare_discharges": 3407
     },
     {
       "facility_id": "330011",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.0926,
       "lon": -75.936,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.342,
+      "medicare_discharges": 1852
     }
   ],
   "catchment_counties": [
@@ -77,6 +77,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 81278,
     "hospital_emp_share": 0.0531,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3437
   }
 }

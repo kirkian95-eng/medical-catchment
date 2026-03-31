@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34900",
   "cbsa_name": "Napa, CA",
-  "mdi": 0.1864,
+  "mdi": 0.2979,
   "bbox": [
     -123.92,
     37.32,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.5424,
       "lon": -122.4199,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.344,
+      "medicare_discharges": 1457
     },
     {
       "facility_id": "050009",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.3235,
       "lon": -122.2964,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.383,
+      "medicare_discharges": 2267
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 2335,
     "msa_total_employment": 79646,
     "hospital_emp_share": 0.0293,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3627
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "45780",
   "cbsa_name": "Toledo, OH",
-  "mdi": 0.3329,
+  "mdi": 0.4196,
   "bbox": [
     -85.66,
     40.37,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.6714,
       "lon": -83.5943,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.349,
+      "medicare_discharges": 7693
     },
     {
       "facility_id": "360112",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 41.6688,
       "lon": -83.5421,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.357,
+      "medicare_discharges": 6825
     },
     {
       "facility_id": "360048",
@@ -39,8 +39,8 @@
       "ownership": "Government - State",
       "lat": 41.6045,
       "lon": -83.6275,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.296,
+      "medicare_discharges": 2039
     },
     {
       "facility_id": "360029",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.3733,
       "lon": -83.6682,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.181,
+      "medicare_discharges": 587
     },
     {
       "facility_id": "360259",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 41.6209,
       "lon": -83.4835,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.25,
+      "medicare_discharges": 604
     },
     {
       "facility_id": "361333",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.5803,
       "lon": -84.1611,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -121,6 +121,6 @@
     "hospital_employment": 14144,
     "msa_total_employment": 289274,
     "hospital_emp_share": 0.0489,
-    "avg_govt_payer_share": 0.6518
+    "avg_govt_payer_share": 0.3298
   }
 }

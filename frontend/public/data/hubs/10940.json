@@ -1,7 +1,7 @@
 {
   "cbsa_code": "10940",
   "cbsa_name": "Alma, MI",
-  "mdi": 0.45,
+  "mdi": 0.5034,
   "bbox": [
     -86.16,
     42.39,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.3917,
       "lon": -84.6615,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.265,
+      "medicare_discharges": 830
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 12754,
     "hospital_emp_share": 0.0588,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2649
   }
 }

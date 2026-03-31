@@ -1,7 +1,7 @@
 {
   "cbsa_code": "11500",
   "cbsa_name": "Anniston-Oxford, AL",
-  "mdi": 0.3101,
+  "mdi": 0.4087,
   "bbox": [
     -87.32,
     32.66,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 33.657,
       "lon": -85.823,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.341,
+      "medicare_discharges": 2680
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 21,
     "msa_total_employment": 43640,
     "hospital_emp_share": 0.0418,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3408
   }
 }

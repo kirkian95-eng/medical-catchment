@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19810",
   "cbsa_name": "Detroit Lakes, MN",
-  "mdi": 0.5101,
+  "mdi": 0.5529,
   "bbox": [
     -97.35,
     45.81,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 46.8147,
       "lon": -95.8453,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.247,
+      "medicare_discharges": 575
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 963,
     "msa_total_employment": 14952,
     "hospital_emp_share": 0.0644,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.247
   }
 }

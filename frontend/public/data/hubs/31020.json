@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31020",
   "cbsa_name": "Longview-Kelso, WA",
-  "mdi": 0.3537,
+  "mdi": 0.395,
   "bbox": [
     -124.44,
     45.13,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 46.1309,
       "lon": -122.9413,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.244,
+      "medicare_discharges": 1456
     }
   ],
   "catchment_counties": [
@@ -90,6 +90,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 41097,
     "hospital_emp_share": 0.0514,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2445
   }
 }

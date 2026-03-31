@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27700",
   "cbsa_name": "Jesup, GA",
-  "mdi": 0.4062,
+  "mdi": 0.4685,
   "bbox": [
     -83.39,
     30.6,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 31.6017,
       "lon": -81.893,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.28,
+      "medicare_discharges": 477
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 530,
     "msa_total_employment": 8716,
     "hospital_emp_share": 0.0608,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.28
   }
 }

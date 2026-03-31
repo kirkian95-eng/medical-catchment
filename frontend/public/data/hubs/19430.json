@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19430",
   "cbsa_name": "Dayton-Kettering-Beavercreek, OH",
-  "mdi": 0.3549,
+  "mdi": 0.4425,
   "bbox": [
     -85.78,
     38.63,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.744,
       "lon": -84.1864,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.367,
+      "medicare_discharges": 9611
     },
     {
       "facility_id": "360079",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 39.6953,
       "lon": -84.191,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.316,
+      "medicare_discharges": 4984
     },
     {
       "facility_id": "360133",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 39.7691,
       "lon": -84.2034,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.262,
+      "medicare_discharges": 2395
     },
     {
       "facility_id": "360360",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.764,
       "lon": -84.0832,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.343,
+      "medicare_discharges": 2414
     },
     {
       "facility_id": "360239",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 39.6293,
       "lon": -84.276,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.263,
+      "medicare_discharges": 1334
     },
     {
       "facility_id": "360174",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.033,
       "lon": -84.1956,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.305,
+      "medicare_discharges": 1740
     },
     {
       "facility_id": "360026",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.6691,
       "lon": -83.914,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.19,
+      "medicare_discharges": 190
     },
     {
       "facility_id": "360368",
@@ -94,8 +94,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.033,
       "lon": -84.1956,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.355,
+      "medicare_discharges": 474
     }
   ],
   "catchment_counties": [
@@ -191,6 +191,6 @@
     "hospital_employment": 18605,
     "msa_total_employment": 368184,
     "hospital_emp_share": 0.0505,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3226
   }
 }

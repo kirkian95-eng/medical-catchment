@@ -1,7 +1,7 @@
 {
   "cbsa_code": "46060",
   "cbsa_name": "Tucson, AZ",
-  "mdi": 0.38,
+  "mdi": 0.4508,
   "bbox": [
     -114.45,
     30.02,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.2418,
       "lon": -110.9441,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 3788
     },
     {
       "facility_id": "030006",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.2508,
       "lon": -110.8798,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.353,
+      "medicare_discharges": 6458
     },
     {
       "facility_id": "030011",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 32.215,
       "lon": -110.8835,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.217,
+      "medicare_discharges": 1987
     },
     {
       "facility_id": "030010",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.249,
       "lon": -111.0613,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.22,
+      "medicare_discharges": 1556
     },
     {
       "facility_id": "030085",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 32.3148,
       "lon": -111.0121,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.336,
+      "medicare_discharges": 3527
     },
     {
       "facility_id": "030111",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.1946,
       "lon": -111.015,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.278,
+      "medicare_discharges": 832
     },
     {
       "facility_id": "030114",
@@ -83,8 +83,8 @@
       "ownership": "Proprietary",
       "lat": 32.4684,
       "lon": -110.9815,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.323,
+      "medicare_discharges": 1931
     },
     {
       "facility_id": "030074",
@@ -94,8 +94,8 @@
       "ownership": "Tribal",
       "lat": 32.0124,
       "lon": -112.0214,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.132,
+      "medicare_discharges": 22
     },
     {
       "facility_id": "030148",
@@ -105,8 +105,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 31.9596,
       "lon": -111.1093,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.95,
+      "medicare_discharges": 1154
     }
   ],
   "catchment_counties": [
@@ -154,6 +154,6 @@
     "hospital_employment": 20033,
     "msa_total_employment": 386655,
     "hospital_emp_share": 0.0518,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2942
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "33660",
   "cbsa_name": "Mobile, AL",
-  "mdi": 0.3429,
+  "mdi": 0.4205,
   "bbox": [
     -89.7,
     29.67,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.6966,
       "lon": -88.0792,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.325,
+      "medicare_discharges": 4342
     },
     {
       "facility_id": "010087",
@@ -28,8 +28,8 @@
       "ownership": "Government - State",
       "lat": 30.7153,
       "lon": -88.0948,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.283,
+      "medicare_discharges": 1646
     },
     {
       "facility_id": "010090",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 30.6833,
       "lon": -88.2021,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.3,
+      "medicare_discharges": 2402
     },
     {
       "facility_id": "010144",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 30.6854,
       "lon": -88.136,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.3,
+      "medicare_discharges": 1823
     }
   ],
   "catchment_counties": [
@@ -107,6 +107,6 @@
     "hospital_employment": 8625,
     "msa_total_employment": 171453,
     "hospital_emp_share": 0.0503,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3057
   }
 }

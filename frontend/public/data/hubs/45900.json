@@ -1,7 +1,7 @@
 {
   "cbsa_code": "45900",
   "cbsa_name": "Traverse City, MI",
-  "mdi": 0.3213,
+  "mdi": 0.4656,
   "bbox": [
     -87.69,
     43.63,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 44.7615,
       "lon": -85.6418,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.428,
+      "medicare_discharges": 5062
     },
     {
       "facility_id": "231300",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 44.6256,
       "lon": -86.1931,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "231301",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 44.72,
       "lon": -85.0365,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -112,6 +112,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 60815,
     "hospital_emp_share": 0.0422,
-    "avg_govt_payer_share": 0.6541
+    "avg_govt_payer_share": 0.4386
   }
 }

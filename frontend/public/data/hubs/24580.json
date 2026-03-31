@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24580",
   "cbsa_name": "Green Bay, WI",
-  "mdi": 0.4104,
+  "mdi": 0.458,
   "bbox": [
     -89.68,
     43.47,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 44.5013,
       "lon": -88.0129,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.224,
+      "medicare_discharges": 1570
     },
     {
       "facility_id": "520049",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.5021,
       "lon": -88.0107,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.248,
+      "medicare_discharges": 1486
     },
     {
       "facility_id": "520097",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 44.5433,
       "lon": -88.0472,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.236,
+      "medicare_discharges": 692
     },
     {
       "facility_id": "520193",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 44.4734,
       "lon": -87.941,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.424,
+      "medicare_discharges": 1775
     },
     {
       "facility_id": "521310",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.8737,
       "lon": -88.1821,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "521356",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.8981,
       "lon": -87.9157,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -113,6 +113,6 @@
     "hospital_employment": 9376,
     "msa_total_employment": 165388,
     "hospital_emp_share": 0.0545,
-    "avg_govt_payer_share": 0.6518
+    "avg_govt_payer_share": 0.264
   }
 }

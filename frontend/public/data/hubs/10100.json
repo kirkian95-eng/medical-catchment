@@ -1,7 +1,7 @@
 {
   "cbsa_code": "10100",
   "cbsa_name": "Aberdeen, SD",
-  "mdi": 0.4752,
+  "mdi": 0.5859,
   "bbox": [
     -101.59,
     43.93,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 45.4616,
       "lon": -98.4792,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.405,
+      "medicare_discharges": 1646
     },
     {
       "facility_id": "430097",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.4622,
       "lon": -98.4477,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.309,
+      "medicare_discharges": 514
     },
     {
       "facility_id": "431318",
@@ -39,8 +39,8 @@
       "ownership": "Government - Local",
       "lat": 45.452,
       "lon": -99.6762,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -176,6 +176,6 @@
     "hospital_employment": 1174,
     "msa_total_employment": 21020,
     "hospital_emp_share": 0.0559,
-    "avg_govt_payer_share": 0.6571
+    "avg_govt_payer_share": 0.3971
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "11460",
   "cbsa_name": "Ann Arbor, MI",
-  "mdi": 0.4725,
+  "mdi": 0.613,
   "bbox": [
     -85.53,
     41.27,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.2814,
       "lon": -83.7279,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.419,
+      "medicare_discharges": 8630
     },
     {
       "facility_id": "230156",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 42.2728,
       "lon": -83.7657,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.459,
+      "medicare_discharges": 8394
     },
     {
       "facility_id": "230144",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 42.2751,
       "lon": -83.5863,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.218,
+      "medicare_discharges": 35
     },
     {
       "facility_id": "230259",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.3122,
       "lon": -84.0341,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.383,
+      "medicare_discharges": 1361
     }
   ],
   "catchment_counties": [
@@ -91,6 +91,6 @@
     "hospital_employment": 3128,
     "msa_total_employment": 216870,
     "hospital_emp_share": 0.0598,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4114
   }
 }

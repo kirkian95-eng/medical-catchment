@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34540",
   "cbsa_name": "Mount Vernon, OH",
-  "mdi": 0.2981,
+  "mdi": 0.3695,
   "bbox": [
     -83.95,
     39.4,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 40.4024,
       "lon": -82.4475,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.295,
+      "medicare_discharges": 910
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 20317,
     "hospital_emp_share": 0.0419,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2951
   }
 }

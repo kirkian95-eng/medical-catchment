@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31940",
   "cbsa_name": "Marinette, WI-MI",
-  "mdi": 0.112,
+  "mdi": 0.1799,
   "bbox": [
     -89.13,
     44.07,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.0719,
       "lon": -87.6296,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.289,
+      "medicare_discharges": 840
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 510,
     "msa_total_employment": 17762,
     "hospital_emp_share": 0.0204,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2893
   }
 }

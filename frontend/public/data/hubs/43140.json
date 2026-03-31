@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43140",
   "cbsa_name": "Shelby-Kings Mountain, NC",
-  "mdi": 0.3896,
+  "mdi": 0.5304,
   "bbox": [
     -83.04,
     34.3,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 35.3016,
       "lon": -81.5372,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.412,
+      "medicare_discharges": 2495
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 1811,
     "msa_total_employment": 36375,
     "hospital_emp_share": 0.0498,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4121
   }
 }

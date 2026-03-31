@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48940",
   "cbsa_name": "Wilmington, OH",
-  "mdi": 0.2672,
+  "mdi": 0.2723,
   "bbox": [
     -85.34,
     38.45,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 39.4454,
       "lon": -83.8397,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.184,
+      "medicare_discharges": 411
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 18883,
     "hospital_emp_share": 0.04,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.1836
   }
 }

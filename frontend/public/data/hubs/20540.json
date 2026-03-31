@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20540",
   "cbsa_name": "Dyersburg, TN",
-  "mdi": 0.572,
+  "mdi": 0.6153,
   "bbox": [
     -90.88,
     35.05,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 36.0474,
       "lon": -89.3804,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.248,
+      "medicare_discharges": 844
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 412,
     "msa_total_employment": 16742,
     "hospital_emp_share": 0.0732,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2479
   }
 }

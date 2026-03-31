@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36180",
   "cbsa_name": "Ocean Pines, MD",
-  "mdi": 0.1506,
+  "mdi": 0.4459,
   "bbox": [
     -76.72,
     37.32,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.3211,
       "lon": -75.2222,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.672,
+      "medicare_discharges": 1634
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 25201,
     "hospital_emp_share": 0.0228,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.6721
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19660",
   "cbsa_name": "Deltona-Daytona Beach-Ormond Beach, FL",
-  "mdi": 0.4147,
+  "mdi": 0.5458,
   "bbox": [
     -82.87,
     27.89,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 29.1995,
       "lon": -81.0546,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.312,
+      "medicare_discharges": 4265
     },
     {
       "facility_id": "100068",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 29.2417,
       "lon": -81.1067,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.5,
+      "medicare_discharges": 5987
     },
     {
       "facility_id": "100072",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 28.9114,
       "lon": -81.2843,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.463,
+      "medicare_discharges": 2556
     },
     {
       "facility_id": "100045",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 29.0333,
       "lon": -81.3748,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.387,
+      "medicare_discharges": 2243
     },
     {
       "facility_id": "100363",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 29.5757,
       "lon": -81.2238,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.226,
+      "medicare_discharges": 579
     },
     {
       "facility_id": "100118",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 29.4806,
       "lon": -81.2178,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.735,
+      "medicare_discharges": 3139
     },
     {
       "facility_id": "100330",
@@ -83,8 +83,8 @@
       "ownership": "Government - Local",
       "lat": 28.8862,
       "lon": -81.2514,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.267,
+      "medicare_discharges": 339
     }
   ],
   "catchment_counties": [
@@ -124,6 +124,6 @@
     "hospital_employment": 10801,
     "msa_total_employment": 213854,
     "hospital_emp_share": 0.0505,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3957
   }
 }

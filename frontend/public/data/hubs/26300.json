@@ -1,7 +1,7 @@
 {
   "cbsa_code": "26300",
   "cbsa_name": "Hot Springs, AR",
-  "mdi": 0.3437,
+  "mdi": 0.4792,
   "bbox": [
     -94.57,
     33.47,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.4661,
       "lon": -93.0684,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.428,
+      "medicare_discharges": 4231
     },
     {
       "facility_id": "040078",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 34.4862,
       "lon": -93.0337,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.32,
+      "medicare_discharges": 1401
     },
     {
       "facility_id": "040132",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.5264,
       "lon": -92.9741,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -88,6 +88,6 @@
     "hospital_employment": 1648,
     "msa_total_employment": 37985,
     "hospital_emp_share": 0.0434,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.403
   }
 }

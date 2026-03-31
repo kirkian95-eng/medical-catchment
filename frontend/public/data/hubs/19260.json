@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19260",
   "cbsa_name": "Danville, VA",
-  "mdi": 0.3454,
+  "mdi": 0.4504,
   "bbox": [
     -80.9,
     35.58,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 36.5774,
       "lon": -79.4048,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.352,
+      "medicare_discharges": 2521
     }
   ],
   "catchment_counties": [
@@ -82,6 +82,6 @@
     "hospital_employment": 186,
     "msa_total_employment": 24326,
     "hospital_emp_share": 0.0475,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3518
   }
 }

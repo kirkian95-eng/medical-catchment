@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23060",
   "cbsa_name": "Fort Wayne, IN",
-  "mdi": 0.4867,
+  "mdi": 0.583,
   "bbox": [
     -86.98,
     39.74,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.1897,
       "lon": -85.1013,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.439,
+      "medicare_discharges": 7928
     },
     {
       "facility_id": "150017",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 41.044,
       "lon": -85.2507,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.36,
+      "medicare_discharges": 3581
     },
     {
       "facility_id": "150047",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 41.0693,
       "lon": -85.1652,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.211,
+      "medicare_discharges": 150
     },
     {
       "facility_id": "150150",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 41.1749,
       "lon": -85.1093,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.196,
+      "medicare_discharges": 378
     },
     {
       "facility_id": "150075",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 40.7376,
       "lon": -85.1714,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.181,
+      "medicare_discharges": 217
     },
     {
       "facility_id": "150167",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.212,
       "lon": -85.1088,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.156,
+      "medicare_discharges": 152
     },
     {
       "facility_id": "150168",
@@ -83,8 +83,8 @@
       "ownership": "Proprietary",
       "lat": 41.0542,
       "lon": -85.2391,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.224,
+      "medicare_discharges": 381
     },
     {
       "facility_id": "150101",
@@ -94,8 +94,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.167,
       "lon": -85.4799,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.283,
+      "medicare_discharges": 323
     }
   ],
   "catchment_counties": [
@@ -151,6 +151,6 @@
     "hospital_employment": 844,
     "msa_total_employment": 221799,
     "hospital_emp_share": 0.0548,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.337
   }
 }

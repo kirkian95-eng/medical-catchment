@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28300",
   "cbsa_name": "Keene, NH",
-  "mdi": 0.2126,
+  "mdi": 0.2956,
   "bbox": [
     -73.79,
     41.95,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.9487,
       "lon": -72.2896,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.315,
+      "medicare_discharges": 1401
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 31443,
     "hospital_emp_share": 0.0326,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3147
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28020",
   "cbsa_name": "Kalamazoo-Portage, MI",
-  "mdi": 0.37,
+  "mdi": 0.4557,
   "bbox": [
     -87.08,
     41.29,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.2859,
       "lon": -85.5812,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.376,
+      "medicare_discharges": 4684
     },
     {
       "facility_id": "230117",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 42.3049,
       "lon": -85.5614,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.262,
+      "medicare_discharges": 2308
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 6199,
     "msa_total_employment": 119964,
     "hospital_emp_share": 0.0517,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3193
   }
 }

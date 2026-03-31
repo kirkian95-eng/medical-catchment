@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36940",
   "cbsa_name": "Owatonna, MN",
-  "mdi": 0.196,
+  "mdi": 0.2419,
   "bbox": [
     -94.7,
     43.07,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 44.0651,
       "lon": -93.2032,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.252,
+      "medicare_discharges": 466
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 18900,
     "hospital_emp_share": 0.031,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2523
   }
 }

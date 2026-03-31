@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17580",
   "cbsa_name": "Clovis, NM",
-  "mdi": 0.0551,
+  "mdi": 0.1027,
   "bbox": [
     -104.83,
     33.13,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.4138,
       "lon": -103.2214,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.265,
+      "medicare_discharges": 623
     },
     {
       "facility_id": "320084",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.1315,
       "lon": -103.3267,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.213,
+      "medicare_discharges": 86
     }
   ],
   "catchment_counties": [
@@ -85,6 +85,6 @@
     "hospital_employment": 295,
     "msa_total_employment": 23866,
     "hospital_emp_share": 0.0124,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2551
   }
 }

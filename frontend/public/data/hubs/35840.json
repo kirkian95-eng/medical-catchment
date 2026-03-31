@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35840",
   "cbsa_name": "North Port-Bradenton-Sarasota, FL",
-  "mdi": 0.3316,
+  "mdi": 0.5018,
   "bbox": [
     -84.15,
     25.98,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 27.3177,
       "lon": -82.5298,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.509,
+      "medicare_discharges": 18113
     },
     {
       "facility_id": "100213",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 27.5047,
       "lon": -82.6547,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.344,
+      "medicare_discharges": 3600
     },
     {
       "facility_id": "100035",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 27.4967,
       "lon": -82.5613,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.442,
+      "medicare_discharges": 4206
     },
     {
       "facility_id": "100359",
@@ -50,8 +50,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 27.1374,
       "lon": -82.4186,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.501,
+      "medicare_discharges": 4912
     },
     {
       "facility_id": "100166",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 27.28,
       "lon": -82.4766,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.446,
+      "medicare_discharges": 2811
     },
     {
       "facility_id": "100299",
@@ -72,8 +72,8 @@
       "ownership": "Proprietary",
       "lat": 27.3926,
       "lon": -82.435,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.555,
+      "medicare_discharges": 2617
     },
     {
       "facility_id": "100267",
@@ -83,8 +83,8 @@
       "ownership": "Proprietary",
       "lat": 26.9837,
       "lon": -82.3377,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.377,
+      "medicare_discharges": 1748
     }
   ],
   "catchment_counties": [
@@ -124,6 +124,6 @@
     "hospital_employment": 15546,
     "msa_total_employment": 327639,
     "hospital_emp_share": 0.0474,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4615
   }
 }

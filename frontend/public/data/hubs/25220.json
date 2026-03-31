@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25220",
   "cbsa_name": "Hammond, LA",
-  "mdi": 0.5496,
+  "mdi": 0.6239,
   "bbox": [
     -92.04,
     29.47,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.4664,
       "lon": -90.4594,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 2451
     },
     {
       "facility_id": "190303",
@@ -28,8 +28,8 @@
       "ownership": "Physician",
       "lat": 30.4856,
       "lon": -90.4877,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.148,
+      "medicare_discharges": 121
     },
     {
       "facility_id": "191309",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.7357,
       "lon": -90.4915,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "191321",
@@ -50,8 +50,8 @@
       "ownership": "Government - State",
       "lat": 30.6306,
       "lon": -90.5429,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -99,6 +99,6 @@
     "hospital_employment": 2999,
     "msa_total_employment": 46903,
     "hospital_emp_share": 0.0639,
-    "avg_govt_payer_share": 0.662
+    "avg_govt_payer_share": 0.3607
   }
 }

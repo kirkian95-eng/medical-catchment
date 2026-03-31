@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34940",
   "cbsa_name": "Naples-Marco Island, FL",
-  "mdi": 0.2086,
+  "mdi": 0.3681,
   "bbox": [
     -83.4,
     24.87,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 26.1508,
       "lon": -81.7994,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.426,
+      "medicare_discharges": 11470
     },
     {
       "facility_id": "100286",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 26.2639,
       "lon": -81.7175,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.482,
+      "medicare_discharges": 6059
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 5478,
     "msa_total_employment": 165907,
     "hospital_emp_share": 0.033,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4435
   }
 }

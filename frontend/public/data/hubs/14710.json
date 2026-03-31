@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14710",
   "cbsa_name": "Brattleboro, VT",
-  "mdi": 0.5377,
+  "mdi": 0.581,
   "bbox": [
     -74.18,
     41.84,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.8424,
       "lon": -72.5661,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.261,
+      "medicare_discharges": 694
     },
     {
       "facility_id": "471300",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.0693,
       "lon": -72.6805,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -53,6 +53,6 @@
     "hospital_employment": 1234,
     "msa_total_employment": 20103,
     "hospital_emp_share": 0.0614,
-    "avg_govt_payer_share": 0.6654
+    "avg_govt_payer_share": 0.3259
   }
 }

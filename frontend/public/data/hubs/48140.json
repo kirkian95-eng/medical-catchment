@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48140",
   "cbsa_name": "Wausau, WI",
-  "mdi": 0.2366,
+  "mdi": 0.3697,
   "bbox": [
     -91.17,
     43.78,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 44.9672,
       "lon": -89.67,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.391,
+      "medicare_discharges": 3512
     },
     {
       "facility_id": "520202",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.8905,
       "lon": -89.5801,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.427,
+      "medicare_discharges": 1132
     }
   ],
   "catchment_counties": [
@@ -93,6 +93,6 @@
     "hospital_employment": 2556,
     "msa_total_employment": 69983,
     "hospital_emp_share": 0.0365,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3989
   }
 }

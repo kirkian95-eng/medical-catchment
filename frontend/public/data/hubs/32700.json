@@ -1,7 +1,7 @@
 {
   "cbsa_code": "32700",
   "cbsa_name": "McPherson, KS",
-  "mdi": 0.2452,
+  "mdi": 0.2766,
   "bbox": [
     -99.18,
     37.38,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.3792,
       "lon": -97.6723,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.251,
+      "medicare_discharges": 300
     },
     {
       "facility_id": "171358",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.5962,
       "lon": -97.6804,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -53,6 +53,6 @@
     "hospital_employment": 465,
     "msa_total_employment": 16187,
     "hospital_emp_share": 0.0287,
-    "avg_govt_payer_share": 0.68
+    "avg_govt_payer_share": 0.3794
   }
 }

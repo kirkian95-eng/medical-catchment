@@ -1,7 +1,7 @@
 {
   "cbsa_code": "26140",
   "cbsa_name": "Homosassa Springs, FL",
-  "mdi": 0.3311,
+  "mdi": 0.5053,
   "bbox": [
     -84.15,
     27.83,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 28.8322,
       "lon": -82.3353,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.49,
+      "medicare_discharges": 3818
     },
     {
       "facility_id": "100249",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 28.9567,
       "lon": -82.6476,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.433,
+      "medicare_discharges": 2061
     }
   ],
   "catchment_counties": [
@@ -69,6 +69,6 @@
     "hospital_employment": 1566,
     "msa_total_employment": 34490,
     "hospital_emp_share": 0.0454,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4683
   }
 }

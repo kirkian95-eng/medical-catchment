@@ -1,7 +1,7 @@
 {
   "cbsa_code": "45220",
   "cbsa_name": "Tallahassee, FL",
-  "mdi": 0.3131,
+  "mdi": 0.3835,
   "bbox": [
     -86.28,
     29.46,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.4556,
       "lon": -84.2624,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.262,
+      "medicare_discharges": 4790
     },
     {
       "facility_id": "100254",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 30.4756,
       "lon": -84.2306,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.358,
+      "medicare_discharges": 2587
     },
     {
       "facility_id": "100298",
@@ -39,8 +39,8 @@
       "ownership": "Government - State",
       "lat": 30.6548,
       "lon": -84.7832,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -120,6 +120,6 @@
     "hospital_employment": 8459,
     "msa_total_employment": 177045,
     "hospital_emp_share": 0.0454,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2935
   }
 }

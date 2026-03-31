@@ -1,7 +1,7 @@
 {
   "cbsa_code": "10420",
   "cbsa_name": "Akron, OH",
-  "mdi": 0.3954,
+  "mdi": 0.4411,
   "bbox": [
     -83.03,
     40.08,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.0784,
       "lon": -81.5001,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.246,
+      "medicare_discharges": 5031
     },
     {
       "facility_id": "360027",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.0783,
       "lon": -81.5335,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.322,
+      "medicare_discharges": 4534
     },
     {
       "facility_id": "360078",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.169,
       "lon": -81.197,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.226,
+      "medicare_discharges": 1246
     },
     {
       "facility_id": "360150",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 41.1697,
       "lon": -81.5311,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.19,
+      "medicare_discharges": 639
     },
     {
       "facility_id": "360351",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 41.1092,
       "lon": -81.5,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.194,
+      "medicare_discharges": 787
     }
   ],
   "catchment_counties": [
@@ -126,6 +126,6 @@
     "hospital_employment": 17369,
     "msa_total_employment": 318338,
     "hospital_emp_share": 0.0546,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2519
   }
 }

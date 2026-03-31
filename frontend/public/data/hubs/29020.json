@@ -1,7 +1,7 @@
 {
   "cbsa_code": "29020",
   "cbsa_name": "Kokomo, IN",
-  "mdi": 0.3833,
+  "mdi": 0.4374,
   "bbox": [
     -87.66,
     39.45,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 40.4871,
       "lon": -86.1555,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.264,
+      "medicare_discharges": 1125
     },
     {
       "facility_id": "150007",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.4454,
       "lon": -86.127,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.269,
+      "medicare_discharges": 1131
     }
   ],
   "catchment_counties": [
@@ -69,6 +69,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 35015,
     "hospital_emp_share": 0.0532,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2661
   }
 }

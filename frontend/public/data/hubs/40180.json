@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40180",
   "cbsa_name": "Riverton, WY",
-  "mdi": 0.3822,
+  "mdi": 0.4213,
   "bbox": [
     -109.74,
     42.03,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 43.0278,
       "lon": -108.2379,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.241,
+      "medicare_discharges": 609
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 15603,
     "hospital_emp_share": 0.0495,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2409
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "37020",
   "cbsa_name": "Owosso, MI",
-  "mdi": 0.3125,
+  "mdi": 0.3875,
   "bbox": [
     -85.68,
     42.01,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 43.0051,
       "lon": -84.1807,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.301,
+      "medicare_discharges": 830
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 15379,
     "hospital_emp_share": 0.0421,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3013
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "38340",
   "cbsa_name": "Pittsfield, MA",
-  "mdi": 0.4061,
+  "mdi": 0.5692,
   "bbox": [
     -74.87,
     41.19,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 42.4596,
       "lon": -73.2483,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.493,
+      "medicare_discharges": 4865
     },
     {
       "facility_id": "221302",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.192,
       "lon": -73.3731,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "221304",
@@ -39,8 +39,8 @@
       "ownership": "Government - Federal",
       "lat": 42.6957,
       "lon": -73.0939,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -64,6 +64,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 58536,
     "hospital_emp_share": 0.0515,
-    "avg_govt_payer_share": 0.6636
+    "avg_govt_payer_share": 0.518
   }
 }

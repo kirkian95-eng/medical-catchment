@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18900",
   "cbsa_name": "Crossville, TN",
-  "mdi": 0.4405,
+  "mdi": 0.5158,
   "bbox": [
     -86.52,
     34.94,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.9425,
       "lon": -85.0227,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.302,
+      "medicare_discharges": 1480
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 19040,
     "hospital_emp_share": 0.0534,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3018
   }
 }

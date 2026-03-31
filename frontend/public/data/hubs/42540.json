@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42540",
   "cbsa_name": "Scranton--Wilkes-Barre, PA",
-  "mdi": 0.252,
+  "mdi": 0.4113,
   "bbox": [
     -77.46,
     39.95,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.2527,
       "lon": -75.8091,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.458,
+      "medicare_discharges": 5268
     },
     {
       "facility_id": "390237",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 41.4128,
       "lon": -75.654,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.381,
+      "medicare_discharges": 3161
     },
     {
       "facility_id": "390001",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.401,
       "lon": -75.6464,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.517,
+      "medicare_discharges": 5029
     },
     {
       "facility_id": "390185",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 40.9499,
       "lon": -75.9627,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.365,
+      "medicare_discharges": 1616
     },
     {
       "facility_id": "390338",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.462,
       "lon": -75.6306,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.606,
+      "medicare_discharges": 774
     }
   ],
   "catchment_counties": [
@@ -110,6 +110,6 @@
     "hospital_employment": 9214,
     "msa_total_employment": 241284,
     "hospital_emp_share": 0.0368,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4433
   }
 }

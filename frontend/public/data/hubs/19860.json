@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 46.8873,
       "lon": -102.8219,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -106,6 +106,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 19047,
     "hospital_emp_share": 0.0259,
-    "avg_govt_payer_share": 0.75
+    "avg_govt_payer_share": 0.68
   }
 }

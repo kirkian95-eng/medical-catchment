@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17300",
   "cbsa_name": "Clarksville, TN-KY",
-  "mdi": 0.0849,
+  "mdi": 0.1519,
   "bbox": [
     -89.33,
     35.58,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 36.5801,
       "lon": -87.27,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.318,
+      "medicare_discharges": 2485
     },
     {
       "facility_id": "180051",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.8605,
       "lon": -87.4957,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.261,
+      "medicare_discharges": 894
     },
     {
       "facility_id": "181304",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.8177,
       "lon": -87.8337,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -136,6 +136,6 @@
     "hospital_employment": 1438,
     "msa_total_employment": 96743,
     "hospital_emp_share": 0.0144,
-    "avg_govt_payer_share": 0.6551
+    "avg_govt_payer_share": 0.3137
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "45700",
   "cbsa_name": "Tifton, GA",
-  "mdi": 0.6589,
+  "mdi": 0.7413,
   "bbox": [
     -84.99,
     30.47,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 31.4706,
       "lon": -83.492,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 1837
     }
   ],
   "catchment_counties": [
@@ -82,6 +82,6 @@
     "hospital_employment": 1943,
     "msa_total_employment": 22282,
     "hospital_emp_share": 0.08,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3137
   }
 }

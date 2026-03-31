@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18340",
   "cbsa_name": "Corbin, KY",
-  "mdi": 0.4155,
+  "mdi": 0.4993,
   "bbox": [
     -85.62,
     35.89,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.9222,
       "lon": -84.1184,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.302,
+      "medicare_discharges": 1257
     },
     {
       "facility_id": "180011",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.12,
       "lon": -84.1106,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 1126
     },
     {
       "facility_id": "180043",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 37.1615,
       "lon": -83.7615,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.334,
+      "medicare_discharges": 264
     },
     {
       "facility_id": "181328",
@@ -50,8 +50,8 @@
       "ownership": "Government - Local",
       "lat": 36.8892,
       "lon": -83.8756,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -131,6 +131,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 52196,
     "hospital_emp_share": 0.0488,
-    "avg_govt_payer_share": 0.6558
+    "avg_govt_payer_share": 0.3451
   }
 }

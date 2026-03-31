@@ -1,7 +1,7 @@
 {
   "cbsa_code": "41780",
   "cbsa_name": "Sandusky, OH",
-  "mdi": 0.3818,
+  "mdi": 0.4246,
   "bbox": [
     -84.45,
     40.45,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.4455,
       "lon": -82.7092,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.25,
+      "medicare_discharges": 2322
     },
     {
       "facility_id": "361314",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.5065,
       "lon": -82.9533,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -69,6 +69,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 50123,
     "hospital_emp_share": 0.0483,
-    "avg_govt_payer_share": 0.6536
+    "avg_govt_payer_share": 0.2654
   }
 }

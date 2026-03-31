@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14260",
   "cbsa_name": "Boise City, ID",
-  "mdi": 0.3837,
+  "mdi": 0.4704,
   "bbox": [
     -119.34,
     41.45,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.6172,
       "lon": -116.0932,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.316,
+      "medicare_discharges": 4976
     },
     {
       "facility_id": "130007",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 43.6138,
       "lon": -116.2537,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.379,
+      "medicare_discharges": 3768
     },
     {
       "facility_id": "130013",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 43.5967,
       "lon": -116.5182,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.332,
+      "medicare_discharges": 1206
     },
     {
       "facility_id": "130014",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 43.6641,
       "lon": -116.6517,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.219,
+      "medicare_discharges": 597
     },
     {
       "facility_id": "130071",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.61,
       "lon": -116.5291,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 896
     },
     {
       "facility_id": "130063",
@@ -72,8 +72,8 @@
       "ownership": "Proprietary",
       "lat": 43.6272,
       "lon": -116.2877,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.143,
+      "medicare_discharges": 85
     },
     {
       "facility_id": "131318",
@@ -83,8 +83,8 @@
       "ownership": "Government - Local",
       "lat": 43.9368,
       "lon": -116.5052,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -196,6 +196,6 @@
     "hospital_employment": 17871,
     "msa_total_employment": 372134,
     "hospital_emp_share": 0.0474,
-    "avg_govt_payer_share": 0.6512
+    "avg_govt_payer_share": 0.3271
   }
 }

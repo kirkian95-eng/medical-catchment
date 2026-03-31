@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42680",
   "cbsa_name": "Sebastian-Vero Beach-West Vero Corridor, FL",
-  "mdi": 0.4243,
+  "mdi": 0.5567,
   "bbox": [
     -81.99,
     26.66,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 27.6581,
       "lon": -80.3956,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.449,
+      "medicare_discharges": 5615
     },
     {
       "facility_id": "100217",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 27.7944,
       "lon": -80.4915,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.28,
+      "medicare_discharges": 1347
     }
   ],
   "catchment_counties": [
@@ -53,6 +53,6 @@
     "hospital_employment": 3052,
     "msa_total_employment": 56760,
     "hospital_emp_share": 0.0538,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3978
   }
 }

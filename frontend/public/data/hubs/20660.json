@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20660",
   "cbsa_name": "Easton, MD",
-  "mdi": 0.426,
+  "mdi": 0.6567,
   "bbox": [
     -77.58,
     37.77,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.7704,
       "lon": -76.076,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.563,
+      "medicare_discharges": 2980
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 17984,
     "hospital_emp_share": 0.0565,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.5634
   }
 }

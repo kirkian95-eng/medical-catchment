@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19620",
   "cbsa_name": "Del Rio, TX",
-  "mdi": 0.327,
+  "mdi": 0.3691,
   "bbox": [
     -102.39,
     28.37,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 29.3744,
       "lon": -100.8928,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.246,
+      "medicare_discharges": 358
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 18716,
     "hospital_emp_share": 0.042,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2459
   }
 }

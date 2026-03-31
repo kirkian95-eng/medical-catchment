@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15020",
   "cbsa_name": "Brookhaven, MS",
-  "mdi": 0.4086,
+  "mdi": 0.4537,
   "bbox": [
     -91.98,
     30.57,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 31.5703,
       "lon": -90.4755,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.251,
+      "medicare_discharges": 629
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 12667,
     "hospital_emp_share": 0.0505,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2509
   }
 }

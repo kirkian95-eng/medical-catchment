@@ -1,7 +1,7 @@
 {
   "cbsa_code": "29700",
   "cbsa_name": "Laredo, TX",
-  "mdi": 0.1236,
+  "mdi": 0.2371,
   "bbox": [
     -101.17,
     26.18,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 27.5307,
       "lon": -99.4793,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.384,
+      "medicare_discharges": 2274
     },
     {
       "facility_id": "450643",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 27.6077,
       "lon": -99.4765,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 1032
     }
   ],
   "catchment_counties": [
@@ -85,6 +85,6 @@
     "hospital_employment": 2183,
     "msa_total_employment": 105387,
     "hospital_emp_share": 0.0207,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.366
   }
 }

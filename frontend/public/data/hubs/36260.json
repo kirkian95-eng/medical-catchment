@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36260",
   "cbsa_name": "Ogden, UT",
-  "mdi": 0.0038,
+  "mdi": 0.0418,
   "bbox": [
     -113.5,
     39.87,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.1832,
       "lon": -111.9492,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.287,
+      "medicare_discharges": 3045
     },
     {
       "facility_id": "460005",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 41.1499,
       "lon": -111.9569,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.242,
+      "medicare_discharges": 1309
     },
     {
       "facility_id": "460041",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.0892,
       "lon": -111.9953,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.189,
+      "medicare_discharges": 776
     },
     {
       "facility_id": "460042",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 40.8731,
       "lon": -111.835,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.201,
+      "medicare_discharges": 633
     },
     {
       "facility_id": "460061",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.0535,
       "lon": -111.9694,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.221,
+      "medicare_discharges": 355
     }
   ],
   "catchment_counties": [
@@ -110,6 +110,6 @@
     "hospital_employment": 2236,
     "msa_total_employment": 264211,
     "hospital_emp_share": 0.0084,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.239
   }
 }

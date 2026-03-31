@@ -1,7 +1,7 @@
 {
   "cbsa_code": "37860",
   "cbsa_name": "Pensacola-Ferry Pass-Brent, FL",
-  "mdi": 0.3562,
+  "mdi": 0.4359,
   "bbox": [
     -88.73,
     29.25,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.4689,
       "lon": -87.2297,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.277,
+      "medicare_discharges": 4258
     },
     {
       "facility_id": "100025",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.4739,
       "lon": -87.212,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.352,
+      "medicare_discharges": 5724
     },
     {
       "facility_id": "100231",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 30.5147,
       "lon": -87.2173,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.304,
+      "medicare_discharges": 4565
     },
     {
       "facility_id": "100124",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 30.6314,
       "lon": -87.0649,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.289,
+      "medicare_discharges": 1056
     },
     {
       "facility_id": "100266",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 30.3407,
       "lon": -87.1166,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.363,
+      "medicare_discharges": 1179
     },
     {
       "facility_id": "101315",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.8944,
       "lon": -87.1455,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -129,6 +129,6 @@
     "hospital_employment": 9197,
     "msa_total_employment": 188905,
     "hospital_emp_share": 0.0487,
-    "avg_govt_payer_share": 0.6513
+    "avg_govt_payer_share": 0.316
   }
 }

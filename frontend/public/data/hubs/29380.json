@@ -1,7 +1,7 @@
 {
   "cbsa_code": "29380",
   "cbsa_name": "Lake City, FL",
-  "mdi": 0.6615,
+  "mdi": 0.8529,
   "bbox": [
     -84.12,
     29.27,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 30.2701,
       "lon": -82.6241,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.497,
+      "medicare_discharges": 2492
     }
   ],
   "catchment_counties": [
@@ -66,6 +66,6 @@
     "hospital_employment": 1927,
     "msa_total_employment": 24579,
     "hospital_emp_share": 0.0784,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4972
   }
 }

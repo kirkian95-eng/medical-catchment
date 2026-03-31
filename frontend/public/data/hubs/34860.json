@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34860",
   "cbsa_name": "Nacogdoches, TX",
-  "mdi": 0.3558,
+  "mdi": 0.4056,
   "bbox": [
     -96.15,
     30.56,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 31.5584,
       "lon": -94.5048,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.218,
+      "medicare_discharges": 615
     },
     {
       "facility_id": "450656",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 31.6521,
       "lon": -94.6547,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.321,
+      "medicare_discharges": 1340
     }
   ],
   "catchment_counties": [
@@ -77,6 +77,6 @@
     "hospital_employment": 1117,
     "msa_total_employment": 22550,
     "hospital_emp_share": 0.0495,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2588
   }
 }

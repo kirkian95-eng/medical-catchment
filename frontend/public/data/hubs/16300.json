@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16300",
   "cbsa_name": "Cedar Rapids, IA",
-  "mdi": 0.3995,
+  "mdi": 0.4561,
   "bbox": [
     -93.51,
     40.98,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.9849,
       "lon": -91.6605,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.26,
+      "medicare_discharges": 3299
     },
     {
       "facility_id": "160079",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 41.979,
       "lon": -91.655,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.315,
+      "medicare_discharges": 3285
     },
     {
       "facility_id": "161349",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.1722,
       "lon": -92.0093,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "161306",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.1162,
       "lon": -91.2896,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -91,6 +91,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 138950,
     "hospital_emp_share": 0.0495,
-    "avg_govt_payer_share": 0.6609
+    "avg_govt_payer_share": 0.3256
   }
 }

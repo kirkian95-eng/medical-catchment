@@ -1,7 +1,7 @@
 {
   "cbsa_code": "47020",
   "cbsa_name": "Victoria, TX",
-  "mdi": 0.2253,
+  "mdi": 0.2778,
   "bbox": [
     -98.49,
     27.66,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 28.8062,
       "lon": -96.9854,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.26,
+      "medicare_discharges": 1677
     },
     {
       "facility_id": "450023",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 28.8139,
       "lon": -96.9768,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.267,
+      "medicare_discharges": 1875
     }
   ],
   "catchment_counties": [
@@ -117,6 +117,6 @@
     "hospital_employment": 1347,
     "msa_total_employment": 37460,
     "hospital_emp_share": 0.0347,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2633
   }
 }

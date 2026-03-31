@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25460",
   "cbsa_name": "Harrison, AR",
-  "mdi": 0.3691,
+  "mdi": 0.3971,
   "bbox": [
     -94.61,
     35.24,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.2361,
       "lon": -93.1072,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.222,
+      "medicare_discharges": 666
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 709,
     "msa_total_employment": 14578,
     "hospital_emp_share": 0.0456,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2221
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "46020",
   "cbsa_name": "Truckee-Grass Valley, CA",
-  "mdi": 0.252,
+  "mdi": 0.351,
   "bbox": [
     -122.55,
     38.23,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 39.2282,
       "lon": -121.0466,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.439,
+      "medicare_discharges": 1877
     },
     {
       "facility_id": "051328",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 39.3245,
       "lon": -120.2011,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -77,6 +77,6 @@
     "hospital_employment": 682,
     "msa_total_employment": 33654,
     "hospital_emp_share": 0.0203,
-    "avg_govt_payer_share": 0.6867
+    "avg_govt_payer_share": 0.5272
   }
 }

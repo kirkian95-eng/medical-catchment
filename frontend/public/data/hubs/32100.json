@@ -1,7 +1,7 @@
 {
   "cbsa_code": "32100",
   "cbsa_name": "Marquette, MI",
-  "mdi": 0.5534,
+  "mdi": 0.6169,
   "bbox": [
     -89.18,
     45.49,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 46.5431,
       "lon": -87.4106,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.291,
+      "medicare_discharges": 1756
     },
     {
       "facility_id": "231321",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 46.4934,
       "lon": -87.6768,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -77,6 +77,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 26221,
     "hospital_emp_share": 0.0674,
-    "avg_govt_payer_share": 0.658
+    "avg_govt_payer_share": 0.3221
   }
 }

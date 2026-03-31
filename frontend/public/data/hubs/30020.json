@@ -1,7 +1,7 @@
 {
   "cbsa_code": "30020",
   "cbsa_name": "Lawton, OK",
-  "mdi": 0.5771,
+  "mdi": 0.6595,
   "bbox": [
     -99.99,
     33.39,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.609,
       "lon": -98.4366,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.407,
+      "medicare_discharges": 3499
     },
     {
       "facility_id": "370097",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 34.5943,
       "lon": -98.4613,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.202,
+      "medicare_discharges": 631
     },
     {
       "facility_id": "370170",
@@ -39,8 +39,8 @@
       "ownership": "Government - Federal",
       "lat": 34.7283,
       "lon": -98.4746,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.221,
+      "medicare_discharges": 75
     }
   ],
   "catchment_counties": [
@@ -120,6 +120,6 @@
     "hospital_employment": 627,
     "msa_total_employment": 40942,
     "hospital_emp_share": 0.0685,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3137
   }
 }

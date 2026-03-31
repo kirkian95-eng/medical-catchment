@@ -1,7 +1,7 @@
 {
   "cbsa_code": "10180",
   "cbsa_name": "Abilene, TX",
-  "mdi": 0.4073,
+  "mdi": 0.5354,
   "bbox": [
     -101.23,
     31.47,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.472,
       "lon": -99.7312,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.391,
+      "medicare_discharges": 6761
     }
   ],
   "catchment_counties": [
@@ -114,6 +114,6 @@
     "hospital_employment": 4029,
     "msa_total_employment": 67296,
     "hospital_emp_share": 0.0563,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3906
   }
 }

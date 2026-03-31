@@ -1,7 +1,7 @@
 {
   "cbsa_code": "49780",
   "cbsa_name": "Zanesville, OH",
-  "mdi": 0.4058,
+  "mdi": 0.5055,
   "bbox": [
     -83.52,
     38.98,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.9766,
       "lon": -82.0153,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.343,
+      "medicare_discharges": 3634
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 35306,
     "hospital_emp_share": 0.0529,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3427
   }
 }

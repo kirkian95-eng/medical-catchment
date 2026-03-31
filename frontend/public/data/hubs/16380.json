@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16380",
   "cbsa_name": "Celina, OH",
-  "mdi": 0.1394,
+  "mdi": 0.1763,
   "bbox": [
     -86.14,
     39.48,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 40.4799,
       "lon": -84.6385,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.237,
+      "medicare_discharges": 751
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 547,
     "msa_total_employment": 20227,
     "hospital_emp_share": 0.027,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.237
   }
 }

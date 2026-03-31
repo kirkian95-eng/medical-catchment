@@ -1,7 +1,7 @@
 {
   "cbsa_code": "29940",
   "cbsa_name": "Lawrence, KS",
-  "mdi": 0.2799,
+  "mdi": 0.3813,
   "bbox": [
     -96.75,
     37.98,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 38.9796,
       "lon": -95.2477,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.346,
+      "medicare_discharges": 2164
     }
   ],
   "catchment_counties": [
@@ -82,6 +82,6 @@
     "hospital_employment": 1879,
     "msa_total_employment": 50370,
     "hospital_emp_share": 0.0373,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3457
   }
 }

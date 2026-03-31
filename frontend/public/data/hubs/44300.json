@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44300",
   "cbsa_name": "State College, PA",
-  "mdi": 0.2191,
+  "mdi": 0.3133,
   "bbox": [
     -79.37,
     39.8,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.8047,
       "lon": -77.8656,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.334,
+      "medicare_discharges": 2443
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 2265,
     "msa_total_employment": 68463,
     "hospital_emp_share": 0.0331,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3335
   }
 }

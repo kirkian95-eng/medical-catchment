@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22420",
   "cbsa_name": "Flint, MI",
-  "mdi": 0.334,
+  "mdi": 0.4361,
   "bbox": [
     -85.23,
     41.89,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 42.89,
       "lon": -83.6406,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.344,
+      "medicare_discharges": 3432
     },
     {
       "facility_id": "230132",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 43.0215,
       "lon": -83.7052,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.325,
+      "medicare_discharges": 1978
     },
     {
       "facility_id": "230141",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.0159,
       "lon": -83.7337,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.373,
+      "medicare_discharges": 3585
     }
   ],
   "catchment_counties": [
@@ -104,6 +104,6 @@
     "hospital_employment": 5688,
     "msa_total_employment": 132733,
     "hospital_emp_share": 0.0429,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3467
   }
 }

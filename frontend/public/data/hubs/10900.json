@@ -1,7 +1,7 @@
 {
   "cbsa_code": "10900",
   "cbsa_name": "Allentown-Bethlehem-Easton, PA-NJ",
-  "mdi": 0.386,
+  "mdi": 0.5213,
   "bbox": [
     -77.19,
     39.51,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.5677,
       "lon": -75.5189,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.451,
+      "medicare_discharges": 16834
     },
     {
       "facility_id": "390049",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.6092,
       "lon": -75.3922,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.373,
+      "medicare_discharges": 8138
     },
     {
       "facility_id": "390326",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.6917,
       "lon": -75.2749,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.469,
+      "medicare_discharges": 4175
     },
     {
       "facility_id": "310060",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.7082,
       "lon": -75.1471,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.3,
+      "medicare_discharges": 1804
     },
     {
       "facility_id": "390162",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.6436,
       "lon": -75.2266,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.204,
+      "medicare_discharges": 451
     },
     {
       "facility_id": "310115",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.86,
       "lon": -74.8318,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.374,
+      "medicare_discharges": 1681
     },
     {
       "facility_id": "390335",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.835,
       "lon": -75.6915,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.564,
+      "medicare_discharges": 1416
     },
     {
       "facility_id": "390430",
@@ -94,8 +94,8 @@
       "ownership": "Proprietary",
       "lat": 40.5058,
       "lon": -75.5799,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -159,6 +159,6 @@
     "hospital_employment": 18897,
     "msa_total_employment": 369096,
     "hospital_emp_share": 0.0512,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4028
   }
 }

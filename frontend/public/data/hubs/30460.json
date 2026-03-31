@@ -1,7 +1,7 @@
 {
   "cbsa_code": "30460",
   "cbsa_name": "Lexington-Fayette, KY",
-  "mdi": 0.234,
+  "mdi": 0.3373,
   "bbox": [
     -86.24,
     37.0,
@@ -17,8 +17,8 @@
       "ownership": "Government - State",
       "lat": 38.0322,
       "lon": -84.5075,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.404,
+      "medicare_discharges": 5946
     },
     {
       "facility_id": "180010",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 38.0424,
       "lon": -84.544,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.322,
+      "medicare_discharges": 3235
     },
     {
       "facility_id": "180103",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 38.0192,
       "lon": -84.5137,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.425,
+      "medicare_discharges": 5016
     },
     {
       "facility_id": "180143",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.9988,
       "lon": -84.4419,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.194,
+      "medicare_discharges": 586
     },
     {
       "facility_id": "180101",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 38.1844,
       "lon": -84.5616,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.208,
+      "medicare_discharges": 328
     },
     {
       "facility_id": "180092",
@@ -72,8 +72,8 @@
       "ownership": "Proprietary",
       "lat": 38.0099,
       "lon": -84.215,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.317,
+      "medicare_discharges": 736
     },
     {
       "facility_id": "180046",
@@ -83,8 +83,8 @@
       "ownership": "Proprietary",
       "lat": 38.2026,
       "lon": -84.2099,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.203,
+      "medicare_discharges": 142
     },
     {
       "facility_id": "181308",
@@ -94,8 +94,8 @@
       "ownership": "Proprietary",
       "lat": 38.0066,
       "lon": -84.7393,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -223,6 +223,6 @@
     "hospital_employment": 9504,
     "msa_total_employment": 262391,
     "hospital_emp_share": 0.0338,
-    "avg_govt_payer_share": 0.6512
+    "avg_govt_payer_share": 0.3551
   }
 }

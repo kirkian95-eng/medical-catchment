@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16540",
   "cbsa_name": "Chambersburg, PA",
-  "mdi": 0.2531,
+  "mdi": 0.3892,
   "bbox": [
     -79.15,
     38.77,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.9351,
       "lon": -77.6472,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.412,
+      "medicare_discharges": 3944
     },
     {
       "facility_id": "390138",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.7749,
       "lon": -77.5756,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.368,
+      "medicare_discharges": 788
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 2197,
     "msa_total_employment": 59064,
     "hospital_emp_share": 0.0372,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4042
   }
 }

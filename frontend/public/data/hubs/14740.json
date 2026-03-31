@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14740",
   "cbsa_name": "Bremerton-Silverdale-Port Orchard, WA",
-  "mdi": 0.2531,
+  "mdi": 0.483,
   "bbox": [
     -124.18,
     46.65,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.6508,
       "lon": -122.6768,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.562,
+      "medicare_discharges": 4944
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 295,
     "msa_total_employment": 93029,
     "hospital_emp_share": 0.0352,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.562
   }
 }

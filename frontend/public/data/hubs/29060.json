@@ -1,7 +1,7 @@
 {
   "cbsa_code": "29060",
   "cbsa_name": "Laconia, NH",
-  "mdi": 0.21,
+  "mdi": 0.3152,
   "bbox": [
     -72.98,
     42.58,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.5765,
       "lon": -71.4823,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.352,
+      "medicare_discharges": 1384
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 25573,
     "hospital_emp_share": 0.0317,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3522
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18820",
   "cbsa_name": "Crawfordsville, IN",
-  "mdi": 0.2341,
+  "mdi": 0.2476,
   "bbox": [
     -88.4,
     39.04,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 40.0377,
       "lon": -86.9022,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.198,
+      "medicare_discharges": 409
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 15413,
     "hospital_emp_share": 0.0348,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.1976
   }
 }

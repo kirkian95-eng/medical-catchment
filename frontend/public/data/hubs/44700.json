@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44700",
   "cbsa_name": "Stockton-Lodi, CA",
-  "mdi": 0.1798,
+  "mdi": 0.2828,
   "bbox": [
     -122.93,
     36.74,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.9737,
       "lon": -121.3192,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.479,
+      "medicare_discharges": 3851
     },
     {
       "facility_id": "050748",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.7974,
       "lon": -121.2449,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.175,
+      "medicare_discharges": 454
     },
     {
       "facility_id": "050122",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 37.9543,
       "lon": -121.3293,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.254,
+      "medicare_discharges": 669
     },
     {
       "facility_id": "050336",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 38.1219,
       "lon": -121.2866,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.404,
+      "medicare_discharges": 2223
     },
     {
       "facility_id": "050167",
@@ -61,8 +61,8 @@
       "ownership": "Government - Local",
       "lat": 37.8866,
       "lon": -121.2831,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 970
     },
     {
       "facility_id": "050313",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.7439,
       "lon": -121.434,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.378,
+      "medicare_discharges": 982
     },
     {
       "facility_id": "050118",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 37.8303,
       "lon": -121.201,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.402,
+      "medicare_discharges": 771
     }
   ],
   "catchment_counties": [
@@ -124,6 +124,6 @@
     "hospital_employment": 7236,
     "msa_total_employment": 282753,
     "hospital_emp_share": 0.0256,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3485
   }
 }

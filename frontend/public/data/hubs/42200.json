@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42200",
   "cbsa_name": "Santa Maria-Santa Barbara, CA",
-  "mdi": 0.2017,
+  "mdi": 0.3398,
   "bbox": [
     -121.91,
     33.43,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.429,
       "lon": -119.7237,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.45,
+      "medicare_discharges": 6285
     },
     {
       "facility_id": "050107",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 34.952,
       "lon": -120.4134,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.545,
+      "medicare_discharges": 4827
     },
     {
       "facility_id": "050110",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.5999,
       "lon": -120.3765,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.284,
+      "medicare_discharges": 951
     },
     {
       "facility_id": "050357",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 34.4492,
       "lon": -119.8048,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.19,
+      "medicare_discharges": 520
     },
     {
       "facility_id": "051331",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.6064,
       "lon": -120.1354,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -86,6 +86,6 @@
     "hospital_employment": 6461,
     "msa_total_employment": 215839,
     "hospital_emp_share": 0.0299,
-    "avg_govt_payer_share": 0.6511
+    "avg_govt_payer_share": 0.4132
   }
 }

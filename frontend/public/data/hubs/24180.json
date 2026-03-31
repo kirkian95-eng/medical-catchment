@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24180",
   "cbsa_name": "Granbury, TX",
-  "mdi": 0.2436,
+  "mdi": 0.3594,
   "bbox": [
     -99.3,
     31.43,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 32.4309,
       "lon": -97.8041,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.37,
+      "medicare_discharges": 799
     }
   ],
   "catchment_counties": [
@@ -74,6 +74,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 18034,
     "hospital_emp_share": 0.0343,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3699
   }
 }

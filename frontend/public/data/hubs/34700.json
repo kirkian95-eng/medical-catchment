@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34700",
   "cbsa_name": "Muscatine, IA",
-  "mdi": 0.1133,
+  "mdi": 0.1325,
   "bbox": [
     -92.56,
     40.44,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.4399,
       "lon": -91.0643,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.207,
+      "medicare_discharges": 368
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 21766,
     "hospital_emp_share": 0.0214,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2073
   }
 }

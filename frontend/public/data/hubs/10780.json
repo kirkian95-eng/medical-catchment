@@ -1,7 +1,7 @@
 {
   "cbsa_code": "10780",
   "cbsa_name": "Alexandria, LA",
-  "mdi": 0.6659,
+  "mdi": 0.8139,
   "bbox": [
     -94.05,
     30.27,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 31.3146,
       "lon": -92.45,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.434,
+      "medicare_discharges": 3632
     },
     {
       "facility_id": "190019",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 31.281,
       "lon": -92.4623,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.426,
+      "medicare_discharges": 3922
     },
     {
       "facility_id": "190298",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 31.2742,
       "lon": -92.4671,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.21,
+      "medicare_discharges": 124
     },
     {
       "facility_id": "190319",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 31.2813,
       "lon": -92.5473,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -99,6 +99,6 @@
     "hospital_employment": 5098,
     "msa_total_employment": 56057,
     "hospital_emp_share": 0.0858,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4243
   }
 }

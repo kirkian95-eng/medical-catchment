@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19140",
   "cbsa_name": "Dalton, GA",
-  "mdi": 0.1905,
+  "mdi": 0.2912,
   "bbox": [
     -86.48,
     33.75,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.7888,
       "lon": -84.9842,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.357,
+      "medicare_discharges": 2475
     },
     {
       "facility_id": "110050",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.7475,
       "lon": -84.7484,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.261,
+      "medicare_discharges": 240
     }
   ],
   "catchment_counties": [
@@ -85,6 +85,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 65506,
     "hospital_emp_share": 0.0279,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3446
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42940",
   "cbsa_name": "Sevierville, TN",
-  "mdi": 0.031,
+  "mdi": 0.1086,
   "bbox": [
     -85.04,
     34.85,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 35.8545,
       "lon": -83.5375,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.306,
+      "medicare_discharges": 798
     }
   ],
   "catchment_counties": [
@@ -42,6 +42,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 52282,
     "hospital_emp_share": 0.01,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3056
   }
 }

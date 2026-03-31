@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25180",
   "cbsa_name": "Hagerstown-Martinsburg, MD-WV",
-  "mdi": 0.1616,
+  "mdi": 0.3394,
   "bbox": [
     -79.72,
     38.48,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.6226,
       "lon": -77.6855,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.604,
+      "medicare_discharges": 5875
     },
     {
       "facility_id": "510008",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.4765,
       "lon": -77.9809,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.359,
+      "medicare_discharges": 2034
     },
     {
       "facility_id": "511309",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.5487,
       "lon": -78.2215,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -120,6 +120,6 @@
     "hospital_employment": 2081,
     "msa_total_employment": 102872,
     "hospital_emp_share": 0.0202,
-    "avg_govt_payer_share": 0.6547
+    "avg_govt_payer_share": 0.4977
   }
 }

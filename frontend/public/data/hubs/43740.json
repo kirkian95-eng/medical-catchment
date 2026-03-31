@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43740",
   "cbsa_name": "Somerset, PA",
-  "mdi": 0.3481,
+  "mdi": 0.3733,
   "bbox": [
     -80.63,
     38.79,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.0397,
       "lon": -79.1298,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.242,
+      "medicare_discharges": 440
     },
     {
       "facility_id": "390112",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.2196,
       "lon": -78.7853,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.183,
+      "medicare_discharges": 195
     },
     {
       "facility_id": "391302",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 39.7903,
       "lon": -78.9877,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -64,6 +64,6 @@
     "hospital_employment": 1082,
     "msa_total_employment": 23448,
     "hospital_emp_share": 0.0461,
-    "avg_govt_payer_share": 0.6608
+    "avg_govt_payer_share": 0.2721
   }
 }

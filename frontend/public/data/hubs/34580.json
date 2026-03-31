@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34580",
   "cbsa_name": "Mount Vernon-Anacortes, WA",
-  "mdi": 0.444,
+  "mdi": 0.5499,
   "bbox": [
     -124.12,
     47.42,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 48.4175,
       "lon": -122.3235,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.369,
+      "medicare_discharges": 2128
     },
     {
       "facility_id": "500007",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 48.5028,
       "lon": -122.6159,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.391,
+      "medicare_discharges": 823
     },
     {
       "facility_id": "501329",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 48.5468,
       "lon": -122.1352,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -72,6 +72,6 @@
     "hospital_employment": 2884,
     "msa_total_employment": 52422,
     "hospital_emp_share": 0.055,
-    "avg_govt_payer_share": 0.6598
+    "avg_govt_payer_share": 0.4025
   }
 }

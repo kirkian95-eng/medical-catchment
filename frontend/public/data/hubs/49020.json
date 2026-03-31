@@ -1,7 +1,7 @@
 {
   "cbsa_code": "49020",
   "cbsa_name": "Winchester, VA-WV",
-  "mdi": 0.3041,
+  "mdi": 0.5124,
   "bbox": [
     -80.27,
     38.19,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.1913,
       "lon": -78.1959,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.564,
+      "medicare_discharges": 8114
     },
     {
       "facility_id": "511311",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.3207,
       "lon": -78.7679,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -141,6 +141,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 28893,
     "hospital_emp_share": 0.0387,
-    "avg_govt_payer_share": 0.6599
+    "avg_govt_payer_share": 0.5758
   }
 }

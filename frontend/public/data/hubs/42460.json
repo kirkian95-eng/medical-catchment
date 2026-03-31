@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42460",
   "cbsa_name": "Scottsboro, AL",
-  "mdi": 0.4726,
+  "mdi": 0.505,
   "bbox": [
     -87.55,
     33.66,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.6614,
       "lon": -86.0471,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.23,
+      "medicare_discharges": 522
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 15461,
     "hospital_emp_share": 0.0587,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2296
   }
 }

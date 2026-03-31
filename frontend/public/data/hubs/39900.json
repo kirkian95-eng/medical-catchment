@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39900",
   "cbsa_name": "Reno, NV",
-  "mdi": 0.2306,
+  "mdi": 0.3207,
   "bbox": [
     -122.8,
     36.55,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.524,
       "lon": -119.7947,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.369,
+      "medicare_discharges": 8468
     },
     {
       "facility_id": "290009",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 39.541,
       "lon": -119.8401,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.244,
+      "medicare_discharges": 2078
     },
     {
       "facility_id": "290049",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.3716,
       "lon": -119.6759,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.316,
+      "medicare_discharges": 1432
     },
     {
       "facility_id": "290032",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.5406,
       "lon": -119.544,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.345,
+      "medicare_discharges": 1259
     },
     {
       "facility_id": "291314",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.8297,
       "lon": -119.1148,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "291301",
@@ -72,8 +72,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 39.269,
       "lon": -119.9457,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -145,6 +145,6 @@
     "hospital_employment": 9178,
     "msa_total_employment": 252411,
     "hospital_emp_share": 0.0338,
-    "avg_govt_payer_share": 0.6515
+    "avg_govt_payer_share": 0.3344
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16860",
   "cbsa_name": "Chattanooga, TN-GA",
-  "mdi": 0.3601,
+  "mdi": 0.4341,
   "bbox": [
     -86.79,
     33.94,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 35.0478,
       "lon": -85.2905,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.261,
+      "medicare_discharges": 4543
     },
     {
       "facility_id": "440156",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 35.0333,
       "lon": -85.2674,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.267,
+      "medicare_discharges": 3373
     },
     {
       "facility_id": "440091",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 35.0282,
       "lon": -85.2733,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.479,
+      "medicare_discharges": 7433
     },
     {
       "facility_id": "110236",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.9356,
       "lon": -85.2448,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.167,
+      "medicare_discharges": 187
     }
   ],
   "catchment_counties": [
@@ -115,6 +115,6 @@
     "hospital_employment": 12107,
     "msa_total_employment": 233679,
     "hospital_emp_share": 0.0458,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2996
   }
 }

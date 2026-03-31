@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13900",
   "cbsa_name": "Bismarck, ND",
-  "mdi": 0.2915,
+  "mdi": 0.4548,
   "bbox": [
     -102.86,
     45.15,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 46.8065,
       "lon": -100.7778,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.367,
+      "medicare_discharges": 2390
     },
     {
       "facility_id": "350015",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.808,
       "lon": -100.7817,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.552,
+      "medicare_discharges": 4492
     }
   ],
   "catchment_counties": [
@@ -181,6 +181,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 57308,
     "hospital_emp_share": 0.0448,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4498
   }
 }

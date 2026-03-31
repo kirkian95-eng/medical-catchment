@@ -1,7 +1,7 @@
 {
   "cbsa_code": "37900",
   "cbsa_name": "Peoria, IL",
-  "mdi": 0.5085,
+  "mdi": 0.6105,
   "bbox": [
     -91.12,
     39.42,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.7021,
       "lon": -89.5911,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.427,
+      "medicare_discharges": 8463
     },
     {
       "facility_id": "140209",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.6999,
       "lon": -89.5952,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.272,
+      "medicare_discharges": 2694
     },
     {
       "facility_id": "140120",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.5436,
       "lon": -89.6206,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.23,
+      "medicare_discharges": 670
     },
     {
       "facility_id": "141330",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.4161,
       "lon": -89.4353,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "141309",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.7087,
       "lon": -89.2649,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -126,6 +126,6 @@
     "hospital_employment": 11029,
     "msa_total_employment": 161053,
     "hospital_emp_share": 0.0667,
-    "avg_govt_payer_share": 0.6531
+    "avg_govt_payer_share": 0.3623
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23460",
   "cbsa_name": "Gadsden, AL",
-  "mdi": 0.4879,
+  "mdi": 0.5493,
   "bbox": [
     -87.47,
     33.01,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 34.0093,
       "lon": -85.97,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.273,
+      "medicare_discharges": 1778
     },
     {
       "facility_id": "010046",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 34.0476,
       "lon": -85.9333,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.285,
+      "medicare_discharges": 1846
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 2126,
     "msa_total_employment": 32651,
     "hospital_emp_share": 0.0651,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2784
   }
 }

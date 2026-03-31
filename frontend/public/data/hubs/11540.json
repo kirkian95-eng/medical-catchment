@@ -1,7 +1,7 @@
 {
   "cbsa_code": "11540",
   "cbsa_name": "Appleton, WI",
-  "mdi": 0.1966,
+  "mdi": 0.2503,
   "bbox": [
     -89.9,
     43.03,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.2493,
       "lon": -88.404,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.256,
+      "medicare_discharges": 1484
     },
     {
       "facility_id": "520160",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.278,
       "lon": -88.3955,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.301,
+      "medicare_discharges": 1486
     },
     {
       "facility_id": "521317",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.0261,
       "lon": -88.1763,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -80,6 +80,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 124275,
     "hospital_emp_share": 0.0284,
-    "avg_govt_payer_share": 0.6556
+    "avg_govt_payer_share": 0.2935
   }
 }

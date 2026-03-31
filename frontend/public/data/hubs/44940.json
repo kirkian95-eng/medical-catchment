@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44940",
   "cbsa_name": "Sumter, SC",
-  "mdi": 0.3297,
+  "mdi": 0.4105,
   "bbox": [
     -81.84,
     32.92,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.924,
       "lon": -80.3442,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.311,
+      "medicare_discharges": 2131
     }
   ],
   "catchment_counties": [
@@ -58,6 +58,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 35576,
     "hospital_emp_share": 0.0443,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.311
   }
 }

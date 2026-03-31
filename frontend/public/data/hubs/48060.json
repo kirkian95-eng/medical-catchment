@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48060",
   "cbsa_name": "Watertown-Fort Drum, NY",
-  "mdi": 0.4254,
+  "mdi": 0.4981,
   "bbox": [
     -77.41,
     42.96,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.9645,
       "lon": -75.9129,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.298,
+      "medicare_discharges": 1488
     },
     {
       "facility_id": "330060",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.9774,
       "lon": -75.5923,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "331318",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.9774,
       "lon": -75.5923,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     },
     {
       "facility_id": "331309",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.3318,
       "lon": -75.9095,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -83,6 +83,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 39842,
     "hospital_emp_share": 0.0518,
-    "avg_govt_payer_share": 0.6636
+    "avg_govt_payer_share": 0.366
   }
 }

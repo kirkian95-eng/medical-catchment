@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23580",
   "cbsa_name": "Gainesville, GA",
-  "mdi": 0.2701,
+  "mdi": 0.5431,
   "bbox": [
     -85.32,
     33.3,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 34.3025,
       "lon": -83.8185,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.634,
+      "medicare_discharges": 9423
     }
   ],
   "catchment_counties": [
@@ -114,6 +114,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 100195,
     "hospital_emp_share": 0.0404,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.6345
   }
 }

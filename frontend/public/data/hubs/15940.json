@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15940",
   "cbsa_name": "Canton-Massillon, OH",
-  "mdi": 0.3097,
+  "mdi": 0.3473,
   "bbox": [
     -82.9,
     39.8,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 40.7968,
       "lon": -81.4042,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.23,
+      "medicare_discharges": 3388
     },
     {
       "facility_id": "360070",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.8122,
       "lon": -81.3969,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.273,
+      "medicare_discharges": 2933
     },
     {
       "facility_id": "360131",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.9186,
       "lon": -81.1287,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.183,
+      "medicare_discharges": 360
     }
   ],
   "catchment_counties": [
@@ -72,6 +72,6 @@
     "hospital_employment": 7281,
     "msa_total_employment": 156051,
     "hospital_emp_share": 0.0449,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2383
   }
 }

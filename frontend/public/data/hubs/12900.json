@@ -1,7 +1,7 @@
 {
   "cbsa_code": "12900",
   "cbsa_name": "Batesville, AR",
-  "mdi": 0.5701,
+  "mdi": 0.6879,
   "bbox": [
     -93.13,
     34.77,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.7695,
       "lon": -91.6343,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.373,
+      "medicare_discharges": 2689
     }
   ],
   "catchment_counties": [
@@ -74,6 +74,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 17381,
     "hospital_emp_share": 0.0702,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3732
   }
 }

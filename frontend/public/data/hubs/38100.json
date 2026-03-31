@@ -1,7 +1,7 @@
 {
   "cbsa_code": "38100",
   "cbsa_name": "Picayune, MS",
-  "mdi": 0.4015,
+  "mdi": 0.4328,
   "bbox": [
     -91.11,
     29.53,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 30.5256,
       "lon": -89.6052,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.249,
+      "medicare_discharges": 271
     },
     {
       "facility_id": "251333",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 30.8229,
       "lon": -89.5689,
-      "govt_payer_share": 0.75,
-      "medicare_discharges": null
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 472,
     "msa_total_employment": 11405,
     "hospital_emp_share": 0.0414,
-    "avg_govt_payer_share": 0.6786
+    "avg_govt_payer_share": 0.372
   }
 }

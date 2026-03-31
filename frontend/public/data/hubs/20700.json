@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20700",
   "cbsa_name": "East Stroudsburg, PA",
-  "mdi": 0.2844,
+  "mdi": 0.4111,
   "bbox": [
     -76.79,
     39.97,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.9924,
       "lon": -75.1738,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.312,
+      "medicare_discharges": 2155
     },
     {
       "facility_id": "390330",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.9673,
       "lon": -75.288,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.595,
+      "medicare_discharges": 2577
     }
   ],
   "catchment_counties": [
@@ -77,6 +77,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 55768,
     "hospital_emp_share": 0.0396,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3882
   }
 }

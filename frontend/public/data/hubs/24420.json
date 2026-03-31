@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24420",
   "cbsa_name": "Grants Pass, OR",
-  "mdi": 0.6399,
+  "mdi": 0.7618,
   "bbox": [
     -124.84,
     41.42,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 42.4199,
       "lon": -123.3445,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.38,
+      "medicare_discharges": 1563
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 31017,
     "hospital_emp_share": 0.0769,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.38
   }
 }

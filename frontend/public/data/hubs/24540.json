@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24540",
   "cbsa_name": "Greeley, CO",
-  "mdi": 0.1274,
+  "mdi": 0.1848,
   "bbox": [
     -106.98,
     38.62,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.4148,
       "lon": -104.7089,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.243,
+      "medicare_discharges": 1421
     },
     {
       "facility_id": "060131",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.4206,
       "lon": -104.7248,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.393,
+      "medicare_discharges": 1080
     }
   ],
   "catchment_counties": [
@@ -93,6 +93,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 116173,
     "hospital_emp_share": 0.0238,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2716
   }
 }

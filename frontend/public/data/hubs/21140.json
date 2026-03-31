@@ -1,7 +1,7 @@
 {
   "cbsa_code": "21140",
   "cbsa_name": "Elkhart-Goshen, IN",
-  "mdi": 0.1605,
+  "mdi": 0.2368,
   "bbox": [
     -87.49,
     40.56,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 41.6831,
       "lon": -85.9908,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.305,
+      "medicare_discharges": 2615
     },
     {
       "facility_id": "150026",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.5642,
       "lon": -85.8305,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.3,
+      "medicare_discharges": 1161
     }
   ],
   "catchment_counties": [
@@ -53,6 +53,6 @@
     "hospital_employment": 3648,
     "msa_total_employment": 131337,
     "hospital_emp_share": 0.0278,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3035
   }
 }

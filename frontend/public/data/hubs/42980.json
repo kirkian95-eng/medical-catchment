@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42980",
   "cbsa_name": "Seymour, IN",
-  "mdi": 0.3606,
+  "mdi": 0.3986,
   "bbox": [
     -87.39,
     37.96,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 38.9567,
       "lon": -85.8912,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.239,
+      "medicare_discharges": 359
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 1061,
     "msa_total_employment": 22334,
     "hospital_emp_share": 0.0475,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.239
   }
 }

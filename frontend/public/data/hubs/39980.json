@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39980",
   "cbsa_name": "Richmond, IN",
-  "mdi": 0.3809,
+  "mdi": 0.5416,
   "bbox": [
     -86.38,
     38.86,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.8629,
       "lon": -84.8846,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.446,
+      "medicare_discharges": 4239
     }
   ],
   "catchment_counties": [
@@ -74,6 +74,6 @@
     "hospital_employment": 367,
     "msa_total_employment": 29372,
     "hospital_emp_share": 0.0567,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4456
   }
 }

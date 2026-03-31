@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23780",
   "cbsa_name": "Garden City, KS",
-  "mdi": 0.1939,
+  "mdi": 0.2823,
   "bbox": [
     -102.8,
     36.43,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 37.9689,
       "lon": -100.8685,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.324,
+      "medicare_discharges": 918
     }
   ],
   "catchment_counties": [
@@ -194,6 +194,6 @@
     "hospital_employment": 0,
     "msa_total_employment": 20004,
     "hospital_emp_share": 0.0288,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3238
   }
 }

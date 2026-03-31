@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39740",
   "cbsa_name": "Reading, PA",
-  "mdi": 0.3289,
+  "mdi": 0.4425,
   "bbox": [
     -77.48,
     39.33,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.3296,
       "lon": -75.948,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.391,
+      "medicare_discharges": 8258
     },
     {
       "facility_id": "390096",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.3777,
       "lon": -75.9804,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.302,
+      "medicare_discharges": 2082
     },
     {
       "facility_id": "390316",
@@ -39,8 +39,8 @@
       "ownership": "Physician",
       "lat": 40.3415,
       "lon": -75.9749,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.182,
+      "medicare_discharges": 130
     }
   ],
   "catchment_counties": [
@@ -80,6 +80,6 @@
     "hospital_employment": 7928,
     "msa_total_employment": 171179,
     "hospital_emp_share": 0.0463,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3663
   }
 }

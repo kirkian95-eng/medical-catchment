@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27860",
   "cbsa_name": "Jonesboro, AR",
-  "mdi": 0.6565,
+  "mdi": 0.8118,
   "bbox": [
     -92.2,
     34.84,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.8383,
       "lon": -90.7043,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.42,
+      "medicare_discharges": 4995
     },
     {
       "facility_id": "040118",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.8643,
       "lon": -90.6378,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.468,
+      "medicare_discharges": 3856
     }
   ],
   "catchment_counties": [
@@ -77,6 +77,6 @@
     "hospital_employment": 5002,
     "msa_total_employment": 54001,
     "hospital_emp_share": 0.0844,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.4365
   }
 }

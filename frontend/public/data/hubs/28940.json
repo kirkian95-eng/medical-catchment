@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28940",
   "cbsa_name": "Knoxville, TN",
-  "mdi": 0.2273,
+  "mdi": 0.3006,
   "bbox": [
     -86.02,
     34.75,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.9416,
       "lon": -83.949,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.394,
+      "medicare_discharges": 7139
     },
     {
       "facility_id": "440120",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 36.0527,
       "lon": -83.9962,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.238,
+      "medicare_discharges": 3280
     },
     {
       "facility_id": "440125",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.9589,
       "lon": -83.9332,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.271,
+      "medicare_discharges": 3078
     },
     {
       "facility_id": "440173",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.9181,
       "lon": -84.0996,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.328,
+      "medicare_discharges": 4892
     },
     {
       "facility_id": "440011",
@@ -61,8 +61,8 @@
       "ownership": "Government - Local",
       "lat": 35.7549,
       "lon": -83.9568,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.25,
+      "medicare_discharges": 1931
     },
     {
       "facility_id": "440034",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.0234,
       "lon": -84.2441,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.278,
+      "medicare_discharges": 1952
     },
     {
       "facility_id": "440031",
@@ -83,8 +83,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 35.9454,
       "lon": -84.5164,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.251,
+      "medicare_discharges": 657
     },
     {
       "facility_id": "440033",
@@ -94,8 +94,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 36.3984,
       "lon": -84.073,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.271,
+      "medicare_discharges": 299
     },
     {
       "facility_id": "440110",
@@ -105,8 +105,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 35.7934,
       "lon": -84.2121,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.373,
+      "medicare_discharges": 688
     }
   ],
   "catchment_counties": [
@@ -234,6 +234,6 @@
     "hospital_employment": 15023,
     "msa_total_employment": 404008,
     "hospital_emp_share": 0.0362,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2985
   }
 }

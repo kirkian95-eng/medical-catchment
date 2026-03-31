@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34820",
   "cbsa_name": "Myrtle Beach-Conway-North Myrtle Beach, SC",
-  "mdi": 0.3308,
+  "mdi": 0.5312,
   "bbox": [
     -80.55,
     32.55,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 33.7554,
       "lon": -78.8171,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.52,
+      "medicare_discharges": 7467
     },
     {
       "facility_id": "420049",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.7865,
       "lon": -79.0026,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.326,
+      "medicare_discharges": 2242
     },
     {
       "facility_id": "420098",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.546,
       "lon": -79.0496,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.506,
+      "medicare_discharges": 2752
     },
     {
       "facility_id": "420105",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.0573,
       "lon": -78.8982,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.865,
+      "medicare_discharges": 3856
     }
   ],
   "catchment_counties": [
@@ -75,6 +75,6 @@
     "hospital_employment": 6190,
     "msa_total_employment": 141154,
     "hospital_emp_share": 0.0439,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.5124
   }
 }

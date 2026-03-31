@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28700",
   "cbsa_name": "Kingsport-Bristol, TN-VA",
-  "mdi": 0.246,
+  "mdi": 0.3208,
   "bbox": [
     -84.44,
     35.42,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 36.5893,
       "lon": -82.2539,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.383,
+      "medicare_discharges": 3282
     },
     {
       "facility_id": "440176",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.5516,
       "lon": -82.5175,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.166,
+      "medicare_discharges": 264
     },
     {
       "facility_id": "490053",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.7099,
       "lon": -81.9121,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.433,
+      "medicare_discharges": 1695
     },
     {
       "facility_id": "440032",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.4243,
       "lon": -82.9414,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.176,
+      "medicare_discharges": 70
     }
   ],
   "catchment_counties": [
@@ -139,6 +139,6 @@
     "hospital_employment": 4236,
     "msa_total_employment": 101321,
     "hospital_emp_share": 0.0365,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3009
   }
 }

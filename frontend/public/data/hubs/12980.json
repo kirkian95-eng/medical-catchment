@@ -1,7 +1,7 @@
 {
   "cbsa_code": "12980",
   "cbsa_name": "Battle Creek, MI",
-  "mdi": 0.5945,
+  "mdi": 0.6701,
   "bbox": [
     -86.68,
     41.27,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 42.3318,
       "lon": -85.1802,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.336,
+      "medicare_discharges": 1904
     },
     {
       "facility_id": "230217",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 42.2737,
       "lon": -84.9577,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.229,
+      "medicare_discharges": 530
     }
   ],
   "catchment_counties": [
@@ -53,6 +53,6 @@
     "hospital_employment": 4100,
     "msa_total_employment": 53563,
     "hospital_emp_share": 0.0765,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3024
   }
 }

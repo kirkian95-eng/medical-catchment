@@ -1,7 +1,7 @@
 {
   "cbsa_code": "21220",
   "cbsa_name": "Elko, NV",
-  "mdi": 0.1122,
+  "mdi": 0.1613,
   "bbox": [
     -117.23,
     39.82,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 40.8224,
       "lon": -115.7292,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.258,
+      "medicare_discharges": 654
     }
   ],
   "catchment_counties": [
@@ -50,6 +50,6 @@
     "hospital_employment": 44,
     "msa_total_employment": 22401,
     "hospital_emp_share": 0.0207,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.2577
   }
 }

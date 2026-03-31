@@ -1,7 +1,7 @@
 {
   "cbsa_code": "45140",
   "cbsa_name": "Tahlequah, OK",
-  "mdi": 0.4273,
+  "mdi": 0.5366,
   "bbox": [
     -96.45,
     34.91,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 35.9153,
       "lon": -94.95,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.382,
+      "medicare_discharges": 1165
     },
     {
       "facility_id": "370171",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 35.9132,
       "lon": -94.9489,
-      "govt_payer_share": 0.65,
-      "medicare_discharges": null
+      "govt_payer_share": 0.321,
+      "medicare_discharges": 656
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 77,
     "msa_total_employment": 17552,
     "hospital_emp_share": 0.0479,
-    "avg_govt_payer_share": 0.65
+    "avg_govt_payer_share": 0.3591
   }
 }
