@@ -10,8 +10,9 @@ export default {
       },
       colors: {
         sidebar: '#0f172a',
-        accent: '#d73027',
+        accent: '#c0392b',
         'accent-light': '#fc8d59',
+        paper: '#f7f4ef',
       },
     },
   },
