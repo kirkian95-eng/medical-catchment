@@ -1,0 +1,181 @@
+{
+  "cbsa_code": "24340",
+  "cbsa_name": "Grand Rapids-Wyoming-Kentwood, MI",
+  "mdi": 0.3776,
+  "bbox": [
+    -87.65,
+    41.64,
+    -83.36,
+    44.21
+  ],
+  "hospitals": [
+    {
+      "facility_id": "230038",
+      "name": "SPECTRUM HEALTH",
+      "beds": 1135,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.9704,
+      "lon": -85.6663,
+      "govt_payer_share": 0.187,
+      "medicare_discharges": 7509
+    },
+    {
+      "facility_id": "230059",
+      "name": "MERCY HEALTH SAINT MARY'S",
+      "beds": 230,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 42.9621,
+      "lon": -85.6594,
+      "govt_payer_share": 0.214,
+      "medicare_discharges": 2104
+    },
+    {
+      "facility_id": "230236",
+      "name": "UNIVERSITY OF MICHIGAN HEALTH - WEST",
+      "beds": 208,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.8568,
+      "lon": -85.7229,
+      "govt_payer_share": 0.165,
+      "medicare_discharges": 1255
+    },
+    {
+      "facility_id": "230072",
+      "name": "HOLLAND COMMUNITY HOSPITAL",
+      "beds": 193,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.7748,
+      "lon": -86.1128,
+      "govt_payer_share": 0.298,
+      "medicare_discharges": 1021
+    },
+    {
+      "facility_id": "230208",
+      "name": "UNIVERSITY OF MICHIGAN HEALTH-SPARROW CARSON",
+      "beds": 103,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 43.1839,
+      "lon": -84.856,
+      "govt_payer_share": 0.294,
+      "medicare_discharges": 140
+    },
+    {
+      "facility_id": "230174",
+      "name": "TRINITY HEALTH GRAND HAVEN HOSPITAL",
+      "beds": 81,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 43.0092,
+      "lon": -86.152,
+      "govt_payer_share": 0.251,
+      "medicare_discharges": 166
+    },
+    {
+      "facility_id": "230003",
+      "name": "COREWELL HEALTH ZEELAND HOSPITAL",
+      "beds": 57,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.8196,
+      "lon": -85.9879,
+      "govt_payer_share": 0.135,
+      "medicare_discharges": 302
+    },
+    {
+      "facility_id": "230035",
+      "name": "SPECTRUM HEALTH UNITED HOSPITAL",
+      "beds": 48,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 43.175,
+      "lon": -85.2688,
+      "govt_payer_share": 0.258,
+      "medicare_discharges": 494
+    },
+    {
+      "facility_id": "231312",
+      "name": "SHERIDAN COMMUNITY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.2098,
+      "lon": -85.0492,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 10
+    },
+    {
+      "facility_id": "231331",
+      "name": "SPARROW IONIA HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.9861,
+      "lon": -85.0579,
+      "govt_payer_share": 0.282,
+      "medicare_discharges": 159
+    },
+    {
+      "facility_id": "231339",
+      "name": "COREWELL HEALTH PENNOCK HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 42.6443,
+      "lon": -85.3023,
+      "govt_payer_share": 0.234,
+      "medicare_discharges": 298
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "26081",
+      "county_name": "Kent",
+      "state": "MI",
+      "pop_total": 657321,
+      "pop_65_plus": 93213,
+      "distance_to_hub_miles": 8.3
+    },
+    {
+      "county_fips": "26005",
+      "county_name": "Allegan",
+      "state": "MI",
+      "pop_total": 120189,
+      "pop_65_plus": 20871,
+      "distance_to_hub_miles": 40.0
+    },
+    {
+      "county_fips": "26117",
+      "county_name": "Montcalm",
+      "state": "MI",
+      "pop_total": 66901,
+      "pop_65_plus": 11668,
+      "distance_to_hub_miles": 36.1
+    },
+    {
+      "county_fips": "26067",
+      "county_name": "Ionia",
+      "state": "MI",
+      "pop_total": 66663,
+      "pop_65_plus": 10226,
+      "distance_to_hub_miles": 30.2
+    }
+  ],
+  "summary": {
+    "total_beds": 2130,
+    "catchment_pop": 911074,
+    "catchment_pop_65_plus": 135978,
+    "catchment_pct_65_plus": 0.1493,
+    "max_catchment_radius_miles": 40.0,
+    "avg_catchment_distance_miles": 16.1,
+    "num_counties": 4,
+    "hospital_employment": 32957,
+    "msa_total_employment": 594287,
+    "hospital_emp_share": 0.0311,
+    "avg_govt_payer_share": 0.2123
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "cbsa_code": "32940",
+  "cbsa_name": "Meridian, MS",
+  "mdi": 0.9364,
+  "bbox": [
+    -90.2,
+    31.06,
+    -87.09,
+    33.37
+  ],
+  "hospitals": [
+    {
+      "facility_id": "250104",
+      "name": "ANDERSON REGIONAL MEDICAL CENTER",
+      "beds": 260,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.3709,
+      "lon": -88.699,
+      "govt_payer_share": 0.552,
+      "medicare_discharges": 2591
+    },
+    {
+      "facility_id": "250069",
+      "name": "OCHSNER RUSH HOSPITAL",
+      "beds": 215,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.3699,
+      "lon": -88.6977,
+      "govt_payer_share": 0.455,
+      "medicare_discharges": 1320
+    },
+    {
+      "facility_id": "250081",
+      "name": "ANDERSON REGIONAL MEDICAL CENTER SOUTH CAMPUS",
+      "beds": 140,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.2761,
+      "lon": -88.5929,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 1
+    },
+    {
+      "facility_id": "250151",
+      "name": "ALLIANCE HEALTH CENTER",
+      "beds": 134,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.2761,
+      "lon": -88.5929,
+      "govt_payer_share": 0.736,
+      "medicare_discharges": 119
+    },
+    {
+      "facility_id": "251316",
+      "name": "OCHSNER WATKINS HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.0588,
+      "lon": -88.619,
+      "govt_payer_share": 0.485,
+      "medicare_discharges": 37
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "28075",
+      "county_name": "Lauderdale",
+      "state": "MS",
+      "pop_total": 72741,
+      "pop_65_plus": 12992,
+      "distance_to_hub_miles": 5.3
+    },
+    {
+      "county_fips": "28099",
+      "county_name": "Neshoba",
+      "state": "MS",
+      "pop_total": 28970,
+      "pop_65_plus": 4791,
+      "distance_to_hub_miles": 39.8
+    },
+    {
+      "county_fips": "28101",
+      "county_name": "Newton",
+      "state": "MS",
+      "pop_total": 21275,
+      "pop_65_plus": 3679,
+      "distance_to_hub_miles": 27.3
+    },
+    {
+      "county_fips": "01091",
+      "county_name": "Marengo",
+      "state": "AL",
+      "pop_total": 19180,
+      "pop_65_plus": 3818,
+      "distance_to_hub_miles": 51.1
+    },
+    {
+      "county_fips": "28023",
+      "county_name": "Clarke",
+      "state": "MS",
+      "pop_total": 15553,
+      "pop_65_plus": 3221,
+      "distance_to_hub_miles": 19.7
+    },
+    {
+      "county_fips": "01023",
+      "county_name": "Choctaw",
+      "state": "AL",
+      "pop_total": 12669,
+      "pop_65_plus": 2950,
+      "distance_to_hub_miles": 31.3
+    },
+    {
+      "county_fips": "01119",
+      "county_name": "Sumter",
+      "state": "AL",
+      "pop_total": 12196,
+      "pop_65_plus": 2269,
+      "distance_to_hub_miles": 32.4
+    },
+    {
+      "county_fips": "28069",
+      "county_name": "Kemper",
+      "state": "MS",
+      "pop_total": 8980,
+      "pop_65_plus": 1853,
+      "distance_to_hub_miles": 29.6
+    }
+  ],
+  "summary": {
+    "total_beds": 774,
+    "catchment_pop": 191564,
+    "catchment_pop_65_plus": 35573,
+    "catchment_pct_65_plus": 0.1857,
+    "max_catchment_radius_miles": 51.1,
+    "avg_catchment_distance_miles": 23.3,
+    "num_counties": 8,
+    "hospital_employment": 3371,
+    "msa_total_employment": 34139,
+    "hospital_emp_share": 0.0712,
+    "avg_govt_payer_share": 0.5634
+  }
+}

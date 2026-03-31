@@ -1,0 +1,142 @@
+{
+  "cbsa_code": "17900",
+  "cbsa_name": "Columbia, SC",
+  "mdi": 0.433,
+  "bbox": [
+    -82.65,
+    33.0,
+    -79.09,
+    35.25
+  ],
+  "hospitals": [
+    {
+      "facility_id": "420018",
+      "name": "PRISMA HEALTH RICHLAND HOSPITAL",
+      "beds": 649,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.066,
+      "lon": -81.0244,
+      "govt_payer_share": 0.264,
+      "medicare_discharges": 4660
+    },
+    {
+      "facility_id": "420073",
+      "name": "LEXINGTON MEDICAL CENTER",
+      "beds": 460,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.0046,
+      "lon": -81.1158,
+      "govt_payer_share": 0.344,
+      "medicare_discharges": 8799
+    },
+    {
+      "facility_id": "420086",
+      "name": "PRISMA HEALTH BAPTIST",
+      "beds": 352,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.0071,
+      "lon": -81.0341,
+      "govt_payer_share": 0.252,
+      "medicare_discharges": 1695
+    },
+    {
+      "facility_id": "420026",
+      "name": "MUSC HEALTH COLUMBIA MEDICAL CENTER DOWNTOWN",
+      "beds": 258,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.029,
+      "lon": -80.9998,
+      "govt_payer_share": 0.332,
+      "medicare_discharges": 2869
+    },
+    {
+      "facility_id": "420048",
+      "name": "KERSHAWHEALTH",
+      "beds": 119,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.2525,
+      "lon": -80.5895,
+      "govt_payer_share": 0.374,
+      "medicare_discharges": 909
+    },
+    {
+      "facility_id": "420106",
+      "name": "PRISMA HEALTH BAPTIST PARKRIDGE",
+      "beds": 76,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.0803,
+      "lon": -81.1498,
+      "govt_payer_share": 0.248,
+      "medicare_discharges": 1130
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "45079",
+      "county_name": "Richland",
+      "state": "SC",
+      "pop_total": 416161,
+      "pop_65_plus": 55763,
+      "distance_to_hub_miles": 7.0
+    },
+    {
+      "county_fips": "45063",
+      "county_name": "Lexington",
+      "state": "SC",
+      "pop_total": 295934,
+      "pop_65_plus": 48859,
+      "distance_to_hub_miles": 17.5
+    },
+    {
+      "county_fips": "45075",
+      "county_name": "Orangeburg",
+      "state": "SC",
+      "pop_total": 84159,
+      "pop_65_plus": 17058,
+      "distance_to_hub_miles": 44.0
+    },
+    {
+      "county_fips": "45055",
+      "county_name": "Kershaw",
+      "state": "SC",
+      "pop_total": 65779,
+      "pop_65_plus": 12225,
+      "distance_to_hub_miles": 31.8
+    },
+    {
+      "county_fips": "45039",
+      "county_name": "Fairfield",
+      "state": "SC",
+      "pop_total": 20942,
+      "pop_65_plus": 4700,
+      "distance_to_hub_miles": 24.6
+    },
+    {
+      "county_fips": "45017",
+      "county_name": "Calhoun",
+      "state": "SC",
+      "pop_total": 14145,
+      "pop_65_plus": 3334,
+      "distance_to_hub_miles": 29.3
+    }
+  ],
+  "summary": {
+    "total_beds": 1914,
+    "catchment_pop": 897120,
+    "catchment_pop_65_plus": 141939,
+    "catchment_pct_65_plus": 0.1582,
+    "max_catchment_radius_miles": 44.0,
+    "avg_catchment_distance_miles": 16.5,
+    "num_counties": 6,
+    "hospital_employment": 11417,
+    "msa_total_employment": 372488,
+    "hospital_emp_share": 0.032,
+    "avg_govt_payer_share": 0.2963
+  }
+}

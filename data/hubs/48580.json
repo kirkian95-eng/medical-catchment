@@ -1,0 +1,58 @@
+{
+  "cbsa_code": "48580",
+  "cbsa_name": "Whitewater-Elkhorn, WI",
+  "mdi": 0.2983,
+  "bbox": [
+    -90.04,
+    41.6,
+    -87.01,
+    43.66
+  ],
+  "hospitals": [
+    {
+      "facility_id": "520102",
+      "name": "AURORA LAKELAND MEDICAL CENTER",
+      "beds": 99,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.6577,
+      "lon": -88.5099,
+      "govt_payer_share": 0.339,
+      "medicare_discharges": 825
+    },
+    {
+      "facility_id": "521357",
+      "name": "MERCY WALWORTH HOSPITAL & MEDICAL CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.5989,
+      "lon": -88.5409,
+      "govt_payer_share": 0.433,
+      "medicare_discharges": 365
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "55127",
+      "county_name": "Walworth",
+      "state": "WI",
+      "pop_total": 105127,
+      "pop_65_plus": 19620,
+      "distance_to_hub_miles": 2.0
+    }
+  ],
+  "summary": {
+    "total_beds": 124,
+    "catchment_pop": 105127,
+    "catchment_pop_65_plus": 19620,
+    "catchment_pct_65_plus": 0.1866,
+    "max_catchment_radius_miles": 2.0,
+    "avg_catchment_distance_miles": 2.0,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 43550,
+    "hospital_emp_share": 0.0128,
+    "avg_govt_payer_share": 0.3583
+  }
+}

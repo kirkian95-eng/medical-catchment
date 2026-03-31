@@ -1,0 +1,69 @@
+{
+  "cbsa_code": "11020",
+  "cbsa_name": "Altoona, PA",
+  "mdi": 0.4097,
+  "bbox": [
+    -79.9,
+    39.31,
+    -76.74,
+    41.67
+  ],
+  "hospitals": [
+    {
+      "facility_id": "390073",
+      "name": "UPMC ALTOONA",
+      "beds": 398,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.5212,
+      "lon": -78.3983,
+      "govt_payer_share": 0.247,
+      "medicare_discharges": 2903
+    },
+    {
+      "facility_id": "390062",
+      "name": "CONEMAUGH NASON MEDICAL CENTER",
+      "beds": 45,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 40.3052,
+      "lon": -78.389,
+      "govt_payer_share": 0.226,
+      "medicare_discharges": 411
+    },
+    {
+      "facility_id": "391307",
+      "name": "PENN HIGHLANDS TYRONE",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.6704,
+      "lon": -78.2405,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 66
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42013",
+      "county_name": "Blair",
+      "state": "PA",
+      "pop_total": 122640,
+      "pop_65_plus": 25616,
+      "distance_to_hub_miles": 2.8
+    }
+  ],
+  "summary": {
+    "total_beds": 468,
+    "catchment_pop": 122640,
+    "catchment_pop_65_plus": 25616,
+    "catchment_pct_65_plus": 0.2089,
+    "max_catchment_radius_miles": 2.8,
+    "avg_catchment_distance_miles": 2.8,
+    "num_counties": 1,
+    "hospital_employment": 3622,
+    "msa_total_employment": 57590,
+    "hospital_emp_share": 0.0285,
+    "avg_govt_payer_share": 0.2642
+  }
+}

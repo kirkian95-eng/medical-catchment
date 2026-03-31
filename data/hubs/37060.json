@@ -1,0 +1,82 @@
+{
+  "cbsa_code": "37060",
+  "cbsa_name": "Oxford, MS",
+  "mdi": 0.6389,
+  "bbox": [
+    -91.09,
+    33.13,
+    -88.02,
+    35.35
+  ],
+  "hospitals": [
+    {
+      "facility_id": "250034",
+      "name": "BAPTIST MEMORIAL HOSPITAL NORTH MS",
+      "beds": 217,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.3466,
+      "lon": -89.5203,
+      "govt_payer_share": 0.525,
+      "medicare_discharges": 4666
+    },
+    {
+      "facility_id": "250061",
+      "name": "YALOBUSHA GENERAL HOSPITAL",
+      "beds": 32,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 34.135,
+      "lon": -89.5909,
+      "govt_payer_share": 0.786,
+      "medicare_discharges": 166
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "28071",
+      "county_name": "Lafayette",
+      "state": "MS",
+      "pop_total": 56172,
+      "pop_65_plus": 7363,
+      "distance_to_hub_miles": 3.6
+    },
+    {
+      "county_fips": "28107",
+      "county_name": "Panola",
+      "state": "MS",
+      "pop_total": 33157,
+      "pop_65_plus": 5556,
+      "distance_to_hub_miles": 24.2
+    },
+    {
+      "county_fips": "28013",
+      "county_name": "Calhoun",
+      "state": "MS",
+      "pop_total": 13193,
+      "pop_65_plus": 2588,
+      "distance_to_hub_miles": 28.7
+    },
+    {
+      "county_fips": "28161",
+      "county_name": "Yalobusha",
+      "state": "MS",
+      "pop_total": 12499,
+      "pop_65_plus": 2609,
+      "distance_to_hub_miles": 22.5
+    }
+  ],
+  "summary": {
+    "total_beds": 249,
+    "catchment_pop": 115021,
+    "catchment_pop_65_plus": 18116,
+    "catchment_pct_65_plus": 0.1575,
+    "max_catchment_radius_miles": 28.7,
+    "avg_catchment_distance_miles": 14.5,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 27751,
+    "hospital_emp_share": 0.0402,
+    "avg_govt_payer_share": 0.5588
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "cbsa_code": "12580",
+  "cbsa_name": "Baltimore-Columbia-Towson, MD",
+  "mdi": 0.5102,
+  "bbox": [
+    -78.49,
+    37.99,
+    -74.84,
+    40.56
+  ],
+  "hospitals": [
+    {
+      "facility_id": "210009",
+      "name": "JOHNS HOPKINS HOSPITAL, THE",
+      "beds": 1025,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.2974,
+      "lon": -76.5909,
+      "govt_payer_share": 0.384,
+      "medicare_discharges": 9965
+    },
+    {
+      "facility_id": "210002",
+      "name": "UNIVERSITY OF MARYLAND MEDICAL CENTER",
+      "beds": 816,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.2886,
+      "lon": -76.6238,
+      "govt_payer_share": 0.307,
+      "medicare_discharges": 3643
+    },
+    {
+      "facility_id": "210029",
+      "name": "JOHNS HOPKINS BAYVIEW MEDICAL CENTER",
+      "beds": 430,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.2872,
+      "lon": -76.5548,
+      "govt_payer_share": 0.472,
+      "medicare_discharges": 5215
+    },
+    {
+      "facility_id": "210012",
+      "name": "SINAI HOSPITAL OF BALTIMORE",
+      "beds": 413,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.3532,
+      "lon": -76.665,
+      "govt_payer_share": 0.404,
+      "medicare_discharges": 5091
+    },
+    {
+      "facility_id": "210011",
+      "name": "SAINT AGNES HOSPITAL",
+      "beds": 407,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 39.2842,
+      "lon": -76.6914,
+      "govt_payer_share": 0.424,
+      "medicare_discharges": 3396
+    },
+    {
+      "facility_id": "210015",
+      "name": "MEDSTAR FRANKLIN SQUARE MEDICAL CENTER",
+      "beds": 405,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.3481,
+      "lon": -76.4825,
+      "govt_payer_share": 0.44,
+      "medicare_discharges": 6427
+    },
+    {
+      "facility_id": "210034",
+      "name": "MEDSTAR HARBOR HOSPITAL",
+      "beds": 376,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.2511,
+      "lon": -76.6146,
+      "govt_payer_share": 0.479,
+      "medicare_discharges": 2120
+    },
+    {
+      "facility_id": "210023",
+      "name": "LUMINIS HEALTH ANNE ARUNDEL MEDICAL CENTER, INC",
+      "beds": 370,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.9904,
+      "lon": -76.5339,
+      "govt_payer_share": 0.471,
+      "medicare_discharges": 9411
+    },
+    {
+      "facility_id": "210024",
+      "name": "MEDSTAR UNION MEMORIAL HOSPITAL",
+      "beds": 370,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.3301,
+      "lon": -76.6015,
+      "govt_payer_share": 0.471,
+      "medicare_discharges": 3774
+    },
+    {
+      "facility_id": "210043",
+      "name": "UNIVERSITY OF MD BALTIMORE WASHINGTON MEDICAL CENTER",
+      "beds": 329,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.1395,
+      "lon": -76.6246,
+      "govt_payer_share": 0.443,
+      "medicare_discharges": 5836
+    },
+    {
+      "facility_id": "210044",
+      "name": "GREATER BALTIMORE MEDICAL CENTER",
+      "beds": 303,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.3948,
+      "lon": -76.6274,
+      "govt_payer_share": 0.399,
+      "medicare_discharges": 4525
+    },
+    {
+      "facility_id": "210008",
+      "name": "MERCY MEDICAL CENTER INC",
+      "beds": 285,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 39.2923,
+      "lon": -76.6139,
+      "govt_payer_share": 0.262,
+      "medicare_discharges": 2206
+    },
+    {
+      "facility_id": "210038",
+      "name": "UNIVERSITY OF MD MEDICAL CENTER MIDTOWN CAMPUS",
+      "beds": 276,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.295,
+      "lon": -76.6223,
+      "govt_payer_share": 0.288,
+      "medicare_discharges": 907
+    },
+    {
+      "facility_id": "210063",
+      "name": "UNIVERSITY OF MD ST JOSEPH MEDICAL CENTER",
+      "beds": 238,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.3955,
+      "lon": -76.6152,
+      "govt_payer_share": 0.413,
+      "medicare_discharges": 5180
+    },
+    {
+      "facility_id": "210048",
+      "name": "JOHNS HOPKINS HOWARD COUNTY MEDICAL CENTER",
+      "beds": 233,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.2126,
+      "lon": -76.8867,
+      "govt_payer_share": 0.429,
+      "medicare_discharges": 5854
+    },
+    {
+      "facility_id": "210049",
+      "name": "UMD UPPER CHESAPEAKE MEDICAL CENTER",
+      "beds": 219,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.5184,
+      "lon": -76.3446,
+      "govt_payer_share": 0.5,
+      "medicare_discharges": 5607
+    },
+    {
+      "facility_id": "210040",
+      "name": "NORTHWEST HOSPITAL CENTER",
+      "beds": 215,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.3784,
+      "lon": -76.8113,
+      "govt_payer_share": 0.483,
+      "medicare_discharges": 3095
+    },
+    {
+      "facility_id": "210056",
+      "name": "MEDSTAR GOOD SAMARITAN HOSPITAL",
+      "beds": 208,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.3652,
+      "lon": -76.5871,
+      "govt_payer_share": 0.698,
+      "medicare_discharges": 3871
+    },
+    {
+      "facility_id": "210033",
+      "name": "CARROLL HOSPITAL CENTER",
+      "beds": 158,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.5578,
+      "lon": -76.99,
+      "govt_payer_share": 0.531,
+      "medicare_discharges": 4368
+    },
+    {
+      "facility_id": "210064",
+      "name": "LEVINDALE HEBREW GERIATRIC CENTER AND HOSPITAL",
+      "beds": 100,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.3753,
+      "lon": -76.6626,
+      "govt_payer_share": 0.692,
+      "medicare_discharges": 658
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "24005",
+      "county_name": "Baltimore",
+      "state": "MD",
+      "pop_total": 850737,
+      "pop_65_plus": 149892,
+      "distance_to_hub_miles": 9.9
+    },
+    {
+      "county_fips": "24003",
+      "county_name": "Anne Arundel",
+      "state": "MD",
+      "pop_total": 588109,
+      "pop_65_plus": 90442,
+      "distance_to_hub_miles": 21.2
+    },
+    {
+      "county_fips": "24510",
+      "county_name": "Baltimore",
+      "state": "MD",
+      "pop_total": 584548,
+      "pop_65_plus": 86395,
+      "distance_to_hub_miles": 0.5
+    },
+    {
+      "county_fips": "24027",
+      "county_name": "Howard",
+      "state": "MD",
+      "pop_total": 332011,
+      "pop_65_plus": 48061,
+      "distance_to_hub_miles": 17.0
+    },
+    {
+      "county_fips": "24025",
+      "county_name": "Harford",
+      "state": "MD",
+      "pop_total": 261059,
+      "pop_65_plus": 43523,
+      "distance_to_hub_miles": 23.6
+    },
+    {
+      "county_fips": "24013",
+      "county_name": "Carroll",
+      "state": "MD",
+      "pop_total": 173225,
+      "pop_65_plus": 30086,
+      "distance_to_hub_miles": 28.1
+    },
+    {
+      "county_fips": "24015",
+      "county_name": "Cecil",
+      "state": "MD",
+      "pop_total": 103876,
+      "pop_65_plus": 17005,
+      "distance_to_hub_miles": 40.2
+    },
+    {
+      "county_fips": "24029",
+      "county_name": "Kent",
+      "state": "MD",
+      "pop_total": 19289,
+      "pop_65_plus": 5169,
+      "distance_to_hub_miles": 28.4
+    }
+  ],
+  "summary": {
+    "total_beds": 7176,
+    "catchment_pop": 2912854,
+    "catchment_pop_65_plus": 470573,
+    "catchment_pct_65_plus": 0.1616,
+    "max_catchment_radius_miles": 40.2,
+    "avg_catchment_distance_miles": 14.6,
+    "num_counties": 8,
+    "hospital_employment": 66009,
+    "msa_total_employment": 1310274,
+    "hospital_emp_share": 0.0372,
+    "avg_govt_payer_share": 0.4214
+  }
+}

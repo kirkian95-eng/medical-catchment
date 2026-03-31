@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "14700",
+  "cbsa_name": "Branson, MO",
+  "mdi": 0.5066,
+  "bbox": [
+    -94.72,
+    35.64,
+    -91.72,
+    37.64
+  ],
+  "hospitals": [
+    {
+      "facility_id": "260094",
+      "name": "COX MEDICAL CENTER BRANSON",
+      "beds": 157,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.6422,
+      "lon": -93.2169,
+      "govt_payer_share": 0.319,
+      "medicare_discharges": 1380
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "29213",
+      "county_name": "Taney",
+      "state": "MO",
+      "pop_total": 56202,
+      "pop_65_plus": 12549,
+      "distance_to_hub_miles": 9.8
+    },
+    {
+      "county_fips": "29209",
+      "county_name": "Stone",
+      "state": "MO",
+      "pop_total": 31314,
+      "pop_65_plus": 9785,
+      "distance_to_hub_miles": 15.1
+    }
+  ],
+  "summary": {
+    "total_beds": 157,
+    "catchment_pop": 87516,
+    "catchment_pop_65_plus": 22334,
+    "catchment_pct_65_plus": 0.2552,
+    "max_catchment_radius_miles": 15.1,
+    "avg_catchment_distance_miles": 11.7,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 28261,
+    "hospital_emp_share": 0.0333,
+    "avg_govt_payer_share": 0.3191
+  }
+}

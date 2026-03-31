@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "43060",
+  "cbsa_name": "Shawnee, OK",
+  "mdi": 0.5557,
+  "bbox": [
+    -98.44,
+    34.36,
+    -95.44,
+    36.36
+  ],
+  "hospitals": [
+    {
+      "facility_id": "370149",
+      "name": "SSM HEALTH ST ANTHONY HOSPITAL - SHAWNEE",
+      "beds": 96,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.3618,
+      "lon": -96.9394,
+      "govt_payer_share": 0.519,
+      "medicare_discharges": 1204
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "40125",
+      "county_name": "Pottawatomie",
+      "state": "OK",
+      "pop_total": 72734,
+      "pop_65_plus": 11876,
+      "distance_to_hub_miles": 10.7
+    },
+    {
+      "county_fips": "40133",
+      "county_name": "Seminole",
+      "state": "OK",
+      "pop_total": 23592,
+      "pop_65_plus": 4269,
+      "distance_to_hub_miles": 22.6
+    }
+  ],
+  "summary": {
+    "total_beds": 96,
+    "catchment_pop": 96326,
+    "catchment_pop_65_plus": 16145,
+    "catchment_pct_65_plus": 0.1676,
+    "max_catchment_radius_miles": 22.6,
+    "avg_catchment_distance_miles": 13.6,
+    "num_counties": 2,
+    "hospital_employment": 995,
+    "msa_total_employment": 22622,
+    "hospital_emp_share": 0.0324,
+    "avg_govt_payer_share": 0.5193
+  }
+}

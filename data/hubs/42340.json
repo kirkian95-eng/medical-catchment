@@ -1,0 +1,96 @@
+{
+  "cbsa_code": "42340",
+  "cbsa_name": "Savannah, GA",
+  "mdi": 0.3783,
+  "bbox": [
+    -82.85,
+    30.99,
+    -79.59,
+    33.43
+  ],
+  "hospitals": [
+    {
+      "facility_id": "110036",
+      "name": "SAVANNAH HEALTH SERVICES LLC DBA MEMORIAL HEALTH UNIVERSITY MEDICAL CENTER",
+      "beds": 619,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 32.0318,
+      "lon": -81.0917,
+      "govt_payer_share": 0.213,
+      "medicare_discharges": 5285
+    },
+    {
+      "facility_id": "110024",
+      "name": "CANDLER HOSPITAL",
+      "beds": 320,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 32.0272,
+      "lon": -81.1019,
+      "govt_payer_share": 0.291,
+      "medicare_discharges": 1900
+    },
+    {
+      "facility_id": "110043",
+      "name": "ST JOSEPH'S HOSPITAL - SAVANNAH",
+      "beds": 294,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 31.9854,
+      "lon": -81.2357,
+      "govt_payer_share": 0.341,
+      "medicare_discharges": 3075
+    },
+    {
+      "facility_id": "111306",
+      "name": "EFFINGHAM HEALTH SYSTEM",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.4273,
+      "lon": -81.35,
+      "govt_payer_share": 0.31,
+      "medicare_discharges": 53
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "13051",
+      "county_name": "Chatham",
+      "state": "GA",
+      "pop_total": 296266,
+      "pop_65_plus": 48008,
+      "distance_to_hub_miles": 4.3
+    },
+    {
+      "county_fips": "13103",
+      "county_name": "Effingham",
+      "state": "GA",
+      "pop_total": 65314,
+      "pop_65_plus": 7771,
+      "distance_to_hub_miles": 26.4
+    },
+    {
+      "county_fips": "13029",
+      "county_name": "Bryan",
+      "state": "GA",
+      "pop_total": 44995,
+      "pop_65_plus": 4732,
+      "distance_to_hub_miles": 18.2
+    }
+  ],
+  "summary": {
+    "total_beds": 1258,
+    "catchment_pop": 406575,
+    "catchment_pop_65_plus": 60511,
+    "catchment_pct_65_plus": 0.1488,
+    "max_catchment_radius_miles": 26.4,
+    "avg_catchment_distance_miles": 9.4,
+    "num_counties": 3,
+    "hospital_employment": 8885,
+    "msa_total_employment": 181696,
+    "hospital_emp_share": 0.0279,
+    "avg_govt_payer_share": 0.2649
+  }
+}

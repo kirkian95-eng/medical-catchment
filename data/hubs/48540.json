@@ -1,0 +1,120 @@
+{
+  "cbsa_code": "48540",
+  "cbsa_name": "Wheeling, WV-OH",
+  "mdi": 0.6661,
+  "bbox": [
+    -82.67,
+    38.95,
+    -79.2,
+    41.12
+  ],
+  "hospitals": [
+    {
+      "facility_id": "510050",
+      "name": "WHEELING HOSPITAL, INC",
+      "beds": 277,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 40.0668,
+      "lon": -80.696,
+      "govt_payer_share": 0.401,
+      "medicare_discharges": 2924
+    },
+    {
+      "facility_id": "360080",
+      "name": "EAST OHIO REGIONAL HOSPITAL",
+      "beds": 161,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 40.1203,
+      "lon": -80.7398,
+      "govt_payer_share": 0.258,
+      "medicare_discharges": 389
+    },
+    {
+      "facility_id": "510013",
+      "name": "REYNOLDS MEMORIAL HOSPITAL",
+      "beds": 127,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9467,
+      "lon": -80.7541,
+      "govt_payer_share": 0.279,
+      "medicare_discharges": 816
+    },
+    {
+      "facility_id": "361321",
+      "name": "BARNESVILLE HOSPITAL ASSOCIATION, INC",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9899,
+      "lon": -81.1737,
+      "govt_payer_share": 0.39,
+      "medicare_discharges": 114
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "39013",
+      "county_name": "Belmont",
+      "state": "OH",
+      "pop_total": 66554,
+      "pop_65_plus": 14041,
+      "distance_to_hub_miles": 13.3
+    },
+    {
+      "county_fips": "54069",
+      "county_name": "Ohio",
+      "state": "WV",
+      "pop_total": 42224,
+      "pop_65_plus": 9432,
+      "distance_to_hub_miles": 7.1
+    },
+    {
+      "county_fips": "54051",
+      "county_name": "Marshall",
+      "state": "WV",
+      "pop_total": 30509,
+      "pop_65_plus": 6971,
+      "distance_to_hub_miles": 13.9
+    },
+    {
+      "county_fips": "39067",
+      "county_name": "Harrison",
+      "state": "OH",
+      "pop_total": 14528,
+      "pop_65_plus": 3263,
+      "distance_to_hub_miles": 24.9
+    },
+    {
+      "county_fips": "54103",
+      "county_name": "Wetzel",
+      "state": "WV",
+      "pop_total": 14431,
+      "pop_65_plus": 3291,
+      "distance_to_hub_miles": 31.4
+    },
+    {
+      "county_fips": "39111",
+      "county_name": "Monroe",
+      "state": "OH",
+      "pop_total": 13401,
+      "pop_65_plus": 3112,
+      "distance_to_hub_miles": 28.9
+    }
+  ],
+  "summary": {
+    "total_beds": 590,
+    "catchment_pop": 181647,
+    "catchment_pop_65_plus": 40110,
+    "catchment_pct_65_plus": 0.2208,
+    "max_catchment_radius_miles": 31.4,
+    "avg_catchment_distance_miles": 15.5,
+    "num_counties": 6,
+    "hospital_employment": 754,
+    "msa_total_employment": 58399,
+    "hospital_emp_share": 0.0591,
+    "avg_govt_payer_share": 0.3352
+  }
+}

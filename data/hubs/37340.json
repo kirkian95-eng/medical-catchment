@@ -1,0 +1,121 @@
+{
+  "cbsa_code": "37340",
+  "cbsa_name": "Palm Bay-Melbourne-Titusville, FL",
+  "mdi": 0.3481,
+  "bbox": [
+    -82.32,
+    27.02,
+    -79.11,
+    29.63
+  ],
+  "hospitals": [
+    {
+      "facility_id": "100019",
+      "name": "HOLMES REGIONAL MEDICAL CENTER",
+      "beds": 514,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.0875,
+      "lon": -80.6136,
+      "govt_payer_share": 0.306,
+      "medicare_discharges": 7567
+    },
+    {
+      "facility_id": "100092",
+      "name": "ORLANDO HEALTH ROCKLEDGE HOSPITAL",
+      "beds": 298,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.3346,
+      "lon": -80.7231,
+      "govt_payer_share": 0.282,
+      "medicare_discharges": 1772
+    },
+    {
+      "facility_id": "100028",
+      "name": "PARRISH MEDICAL CENTER",
+      "beds": 208,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 28.632,
+      "lon": -80.8247,
+      "govt_payer_share": 0.355,
+      "medicare_discharges": 1239
+    },
+    {
+      "facility_id": "100316",
+      "name": "PALM BAY HOSPITAL",
+      "beds": 152,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 28.0209,
+      "lon": -80.6798,
+      "govt_payer_share": 0.309,
+      "medicare_discharges": 2300
+    },
+    {
+      "facility_id": "100177",
+      "name": "CAPE CANAVERAL HOSPITAL",
+      "beds": 150,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.3205,
+      "lon": -80.6258,
+      "govt_payer_share": 0.328,
+      "medicare_discharges": 2036
+    },
+    {
+      "facility_id": "100291",
+      "name": "ORLANDO HEALTH MELBOURNE HOSPITAL",
+      "beds": 119,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.1455,
+      "lon": -80.65,
+      "govt_payer_share": 0.34,
+      "medicare_discharges": 1141
+    },
+    {
+      "facility_id": "100315",
+      "name": "VIERA HOSPITAL",
+      "beds": 84,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.2388,
+      "lon": -80.7412,
+      "govt_payer_share": 0.411,
+      "medicare_discharges": 2453
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "12009",
+      "county_name": "Brevard",
+      "state": "FL",
+      "pop_total": 610723,
+      "pop_65_plus": 146692,
+      "distance_to_hub_miles": 4.4
+    },
+    {
+      "county_fips": "12097",
+      "county_name": "Osceola",
+      "state": "FL",
+      "pop_total": 393745,
+      "pop_65_plus": 51913,
+      "distance_to_hub_miles": 31.0
+    }
+  ],
+  "summary": {
+    "total_beds": 1525,
+    "catchment_pop": 1004468,
+    "catchment_pop_65_plus": 198605,
+    "catchment_pct_65_plus": 0.1977,
+    "max_catchment_radius_miles": 31.0,
+    "avg_catchment_distance_miles": 14.8,
+    "num_counties": 2,
+    "hospital_employment": 8014,
+    "msa_total_employment": 238767,
+    "hospital_emp_share": 0.0247,
+    "avg_govt_payer_share": 0.3187
+  }
+}

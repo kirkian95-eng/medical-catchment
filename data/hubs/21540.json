@@ -1,0 +1,47 @@
+{
+  "cbsa_code": "21540",
+  "cbsa_name": "Escanaba, MI",
+  "mdi": 0.394,
+  "bbox": [
+    -88.6,
+    44.75,
+    -85.6,
+    46.75
+  ],
+  "hospitals": [
+    {
+      "facility_id": "231337",
+      "name": "OSF ST FRANCIS HOSPITAL AND MEDICAL GROUP",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 45.7458,
+      "lon": -87.0964,
+      "govt_payer_share": 0.322,
+      "medicare_discharges": 376
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "26041",
+      "county_name": "Delta",
+      "state": "MI",
+      "pop_total": 36839,
+      "pop_65_plus": 9178,
+      "distance_to_hub_miles": 11.3
+    }
+  ],
+  "summary": {
+    "total_beds": 25,
+    "catchment_pop": 36839,
+    "catchment_pop_65_plus": 9178,
+    "catchment_pct_65_plus": 0.2491,
+    "max_catchment_radius_miles": 11.3,
+    "avg_catchment_distance_miles": 11.3,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 13454,
+    "hospital_emp_share": 0.0238,
+    "avg_govt_payer_share": 0.3222
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "36580",
+  "cbsa_name": "Oneonta, NY",
+  "mdi": 0.5925,
+  "bbox": [
+    -76.54,
+    41.48,
+    -73.42,
+    43.7
+  ],
+  "hospitals": [
+    {
+      "facility_id": "330136",
+      "name": "BASSETT HEALTHCARE",
+      "beds": 180,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.6959,
+      "lon": -74.9233,
+      "govt_payer_share": 0.367,
+      "medicare_discharges": 2659
+    },
+    {
+      "facility_id": "330085",
+      "name": "AURELIA OSBORN FOX MEMORIAL HOSPITAL",
+      "beds": 60,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.4834,
+      "lon": -75.0369,
+      "govt_payer_share": 0.541,
+      "medicare_discharges": 573
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36077",
+      "county_name": "Otsego",
+      "state": "NY",
+      "pop_total": 59678,
+      "pop_65_plus": 12622,
+      "distance_to_hub_miles": 4.2
+    },
+    {
+      "county_fips": "36025",
+      "county_name": "Delaware",
+      "state": "NY",
+      "pop_total": 44637,
+      "pop_65_plus": 11250,
+      "distance_to_hub_miles": 30.7
+    }
+  ],
+  "summary": {
+    "total_beds": 240,
+    "catchment_pop": 104315,
+    "catchment_pop_65_plus": 23872,
+    "catchment_pct_65_plus": 0.2288,
+    "max_catchment_radius_miles": 30.7,
+    "avg_catchment_distance_miles": 15.5,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 21668,
+    "hospital_emp_share": 0.0176,
+    "avg_govt_payer_share": 0.4108
+  }
+}

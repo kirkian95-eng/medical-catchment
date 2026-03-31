@@ -1,0 +1,99 @@
+{
+  "cbsa_code": "22660",
+  "cbsa_name": "Fort Collins-Loveland, CO",
+  "mdi": 0.4214,
+  "bbox": [
+    -107.78,
+    38.67,
+    -102.83,
+    42.3
+  ],
+  "hospitals": [
+    {
+      "facility_id": "060010",
+      "name": "POUDRE VALLEY HOSPITAL",
+      "beds": 255,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.5717,
+      "lon": -105.0578,
+      "govt_payer_share": 0.457,
+      "medicare_discharges": 2667
+    },
+    {
+      "facility_id": "060119",
+      "name": "MEDICAL CENTER OF THE ROCKIES",
+      "beds": 180,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.4327,
+      "lon": -104.9911,
+      "govt_payer_share": 0.408,
+      "medicare_discharges": 3344
+    },
+    {
+      "facility_id": "060030",
+      "name": "BANNER MCKEE MEDICAL CENTER",
+      "beds": 118,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.5446,
+      "lon": -105.2451,
+      "govt_payer_share": 0.413,
+      "medicare_discharges": 492
+    },
+    {
+      "facility_id": "060126",
+      "name": "BANNER FORT COLLINS MEDICAL CENTER",
+      "beds": 23,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 40.5204,
+      "lon": -105.0107,
+      "govt_payer_share": 0.448,
+      "medicare_discharges": 90
+    },
+    {
+      "facility_id": "061312",
+      "name": "ESTES PARK MEDICAL CENTER",
+      "beds": 23,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 40.3979,
+      "lon": -105.6149,
+      "govt_payer_share": 0.624,
+      "medicare_discharges": 82
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "08069",
+      "county_name": "Larimer",
+      "state": "CO",
+      "pop_total": 359363,
+      "pop_65_plus": 59020,
+      "distance_to_hub_miles": 22.6
+    },
+    {
+      "county_fips": "31033",
+      "county_name": "Cheyenne",
+      "state": "NE",
+      "pop_total": 9489,
+      "pop_65_plus": 1972,
+      "distance_to_hub_miles": 119.0
+    }
+  ],
+  "summary": {
+    "total_beds": 599,
+    "catchment_pop": 368852,
+    "catchment_pop_65_plus": 60992,
+    "catchment_pct_65_plus": 0.1654,
+    "max_catchment_radius_miles": 119.0,
+    "avg_catchment_distance_miles": 25.1,
+    "num_counties": 2,
+    "hospital_employment": 9594,
+    "msa_total_employment": 174756,
+    "hospital_emp_share": 0.0244,
+    "avg_govt_payer_share": 0.4395
+  }
+}

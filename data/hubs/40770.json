@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "40770",
+  "cbsa_name": "Russellville, AL",
+  "mdi": 0.4227,
+  "bbox": [
+    -89.59,
+    33.49,
+    -86.36,
+    35.53
+  ],
+  "hospitals": [
+    {
+      "facility_id": "010158",
+      "name": "RUSSELLVILLE HOSPITAL",
+      "beds": 100,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.5334,
+      "lon": -87.8637,
+      "govt_payer_share": 0.535,
+      "medicare_discharges": 325
+    },
+    {
+      "facility_id": "011302",
+      "name": "RED BAY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 34.4857,
+      "lon": -88.095,
+      "govt_payer_share": 0.573,
+      "medicare_discharges": 86
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "01059",
+      "county_name": "Franklin",
+      "state": "AL",
+      "pop_total": 32011,
+      "pop_65_plus": 5459,
+      "distance_to_hub_miles": 6.8
+    },
+    {
+      "county_fips": "01093",
+      "county_name": "Marion",
+      "state": "AL",
+      "pop_total": 29203,
+      "pop_65_plus": 6114,
+      "distance_to_hub_miles": 26.8
+    }
+  ],
+  "summary": {
+    "total_beds": 125,
+    "catchment_pop": 61214,
+    "catchment_pop_65_plus": 11573,
+    "catchment_pct_65_plus": 0.1891,
+    "max_catchment_radius_miles": 26.8,
+    "avg_catchment_distance_miles": 16.3,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 10661,
+    "hospital_emp_share": 0.0151,
+    "avg_govt_payer_share": 0.5428
+  }
+}

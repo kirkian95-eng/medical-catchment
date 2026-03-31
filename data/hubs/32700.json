@@ -1,0 +1,58 @@
+{
+  "cbsa_code": "32700",
+  "cbsa_name": "McPherson, KS",
+  "mdi": 0.448,
+  "bbox": [
+    -99.18,
+    37.38,
+    -96.17,
+    39.6
+  ],
+  "hospitals": [
+    {
+      "facility_id": "170105",
+      "name": "MCPHERSON HOSPITAL",
+      "beds": 49,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.3792,
+      "lon": -97.6723,
+      "govt_payer_share": 0.485,
+      "medicare_discharges": 332
+    },
+    {
+      "facility_id": "171358",
+      "name": "LINDSBORG COMMUNITY HOSPITAL",
+      "beds": 21,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.5962,
+      "lon": -97.6804,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 95
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "20113",
+      "county_name": "McPherson",
+      "state": "KS",
+      "pop_total": 30085,
+      "pop_65_plus": 5926,
+      "distance_to_hub_miles": 1.6
+    }
+  ],
+  "summary": {
+    "total_beds": 70,
+    "catchment_pop": 30085,
+    "catchment_pop_65_plus": 5926,
+    "catchment_pct_65_plus": 0.197,
+    "max_catchment_radius_miles": 1.6,
+    "avg_catchment_distance_miles": 1.6,
+    "num_counties": 1,
+    "hospital_employment": 465,
+    "msa_total_employment": 16187,
+    "hospital_emp_share": 0.0215,
+    "avg_govt_payer_share": 0.5195
+  }
+}

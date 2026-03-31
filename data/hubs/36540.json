@@ -1,0 +1,337 @@
+{
+  "cbsa_code": "36540",
+  "cbsa_name": "Omaha, NE-IA",
+  "mdi": 0.4696,
+  "bbox": [
+    -98.12,
+    39.99,
+    -94.34,
+    42.67
+  ],
+  "hospitals": [
+    {
+      "facility_id": "280013",
+      "name": "THE NEBRASKA MEDICAL CENTER",
+      "beds": 689,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.2543,
+      "lon": -95.9783,
+      "govt_payer_share": 0.258,
+      "medicare_discharges": 6440
+    },
+    {
+      "facility_id": "280040",
+      "name": "THE NEBRASKA METHODIST HOSPITAL",
+      "beds": 430,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.2596,
+      "lon": -96.0417,
+      "govt_payer_share": 0.346,
+      "medicare_discharges": 5548
+    },
+    {
+      "facility_id": "280060",
+      "name": "CHI HEALTH BERGAN MERCY",
+      "beds": 400,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.238,
+      "lon": -96.0288,
+      "govt_payer_share": 0.241,
+      "medicare_discharges": 3609
+    },
+    {
+      "facility_id": "280081",
+      "name": "CHI HEALTH IMMANUEL",
+      "beds": 356,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.322,
+      "lon": -96.0238,
+      "govt_payer_share": 0.215,
+      "medicare_discharges": 1379
+    },
+    {
+      "facility_id": "160047",
+      "name": "METHODIST JENNIE EDMUNDSON",
+      "beds": 236,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.2691,
+      "lon": -95.8352,
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 1810
+    },
+    {
+      "facility_id": "160028",
+      "name": "CHI HEALTH MERCY COUNCIL BLUFFS",
+      "beds": 194,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.2685,
+      "lon": -95.8391,
+      "govt_payer_share": 0.291,
+      "medicare_discharges": 1080
+    },
+    {
+      "facility_id": "280130",
+      "name": "CHI HEALTH LAKESIDE",
+      "beds": 157,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 41.2372,
+      "lon": -96.1788,
+      "govt_payer_share": 0.315,
+      "medicare_discharges": 2081
+    },
+    {
+      "facility_id": "280105",
+      "name": "CHI HEALTH MIDLANDS",
+      "beds": 131,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 41.1218,
+      "lon": -96.0528,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 372
+    },
+    {
+      "facility_id": "280132",
+      "name": "BELLEVUE MEDICAL CENTER",
+      "beds": 91,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.1022,
+      "lon": -95.9476,
+      "govt_payer_share": 0.467,
+      "medicare_discharges": 1990
+    },
+    {
+      "facility_id": "280133",
+      "name": "NEBRASKA SPINE HOSPITAL, LLC",
+      "beds": 34,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.3634,
+      "lon": -96.0519,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 239
+    },
+    {
+      "facility_id": "161309",
+      "name": "CHI HEALTH MISSOURI VALLEY",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.5595,
+      "lon": -95.9153,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 147
+    },
+    {
+      "facility_id": "281359",
+      "name": "MEMORIAL COMMUNITY HOSPITAL & HEALTH SYSTEM",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.552,
+      "lon": -96.1452,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 108
+    },
+    {
+      "facility_id": "280129",
+      "name": "NEBRASKA ORTHOPAEDIC HOSPITAL",
+      "beds": 24,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 41.235,
+      "lon": -96.1184,
+      "govt_payer_share": 0.483,
+      "medicare_discharges": 137
+    },
+    {
+      "facility_id": "280131",
+      "name": "MIDWEST SURGICAL HOSPITAL LLC",
+      "beds": 19,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 41.2631,
+      "lon": -96.052,
+      "govt_payer_share": 0.663,
+      "medicare_discharges": 207
+    },
+    {
+      "facility_id": "281307",
+      "name": "SAUNDERS MEDICAL CENTER",
+      "beds": 16,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 41.1846,
+      "lon": -96.6189,
+      "govt_payer_share": 0.671,
+      "medicare_discharges": 74
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "31055",
+      "county_name": "Douglas",
+      "state": "NE",
+      "pop_total": 582638,
+      "pop_65_plus": 78780,
+      "distance_to_hub_miles": 8.7
+    },
+    {
+      "county_fips": "31153",
+      "county_name": "Sarpy",
+      "state": "NE",
+      "pop_total": 191272,
+      "pop_65_plus": 23339,
+      "distance_to_hub_miles": 11.7
+    },
+    {
+      "county_fips": "19155",
+      "county_name": "Pottawattamie",
+      "state": "IA",
+      "pop_total": 93543,
+      "pop_65_plus": 16842,
+      "distance_to_hub_miles": 24.1
+    },
+    {
+      "county_fips": "31025",
+      "county_name": "Cass",
+      "state": "NE",
+      "pop_total": 26749,
+      "pop_65_plus": 4827,
+      "distance_to_hub_miles": 25.3
+    },
+    {
+      "county_fips": "31177",
+      "county_name": "Washington",
+      "state": "NE",
+      "pop_total": 20884,
+      "pop_65_plus": 3848,
+      "distance_to_hub_miles": 22.2
+    },
+    {
+      "county_fips": "19047",
+      "county_name": "Crawford",
+      "state": "IA",
+      "pop_total": 16450,
+      "pop_65_plus": 2906,
+      "distance_to_hub_miles": 62.4
+    },
+    {
+      "county_fips": "19145",
+      "county_name": "Page",
+      "state": "IA",
+      "pop_total": 15225,
+      "pop_65_plus": 3583,
+      "distance_to_hub_miles": 56.8
+    },
+    {
+      "county_fips": "19085",
+      "county_name": "Harrison",
+      "state": "IA",
+      "pop_total": 14623,
+      "pop_65_plus": 2863,
+      "distance_to_hub_miles": 30.8
+    },
+    {
+      "county_fips": "19129",
+      "county_name": "Mills",
+      "state": "IA",
+      "pop_total": 14605,
+      "pop_65_plus": 2867,
+      "distance_to_hub_miles": 24.9
+    },
+    {
+      "county_fips": "19029",
+      "county_name": "Cass",
+      "state": "IA",
+      "pop_total": 13116,
+      "pop_65_plus": 3030,
+      "distance_to_hub_miles": 55.7
+    },
+    {
+      "county_fips": "19165",
+      "county_name": "Shelby",
+      "state": "IA",
+      "pop_total": 11737,
+      "pop_65_plus": 2701,
+      "distance_to_hub_miles": 46.1
+    },
+    {
+      "county_fips": "19137",
+      "county_name": "Montgomery",
+      "state": "IA",
+      "pop_total": 10285,
+      "pop_65_plus": 2247,
+      "distance_to_hub_miles": 46.4
+    },
+    {
+      "county_fips": "31021",
+      "county_name": "Burt",
+      "state": "NE",
+      "pop_total": 6717,
+      "pop_65_plus": 1612,
+      "distance_to_hub_miles": 44.5
+    },
+    {
+      "county_fips": "19071",
+      "county_name": "Fremont",
+      "state": "IA",
+      "pop_total": 6639,
+      "pop_65_plus": 1498,
+      "distance_to_hub_miles": 40.9
+    },
+    {
+      "county_fips": "19173",
+      "county_name": "Taylor",
+      "state": "IA",
+      "pop_total": 5916,
+      "pop_65_plus": 1334,
+      "distance_to_hub_miles": 76.7
+    },
+    {
+      "county_fips": "19009",
+      "county_name": "Audubon",
+      "state": "IA",
+      "pop_total": 5651,
+      "pop_65_plus": 1397,
+      "distance_to_hub_miles": 63.6
+    },
+    {
+      "county_fips": "29005",
+      "county_name": "Atchison",
+      "state": "MO",
+      "pop_total": 5270,
+      "pop_65_plus": 1335,
+      "distance_to_hub_miles": 64.4
+    },
+    {
+      "county_fips": "19003",
+      "county_name": "Adams",
+      "state": "IA",
+      "pop_total": 3680,
+      "pop_65_plus": 846,
+      "distance_to_hub_miles": 69.3
+    }
+  ],
+  "summary": {
+    "total_beds": 2827,
+    "catchment_pop": 1045000,
+    "catchment_pop_65_plus": 155855,
+    "catchment_pct_65_plus": 0.1491,
+    "max_catchment_radius_miles": 76.7,
+    "avg_catchment_distance_miles": 16.4,
+    "num_counties": 18,
+    "hospital_employment": 16974,
+    "msa_total_employment": 478025,
+    "hospital_emp_share": 0.0323,
+    "avg_govt_payer_share": 0.3151
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "cbsa_code": "28060",
+  "cbsa_name": "Kalispell, MT",
+  "mdi": 0.8023,
+  "bbox": [
+    -115.83,
+    47.22,
+    -112.82,
+    49.38
+  ],
+  "hospitals": [
+    {
+      "facility_id": "270051",
+      "name": "LOGAN HEALTH MEDICAL CENTER",
+      "beds": 160,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 48.2154,
+      "lon": -114.3248,
+      "govt_payer_share": 0.501,
+      "medicare_discharges": 1830
+    },
+    {
+      "facility_id": "271336",
+      "name": "LOGAN HEALTH - WHITEFISH",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 48.3828,
+      "lon": -114.3327,
+      "govt_payer_share": 0.409,
+      "medicare_discharges": 288
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "30029",
+      "county_name": "Flathead",
+      "state": "MT",
+      "pop_total": 105950,
+      "pop_65_plus": 21614,
+      "distance_to_hub_miles": 13.3
+    },
+    {
+      "county_fips": "30047",
+      "county_name": "Lake",
+      "state": "MT",
+      "pop_total": 31509,
+      "pop_65_plus": 7232,
+      "distance_to_hub_miles": 42.4
+    },
+    {
+      "county_fips": "30053",
+      "county_name": "Lincoln",
+      "state": "MT",
+      "pop_total": 20157,
+      "pop_65_plus": 5951,
+      "distance_to_hub_miles": 53.8
+    },
+    {
+      "county_fips": "30035",
+      "county_name": "Glacier",
+      "state": "MT",
+      "pop_total": 13781,
+      "pop_65_plus": 1715,
+      "distance_to_hub_miles": 69.0
+    },
+    {
+      "county_fips": "30089",
+      "county_name": "Sanders",
+      "state": "MT",
+      "pop_total": 12615,
+      "pop_65_plus": 4027,
+      "distance_to_hub_miles": 54.0
+    }
+  ],
+  "summary": {
+    "total_beds": 185,
+    "catchment_pop": 184012,
+    "catchment_pop_65_plus": 40539,
+    "catchment_pct_65_plus": 0.2203,
+    "max_catchment_radius_miles": 69.0,
+    "avg_catchment_distance_miles": 29.7,
+    "num_counties": 5,
+    "hospital_employment": 0,
+    "msa_total_employment": 49588,
+    "hospital_emp_share": 0.0691,
+    "avg_govt_payer_share": 0.4887
+  }
+}

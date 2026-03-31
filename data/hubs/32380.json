@@ -1,0 +1,95 @@
+{
+  "cbsa_code": "32380",
+  "cbsa_name": "Mason City, IA",
+  "mdi": 0.9211,
+  "bbox": [
+    -94.72,
+    42.15,
+    -91.72,
+    44.15
+  ],
+  "hospitals": [
+    {
+      "facility_id": "160064",
+      "name": "MERCYONE NORTH IOWA MEDICAL CENTER",
+      "beds": 350,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.1485,
+      "lon": -93.2162,
+      "govt_payer_share": 0.473,
+      "medicare_discharges": 3619
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "19033",
+      "county_name": "Cerro Gordo",
+      "state": "IA",
+      "pop_total": 42979,
+      "pop_65_plus": 9612,
+      "distance_to_hub_miles": 5.1
+    },
+    {
+      "county_fips": "19067",
+      "county_name": "Floyd",
+      "state": "IA",
+      "pop_total": 15601,
+      "pop_65_plus": 3533,
+      "distance_to_hub_miles": 22.4
+    },
+    {
+      "county_fips": "19109",
+      "county_name": "Kossuth",
+      "state": "IA",
+      "pop_total": 14718,
+      "pop_65_plus": 3641,
+      "distance_to_hub_miles": 50.1
+    },
+    {
+      "county_fips": "19081",
+      "county_name": "Hancock",
+      "state": "IA",
+      "pop_total": 10790,
+      "pop_65_plus": 2514,
+      "distance_to_hub_miles": 26.5
+    },
+    {
+      "county_fips": "19131",
+      "county_name": "Mitchell",
+      "state": "IA",
+      "pop_total": 10537,
+      "pop_65_plus": 2245,
+      "distance_to_hub_miles": 25.9
+    },
+    {
+      "county_fips": "19069",
+      "county_name": "Franklin",
+      "state": "IA",
+      "pop_total": 10015,
+      "pop_65_plus": 2137,
+      "distance_to_hub_miles": 28.8
+    },
+    {
+      "county_fips": "19195",
+      "county_name": "Worth",
+      "state": "IA",
+      "pop_total": 7417,
+      "pop_65_plus": 1599,
+      "distance_to_hub_miles": 16.0
+    }
+  ],
+  "summary": {
+    "total_beds": 350,
+    "catchment_pop": 112057,
+    "catchment_pop_65_plus": 25281,
+    "catchment_pct_65_plus": 0.2256,
+    "max_catchment_radius_miles": 50.1,
+    "avg_catchment_distance_miles": 20.3,
+    "num_counties": 7,
+    "hospital_employment": 0,
+    "msa_total_employment": 23176,
+    "hospital_emp_share": 0.0701,
+    "avg_govt_payer_share": 0.4726
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "cbsa_code": "10900",
+  "cbsa_name": "Allentown-Bethlehem-Easton, PA-NJ",
+  "mdi": 0.6473,
+  "bbox": [
+    -77.19,
+    39.51,
+    -73.33,
+    41.86
+  ],
+  "hospitals": [
+    {
+      "facility_id": "390133",
+      "name": "LEHIGH VALLEY HOSPITAL",
+      "beds": 1190,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.5677,
+      "lon": -75.5189,
+      "govt_payer_share": 0.351,
+      "medicare_discharges": 16200
+    },
+    {
+      "facility_id": "390049",
+      "name": "ST LUKES HOSPITAL BETHLEHEM",
+      "beds": 817,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.6092,
+      "lon": -75.3922,
+      "govt_payer_share": 0.327,
+      "medicare_discharges": 7491
+    },
+    {
+      "facility_id": "390326",
+      "name": "ST LUKE'S HOSPITAL - ANDERSON CAMPUS",
+      "beds": 215,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.6917,
+      "lon": -75.2749,
+      "govt_payer_share": 0.414,
+      "medicare_discharges": 4122
+    },
+    {
+      "facility_id": "310060",
+      "name": "ST LUKE'S WARREN HOSPITAL",
+      "beds": 214,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.7082,
+      "lon": -75.1471,
+      "govt_payer_share": 0.45,
+      "medicare_discharges": 1764
+    },
+    {
+      "facility_id": "390162",
+      "name": "ST LUKE'S HOSPITAL - EASTON CAMPUS",
+      "beds": 164,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.6436,
+      "lon": -75.2266,
+      "govt_payer_share": 0.388,
+      "medicare_discharges": 500
+    },
+    {
+      "facility_id": "310115",
+      "name": "AHS HOSPITAL CORP",
+      "beds": 148,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.86,
+      "lon": -74.8318,
+      "govt_payer_share": 0.448,
+      "medicare_discharges": 1642
+    },
+    {
+      "facility_id": "390335",
+      "name": "ST LUKE'S HOSPITAL - CARBON CAMPUS",
+      "beds": 56,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.835,
+      "lon": -75.6915,
+      "govt_payer_share": 0.451,
+      "medicare_discharges": 1430
+    },
+    {
+      "facility_id": "390430",
+      "name": "LEHIGH VALLEY HOSPITAL - MACUNGIE",
+      "beds": 20,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.5058,
+      "lon": -75.5799,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42077",
+      "county_name": "Lehigh",
+      "state": "PA",
+      "pop_total": 374110,
+      "pop_65_plus": 63356,
+      "distance_to_hub_miles": 10.9
+    },
+    {
+      "county_fips": "42095",
+      "county_name": "Northampton",
+      "state": "PA",
+      "pop_total": 314299,
+      "pop_65_plus": 61421,
+      "distance_to_hub_miles": 9.8
+    },
+    {
+      "county_fips": "34019",
+      "county_name": "Hunterdon",
+      "state": "NJ",
+      "pop_total": 129099,
+      "pop_65_plus": 25330,
+      "distance_to_hub_miles": 25.1
+    },
+    {
+      "county_fips": "42025",
+      "county_name": "Carbon",
+      "state": "PA",
+      "pop_total": 65018,
+      "pop_65_plus": 14034,
+      "distance_to_hub_miles": 26.4
+    }
+  ],
+  "summary": {
+    "total_beds": 2824,
+    "catchment_pop": 882526,
+    "catchment_pop_65_plus": 164141,
+    "catchment_pct_65_plus": 0.186,
+    "max_catchment_radius_miles": 26.4,
+    "avg_catchment_distance_miles": 13.7,
+    "num_counties": 4,
+    "hospital_employment": 18897,
+    "msa_total_employment": 369096,
+    "hospital_emp_share": 0.0527,
+    "avg_govt_payer_share": 0.3666
+  }
+}

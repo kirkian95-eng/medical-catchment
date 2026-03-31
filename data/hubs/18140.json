@@ -1,0 +1,282 @@
+{
+  "cbsa_code": "18140",
+  "cbsa_name": "Columbus, OH",
+  "mdi": 0.3922,
+  "bbox": [
+    -84.93,
+    38.52,
+    -80.91,
+    41.56
+  ],
+  "hospitals": [
+    {
+      "facility_id": "360006",
+      "name": "RIVERSIDE METHODIST HOSPITAL",
+      "beds": 1000,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.0319,
+      "lon": -83.0313,
+      "govt_payer_share": 0.271,
+      "medicare_discharges": 9446
+    },
+    {
+      "facility_id": "360085",
+      "name": "OHIO STATE UNIVERSITY STATE HEALTH SYSTEM",
+      "beds": 971,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 39.9945,
+      "lon": -83.017,
+      "govt_payer_share": 0.293,
+      "medicare_discharges": 7493
+    },
+    {
+      "facility_id": "360035",
+      "name": "MOUNT CARMEL EAST & WEST",
+      "beds": 937,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9796,
+      "lon": -82.8405,
+      "govt_payer_share": 0.229,
+      "medicare_discharges": 4260
+    },
+    {
+      "facility_id": "360017",
+      "name": "GRANT MEDICAL CENTER",
+      "beds": 645,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 39.9611,
+      "lon": -82.9908,
+      "govt_payer_share": 0.244,
+      "medicare_discharges": 3465
+    },
+    {
+      "facility_id": "360012",
+      "name": "MOUNT CARMEL ST ANN'S",
+      "beds": 392,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.1104,
+      "lon": -82.8906,
+      "govt_payer_share": 0.256,
+      "medicare_discharges": 2191
+    },
+    {
+      "facility_id": "360152",
+      "name": "DOCTORS HOSPITAL",
+      "beds": 262,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 39.9519,
+      "lon": -83.1377,
+      "govt_payer_share": 0.259,
+      "medicare_discharges": 1423
+    },
+    {
+      "facility_id": "360072",
+      "name": "FAIRFIELD MEDICAL CENTER",
+      "beds": 250,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.7183,
+      "lon": -82.5765,
+      "govt_payer_share": 0.279,
+      "medicare_discharges": 2095
+    },
+    {
+      "facility_id": "360218",
+      "name": "LICKING MEMORIAL HOSPITAL",
+      "beds": 227,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.0466,
+      "lon": -82.4521,
+      "govt_payer_share": 0.272,
+      "medicare_discharges": 1817
+    },
+    {
+      "facility_id": "360210",
+      "name": "GRADY MEMORIAL HOSPITAL",
+      "beds": 130,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.3058,
+      "lon": -83.0885,
+      "govt_payer_share": 0.303,
+      "medicare_discharges": 610
+    },
+    {
+      "facility_id": "360189",
+      "name": "MADISON HEALTH",
+      "beds": 107,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.8801,
+      "lon": -83.4285,
+      "govt_payer_share": 0.258,
+      "medicare_discharges": 207
+    },
+    {
+      "facility_id": "360348",
+      "name": "DUBLIN METHODIST HOSPITAL",
+      "beds": 107,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.1006,
+      "lon": -83.163,
+      "govt_payer_share": 0.252,
+      "medicare_discharges": 1682
+    },
+    {
+      "facility_id": "360092",
+      "name": "MEMORIAL HOSPITAL",
+      "beds": 97,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 40.2295,
+      "lon": -83.3677,
+      "govt_payer_share": 0.271,
+      "medicare_discharges": 664
+    },
+    {
+      "facility_id": "360170",
+      "name": "BERGER HOSPITAL",
+      "beds": 94,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 39.6092,
+      "lon": -82.9381,
+      "govt_payer_share": 0.288,
+      "medicare_discharges": 677
+    },
+    {
+      "facility_id": "360266",
+      "name": "MOUNT CARMEL NEW ALBANY SURGICAL HOSPITAL",
+      "beds": 42,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.0703,
+      "lon": -82.8021,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 351
+    },
+    {
+      "facility_id": "360375",
+      "name": "MOUNT CARMEL DUBLIN",
+      "beds": 30,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 40.0975,
+      "lon": -83.1502,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
+    },
+    {
+      "facility_id": "361313",
+      "name": "OHIOHEALTH MORROW COUNTY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 40.5642,
+      "lon": -82.7603,
+      "govt_payer_share": 0.411,
+      "medicare_discharges": 67
+    },
+    {
+      "facility_id": "361330",
+      "name": "HOCKING VALLEY COMMUNITY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.5183,
+      "lon": -82.4141,
+      "govt_payer_share": 0.431,
+      "medicare_discharges": 174
+    },
+    {
+      "facility_id": "360358",
+      "name": "DILEY RIDGE MEDICAL CENTER",
+      "beds": 10,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.8267,
+      "lon": -82.8001,
+      "govt_payer_share": 0.207,
+      "medicare_discharges": 21
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "39049",
+      "county_name": "Franklin",
+      "state": "OH",
+      "pop_total": 1318149,
+      "pop_65_plus": 164663,
+      "distance_to_hub_miles": 3.7
+    },
+    {
+      "county_fips": "39041",
+      "county_name": "Delaware",
+      "state": "OH",
+      "pop_total": 216074,
+      "pop_65_plus": 31096,
+      "distance_to_hub_miles": 19.7
+    },
+    {
+      "county_fips": "39089",
+      "county_name": "Licking",
+      "state": "OH",
+      "pop_total": 178844,
+      "pop_65_plus": 30142,
+      "distance_to_hub_miles": 25.5
+    },
+    {
+      "county_fips": "39045",
+      "county_name": "Fairfield",
+      "state": "OH",
+      "pop_total": 159371,
+      "pop_65_plus": 25835,
+      "distance_to_hub_miles": 24.0
+    },
+    {
+      "county_fips": "39159",
+      "county_name": "Union",
+      "state": "OH",
+      "pop_total": 63411,
+      "pop_65_plus": 8213,
+      "distance_to_hub_miles": 30.5
+    },
+    {
+      "county_fips": "39129",
+      "county_name": "Pickaway",
+      "state": "OH",
+      "pop_total": 58809,
+      "pop_65_plus": 9347,
+      "distance_to_hub_miles": 24.9
+    },
+    {
+      "county_fips": "39097",
+      "county_name": "Madison",
+      "state": "OH",
+      "pop_total": 43961,
+      "pop_65_plus": 6931,
+      "distance_to_hub_miles": 24.9
+    }
+  ],
+  "summary": {
+    "total_beds": 5351,
+    "catchment_pop": 2038619,
+    "catchment_pop_65_plus": 276227,
+    "catchment_pct_65_plus": 0.1355,
+    "max_catchment_radius_miles": 30.5,
+    "avg_catchment_distance_miles": 10.8,
+    "num_counties": 7,
+    "hospital_employment": 45488,
+    "msa_total_employment": 1071078,
+    "hospital_emp_share": 0.0304,
+    "avg_govt_payer_share": 0.2691
+  }
+}

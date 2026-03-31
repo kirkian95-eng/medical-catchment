@@ -1,0 +1,88 @@
+{
+  "cbsa_code": "34180",
+  "cbsa_name": "Moses Lake, WA",
+  "mdi": 0.5035,
+  "bbox": [
+    -121.34,
+    46.13,
+    -117.64,
+    49.01
+  ],
+  "hospitals": [
+    {
+      "facility_id": "500033",
+      "name": "SAMARITAN HOSPITAL",
+      "beds": 50,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 47.131,
+      "lon": -119.2645,
+      "govt_payer_share": 0.46,
+      "medicare_discharges": 784
+    },
+    {
+      "facility_id": "501308",
+      "name": "COULEE MEDICAL CENTER",
+      "beds": 48,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 48.0101,
+      "lon": -119.1365,
+      "govt_payer_share": 0.753,
+      "medicare_discharges": 152
+    },
+    {
+      "facility_id": "501320",
+      "name": "QUINCY VALLEY MEDICAL CENTER",
+      "beds": 29,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 47.1686,
+      "lon": -119.8429,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 36
+    },
+    {
+      "facility_id": "501317",
+      "name": "COLUMBIA BASIN HOSPITAL",
+      "beds": 28,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 47.3383,
+      "lon": -119.6352,
+      "govt_payer_share": 0.668,
+      "medicare_discharges": 66
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "53025",
+      "county_name": "Grant",
+      "state": "WA",
+      "pop_total": 99145,
+      "pop_65_plus": 14045,
+      "distance_to_hub_miles": 16.9
+    },
+    {
+      "county_fips": "53017",
+      "county_name": "Douglas",
+      "state": "WA",
+      "pop_total": 43189,
+      "pop_65_plus": 7709,
+      "distance_to_hub_miles": 24.1
+    }
+  ],
+  "summary": {
+    "total_beds": 155,
+    "catchment_pop": 142334,
+    "catchment_pop_65_plus": 21754,
+    "catchment_pct_65_plus": 0.1528,
+    "max_catchment_radius_miles": 24.1,
+    "avg_catchment_distance_miles": 19.1,
+    "num_counties": 2,
+    "hospital_employment": 941,
+    "msa_total_employment": 42568,
+    "hospital_emp_share": 0.0198,
+    "avg_govt_payer_share": 0.6144
+  }
+}

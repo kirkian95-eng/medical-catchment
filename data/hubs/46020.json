@@ -1,0 +1,74 @@
+{
+  "cbsa_code": "46020",
+  "cbsa_name": "Truckee-Grass Valley, CA",
+  "mdi": 0.6234,
+  "bbox": [
+    -122.55,
+    38.23,
+    -118.7,
+    40.32
+  ],
+  "hospitals": [
+    {
+      "facility_id": "050150",
+      "name": "SIERRA NEVADA MEMORIAL HOSPITAL",
+      "beds": 124,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.2282,
+      "lon": -121.0466,
+      "govt_payer_share": 0.491,
+      "medicare_discharges": 1864
+    },
+    {
+      "facility_id": "051328",
+      "name": "TAHOE FOREST HOSPITAL",
+      "beds": 72,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 39.3245,
+      "lon": -120.2011,
+      "govt_payer_share": 0.392,
+      "medicare_discharges": 557
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "06061",
+      "county_name": "Placer",
+      "state": "CA",
+      "pop_total": 406608,
+      "pop_65_plus": 81151,
+      "distance_to_hub_miles": 13.8
+    },
+    {
+      "county_fips": "06057",
+      "county_name": "Nevada",
+      "state": "CA",
+      "pop_total": 102322,
+      "pop_65_plus": 29045,
+      "distance_to_hub_miles": 3.1
+    },
+    {
+      "county_fips": "06091",
+      "county_name": "Sierra",
+      "state": "CA",
+      "pop_total": 2916,
+      "pop_65_plus": 909,
+      "distance_to_hub_miles": 24.8
+    }
+  ],
+  "summary": {
+    "total_beds": 196,
+    "catchment_pop": 511846,
+    "catchment_pop_65_plus": 111105,
+    "catchment_pct_65_plus": 0.2171,
+    "max_catchment_radius_miles": 24.8,
+    "avg_catchment_distance_miles": 11.7,
+    "num_counties": 3,
+    "hospital_employment": 682,
+    "msa_total_employment": 33654,
+    "hospital_emp_share": 0.0328,
+    "avg_govt_payer_share": 0.4551
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "cbsa_code": "42660",
+  "cbsa_name": "Seattle-Tacoma-Bellevue, WA",
+  "mdi": 0.3042,
+  "bbox": [
+    -124.1,
+    46.17,
+    -120.28,
+    49.19
+  ],
+  "hospitals": [
+    {
+      "facility_id": "500027",
+      "name": "SWEDISH MEDICAL CENTER",
+      "beds": 697,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.6095,
+      "lon": -122.3209,
+      "govt_payer_share": 0.216,
+      "medicare_discharges": 3244
+    },
+    {
+      "facility_id": "500129",
+      "name": "TACOMA GENERAL ALLENMORE HOSPITAL",
+      "beds": 521,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.2488,
+      "lon": -122.4653,
+      "govt_payer_share": 0.252,
+      "medicare_discharges": 4612
+    },
+    {
+      "facility_id": "500008",
+      "name": "UNIVERSITY OF WASHINGTON MEDICAL CTR",
+      "beds": 450,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 47.6517,
+      "lon": -122.3098,
+      "govt_payer_share": 0.276,
+      "medicare_discharges": 6939
+    },
+    {
+      "facility_id": "500064",
+      "name": "HARBORVIEW MEDICAL CENTER",
+      "beds": 413,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 47.6005,
+      "lon": -122.3322,
+      "govt_payer_share": 0.243,
+      "medicare_discharges": 2733
+    },
+    {
+      "facility_id": "500025",
+      "name": "SWEDISH MEDICAL CENTER / CHERRY HILL",
+      "beds": 376,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 47.6095,
+      "lon": -122.2956,
+      "govt_payer_share": 0.269,
+      "medicare_discharges": 2257
+    },
+    {
+      "facility_id": "500079",
+      "name": "MULTICARE GOOD SAMARITAN HOSPITAL",
+      "beds": 365,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.1775,
+      "lon": -122.2888,
+      "govt_payer_share": 0.292,
+      "medicare_discharges": 4853
+    },
+    {
+      "facility_id": "500052",
+      "name": "KAISER PERMANENTE CENTRAL HOSPITAL",
+      "beds": 346,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 47.6375,
+      "lon": -122.2877,
+      "govt_payer_share": 0.038,
+      "medicare_discharges": 11
+    },
+    {
+      "facility_id": "500108",
+      "name": "ST JOSEPH MEDICAL CENTER",
+      "beds": 340,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 47.2455,
+      "lon": -122.4486,
+      "govt_payer_share": 0.242,
+      "medicare_discharges": 3713
+    },
+    {
+      "facility_id": "500005",
+      "name": "VIRGINIA MASON MEDICAL CENTER",
+      "beds": 336,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.61,
+      "lon": -122.328,
+      "govt_payer_share": 0.36,
+      "medicare_discharges": 3987
+    },
+    {
+      "facility_id": "500124",
+      "name": "EVERGREENHEALTH MEDICAL CENTER",
+      "beds": 318,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 47.715,
+      "lon": -122.1787,
+      "govt_payer_share": 0.276,
+      "medicare_discharges": 3402
+    },
+    {
+      "facility_id": "500088",
+      "name": "VALLEY MEDICAL CENTER",
+      "beds": 303,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 47.4412,
+      "lon": -122.2153,
+      "govt_payer_share": 0.24,
+      "medicare_discharges": 3109
+    },
+    {
+      "facility_id": "500011",
+      "name": "HIGHLINE MEDICAL CENTER",
+      "beds": 279,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.4568,
+      "lon": -122.3415,
+      "govt_payer_share": 0.297,
+      "medicare_discharges": 1163
+    },
+    {
+      "facility_id": "500014",
+      "name": "PROVIDENCE REGIONAL MEDICAL CENTER EVERETT",
+      "beds": 268,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 47.9997,
+      "lon": -122.208,
+      "govt_payer_share": 0.222,
+      "medicare_discharges": 4329
+    },
+    {
+      "facility_id": "500051",
+      "name": "OVERLAKE HOSPITAL MEDICAL CENTER",
+      "beds": 218,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 47.6188,
+      "lon": -122.2001,
+      "govt_payer_share": 0.252,
+      "medicare_discharges": 2985
+    },
+    {
+      "facility_id": "500026",
+      "name": "SWEDISH EDMONDS HOSPITAL",
+      "beds": 217,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.8029,
+      "lon": -122.3356,
+      "govt_payer_share": 0.274,
+      "medicare_discharges": 1825
+    },
+    {
+      "facility_id": "500015",
+      "name": "MULTICARE AUBURN MEDICAL CENTER",
+      "beds": 195,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.3086,
+      "lon": -122.2297,
+      "govt_payer_share": 0.26,
+      "medicare_discharges": 1162
+    },
+    {
+      "facility_id": "500152",
+      "name": "SWEDISH ISSAQUAH",
+      "beds": 120,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.5365,
+      "lon": -122.0208,
+      "govt_payer_share": 0.263,
+      "medicare_discharges": 1552
+    },
+    {
+      "facility_id": "500141",
+      "name": "ST FRANCIS COMMUNITY HOSPITAL",
+      "beds": 110,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 47.2935,
+      "lon": -122.3224,
+      "govt_payer_share": 0.289,
+      "medicare_discharges": 1694
+    },
+    {
+      "facility_id": "500021",
+      "name": "ST CLARE HOSPITAL",
+      "beds": 105,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 47.1662,
+      "lon": -122.5061,
+      "govt_payer_share": 0.247,
+      "medicare_discharges": 1208
+    },
+    {
+      "facility_id": "500151",
+      "name": "ST ANTHONY HOSPITAL",
+      "beds": 80,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 47.3722,
+      "lon": -122.5958,
+      "govt_payer_share": 0.384,
+      "medicare_discharges": 2658
+    },
+    {
+      "facility_id": "500084",
+      "name": "EVERGREENHEALTH MONROE",
+      "beds": 72,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 47.8578,
+      "lon": -121.8853,
+      "govt_payer_share": 0.279,
+      "medicare_discharges": 247
+    },
+    {
+      "facility_id": "500154",
+      "name": "MULTICARE COVINGTON MEDICAL CENTER",
+      "beds": 58,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.364,
+      "lon": -122.1167,
+      "govt_payer_share": 0.289,
+      "medicare_discharges": 539
+    },
+    {
+      "facility_id": "500060",
+      "name": "CASCADE VALLEY HOSPITAL",
+      "beds": 48,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 48.1895,
+      "lon": -122.1178,
+      "govt_payer_share": 0.256,
+      "medicare_discharges": 393
+    },
+    {
+      "facility_id": "501335",
+      "name": "ST ELIZABETH HOSPITAL",
+      "beds": 28,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.2084,
+      "lon": -121.9882,
+      "govt_payer_share": 0.318,
+      "medicare_discharges": 378
+    },
+    {
+      "facility_id": "501338",
+      "name": "SNOQUALMIE VALLEY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 47.5972,
+      "lon": -121.7796,
+      "govt_payer_share": 0.707,
+      "medicare_discharges": 42
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "53033",
+      "county_name": "King",
+      "state": "WA",
+      "pop_total": 2254371,
+      "pop_65_plus": 306055,
+      "distance_to_hub_miles": 21.8
+    },
+    {
+      "county_fips": "53053",
+      "county_name": "Pierce",
+      "state": "WA",
+      "pop_total": 918993,
+      "pop_65_plus": 130317,
+      "distance_to_hub_miles": 34.8
+    },
+    {
+      "county_fips": "53061",
+      "county_name": "Snohomish",
+      "state": "WA",
+      "pop_total": 828337,
+      "pop_65_plus": 116864,
+      "distance_to_hub_miles": 44.7
+    }
+  ],
+  "summary": {
+    "total_beds": 6288,
+    "catchment_pop": 4001701,
+    "catchment_pop_65_plus": 553236,
+    "catchment_pct_65_plus": 0.1383,
+    "max_catchment_radius_miles": 44.7,
+    "avg_catchment_distance_miles": 29.5,
+    "num_counties": 3,
+    "hospital_employment": 61975,
+    "msa_total_employment": 2079081,
+    "hospital_emp_share": 0.0225,
+    "avg_govt_payer_share": 0.2535
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "cbsa_code": "38260",
+  "cbsa_name": "Pittsburg, KS",
+  "mdi": 0.5776,
+  "bbox": [
+    -96.38,
+    36.39,
+    -93.2,
+    38.51
+  ],
+  "hospitals": [
+    {
+      "facility_id": "170006",
+      "name": "MERCY HOSPITAL PITTSBURG, INC",
+      "beds": 102,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 37.3919,
+      "lon": -94.7049,
+      "govt_payer_share": 0.518,
+      "medicare_discharges": 621
+    },
+    {
+      "facility_id": "171376",
+      "name": "GIRARD MEDICAL CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 37.5089,
+      "lon": -94.8796,
+      "govt_payer_share": 0.754,
+      "medicare_discharges": 135
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "20037",
+      "county_name": "Crawford",
+      "state": "KS",
+      "pop_total": 39012,
+      "pop_65_plus": 6057,
+      "distance_to_hub_miles": 8.9
+    },
+    {
+      "county_fips": "29217",
+      "county_name": "Vernon",
+      "state": "MO",
+      "pop_total": 19777,
+      "pop_65_plus": 3978,
+      "distance_to_hub_miles": 37.1
+    },
+    {
+      "county_fips": "20133",
+      "county_name": "Neosho",
+      "state": "KS",
+      "pop_total": 15826,
+      "pop_65_plus": 3177,
+      "distance_to_hub_miles": 32.7
+    },
+    {
+      "county_fips": "20011",
+      "county_name": "Bourbon",
+      "state": "KS",
+      "pop_total": 14405,
+      "pop_65_plus": 2775,
+      "distance_to_hub_miles": 31.0
+    },
+    {
+      "county_fips": "20001",
+      "county_name": "Allen",
+      "state": "KS",
+      "pop_total": 12554,
+      "pop_65_plus": 2571,
+      "distance_to_hub_miles": 44.8
+    },
+    {
+      "county_fips": "29011",
+      "county_name": "Barton",
+      "state": "MO",
+      "pop_total": 11683,
+      "pop_65_plus": 2406,
+      "distance_to_hub_miles": 22.3
+    }
+  ],
+  "summary": {
+    "total_beds": 127,
+    "catchment_pop": 113257,
+    "catchment_pop_65_plus": 20964,
+    "catchment_pct_65_plus": 0.1851,
+    "max_catchment_radius_miles": 44.8,
+    "avg_catchment_distance_miles": 25.3,
+    "num_counties": 6,
+    "hospital_employment": 193,
+    "msa_total_employment": 17666,
+    "hospital_emp_share": 0.0295,
+    "avg_govt_payer_share": 0.5642
+  }
+}

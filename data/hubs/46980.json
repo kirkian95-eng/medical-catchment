@@ -1,0 +1,87 @@
+{
+  "cbsa_code": "46980",
+  "cbsa_name": "Vicksburg, MS",
+  "mdi": 0.3981,
+  "bbox": [
+    -92.33,
+    31.38,
+    -89.33,
+    33.38
+  ],
+  "hospitals": [
+    {
+      "facility_id": "250031",
+      "name": "MERIT HEALTH RIVER REGION",
+      "beds": 354,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.3755,
+      "lon": -90.8273,
+      "govt_payer_share": 0.441,
+      "medicare_discharges": 1339
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "28149",
+      "county_name": "Warren",
+      "state": "MS",
+      "pop_total": 44341,
+      "pop_65_plus": 7818,
+      "distance_to_hub_miles": 1.9
+    },
+    {
+      "county_fips": "22065",
+      "county_name": "Madison",
+      "state": "LA",
+      "pop_total": 10028,
+      "pop_65_plus": 1632,
+      "distance_to_hub_miles": 24.2
+    },
+    {
+      "county_fips": "28021",
+      "county_name": "Claiborne",
+      "state": "MS",
+      "pop_total": 9044,
+      "pop_65_plus": 1638,
+      "distance_to_hub_miles": 28.2
+    },
+    {
+      "county_fips": "22035",
+      "county_name": "East Carroll",
+      "state": "LA",
+      "pop_total": 7371,
+      "pop_65_plus": 1163,
+      "distance_to_hub_miles": 34.3
+    },
+    {
+      "county_fips": "28125",
+      "county_name": "Sharkey",
+      "state": "MS",
+      "pop_total": 3910,
+      "pop_65_plus": 689,
+      "distance_to_hub_miles": 34.9
+    },
+    {
+      "county_fips": "28055",
+      "county_name": "Issaquena",
+      "state": "MS",
+      "pop_total": 1206,
+      "pop_65_plus": 253,
+      "distance_to_hub_miles": 27.0
+    }
+  ],
+  "summary": {
+    "total_beds": 354,
+    "catchment_pop": 75900,
+    "catchment_pop_65_plus": 13193,
+    "catchment_pct_65_plus": 0.1738,
+    "max_catchment_radius_miles": 34.9,
+    "avg_catchment_distance_miles": 13.2,
+    "num_counties": 6,
+    "hospital_employment": 0,
+    "msa_total_employment": 19155,
+    "hospital_emp_share": 0.0211,
+    "avg_govt_payer_share": 0.4405
+  }
+}

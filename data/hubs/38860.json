@@ -1,0 +1,99 @@
+{
+  "cbsa_code": "38860",
+  "cbsa_name": "Portland-South Portland, ME",
+  "mdi": 0.5493,
+  "bbox": [
+    -72.24,
+    42.17,
+    -68.39,
+    45.05
+  ],
+  "hospitals": [
+    {
+      "facility_id": "200009",
+      "name": "MAINEHEALTH MAINE MEDICAL CENTER",
+      "beds": 606,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.6523,
+      "lon": -70.2751,
+      "govt_payer_share": 0.411,
+      "medicare_discharges": 5763
+    },
+    {
+      "facility_id": "200008",
+      "name": "NORTHERN LIGHT MERCY HOSPITAL",
+      "beds": 230,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 43.6536,
+      "lon": -70.2644,
+      "govt_payer_share": 0.392,
+      "medicare_discharges": 745
+    },
+    {
+      "facility_id": "200021",
+      "name": "MAINEHEALTH MID COAST HOSPITAL",
+      "beds": 92,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.9058,
+      "lon": -69.8918,
+      "govt_payer_share": 0.424,
+      "medicare_discharges": 1341
+    },
+    {
+      "facility_id": "200020",
+      "name": "YORK HOSPITAL",
+      "beds": 79,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.1665,
+      "lon": -70.679,
+      "govt_payer_share": 0.499,
+      "medicare_discharges": 862
+    },
+    {
+      "facility_id": "201310",
+      "name": "BRIDGTON HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.0475,
+      "lon": -70.7433,
+      "govt_payer_share": 0.417,
+      "medicare_discharges": 130
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "23005",
+      "county_name": "Cumberland",
+      "state": "ME",
+      "pop_total": 303357,
+      "pop_65_plus": 59050,
+      "distance_to_hub_miles": 11.2
+    },
+    {
+      "county_fips": "23031",
+      "county_name": "York",
+      "state": "ME",
+      "pop_total": 212691,
+      "pop_65_plus": 45117,
+      "distance_to_hub_miles": 24.6
+    }
+  ],
+  "summary": {
+    "total_beds": 1032,
+    "catchment_pop": 516048,
+    "catchment_pop_65_plus": 104167,
+    "catchment_pct_65_plus": 0.2019,
+    "max_catchment_radius_miles": 24.6,
+    "avg_catchment_distance_miles": 16.7,
+    "num_counties": 2,
+    "hospital_employment": 51,
+    "msa_total_employment": 267410,
+    "hospital_emp_share": 0.0368,
+    "avg_govt_payer_share": 0.4149
+  }
+}

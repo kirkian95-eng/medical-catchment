@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "25500",
+  "cbsa_name": "Harrisonburg, VA",
+  "mdi": 0.4553,
+  "bbox": [
+    -80.35,
+    37.4,
+    -77.35,
+    39.4
+  ],
+  "hospitals": [
+    {
+      "facility_id": "490004",
+      "name": "SENTARA RMH MEDICAL CENTER",
+      "beds": 238,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.4048,
+      "lon": -78.8533,
+      "govt_payer_share": 0.399,
+      "medicare_discharges": 3876
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "51165",
+      "county_name": "Rockingham",
+      "state": "VA",
+      "pop_total": 83905,
+      "pop_65_plus": 16440,
+      "distance_to_hub_miles": 7.5
+    },
+    {
+      "county_fips": "51660",
+      "county_name": "Harrisonburg",
+      "state": "VA",
+      "pop_total": 51784,
+      "pop_65_plus": 4975,
+      "distance_to_hub_miles": 2.4
+    },
+    {
+      "county_fips": "51139",
+      "county_name": "Page",
+      "state": "VA",
+      "pop_total": 23753,
+      "pop_65_plus": 5063,
+      "distance_to_hub_miles": 24.8
+    },
+    {
+      "county_fips": "54071",
+      "county_name": "Pendleton",
+      "state": "WV",
+      "pop_total": 6156,
+      "pop_65_plus": 1742,
+      "distance_to_hub_miles": 32.9
+    }
+  ],
+  "summary": {
+    "total_beds": 238,
+    "catchment_pop": 165598,
+    "catchment_pop_65_plus": 28220,
+    "catchment_pct_65_plus": 0.1704,
+    "max_catchment_radius_miles": 32.9,
+    "avg_catchment_distance_miles": 9.3,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 31109,
+    "hospital_emp_share": 0.0266,
+    "avg_govt_payer_share": 0.3991
+  }
+}

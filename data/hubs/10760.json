@@ -1,0 +1,58 @@
+{
+  "cbsa_code": "10760",
+  "cbsa_name": "Alexander City, AL",
+  "mdi": 0.5768,
+  "bbox": [
+    -87.37,
+    31.8,
+    -84.27,
+    33.89
+  ],
+  "hospitals": [
+    {
+      "facility_id": "010065",
+      "name": "RUSSELL MEDICAL CENTER",
+      "beds": 81,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.8858,
+      "lon": -85.8692,
+      "govt_payer_share": 0.418,
+      "medicare_discharges": 385
+    },
+    {
+      "facility_id": "010052",
+      "name": "LAKE MARTIN COMMUNITY HOSPITAL",
+      "beds": 46,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.8048,
+      "lon": -85.7681,
+      "govt_payer_share": 0.392,
+      "medicare_discharges": 105
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "01123",
+      "county_name": "Tallapoosa",
+      "state": "AL",
+      "pop_total": 41251,
+      "pop_65_plus": 9181,
+      "distance_to_hub_miles": 2.1
+    }
+  ],
+  "summary": {
+    "total_beds": 127,
+    "catchment_pop": 41251,
+    "catchment_pop_65_plus": 9181,
+    "catchment_pct_65_plus": 0.2226,
+    "max_catchment_radius_miles": 2.1,
+    "avg_catchment_distance_miles": 2.1,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 12705,
+    "hospital_emp_share": 0.041,
+    "avg_govt_payer_share": 0.4087
+  }
+}

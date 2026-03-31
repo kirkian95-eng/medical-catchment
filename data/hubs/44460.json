@@ -1,0 +1,74 @@
+{
+  "cbsa_code": "44460",
+  "cbsa_name": "Steamboat Springs, CO",
+  "mdi": 0.5111,
+  "bbox": [
+    -109.24,
+    39.46,
+    -105.32,
+    41.7
+  ],
+  "hospitals": [
+    {
+      "facility_id": "060049",
+      "name": "UCHEALTH YAMPA VALLEY MEDICAL CENTER",
+      "beds": 39,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.462,
+      "lon": -106.8176,
+      "govt_payer_share": 0.485,
+      "medicare_discharges": 81
+    },
+    {
+      "facility_id": "061314",
+      "name": "MEMORIAL HOSPITAL, THE",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 40.7047,
+      "lon": -107.7362,
+      "govt_payer_share": 0.641,
+      "medicare_discharges": 160
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "08107",
+      "county_name": "Routt",
+      "state": "CO",
+      "pop_total": 24944,
+      "pop_65_plus": 4207,
+      "distance_to_hub_miles": 10.9
+    },
+    {
+      "county_fips": "08081",
+      "county_name": "Moffat",
+      "state": "CO",
+      "pop_total": 13232,
+      "pop_65_plus": 2015,
+      "distance_to_hub_miles": 54.3
+    },
+    {
+      "county_fips": "08057",
+      "county_name": "Jackson",
+      "state": "CO",
+      "pop_total": 1440,
+      "pop_65_plus": 452,
+      "distance_to_hub_miles": 44.4
+    }
+  ],
+  "summary": {
+    "total_beds": 64,
+    "catchment_pop": 39616,
+    "catchment_pop_65_plus": 6674,
+    "catchment_pct_65_plus": 0.1685,
+    "max_catchment_radius_miles": 54.3,
+    "avg_catchment_distance_miles": 26.6,
+    "num_counties": 3,
+    "hospital_employment": 757,
+    "msa_total_employment": 21256,
+    "hospital_emp_share": 0.0326,
+    "avg_govt_payer_share": 0.5458
+  }
+}

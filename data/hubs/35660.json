@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "35660",
+  "cbsa_name": "Niles, MI",
+  "mdi": 0.3023,
+  "bbox": [
+    -87.98,
+    41.09,
+    -84.74,
+    43.16
+  ],
+  "hospitals": [
+    {
+      "facility_id": "230021",
+      "name": "LAKELAND HOSPITAL, ST JOSEPH",
+      "beds": 313,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.0902,
+      "lon": -86.4781,
+      "govt_payer_share": 0.286,
+      "medicare_discharges": 2652
+    },
+    {
+      "facility_id": "230078",
+      "name": "COREWELL HEALTH WATERVLIET HOSPITAL",
+      "beds": 62,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.1639,
+      "lon": -86.24,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 2
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "26021",
+      "county_name": "Berrien",
+      "state": "MI",
+      "pop_total": 153938,
+      "pop_65_plus": 31455,
+      "distance_to_hub_miles": 14.7
+    },
+    {
+      "county_fips": "26159",
+      "county_name": "Van Buren",
+      "state": "MI",
+      "pop_total": 75636,
+      "pop_65_plus": 14293,
+      "distance_to_hub_miles": 14.3
+    }
+  ],
+  "summary": {
+    "total_beds": 375,
+    "catchment_pop": 229574,
+    "catchment_pop_65_plus": 45748,
+    "catchment_pct_65_plus": 0.1993,
+    "max_catchment_radius_miles": 14.7,
+    "avg_catchment_distance_miles": 14.6,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 60306,
+    "hospital_emp_share": 0.0027,
+    "avg_govt_payer_share": 0.3377
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "cbsa_code": "38420",
+  "cbsa_name": "Platteville, WI",
+  "mdi": 0.6891,
+  "bbox": [
+    -92.22,
+    41.75,
+    -88.99,
+    44.14
+  ],
+  "hospitals": [
+    {
+      "facility_id": "521344",
+      "name": "GUNDERSEN BOSCOBEL AREA HOSPITAL AND CLINICS",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.143,
+      "lon": -90.683,
+      "govt_payer_share": 0.646,
+      "medicare_discharges": 60
+    },
+    {
+      "facility_id": "521354",
+      "name": "SOUTHWEST HEALTH CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.7457,
+      "lon": -90.4923,
+      "govt_payer_share": 0.372,
+      "medicare_discharges": 422
+    },
+    {
+      "facility_id": "521322",
+      "name": "GRANT REGIONAL HEALTH CENTER",
+      "beds": 15,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.844,
+      "lon": -90.717,
+      "govt_payer_share": 0.614,
+      "medicare_discharges": 168
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "55043",
+      "county_name": "Grant",
+      "state": "WI",
+      "pop_total": 51842,
+      "pop_65_plus": 9189,
+      "distance_to_hub_miles": 8.0
+    }
+  ],
+  "summary": {
+    "total_beds": 65,
+    "catchment_pop": 51842,
+    "catchment_pop_65_plus": 9189,
+    "catchment_pct_65_plus": 0.1773,
+    "max_catchment_radius_miles": 8.0,
+    "avg_catchment_distance_miles": 8.0,
+    "num_counties": 1,
+    "hospital_employment": 965,
+    "msa_total_employment": 17352,
+    "hospital_emp_share": 0.0374,
+    "avg_govt_payer_share": 0.5332
+  }
+}

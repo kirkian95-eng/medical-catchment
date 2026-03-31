@@ -1,0 +1,568 @@
+{
+  "cbsa_code": "12060",
+  "cbsa_name": "Atlanta-Sandy Springs-Roswell, GA",
+  "mdi": 0.3283,
+  "bbox": [
+    -86.64,
+    31.9,
+    -81.97,
+    35.57
+  ],
+  "hospitals": [
+    {
+      "facility_id": "110079",
+      "name": "GRADY MEMORIAL HOSPITAL",
+      "beds": 953,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.7518,
+      "lon": -84.382,
+      "govt_payer_share": 0.256,
+      "medicare_discharges": 3193
+    },
+    {
+      "facility_id": "110035",
+      "name": "WELLSTAR KENNESTONE REGIONAL MEDICAL CENTER",
+      "beds": 633,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.9693,
+      "lon": -84.5504,
+      "govt_payer_share": 0.263,
+      "medicare_discharges": 8787
+    },
+    {
+      "facility_id": "110078",
+      "name": "EMORY UNIVERSITY HOSPITAL MIDTOWN",
+      "beds": 481,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.7696,
+      "lon": -84.3853,
+      "govt_payer_share": 0.271,
+      "medicare_discharges": 3011
+    },
+    {
+      "facility_id": "110083",
+      "name": "PIEDMONT HOSPITAL, INC",
+      "beds": 458,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Federal",
+      "lat": 33.81,
+      "lon": -84.3958,
+      "govt_payer_share": 0.265,
+      "medicare_discharges": 6372
+    },
+    {
+      "facility_id": "110161",
+      "name": "NORTHSIDE HOSPITAL",
+      "beds": 444,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.908,
+      "lon": -84.3543,
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 3794
+    },
+    {
+      "facility_id": "110082",
+      "name": "SAINT JOSEPH'S HOSPITAL OF ATLANTA, INC",
+      "beds": 410,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.8843,
+      "lon": -84.375,
+      "govt_payer_share": 0.273,
+      "medicare_discharges": 3943
+    },
+    {
+      "facility_id": "110005",
+      "name": "NORTHSIDE HOSPITAL FORSYTH",
+      "beds": 389,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.1784,
+      "lon": -84.1396,
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 4661
+    },
+    {
+      "facility_id": "110143",
+      "name": "WELLSTAR COBB MEDICAL CENTER",
+      "beds": 382,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 33.8581,
+      "lon": -84.6007,
+      "govt_payer_share": 0.224,
+      "medicare_discharges": 2683
+    },
+    {
+      "facility_id": "110165",
+      "name": "SOUTHERN REGIONAL MEDICAL CENTER",
+      "beds": 376,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.5573,
+      "lon": -84.4005,
+      "govt_payer_share": 0.179,
+      "medicare_discharges": 577
+    },
+    {
+      "facility_id": "110087",
+      "name": "NORTHSIDE HOSPITAL GWINNETT",
+      "beds": 353,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.9636,
+      "lon": -84.0168,
+      "govt_payer_share": 0.267,
+      "medicare_discharges": 4660
+    },
+    {
+      "facility_id": "110191",
+      "name": "PIEDMONT HENRY HOSPITAL",
+      "beds": 259,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.511,
+      "lon": -84.2233,
+      "govt_payer_share": 0.222,
+      "medicare_discharges": 2959
+    },
+    {
+      "facility_id": "110215",
+      "name": "PIEDMONT FAYETTE HOSPITAL",
+      "beds": 221,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.4508,
+      "lon": -84.5091,
+      "govt_payer_share": 0.245,
+      "medicare_discharges": 3947
+    },
+    {
+      "facility_id": "110192",
+      "name": "PIEDMONT EASTSIDE MEDICAL CENTER",
+      "beds": 200,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.8776,
+      "lon": -84.0198,
+      "govt_payer_share": 0.276,
+      "medicare_discharges": 1912
+    },
+    {
+      "facility_id": "110011",
+      "name": "TANNER MEDICAL CENTER - CARROLLTON",
+      "beds": 182,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.5701,
+      "lon": -85.0726,
+      "govt_payer_share": 0.279,
+      "medicare_discharges": 2356
+    },
+    {
+      "facility_id": "110198",
+      "name": "WELLSTAR NORTH FULTON MEDICAL CENTER",
+      "beds": 167,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.0624,
+      "lon": -84.3206,
+      "govt_payer_share": 0.296,
+      "medicare_discharges": 2294
+    },
+    {
+      "facility_id": "110031",
+      "name": "WELLSTAR SPALDING MEDICAL CENTER",
+      "beds": 160,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.2397,
+      "lon": -84.2658,
+      "govt_payer_share": 0.258,
+      "medicare_discharges": 1351
+    },
+    {
+      "facility_id": "110229",
+      "name": "PIEDMONT NEWNAN HOSPITAL, INC",
+      "beds": 143,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.3594,
+      "lon": -84.7557,
+      "govt_payer_share": 0.275,
+      "medicare_discharges": 2592
+    },
+    {
+      "facility_id": "110252",
+      "name": "NORTHSIDE HOSPITAL DULUTH",
+      "beds": 122,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.0026,
+      "lon": -84.1623,
+      "govt_payer_share": 0.289,
+      "medicare_discharges": 1058
+    },
+    {
+      "facility_id": "110030",
+      "name": "PIEDMONT CARTERSVILLE MEDICAL CENTER",
+      "beds": 112,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.2005,
+      "lon": -84.7976,
+      "govt_payer_share": 0.315,
+      "medicare_discharges": 1747
+    },
+    {
+      "facility_id": "110230",
+      "name": "EMORY JOHNS CREEK HOSPITAL",
+      "beds": 110,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.0671,
+      "lon": -84.1747,
+      "govt_payer_share": 0.267,
+      "medicare_discharges": 2252
+    },
+    {
+      "facility_id": "110184",
+      "name": "WELLSTAR DOUGLAS MEDICAL CENTER",
+      "beds": 108,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.7394,
+      "lon": -84.7329,
+      "govt_payer_share": 0.286,
+      "medicare_discharges": 1278
+    },
+    {
+      "facility_id": "110091",
+      "name": "PIEDMONT ROCKDALE HOSPITAL",
+      "beds": 107,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.6808,
+      "lon": -84.0019,
+      "govt_payer_share": 0.198,
+      "medicare_discharges": 1496
+    },
+    {
+      "facility_id": "110018",
+      "name": "PIEDMONT NEWTON HOSPITAL",
+      "beds": 90,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.6016,
+      "lon": -83.8488,
+      "govt_payer_share": 0.262,
+      "medicare_discharges": 1189
+    },
+    {
+      "facility_id": "110008",
+      "name": "NORTHSIDE HOSPITAL CHEROKEE",
+      "beds": 84,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 34.2413,
+      "lon": -84.4594,
+      "govt_payer_share": 0.317,
+      "medicare_discharges": 4215
+    },
+    {
+      "facility_id": "110042",
+      "name": "WELLSTAR PAULDING MEDICAL CENTER",
+      "beds": 83,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 33.8604,
+      "lon": -84.7698,
+      "govt_payer_share": 0.307,
+      "medicare_discharges": 2355
+    },
+    {
+      "facility_id": "110046",
+      "name": "PIEDMONT WALTON HOSPITAL",
+      "beds": 77,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.7983,
+      "lon": -83.7501,
+      "govt_payer_share": 0.284,
+      "medicare_discharges": 998
+    },
+    {
+      "facility_id": "110045",
+      "name": "NGMC BARROW, LLC",
+      "beds": 56,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.9952,
+      "lon": -83.6975,
+      "govt_payer_share": 0.29,
+      "medicare_discharges": 259
+    },
+    {
+      "facility_id": "110237",
+      "name": "NORTHEAST GEORGIA MEDICAL CENTER LUMPKIN",
+      "beds": 52,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 34.571,
+      "lon": -84.0138,
+      "govt_payer_share": 0.367,
+      "medicare_discharges": 258
+    },
+    {
+      "facility_id": "110015",
+      "name": "TANNER MEDICAL CENTER VILLA RICA",
+      "beds": 40,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.7463,
+      "lon": -84.9167,
+      "govt_payer_share": 0.294,
+      "medicare_discharges": 789
+    },
+    {
+      "facility_id": "110225",
+      "name": "PIEDMONT MOUNTAINSIDE HOSPITAL INC",
+      "beds": 35,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 34.4491,
+      "lon": -84.4486,
+      "govt_payer_share": 0.389,
+      "medicare_discharges": 1395
+    },
+    {
+      "facility_id": "110233",
+      "name": "SOUTHEASTERN REGIONAL MEDICAL CENTER, INC",
+      "beds": 25,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.4187,
+      "lon": -84.7132,
+      "govt_payer_share": 0.253,
+      "medicare_discharges": 231
+    },
+    {
+      "facility_id": "111304",
+      "name": "MORGAN MEDICAL CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.5906,
+      "lon": -83.4676,
+      "govt_payer_share": 0.454,
+      "medicare_discharges": 68
+    },
+    {
+      "facility_id": "111316",
+      "name": "WARM SPRINGS MEDICAL CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 32.9007,
+      "lon": -84.7291,
+      "govt_payer_share": 0.288,
+      "medicare_discharges": 23
+    },
+    {
+      "facility_id": "111319",
+      "name": "WELLSTAR SYLVAN GROVE MEDICAL CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.2947,
+      "lon": -83.9756,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 11
+    },
+    {
+      "facility_id": "111320",
+      "name": "HIGGINS GENERAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.7392,
+      "lon": -85.1354,
+      "govt_payer_share": 0.377,
+      "medicare_discharges": 43
+    },
+    {
+      "facility_id": "111303",
+      "name": "JASPER MEMORIAL HOSPITAL",
+      "beds": 17,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 33.2865,
+      "lon": -83.7023,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 2
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "13121",
+      "county_name": "Fulton",
+      "state": "GA",
+      "pop_total": 1061944,
+      "pop_65_plus": 129111,
+      "distance_to_hub_miles": 5.6
+    },
+    {
+      "county_fips": "13135",
+      "county_name": "Gwinnett",
+      "state": "GA",
+      "pop_total": 957977,
+      "pop_65_plus": 101912,
+      "distance_to_hub_miles": 22.5
+    },
+    {
+      "county_fips": "13067",
+      "county_name": "Cobb",
+      "state": "GA",
+      "pop_total": 765813,
+      "pop_65_plus": 99493,
+      "distance_to_hub_miles": 14.6
+    },
+    {
+      "county_fips": "13089",
+      "county_name": "DeKalb",
+      "state": "GA",
+      "pop_total": 761209,
+      "pop_65_plus": 99800,
+      "distance_to_hub_miles": 9.0
+    },
+    {
+      "county_fips": "13063",
+      "county_name": "Clayton",
+      "state": "GA",
+      "pop_total": 296312,
+      "pop_65_plus": 29607,
+      "distance_to_hub_miles": 18.9
+    },
+    {
+      "county_fips": "13057",
+      "county_name": "Cherokee",
+      "state": "GA",
+      "pop_total": 268567,
+      "pop_65_plus": 40371,
+      "distance_to_hub_miles": 30.3
+    },
+    {
+      "county_fips": "13151",
+      "county_name": "Henry",
+      "state": "GA",
+      "pop_total": 240853,
+      "pop_65_plus": 28988,
+      "distance_to_hub_miles": 28.0
+    },
+    {
+      "county_fips": "13223",
+      "county_name": "Paulding",
+      "state": "GA",
+      "pop_total": 169898,
+      "pop_65_plus": 19051,
+      "distance_to_hub_miles": 29.3
+    },
+    {
+      "county_fips": "13077",
+      "county_name": "Coweta",
+      "state": "GA",
+      "pop_total": 147449,
+      "pop_65_plus": 21171,
+      "distance_to_hub_miles": 38.9
+    },
+    {
+      "county_fips": "13097",
+      "county_name": "Douglas",
+      "state": "GA",
+      "pop_total": 144735,
+      "pop_65_plus": 17163,
+      "distance_to_hub_miles": 24.0
+    },
+    {
+      "county_fips": "13045",
+      "county_name": "Carroll",
+      "state": "GA",
+      "pop_total": 120060,
+      "pop_65_plus": 16720,
+      "distance_to_hub_miles": 43.7
+    },
+    {
+      "county_fips": "13113",
+      "county_name": "Fayette",
+      "state": "GA",
+      "pop_total": 119259,
+      "pop_65_plus": 22742,
+      "distance_to_hub_miles": 28.6
+    },
+    {
+      "county_fips": "13217",
+      "county_name": "Newton",
+      "state": "GA",
+      "pop_total": 113298,
+      "pop_65_plus": 14952,
+      "distance_to_hub_miles": 35.0
+    },
+    {
+      "county_fips": "13247",
+      "county_name": "Rockdale",
+      "state": "GA",
+      "pop_total": 93641,
+      "pop_65_plus": 14130,
+      "distance_to_hub_miles": 22.8
+    },
+    {
+      "county_fips": "13255",
+      "county_name": "Spalding",
+      "state": "GA",
+      "pop_total": 67415,
+      "pop_65_plus": 12423,
+      "distance_to_hub_miles": 38.6
+    },
+    {
+      "county_fips": "13227",
+      "county_name": "Pickens",
+      "state": "GA",
+      "pop_total": 33439,
+      "pop_65_plus": 7401,
+      "distance_to_hub_miles": 45.2
+    },
+    {
+      "county_fips": "13035",
+      "county_name": "Butts",
+      "state": "GA",
+      "pop_total": 25522,
+      "pop_65_plus": 4072,
+      "distance_to_hub_miles": 43.5
+    },
+    {
+      "county_fips": "13231",
+      "county_name": "Pike",
+      "state": "GA",
+      "pop_total": 19145,
+      "pop_65_plus": 3010,
+      "distance_to_hub_miles": 49.9
+    }
+  ],
+  "summary": {
+    "total_beds": 7429,
+    "catchment_pop": 5406536,
+    "catchment_pop_65_plus": 682117,
+    "catchment_pct_65_plus": 0.1262,
+    "max_catchment_radius_miles": 49.9,
+    "avg_catchment_distance_miles": 18.7,
+    "num_counties": 18,
+    "hospital_employment": 60725,
+    "msa_total_employment": 2515586,
+    "hospital_emp_share": 0.0226,
+    "avg_govt_payer_share": 0.2665
+  }
+}

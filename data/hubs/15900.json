@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "15900",
+  "cbsa_name": "Canton, IL",
+  "mdi": 0.7844,
+  "bbox": [
+    -91.54,
+    39.55,
+    -88.54,
+    41.55
+  ],
+  "hospitals": [
+    {
+      "facility_id": "140001",
+      "name": "GRAHAM HOSPITAL ASSOCIATION",
+      "beds": 144,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.5532,
+      "lon": -90.0407,
+      "govt_payer_share": 0.566,
+      "medicare_discharges": 605
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "17057",
+      "county_name": "Fulton",
+      "state": "IL",
+      "pop_total": 33691,
+      "pop_65_plus": 6938,
+      "distance_to_hub_miles": 10.4
+    },
+    {
+      "county_fips": "17109",
+      "county_name": "McDonough",
+      "state": "IL",
+      "pop_total": 27370,
+      "pop_65_plus": 5144,
+      "distance_to_hub_miles": 34.1
+    },
+    {
+      "county_fips": "17125",
+      "county_name": "Mason",
+      "state": "IL",
+      "pop_total": 13074,
+      "pop_65_plus": 2989,
+      "distance_to_hub_miles": 22.6
+    }
+  ],
+  "summary": {
+    "total_beds": 144,
+    "catchment_pop": 74135,
+    "catchment_pop_65_plus": 15071,
+    "catchment_pct_65_plus": 0.2033,
+    "max_catchment_radius_miles": 34.1,
+    "avg_catchment_distance_miles": 21.3,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 8332,
+    "hospital_emp_share": 0.0367,
+    "avg_govt_payer_share": 0.5663
+  }
+}

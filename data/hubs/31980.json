@@ -1,0 +1,47 @@
+{
+  "cbsa_code": "31980",
+  "cbsa_name": "Marion, IN",
+  "mdi": 0.3666,
+  "bbox": [
+    -87.17,
+    39.56,
+    -84.17,
+    41.56
+  ],
+  "hospitals": [
+    {
+      "facility_id": "150011",
+      "name": "MARION GENERAL HOSPITAL",
+      "beds": 99,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.5642,
+      "lon": -85.6656,
+      "govt_payer_share": 0.276,
+      "medicare_discharges": 1058
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "18053",
+      "county_name": "Grant",
+      "state": "IN",
+      "pop_total": 66560,
+      "pop_65_plus": 12679,
+      "distance_to_hub_miles": 3.4
+    }
+  ],
+  "summary": {
+    "total_beds": 99,
+    "catchment_pop": 66560,
+    "catchment_pop_65_plus": 12679,
+    "catchment_pct_65_plus": 0.1905,
+    "max_catchment_radius_miles": 3.4,
+    "avg_catchment_distance_miles": 3.4,
+    "num_counties": 1,
+    "hospital_employment": 927,
+    "msa_total_employment": 26960,
+    "hospital_emp_share": 0.0259,
+    "avg_govt_payer_share": 0.2755
+  }
+}

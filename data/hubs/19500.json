@@ -1,0 +1,74 @@
+{
+  "cbsa_code": "19500",
+  "cbsa_name": "Decatur, IL",
+  "mdi": 0.5798,
+  "bbox": [
+    -90.46,
+    38.81,
+    -87.43,
+    40.87
+  ],
+  "hospitals": [
+    {
+      "facility_id": "140135",
+      "name": "DECATUR MEMORIAL HOSPITAL",
+      "beds": 372,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.8658,
+      "lon": -88.9608,
+      "govt_payer_share": 0.424,
+      "medicare_discharges": 2505
+    },
+    {
+      "facility_id": "140166",
+      "name": "ST MARYS HOSPITAL",
+      "beds": 355,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.8102,
+      "lon": -88.9278,
+      "govt_payer_share": 0.459,
+      "medicare_discharges": 1022
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "17115",
+      "county_name": "Macon",
+      "state": "IL",
+      "pop_total": 103542,
+      "pop_65_plus": 21037,
+      "distance_to_hub_miles": 1.7
+    },
+    {
+      "county_fips": "17039",
+      "county_name": "De Witt",
+      "state": "IL",
+      "pop_total": 15535,
+      "pop_65_plus": 3039,
+      "distance_to_hub_miles": 23.3
+    },
+    {
+      "county_fips": "17139",
+      "county_name": "Moultrie",
+      "state": "IL",
+      "pop_total": 14531,
+      "pop_65_plus": 2730,
+      "distance_to_hub_miles": 22.0
+    }
+  ],
+  "summary": {
+    "total_beds": 727,
+    "catchment_pop": 133608,
+    "catchment_pop_65_plus": 26806,
+    "catchment_pct_65_plus": 0.2006,
+    "max_catchment_radius_miles": 23.3,
+    "avg_catchment_distance_miles": 6.4,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 45500,
+    "hospital_emp_share": 0.0431,
+    "avg_govt_payer_share": 0.4414
+  }
+}

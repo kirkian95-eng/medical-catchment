@@ -1,0 +1,90 @@
+{
+  "cbsa_code": "47580",
+  "cbsa_name": "Warner Robins, GA",
+  "mdi": 0.3662,
+  "bbox": [
+    -85.29,
+    31.62,
+    -82.13,
+    33.67
+  ],
+  "hospitals": [
+    {
+      "facility_id": "110069",
+      "name": "EMORY HOUSTON HOSPITAL WARNER ROBINS",
+      "beds": 186,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.6181,
+      "lon": -83.6314,
+      "govt_payer_share": 0.332,
+      "medicare_discharges": 3151
+    },
+    {
+      "facility_id": "111310",
+      "name": "ATRIUM HEALTH NAVICENT PEACH",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.6654,
+      "lon": -83.7861,
+      "govt_payer_share": 0.3,
+      "medicare_discharges": 212
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "13153",
+      "county_name": "Houston",
+      "state": "GA",
+      "pop_total": 164117,
+      "pop_65_plus": 21590,
+      "distance_to_hub_miles": 11.5
+    },
+    {
+      "county_fips": "13225",
+      "county_name": "Peach",
+      "state": "GA",
+      "pop_total": 28054,
+      "pop_65_plus": 4589,
+      "distance_to_hub_miles": 11.0
+    },
+    {
+      "county_fips": "13023",
+      "county_name": "Bleckley",
+      "state": "GA",
+      "pop_total": 12413,
+      "pop_65_plus": 2140,
+      "distance_to_hub_miles": 22.9
+    },
+    {
+      "county_fips": "13235",
+      "county_name": "Pulaski",
+      "state": "GA",
+      "pop_total": 9887,
+      "pop_65_plus": 2226,
+      "distance_to_hub_miles": 28.9
+    },
+    {
+      "county_fips": "13289",
+      "county_name": "Twiggs",
+      "state": "GA",
+      "pop_total": 7955,
+      "pop_65_plus": 1863,
+      "distance_to_hub_miles": 13.3
+    }
+  ],
+  "summary": {
+    "total_beds": 211,
+    "catchment_pop": 222426,
+    "catchment_pop_65_plus": 32408,
+    "catchment_pct_65_plus": 0.1457,
+    "max_catchment_radius_miles": 28.9,
+    "avg_catchment_distance_miles": 12.9,
+    "num_counties": 5,
+    "hospital_employment": 2048,
+    "msa_total_employment": 75162,
+    "hospital_emp_share": 0.0257,
+    "avg_govt_payer_share": 0.3286
+  }
+}

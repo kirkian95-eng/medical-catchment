@@ -1,0 +1,88 @@
+{
+  "cbsa_code": "15980",
+  "cbsa_name": "Cape Coral-Fort Myers, FL",
+  "mdi": 0.5065,
+  "bbox": [
+    -83.45,
+    25.54,
+    -80.06,
+    27.63
+  ],
+  "hospitals": [
+    {
+      "facility_id": "100012",
+      "name": "LEE MEMORIAL HOSPITAL",
+      "beds": 895,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 26.6271,
+      "lon": -81.8725,
+      "govt_payer_share": 0.408,
+      "medicare_discharges": 7646
+    },
+    {
+      "facility_id": "100220",
+      "name": "GULF COAST MEDICAL CENTER LEE HEALTH",
+      "beds": 699,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 26.535,
+      "lon": -81.8258,
+      "govt_payer_share": 0.392,
+      "medicare_discharges": 8802
+    },
+    {
+      "facility_id": "100244",
+      "name": "CAPE CORAL HOSPITAL",
+      "beds": 303,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 26.6313,
+      "lon": -81.9481,
+      "govt_payer_share": 0.352,
+      "medicare_discharges": 4553
+    },
+    {
+      "facility_id": "100107",
+      "name": "HCA FLORIDA LEHIGH REGIONAL MEDICAL CENTER",
+      "beds": 53,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 26.618,
+      "lon": -81.5592,
+      "govt_payer_share": 0.193,
+      "medicare_discharges": 411
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "12071",
+      "county_name": "Lee",
+      "state": "FL",
+      "pop_total": 772902,
+      "pop_65_plus": 223302,
+      "distance_to_hub_miles": 8.0
+    },
+    {
+      "county_fips": "12043",
+      "county_name": "Glades",
+      "state": "FL",
+      "pop_total": 12179,
+      "pop_65_plus": 3266,
+      "distance_to_hub_miles": 48.3
+    }
+  ],
+  "summary": {
+    "total_beds": 1950,
+    "catchment_pop": 785081,
+    "catchment_pop_65_plus": 226568,
+    "catchment_pct_65_plus": 0.2886,
+    "max_catchment_radius_miles": 48.3,
+    "avg_catchment_distance_miles": 8.6,
+    "num_counties": 2,
+    "hospital_employment": 16475,
+    "msa_total_employment": 293572,
+    "hospital_emp_share": 0.0391,
+    "avg_govt_payer_share": 0.3875
+  }
+}

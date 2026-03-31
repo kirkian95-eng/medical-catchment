@@ -1,0 +1,79 @@
+{
+  "cbsa_code": "10820",
+  "cbsa_name": "Alexandria, MN",
+  "mdi": 0.476,
+  "bbox": [
+    -96.88,
+    44.87,
+    -93.88,
+    46.87
+  ],
+  "hospitals": [
+    {
+      "facility_id": "240030",
+      "name": "ALOMERE HEALTH",
+      "beds": 127,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 45.8727,
+      "lon": -95.3772,
+      "govt_payer_share": 0.337,
+      "medicare_discharges": 721
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "27041",
+      "county_name": "Douglas",
+      "state": "MN",
+      "pop_total": 39081,
+      "pop_65_plus": 9233,
+      "distance_to_hub_miles": 5.6
+    },
+    {
+      "county_fips": "27153",
+      "county_name": "Todd",
+      "state": "MN",
+      "pop_total": 25277,
+      "pop_65_plus": 5580,
+      "distance_to_hub_miles": 26.8
+    },
+    {
+      "county_fips": "27121",
+      "county_name": "Pope",
+      "state": "MN",
+      "pop_total": 11312,
+      "pop_65_plus": 2834,
+      "distance_to_hub_miles": 20.1
+    },
+    {
+      "county_fips": "27149",
+      "county_name": "Stevens",
+      "state": "MN",
+      "pop_total": 9682,
+      "pop_65_plus": 1675,
+      "distance_to_hub_miles": 36.0
+    },
+    {
+      "county_fips": "27011",
+      "county_name": "Big Stone",
+      "state": "MN",
+      "pop_total": 5161,
+      "pop_65_plus": 1329,
+      "distance_to_hub_miles": 58.7
+    }
+  ],
+  "summary": {
+    "total_beds": 127,
+    "catchment_pop": 90513,
+    "catchment_pop_65_plus": 20651,
+    "catchment_pct_65_plus": 0.2282,
+    "max_catchment_radius_miles": 58.7,
+    "avg_catchment_distance_miles": 19.6,
+    "num_counties": 5,
+    "hospital_employment": 941,
+    "msa_total_employment": 19412,
+    "hospital_emp_share": 0.0372,
+    "avg_govt_payer_share": 0.3373
+  }
+}

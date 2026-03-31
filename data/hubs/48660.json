@@ -1,0 +1,160 @@
+{
+  "cbsa_code": "48660",
+  "cbsa_name": "Wichita Falls, TX",
+  "mdi": 0.6082,
+  "bbox": [
+    -100.38,
+    32.65,
+    -96.71,
+    35.01
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450010",
+      "name": "UNITED REGIONAL HEALTH CARE SYSTEM",
+      "beds": 565,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.9029,
+      "lon": -98.5005,
+      "govt_payer_share": 0.468,
+      "medicare_discharges": 5598
+    },
+    {
+      "facility_id": "450827",
+      "name": "KELL WEST REGIONAL HOSPITAL",
+      "beds": 41,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.8052,
+      "lon": -98.5285,
+      "govt_payer_share": 0.488,
+      "medicare_discharges": 296
+    },
+    {
+      "facility_id": "451343",
+      "name": "ELECTRA MEMORIAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.8828,
+      "lon": -98.8827,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 95
+    },
+    {
+      "facility_id": "451362",
+      "name": "CLAY COUNTY MEMORIAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 33.7575,
+      "lon": -98.2084,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 101
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48485",
+      "county_name": "Wichita",
+      "state": "TX",
+      "pop_total": 129584,
+      "pop_65_plus": 19318,
+      "distance_to_hub_miles": 13.2
+    },
+    {
+      "county_fips": "48337",
+      "county_name": "Montague",
+      "state": "TX",
+      "pop_total": 20197,
+      "pop_65_plus": 4363,
+      "distance_to_hub_miles": 47.2
+    },
+    {
+      "county_fips": "48503",
+      "county_name": "Young",
+      "state": "TX",
+      "pop_total": 17903,
+      "pop_65_plus": 3733,
+      "distance_to_hub_miles": 50.4
+    },
+    {
+      "county_fips": "48487",
+      "county_name": "Wilbarger",
+      "state": "TX",
+      "pop_total": 12795,
+      "pop_65_plus": 2279,
+      "distance_to_hub_miles": 44.1
+    },
+    {
+      "county_fips": "48077",
+      "county_name": "Clay",
+      "state": "TX",
+      "pop_total": 10290,
+      "pop_65_plus": 2292,
+      "distance_to_hub_miles": 18.5
+    },
+    {
+      "county_fips": "48009",
+      "county_name": "Archer",
+      "state": "TX",
+      "pop_total": 8649,
+      "pop_65_plus": 1783,
+      "distance_to_hub_miles": 21.7
+    },
+    {
+      "county_fips": "48237",
+      "county_name": "Jack",
+      "state": "TX",
+      "pop_total": 8588,
+      "pop_65_plus": 1488,
+      "distance_to_hub_miles": 49.3
+    },
+    {
+      "county_fips": "48197",
+      "county_name": "Hardeman",
+      "state": "TX",
+      "pop_total": 3541,
+      "pop_65_plus": 709,
+      "distance_to_hub_miles": 76.1
+    },
+    {
+      "county_fips": "48023",
+      "county_name": "Baylor",
+      "state": "TX",
+      "pop_total": 3475,
+      "pop_65_plus": 829,
+      "distance_to_hub_miles": 44.9
+    },
+    {
+      "county_fips": "48275",
+      "county_name": "Knox",
+      "state": "TX",
+      "pop_total": 3333,
+      "pop_65_plus": 621,
+      "distance_to_hub_miles": 73.7
+    },
+    {
+      "county_fips": "48155",
+      "county_name": "Foard",
+      "state": "TX",
+      "pop_total": 1075,
+      "pop_65_plus": 326,
+      "distance_to_hub_miles": 73.1
+    }
+  ],
+  "summary": {
+    "total_beds": 656,
+    "catchment_pop": 219430,
+    "catchment_pop_65_plus": 37741,
+    "catchment_pct_65_plus": 0.172,
+    "max_catchment_radius_miles": 76.1,
+    "avg_catchment_distance_miles": 25.9,
+    "num_counties": 11,
+    "hospital_employment": 0,
+    "msa_total_employment": 55589,
+    "hospital_emp_share": 0.0414,
+    "avg_govt_payer_share": 0.4797
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "10860",
+  "cbsa_name": "Alice, TX",
+  "mdi": 0.1666,
+  "bbox": [
+    -99.55,
+    26.76,
+    -96.55,
+    28.76
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450828",
+      "name": "CHRISTUS SPOHN HOSPITAL ALICE",
+      "beds": 135,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 27.764,
+      "lon": -98.0491,
+      "govt_payer_share": 0.194,
+      "medicare_discharges": 402
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48249",
+      "county_name": "Jim Wells",
+      "state": "TX",
+      "pop_total": 39060,
+      "pop_65_plus": 6176,
+      "distance_to_hub_miles": 3.4
+    },
+    {
+      "county_fips": "48131",
+      "county_name": "Duval",
+      "state": "TX",
+      "pop_total": 9960,
+      "pop_65_plus": 1578,
+      "distance_to_hub_miles": 28.7
+    }
+  ],
+  "summary": {
+    "total_beds": 135,
+    "catchment_pop": 49020,
+    "catchment_pop_65_plus": 7754,
+    "catchment_pct_65_plus": 0.1582,
+    "max_catchment_radius_miles": 28.7,
+    "avg_catchment_distance_miles": 8.5,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 15369,
+    "hospital_emp_share": 0.0102,
+    "avg_govt_payer_share": 0.194
+  }
+}

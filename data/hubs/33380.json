@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "33380",
+  "cbsa_name": "Minden, LA",
+  "mdi": 0.6797,
+  "bbox": [
+    -94.98,
+    31.64,
+    -91.78,
+    33.99
+  ],
+  "hospitals": [
+    {
+      "facility_id": "190144",
+      "name": "MINDEN MEDICAL CENTER",
+      "beds": 92,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.6364,
+      "lon": -93.2837,
+      "govt_payer_share": 0.609,
+      "medicare_discharges": 555
+    },
+    {
+      "facility_id": "190088",
+      "name": "SPRINGHILL MEDICAL CENTER",
+      "beds": 48,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.9914,
+      "lon": -93.4799,
+      "govt_payer_share": 0.448,
+      "medicare_discharges": 190
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "22119",
+      "county_name": "Webster",
+      "state": "LA",
+      "pop_total": 36761,
+      "pop_65_plus": 7412,
+      "distance_to_hub_miles": 3.2
+    },
+    {
+      "county_fips": "22027",
+      "county_name": "Claiborne",
+      "state": "LA",
+      "pop_total": 14203,
+      "pop_65_plus": 2981,
+      "distance_to_hub_miles": 21.1
+    }
+  ],
+  "summary": {
+    "total_beds": 140,
+    "catchment_pop": 50964,
+    "catchment_pop_65_plus": 10393,
+    "catchment_pct_65_plus": 0.2039,
+    "max_catchment_radius_miles": 21.1,
+    "avg_catchment_distance_miles": 8.2,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 11228,
+    "hospital_emp_share": 0.0467,
+    "avg_govt_payer_share": 0.5542
+  }
+}

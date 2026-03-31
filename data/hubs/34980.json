@@ -1,0 +1,377 @@
+{
+  "cbsa_code": "34980",
+  "cbsa_name": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+  "mdi": 0.5379,
+  "bbox": [
+    -89.06,
+    34.61,
+    -84.45,
+    37.54
+  ],
+  "hospitals": [
+    {
+      "facility_id": "440039",
+      "name": "VANDERBILT UNIVERSITY MEDICAL CENTER",
+      "beds": 1091,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.1426,
+      "lon": -86.8013,
+      "govt_payer_share": 0.272,
+      "medicare_discharges": 9919
+    },
+    {
+      "facility_id": "440161",
+      "name": "TRISTAR CENTENNIAL MEDICAL CENTER",
+      "beds": 733,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.1533,
+      "lon": -86.8102,
+      "govt_payer_share": 0.212,
+      "medicare_discharges": 4681
+    },
+    {
+      "facility_id": "440082",
+      "name": "ASCENSION SAINT THOMAS HOSPITAL",
+      "beds": 571,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.1274,
+      "lon": -86.8443,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 8087
+    },
+    {
+      "facility_id": "440006",
+      "name": "TRISTAR SKYLINE MEDICAL CENTER",
+      "beds": 395,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.2325,
+      "lon": -86.7773,
+      "govt_payer_share": 0.249,
+      "medicare_discharges": 2625
+    },
+    {
+      "facility_id": "440053",
+      "name": "SAINT THOMAS RUTHERFORD HOSPITAL",
+      "beds": 358,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 35.8596,
+      "lon": -86.4226,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 4410
+    },
+    {
+      "facility_id": "440073",
+      "name": "MAURY REGIONAL HOSPITAL",
+      "beds": 258,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 35.6061,
+      "lon": -87.0657,
+      "govt_payer_share": 0.355,
+      "medicare_discharges": 3184
+    },
+    {
+      "facility_id": "440193",
+      "name": "VANDERBILT WILSON COUNTY HOSPITAL",
+      "beds": 250,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.2196,
+      "lon": -86.3328,
+      "govt_payer_share": 0.324,
+      "medicare_discharges": 1648
+    },
+    {
+      "facility_id": "440150",
+      "name": "TRISTAR SUMMIT MEDICAL CENTER",
+      "beds": 200,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.1777,
+      "lon": -86.6064,
+      "govt_payer_share": 0.258,
+      "medicare_discharges": 2425
+    },
+    {
+      "facility_id": "440029",
+      "name": "WILLIAMSON MEDICAL CENTER",
+      "beds": 185,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.918,
+      "lon": -86.817,
+      "govt_payer_share": 0.328,
+      "medicare_discharges": 2823
+    },
+    {
+      "facility_id": "440046",
+      "name": "TRISTAR HORIZON MEDICAL CENTER",
+      "beds": 157,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.0723,
+      "lon": -87.3741,
+      "govt_payer_share": 0.292,
+      "medicare_discharges": 1432
+    },
+    {
+      "facility_id": "440003",
+      "name": "HIGHPOINT HEALTH-SUMNER WITH ASCENSION SAINT THOMA",
+      "beds": 155,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.3908,
+      "lon": -86.4325,
+      "govt_payer_share": 0.368,
+      "medicare_discharges": 1777
+    },
+    {
+      "facility_id": "440111",
+      "name": "METRO NASHVILLE GENERAL HOSPITAL",
+      "beds": 150,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 36.1775,
+      "lon": -86.8095,
+      "govt_payer_share": 0.341,
+      "medicare_discharges": 88
+    },
+    {
+      "facility_id": "440194",
+      "name": "TRISTAR HENDERSONVILLE MEDICAL CENTER",
+      "beds": 148,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.3224,
+      "lon": -86.6216,
+      "govt_payer_share": 0.247,
+      "medicare_discharges": 1713
+    },
+    {
+      "facility_id": "440197",
+      "name": "TRISTAR SOUTHERN HILLS MEDICAL CENTER",
+      "beds": 136,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.067,
+      "lon": -86.7234,
+      "govt_payer_share": 0.311,
+      "medicare_discharges": 806
+    },
+    {
+      "facility_id": "440065",
+      "name": "TRISTAR NORTHCREST MEDICAL CENTER",
+      "beds": 109,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 36.4896,
+      "lon": -86.8696,
+      "govt_payer_share": 0.261,
+      "medicare_discharges": 706
+    },
+    {
+      "facility_id": "440231",
+      "name": "TRUSTPOINT HOSPITAL",
+      "beds": 86,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.9298,
+      "lon": -86.4508,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
+    },
+    {
+      "facility_id": "440227",
+      "name": "TRISTAR STONECREST MEDICAL CENTER",
+      "beds": 75,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.9749,
+      "lon": -86.5631,
+      "govt_payer_share": 0.168,
+      "medicare_discharges": 899
+    },
+    {
+      "facility_id": "440200",
+      "name": "STONES RIVER HOSPITAL",
+      "beds": 55,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.8231,
+      "lon": -86.0422,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 55
+    },
+    {
+      "facility_id": "441307",
+      "name": "HIGHPOINT HEALTH-RIVERVIEW WITH ASCENSION SAINT TH",
+      "beds": 35,
+      "type": "Critical Access Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.263,
+      "lon": -85.9497,
+      "govt_payer_share": 0.533,
+      "medicare_discharges": 287
+    },
+    {
+      "facility_id": "441300",
+      "name": "SAINT THOMAS HICKMAN HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.7446,
+      "lon": -87.5578,
+      "govt_payer_share": 0.334,
+      "medicare_discharges": 16
+    },
+    {
+      "facility_id": "441301",
+      "name": "HIGHPOINT HEALTH-TROUSDALE WITH ASCENSION SAINT",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 36.426,
+      "lon": -86.1529,
+      "govt_payer_share": 0.656,
+      "medicare_discharges": 51
+    },
+    {
+      "facility_id": "441305",
+      "name": "MACON COMMUNITY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.5378,
+      "lon": -86.001,
+      "govt_payer_share": 0.619,
+      "medicare_discharges": 289
+    },
+    {
+      "facility_id": "440218",
+      "name": "SAINT THOMAS HOSPITAL FOR SPINAL SURGERY",
+      "beds": 23,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 36.1498,
+      "lon": -86.7891,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 267
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "47037",
+      "county_name": "Davidson",
+      "state": "TN",
+      "pop_total": 709786,
+      "pop_65_plus": 90770,
+      "distance_to_hub_miles": 4.9
+    },
+    {
+      "county_fips": "47149",
+      "county_name": "Rutherford",
+      "state": "TN",
+      "pop_total": 343727,
+      "pop_65_plus": 37289,
+      "distance_to_hub_miles": 25.8
+    },
+    {
+      "county_fips": "47187",
+      "county_name": "Williamson",
+      "state": "TN",
+      "pop_total": 248897,
+      "pop_65_plus": 34551,
+      "distance_to_hub_miles": 17.4
+    },
+    {
+      "county_fips": "47165",
+      "county_name": "Sumner",
+      "state": "TN",
+      "pop_total": 196845,
+      "pop_65_plus": 32071,
+      "distance_to_hub_miles": 29.2
+    },
+    {
+      "county_fips": "47189",
+      "county_name": "Wilson",
+      "state": "TN",
+      "pop_total": 149096,
+      "pop_65_plus": 23516,
+      "distance_to_hub_miles": 24.7
+    },
+    {
+      "county_fips": "47119",
+      "county_name": "Maury",
+      "state": "TN",
+      "pop_total": 102002,
+      "pop_65_plus": 16946,
+      "distance_to_hub_miles": 39.0
+    },
+    {
+      "county_fips": "47147",
+      "county_name": "Robertson",
+      "state": "TN",
+      "pop_total": 73297,
+      "pop_65_plus": 10946,
+      "distance_to_hub_miles": 29.7
+    },
+    {
+      "county_fips": "47043",
+      "county_name": "Dickson",
+      "state": "TN",
+      "pop_total": 54563,
+      "pop_65_plus": 8889,
+      "distance_to_hub_miles": 34.6
+    },
+    {
+      "county_fips": "47021",
+      "county_name": "Cheatham",
+      "state": "TN",
+      "pop_total": 41184,
+      "pop_65_plus": 6389,
+      "distance_to_hub_miles": 22.1
+    },
+    {
+      "county_fips": "47081",
+      "county_name": "Hickman",
+      "state": "TN",
+      "pop_total": 24996,
+      "pop_65_plus": 4338,
+      "distance_to_hub_miles": 46.4
+    },
+    {
+      "county_fips": "47085",
+      "county_name": "Humphreys",
+      "state": "TN",
+      "pop_total": 19032,
+      "pop_65_plus": 3846,
+      "distance_to_hub_miles": 58.2
+    },
+    {
+      "county_fips": "47169",
+      "county_name": "Trousdale",
+      "state": "TN",
+      "pop_total": 11596,
+      "pop_65_plus": 1481,
+      "distance_to_hub_miles": 37.8
+    }
+  ],
+  "summary": {
+    "total_beds": 5245,
+    "catchment_pop": 1975021,
+    "catchment_pop_65_plus": 271032,
+    "catchment_pct_65_plus": 0.1372,
+    "max_catchment_radius_miles": 58.2,
+    "avg_catchment_distance_miles": 19.1,
+    "num_counties": 12,
+    "hospital_employment": 52425,
+    "msa_total_employment": 1076170,
+    "hospital_emp_share": 0.041,
+    "avg_govt_payer_share": 0.3466
+  }
+}

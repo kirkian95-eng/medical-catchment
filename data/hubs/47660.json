@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "47660",
+  "cbsa_name": "Warrensburg, MO",
+  "mdi": 0.4978,
+  "bbox": [
+    -95.22,
+    37.77,
+    -92.22,
+    39.77
+  ],
+  "hospitals": [
+    {
+      "facility_id": "260097",
+      "name": "WESTERN MISSOURI MEDICAL CENTER",
+      "beds": 104,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 38.7656,
+      "lon": -93.7236,
+      "govt_payer_share": 0.335,
+      "medicare_discharges": 481
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "29101",
+      "county_name": "Johnson",
+      "state": "MO",
+      "pop_total": 54025,
+      "pop_65_plus": 6899,
+      "distance_to_hub_miles": 4.7
+    },
+    {
+      "county_fips": "29107",
+      "county_name": "Lafayette",
+      "state": "MO",
+      "pop_total": 32858,
+      "pop_65_plus": 6243,
+      "distance_to_hub_miles": 21.0
+    },
+    {
+      "county_fips": "29083",
+      "county_name": "Henry",
+      "state": "MO",
+      "pop_total": 22064,
+      "pop_65_plus": 4900,
+      "distance_to_hub_miles": 26.6
+    }
+  ],
+  "summary": {
+    "total_beds": 104,
+    "catchment_pop": 108947,
+    "catchment_pop_65_plus": 18042,
+    "catchment_pct_65_plus": 0.1656,
+    "max_catchment_radius_miles": 26.6,
+    "avg_catchment_distance_miles": 14.1,
+    "num_counties": 3,
+    "hospital_employment": 702,
+    "msa_total_employment": 16015,
+    "hospital_emp_share": 0.0313,
+    "avg_govt_payer_share": 0.3346
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "cbsa_code": "22700",
+  "cbsa_name": "Fort Dodge, IA",
+  "mdi": 0.4643,
+  "bbox": [
+    -95.69,
+    41.49,
+    -92.69,
+    43.49
+  ],
+  "hospitals": [
+    {
+      "facility_id": "160016",
+      "name": "TRINITY REGIONAL MEDICAL CENTER",
+      "beds": 174,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.4941,
+      "lon": -94.1891,
+      "govt_payer_share": 0.383,
+      "medicare_discharges": 1167
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "19187",
+      "county_name": "Webster",
+      "state": "IA",
+      "pop_total": 36986,
+      "pop_65_plus": 7233,
+      "distance_to_hub_miles": 4.6
+    },
+    {
+      "county_fips": "19027",
+      "county_name": "Carroll",
+      "state": "IA",
+      "pop_total": 20728,
+      "pop_65_plus": 4309,
+      "distance_to_hub_miles": 46.7
+    },
+    {
+      "county_fips": "19021",
+      "county_name": "Buena Vista",
+      "state": "IA",
+      "pop_total": 20687,
+      "pop_65_plus": 3375,
+      "distance_to_hub_miles": 51.7
+    },
+    {
+      "county_fips": "19197",
+      "county_name": "Wright",
+      "state": "IA",
+      "pop_total": 12897,
+      "pop_65_plus": 2887,
+      "distance_to_hub_miles": 28.4
+    },
+    {
+      "county_fips": "19025",
+      "county_name": "Calhoun",
+      "state": "IA",
+      "pop_total": 9893,
+      "pop_65_plus": 2280,
+      "distance_to_hub_miles": 24.2
+    },
+    {
+      "county_fips": "19161",
+      "county_name": "Sac",
+      "state": "IA",
+      "pop_total": 9778,
+      "pop_65_plus": 2315,
+      "distance_to_hub_miles": 47.3
+    },
+    {
+      "county_fips": "19091",
+      "county_name": "Humboldt",
+      "state": "IA",
+      "pop_total": 9606,
+      "pop_65_plus": 2035,
+      "distance_to_hub_miles": 19.5
+    },
+    {
+      "county_fips": "19147",
+      "county_name": "Palo Alto",
+      "state": "IA",
+      "pop_total": 8938,
+      "pop_65_plus": 1965,
+      "distance_to_hub_miles": 47.6
+    },
+    {
+      "county_fips": "19073",
+      "county_name": "Greene",
+      "state": "IA",
+      "pop_total": 8801,
+      "pop_65_plus": 2057,
+      "distance_to_hub_miles": 33.4
+    },
+    {
+      "county_fips": "19151",
+      "county_name": "Pocahontas",
+      "state": "IA",
+      "pop_total": 7061,
+      "pop_65_plus": 1646,
+      "distance_to_hub_miles": 29.9
+    }
+  ],
+  "summary": {
+    "total_beds": 174,
+    "catchment_pop": 145375,
+    "catchment_pop_65_plus": 30102,
+    "catchment_pct_65_plus": 0.2071,
+    "max_catchment_radius_miles": 51.7,
+    "avg_catchment_distance_miles": 30.2,
+    "num_counties": 10,
+    "hospital_employment": 0,
+    "msa_total_employment": 17504,
+    "hospital_emp_share": 0.0297,
+    "avg_govt_payer_share": 0.3829
+  }
+}

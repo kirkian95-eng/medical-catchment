@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "18020",
+  "cbsa_name": "Columbus, IN",
+  "mdi": 0.3797,
+  "bbox": [
+    -87.39,
+    38.22,
+    -84.39,
+    40.22
+  ],
+  "hospitals": [
+    {
+      "facility_id": "150112",
+      "name": "COLUMBUS REGIONAL HOSPITAL",
+      "beds": 160,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 39.216,
+      "lon": -85.8944,
+      "govt_payer_share": 0.331,
+      "medicare_discharges": 2819
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "18005",
+      "county_name": "Bartholomew",
+      "state": "IN",
+      "pop_total": 82371,
+      "pop_65_plus": 13503,
+      "distance_to_hub_miles": 0.7
+    },
+    {
+      "county_fips": "18031",
+      "county_name": "Decatur",
+      "state": "IN",
+      "pop_total": 26432,
+      "pop_65_plus": 4597,
+      "distance_to_hub_miles": 22.0
+    }
+  ],
+  "summary": {
+    "total_beds": 160,
+    "catchment_pop": 108803,
+    "catchment_pop_65_plus": 18100,
+    "catchment_pct_65_plus": 0.1664,
+    "max_catchment_radius_miles": 22.0,
+    "avg_catchment_distance_miles": 5.9,
+    "num_counties": 2,
+    "hospital_employment": 1794,
+    "msa_total_employment": 50376,
+    "hospital_emp_share": 0.0272,
+    "avg_govt_payer_share": 0.3309
+  }
+}

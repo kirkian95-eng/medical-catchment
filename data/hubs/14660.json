@@ -1,0 +1,93 @@
+{
+  "cbsa_code": "14660",
+  "cbsa_name": "Brainerd, MN",
+  "mdi": 0.7045,
+  "bbox": [
+    -96.0,
+    45.32,
+    -92.45,
+    48.32
+  ],
+  "hospitals": [
+    {
+      "facility_id": "240075",
+      "name": "ESSENTIA HEALTH ST JOSEPH'S MEDICAL CENTER",
+      "beds": 162,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 46.3229,
+      "lon": -94.1252,
+      "govt_payer_share": 0.351,
+      "medicare_discharges": 1301
+    },
+    {
+      "facility_id": "241353",
+      "name": "CUYUNA REGIONAL MEDICAL CENTER",
+      "beds": 42,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 46.4823,
+      "lon": -93.9459,
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 417
+    },
+    {
+      "facility_id": "241358",
+      "name": "CASS LAKE INDIAN HEALTH SERVICES HOSPITAL",
+      "beds": 11,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Federal",
+      "lat": 47.3188,
+      "lon": -94.5012,
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "27035",
+      "county_name": "Crow Wing",
+      "state": "MN",
+      "pop_total": 66558,
+      "pop_65_plus": 15628,
+      "distance_to_hub_miles": 8.8
+    },
+    {
+      "county_fips": "27021",
+      "county_name": "Cass",
+      "state": "MN",
+      "pop_total": 30288,
+      "pop_65_plus": 8003,
+      "distance_to_hub_miles": 42.5
+    },
+    {
+      "county_fips": "27001",
+      "county_name": "Aitkin",
+      "state": "MN",
+      "pop_total": 15859,
+      "pop_65_plus": 5330,
+      "distance_to_hub_miles": 36.4
+    },
+    {
+      "county_fips": "27159",
+      "county_name": "Wadena",
+      "state": "MN",
+      "pop_total": 14108,
+      "pop_65_plus": 2836,
+      "distance_to_hub_miles": 44.9
+    }
+  ],
+  "summary": {
+    "total_beds": 215,
+    "catchment_pop": 126813,
+    "catchment_pop_65_plus": 31797,
+    "catchment_pct_65_plus": 0.2507,
+    "max_catchment_radius_miles": 44.9,
+    "avg_catchment_distance_miles": 24.3,
+    "num_counties": 4,
+    "hospital_employment": 244,
+    "msa_total_employment": 41265,
+    "hospital_emp_share": 0.0493,
+    "avg_govt_payer_share": 0.3709
+  }
+}

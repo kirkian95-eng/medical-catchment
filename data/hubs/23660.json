@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "23660",
+  "cbsa_name": "Galesburg, IL",
+  "mdi": 0.4816,
+  "bbox": [
+    -91.86,
+    39.99,
+    -88.86,
+    41.99
+  ],
+  "hospitals": [
+    {
+      "facility_id": "140064",
+      "name": "ST MARY MEDICAL CENTER",
+      "beds": 166,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 40.989,
+      "lon": -90.3636,
+      "govt_payer_share": 0.398,
+      "medicare_discharges": 1416
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "17095",
+      "county_name": "Knox",
+      "state": "IL",
+      "pop_total": 49751,
+      "pop_65_plus": 10844,
+      "distance_to_hub_miles": 8.8
+    },
+    {
+      "county_fips": "17187",
+      "county_name": "Warren",
+      "state": "IL",
+      "pop_total": 16760,
+      "pop_65_plus": 3258,
+      "distance_to_hub_miles": 16.3
+    }
+  ],
+  "summary": {
+    "total_beds": 166,
+    "catchment_pop": 66511,
+    "catchment_pop_65_plus": 14102,
+    "catchment_pct_65_plus": 0.212,
+    "max_catchment_radius_miles": 16.3,
+    "avg_catchment_distance_miles": 10.7,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 16611,
+    "hospital_emp_share": 0.0283,
+    "avg_govt_payer_share": 0.3984
+  }
+}

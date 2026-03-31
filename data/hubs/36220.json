@@ -1,0 +1,146 @@
+{
+  "cbsa_code": "36220",
+  "cbsa_name": "Odessa, TX",
+  "mdi": 0.3318,
+  "bbox": [
+    -105.1,
+    29.67,
+    -99.64,
+    34.03
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450132",
+      "name": "MEDICAL CENTER HOSPITAL",
+      "beds": 402,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 31.8443,
+      "lon": -102.3752,
+      "govt_payer_share": 0.243,
+      "medicare_discharges": 2415
+    },
+    {
+      "facility_id": "450661",
+      "name": "ODESSA REGIONAL MEDICAL CENTER",
+      "beds": 230,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 31.8513,
+      "lon": -102.3661,
+      "govt_payer_share": 0.31,
+      "medicare_discharges": 667
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48135",
+      "county_name": "Ector",
+      "state": "TX",
+      "pop_total": 162300,
+      "pop_65_plus": 15397,
+      "distance_to_hub_miles": 10.2
+    },
+    {
+      "county_fips": "48003",
+      "county_name": "Andrews",
+      "state": "TX",
+      "pop_total": 18362,
+      "pop_65_plus": 1754,
+      "distance_to_hub_miles": 35.3
+    },
+    {
+      "county_fips": "48371",
+      "county_name": "Pecos",
+      "state": "TX",
+      "pop_total": 15114,
+      "pop_65_plus": 2048,
+      "distance_to_hub_miles": 76.6
+    },
+    {
+      "county_fips": "48389",
+      "county_name": "Reeves",
+      "state": "TX",
+      "pop_total": 14022,
+      "pop_65_plus": 1741,
+      "distance_to_hub_miles": 85.8
+    },
+    {
+      "county_fips": "48475",
+      "county_name": "Ward",
+      "state": "TX",
+      "pop_total": 11347,
+      "pop_65_plus": 1521,
+      "distance_to_hub_miles": 48.9
+    },
+    {
+      "county_fips": "48043",
+      "county_name": "Brewster",
+      "state": "TX",
+      "pop_total": 9454,
+      "pop_65_plus": 2260,
+      "distance_to_hub_miles": 150.0
+    },
+    {
+      "county_fips": "48495",
+      "county_name": "Winkler",
+      "state": "TX",
+      "pop_total": 7582,
+      "pop_65_plus": 1029,
+      "distance_to_hub_miles": 39.7
+    },
+    {
+      "county_fips": "48103",
+      "county_name": "Crane",
+      "state": "TX",
+      "pop_total": 4636,
+      "pop_65_plus": 650,
+      "distance_to_hub_miles": 30.1
+    },
+    {
+      "county_fips": "48461",
+      "county_name": "Upton",
+      "state": "TX",
+      "pop_total": 3284,
+      "pop_65_plus": 539,
+      "distance_to_hub_miles": 38.3
+    },
+    {
+      "county_fips": "48243",
+      "county_name": "Jeff Davis",
+      "state": "TX",
+      "pop_total": 1992,
+      "pop_65_plus": 831,
+      "distance_to_hub_miles": 130.5
+    },
+    {
+      "county_fips": "48443",
+      "county_name": "Terrell",
+      "state": "TX",
+      "pop_total": 862,
+      "pop_65_plus": 295,
+      "distance_to_hub_miles": 113.4
+    },
+    {
+      "county_fips": "48301",
+      "county_name": "Loving",
+      "state": "TX",
+      "pop_total": 96,
+      "pop_65_plus": 34,
+      "distance_to_hub_miles": 70.9
+    }
+  ],
+  "summary": {
+    "total_beds": 632,
+    "catchment_pop": 249051,
+    "catchment_pop_65_plus": 28099,
+    "catchment_pct_65_plus": 0.1128,
+    "max_catchment_radius_miles": 150.0,
+    "avg_catchment_distance_miles": 30.4,
+    "num_counties": 12,
+    "hospital_employment": 771,
+    "msa_total_employment": 77908,
+    "hospital_emp_share": 0.0274,
+    "avg_govt_payer_share": 0.2672
+  }
+}

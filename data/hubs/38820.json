@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "38820",
+  "cbsa_name": "Port Angeles, WA",
+  "mdi": 0.784,
+  "bbox": [
+    -125.89,
+    46.95,
+    -121.92,
+    49.12
+  ],
+  "hospitals": [
+    {
+      "facility_id": "500072",
+      "name": "OLYMPIC MEDICAL CENTER",
+      "beds": 126,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 48.1153,
+      "lon": -123.4155,
+      "govt_payer_share": 0.437,
+      "medicare_discharges": 1497
+    },
+    {
+      "facility_id": "501325",
+      "name": "FORKS COMMUNITY HOSPITAL",
+      "beds": 45,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 47.9464,
+      "lon": -124.3931,
+      "govt_payer_share": 0.637,
+      "medicare_discharges": 93
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "53009",
+      "county_name": "Clallam",
+      "state": "WA",
+      "pop_total": 77333,
+      "pop_65_plus": 23764,
+      "distance_to_hub_miles": 12.3
+    },
+    {
+      "county_fips": "53031",
+      "county_name": "Jefferson",
+      "state": "WA",
+      "pop_total": 33006,
+      "pop_65_plus": 12732,
+      "distance_to_hub_miles": 20.8
+    }
+  ],
+  "summary": {
+    "total_beds": 171,
+    "catchment_pop": 110339,
+    "catchment_pop_65_plus": 36496,
+    "catchment_pct_65_plus": 0.3308,
+    "max_catchment_radius_miles": 20.8,
+    "avg_catchment_distance_miles": 14.8,
+    "num_counties": 2,
+    "hospital_employment": 1,
+    "msa_total_employment": 24595,
+    "hospital_emp_share": 0.0543,
+    "avg_govt_payer_share": 0.4897
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "27220",
+  "cbsa_name": "Jackson, WY-ID",
+  "mdi": 0.5256,
+  "bbox": [
+    -112.8,
+    42.41,
+    -109.29,
+    44.69
+  ],
+  "hospitals": [
+    {
+      "facility_id": "530015",
+      "name": "ST JOHNS MEDICAL CENTER",
+      "beds": 53,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 43.4135,
+      "lon": -110.787,
+      "govt_payer_share": 0.474,
+      "medicare_discharges": 717
+    },
+    {
+      "facility_id": "131313",
+      "name": "TETON VALLEY HOSPITAL",
+      "beds": 13,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.6891,
+      "lon": -111.3011,
+      "govt_payer_share": 0.714,
+      "medicare_discharges": 63
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "56039",
+      "county_name": "Teton",
+      "state": "WY",
+      "pop_total": 23346,
+      "pop_65_plus": 3887,
+      "distance_to_hub_miles": 37.3
+    },
+    {
+      "county_fips": "56035",
+      "county_name": "Sublette",
+      "state": "WY",
+      "pop_total": 8801,
+      "pop_65_plus": 1959,
+      "distance_to_hub_miles": 62.7
+    }
+  ],
+  "summary": {
+    "total_beds": 66,
+    "catchment_pop": 32147,
+    "catchment_pop_65_plus": 5846,
+    "catchment_pct_65_plus": 0.1819,
+    "max_catchment_radius_miles": 62.7,
+    "avg_catchment_distance_miles": 44.3,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 27991,
+    "hospital_emp_share": 0.0284,
+    "avg_govt_payer_share": 0.5212
+  }
+}

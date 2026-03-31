@@ -1,0 +1,96 @@
+{
+  "cbsa_code": "43780",
+  "cbsa_name": "South Bend-Mishawaka, IN-MI",
+  "mdi": 0.3961,
+  "bbox": [
+    -87.75,
+    40.68,
+    -84.62,
+    43.0
+  ],
+  "hospitals": [
+    {
+      "facility_id": "150058",
+      "name": "MEMORIAL HOSPITAL OF SOUTH BEND",
+      "beds": 463,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.6842,
+      "lon": -86.2506,
+      "govt_payer_share": 0.256,
+      "medicare_discharges": 3684
+    },
+    {
+      "facility_id": "150012",
+      "name": "SAINT JOSEPH REGIONAL MEDICAL CENTER",
+      "beds": 301,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.7064,
+      "lon": -86.1744,
+      "govt_payer_share": 0.355,
+      "medicare_discharges": 2606
+    },
+    {
+      "facility_id": "150177",
+      "name": "UNITY PHYSICIANS HOSPITAL",
+      "beds": 29,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 41.6935,
+      "lon": -86.1466,
+      "govt_payer_share": 0.281,
+      "medicare_discharges": 67
+    },
+    {
+      "facility_id": "231315",
+      "name": "ASCENSION BORGESS LEE HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 42.0047,
+      "lon": -86.1207,
+      "govt_payer_share": 0.317,
+      "medicare_discharges": 70
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "18141",
+      "county_name": "St. Joseph",
+      "state": "IN",
+      "pop_total": 272388,
+      "pop_65_plus": 44374,
+      "distance_to_hub_miles": 7.1
+    },
+    {
+      "county_fips": "18091",
+      "county_name": "LaPorte",
+      "state": "IN",
+      "pop_total": 112215,
+      "pop_65_plus": 20733,
+      "distance_to_hub_miles": 29.3
+    },
+    {
+      "county_fips": "26027",
+      "county_name": "Cass",
+      "state": "MI",
+      "pop_total": 51604,
+      "pop_65_plus": 11076,
+      "distance_to_hub_miles": 18.6
+    }
+  ],
+  "summary": {
+    "total_beds": 818,
+    "catchment_pop": 436207,
+    "catchment_pop_65_plus": 76183,
+    "catchment_pct_65_plus": 0.1746,
+    "max_catchment_radius_miles": 29.3,
+    "avg_catchment_distance_miles": 14.2,
+    "num_counties": 3,
+    "hospital_employment": 7423,
+    "msa_total_employment": 130131,
+    "hospital_emp_share": 0.0293,
+    "avg_govt_payer_share": 0.2951
+  }
+}

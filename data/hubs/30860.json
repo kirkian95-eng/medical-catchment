@@ -1,0 +1,101 @@
+{
+  "cbsa_code": "30860",
+  "cbsa_name": "Logan, UT-ID",
+  "mdi": 0.2969,
+  "bbox": [
+    -113.32,
+    40.75,
+    -110.25,
+    43.18
+  ],
+  "hospitals": [
+    {
+      "facility_id": "460015",
+      "name": "LOGAN REGIONAL HOSPITAL",
+      "beds": 148,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.757,
+      "lon": -111.8212,
+      "govt_payer_share": 0.3,
+      "medicare_discharges": 891
+    },
+    {
+      "facility_id": "460054",
+      "name": "CACHE VALLEY HOSPITAL",
+      "beds": 28,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.7758,
+      "lon": -111.8229,
+      "govt_payer_share": 0.196,
+      "medicare_discharges": 74
+    },
+    {
+      "facility_id": "131322",
+      "name": "FRANKLIN COUNTY MEDICAL CENTER",
+      "beds": 20,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 42.1812,
+      "lon": -111.7532,
+      "govt_payer_share": 0.528,
+      "medicare_discharges": 216
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "49005",
+      "county_name": "Cache",
+      "state": "UT",
+      "pop_total": 134428,
+      "pop_65_plus": 13027,
+      "distance_to_hub_miles": 4.8
+    },
+    {
+      "county_fips": "56023",
+      "county_name": "Lincoln",
+      "state": "WY",
+      "pop_total": 19794,
+      "pop_65_plus": 3600,
+      "distance_to_hub_miles": 69.2
+    },
+    {
+      "county_fips": "16041",
+      "county_name": "Franklin",
+      "state": "ID",
+      "pop_total": 14376,
+      "pop_65_plus": 2039,
+      "distance_to_hub_miles": 29.1
+    },
+    {
+      "county_fips": "16007",
+      "county_name": "Bear Lake",
+      "state": "ID",
+      "pop_total": 6436,
+      "pop_65_plus": 1367,
+      "distance_to_hub_miles": 44.2
+    },
+    {
+      "county_fips": "49033",
+      "county_name": "Rich",
+      "state": "UT",
+      "pop_total": 2543,
+      "pop_65_plus": 459,
+      "distance_to_hub_miles": 31.0
+    }
+  ],
+  "summary": {
+    "total_beds": 196,
+    "catchment_pop": 177577,
+    "catchment_pop_65_plus": 20492,
+    "catchment_pct_65_plus": 0.1154,
+    "max_catchment_radius_miles": 69.2,
+    "avg_catchment_distance_miles": 15.7,
+    "num_counties": 5,
+    "hospital_employment": 333,
+    "msa_total_employment": 67333,
+    "hospital_emp_share": 0.0165,
+    "avg_govt_payer_share": 0.3087
+  }
+}

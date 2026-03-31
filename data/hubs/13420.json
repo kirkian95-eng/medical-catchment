@@ -1,0 +1,90 @@
+{
+  "cbsa_code": "13420",
+  "cbsa_name": "Bemidji, MN",
+  "mdi": 1.0,
+  "bbox": [
+    -96.93,
+    46.24,
+    -93.31,
+    49.21
+  ],
+  "hospitals": [
+    {
+      "facility_id": "240100",
+      "name": "SANFORD BEMIDJI MEDICAL CENTER",
+      "beds": 118,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.5049,
+      "lon": -94.8983,
+      "govt_payer_share": 0.62,
+      "medicare_discharges": 1395
+    },
+    {
+      "facility_id": "240206",
+      "name": "RED LAKE HOSPITAL",
+      "beds": 23,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Federal",
+      "lat": 47.9434,
+      "lon": -95.3387,
+      "govt_payer_share": 0.687,
+      "medicare_discharges": 18
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "27007",
+      "county_name": "Beltrami",
+      "state": "MN",
+      "pop_total": 46274,
+      "pop_65_plus": 7698,
+      "distance_to_hub_miles": 32.5
+    },
+    {
+      "county_fips": "27057",
+      "county_name": "Hubbard",
+      "state": "MN",
+      "pop_total": 21479,
+      "pop_65_plus": 5533,
+      "distance_to_hub_miles": 27.4
+    },
+    {
+      "county_fips": "27071",
+      "county_name": "Koochiching",
+      "state": "MN",
+      "pop_total": 12072,
+      "pop_65_plus": 3262,
+      "distance_to_hub_miles": 72.7
+    },
+    {
+      "county_fips": "27029",
+      "county_name": "Clearwater",
+      "state": "MN",
+      "pop_total": 8541,
+      "pop_65_plus": 1768,
+      "distance_to_hub_miles": 23.0
+    },
+    {
+      "county_fips": "27077",
+      "county_name": "Lake of the Woods",
+      "state": "MN",
+      "pop_total": 3786,
+      "pop_65_plus": 951,
+      "distance_to_hub_miles": 87.5
+    }
+  ],
+  "summary": {
+    "total_beds": 141,
+    "catchment_pop": 92152,
+    "catchment_pop_65_plus": 19212,
+    "catchment_pct_65_plus": 0.2085,
+    "max_catchment_radius_miles": 87.5,
+    "avg_catchment_distance_miles": 38.0,
+    "num_counties": 5,
+    "hospital_employment": 211,
+    "msa_total_employment": 20497,
+    "hospital_emp_share": 0.0805,
+    "avg_govt_payer_share": 0.6306
+  }
+}

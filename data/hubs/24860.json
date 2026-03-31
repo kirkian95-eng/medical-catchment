@@ -1,0 +1,162 @@
+{
+  "cbsa_code": "24860",
+  "cbsa_name": "Greenville-Anderson-Greer, SC",
+  "mdi": 0.3794,
+  "bbox": [
+    -84.22,
+    33.34,
+    -80.35,
+    36.02
+  ],
+  "hospitals": [
+    {
+      "facility_id": "420078",
+      "name": "PRISMA HEALTH GREENVILLE MEMORIAL HOSPITAL",
+      "beds": 845,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.8215,
+      "lon": -82.4136,
+      "govt_payer_share": 0.264,
+      "medicare_discharges": 7223
+    },
+    {
+      "facility_id": "420027",
+      "name": "ANMED HEALTH",
+      "beds": 533,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.5103,
+      "lon": -82.647,
+      "govt_payer_share": 0.317,
+      "medicare_discharges": 4409
+    },
+    {
+      "facility_id": "420023",
+      "name": "ST FRANCIS-DOWNTOWN",
+      "beds": 245,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.8426,
+      "lon": -82.4215,
+      "govt_payer_share": 0.278,
+      "medicare_discharges": 5048
+    },
+    {
+      "facility_id": "420015",
+      "name": "PRISMA HEALTH BAPTIST EASLEY HOSPITAL",
+      "beds": 109,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.8777,
+      "lon": -82.5754,
+      "govt_payer_share": 0.31,
+      "medicare_discharges": 1180
+    },
+    {
+      "facility_id": "420038",
+      "name": "PRISMA HEALTH LAURENS COUNTY HOSPITAL",
+      "beds": 76,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.4682,
+      "lon": -81.8452,
+      "govt_payer_share": 0.311,
+      "medicare_discharges": 774
+    },
+    {
+      "facility_id": "420102",
+      "name": "PRISMA HEALTH  PATEWOOD HOSPITAL",
+      "beds": 72,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.8528,
+      "lon": -82.3263,
+      "govt_payer_share": 0.049,
+      "medicare_discharges": 173
+    },
+    {
+      "facility_id": "420011",
+      "name": "CANNON MEMORIAL HOSPITAL",
+      "beds": 55,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.9438,
+      "lon": -82.7211,
+      "govt_payer_share": 0.189,
+      "medicare_discharges": 118
+    },
+    {
+      "facility_id": "420103",
+      "name": "PELHAM MEDICAL CENTER",
+      "beds": 48,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.0238,
+      "lon": -82.2796,
+      "govt_payer_share": 0.3,
+      "medicare_discharges": 886
+    },
+    {
+      "facility_id": "420037",
+      "name": "PRISMA HEALTH HILLCREST HOSPITAL",
+      "beds": 43,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.7677,
+      "lon": -82.225,
+      "govt_payer_share": 0.308,
+      "medicare_discharges": 775
+    },
+    {
+      "facility_id": "421304",
+      "name": "EDGEFIELD COUNTY HEALTHCARE AN AFFILIATE OF SELF R",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.3403,
+      "lon": -82.0902,
+      "govt_payer_share": 0.159,
+      "medicare_discharges": 25
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "45045",
+      "county_name": "Greenville",
+      "state": "SC",
+      "pop_total": 528251,
+      "pop_65_plus": 86164,
+      "distance_to_hub_miles": 12.0
+    },
+    {
+      "county_fips": "45007",
+      "county_name": "Anderson",
+      "state": "SC",
+      "pop_total": 204592,
+      "pop_65_plus": 37097,
+      "distance_to_hub_miles": 18.1
+    },
+    {
+      "county_fips": "45077",
+      "county_name": "Pickens",
+      "state": "SC",
+      "pop_total": 131106,
+      "pop_65_plus": 22247,
+      "distance_to_hub_miles": 18.6
+    }
+  ],
+  "summary": {
+    "total_beds": 2051,
+    "catchment_pop": 863949,
+    "catchment_pop_65_plus": 145508,
+    "catchment_pct_65_plus": 0.1684,
+    "max_catchment_radius_miles": 18.6,
+    "avg_catchment_distance_miles": 14.4,
+    "num_counties": 3,
+    "hospital_employment": 13580,
+    "msa_total_employment": 422681,
+    "hospital_emp_share": 0.0281,
+    "avg_govt_payer_share": 0.2745
+  }
+}

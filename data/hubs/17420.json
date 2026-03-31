@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "17420",
+  "cbsa_name": "Cleveland, TN",
+  "mdi": 0.2357,
+  "bbox": [
+    -86.37,
+    34.18,
+    -83.37,
+    36.18
+  ],
+  "hospitals": [
+    {
+      "facility_id": "440185",
+      "name": "AFFILIATE OF VITRUVIAN HEALTH",
+      "beds": 351,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.1767,
+      "lon": -84.8687,
+      "govt_payer_share": 0.237,
+      "medicare_discharges": 1663
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "47011",
+      "county_name": "Bradley",
+      "state": "TN",
+      "pop_total": 108859,
+      "pop_65_plus": 18634,
+      "distance_to_hub_miles": 1.7
+    },
+    {
+      "county_fips": "47107",
+      "county_name": "McMinn",
+      "state": "TN",
+      "pop_total": 53532,
+      "pop_65_plus": 10615,
+      "distance_to_hub_miles": 22.2
+    },
+    {
+      "county_fips": "47139",
+      "county_name": "Polk",
+      "state": "TN",
+      "pop_total": 17620,
+      "pop_65_plus": 3684,
+      "distance_to_hub_miles": 19.9
+    },
+    {
+      "county_fips": "47121",
+      "county_name": "Meigs",
+      "state": "TN",
+      "pop_total": 12839,
+      "pop_65_plus": 2714,
+      "distance_to_hub_miles": 23.5
+    }
+  ],
+  "summary": {
+    "total_beds": 351,
+    "catchment_pop": 192850,
+    "catchment_pop_65_plus": 35647,
+    "catchment_pct_65_plus": 0.1848,
+    "max_catchment_radius_miles": 23.5,
+    "avg_catchment_distance_miles": 10.5,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 42721,
+    "hospital_emp_share": 0.0148,
+    "avg_govt_payer_share": 0.237
+  }
+}

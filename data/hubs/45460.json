@@ -1,0 +1,131 @@
+{
+  "cbsa_code": "45460",
+  "cbsa_name": "Terre Haute, IN",
+  "mdi": 0.5085,
+  "bbox": [
+    -88.95,
+    38.12,
+    -85.62,
+    40.68
+  ],
+  "hospitals": [
+    {
+      "facility_id": "150023",
+      "name": "UNION HOSPITAL INC",
+      "beds": 318,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.4849,
+      "lon": -87.4069,
+      "govt_payer_share": 0.341,
+      "medicare_discharges": 4957
+    },
+    {
+      "facility_id": "150046",
+      "name": "TERRE HAUTE REGIONAL HOSPITAL",
+      "beds": 278,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 39.4198,
+      "lon": -87.407,
+      "govt_payer_share": 0.352,
+      "medicare_discharges": 1060
+    },
+    {
+      "facility_id": "151309",
+      "name": "ASCENSION ST VINCENT CLAY",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.5236,
+      "lon": -87.1233,
+      "govt_payer_share": 0.511,
+      "medicare_discharges": 66
+    },
+    {
+      "facility_id": "151326",
+      "name": "UNION HOSPITAL CLINTON",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.6782,
+      "lon": -87.4536,
+      "govt_payer_share": 0.374,
+      "medicare_discharges": 232
+    },
+    {
+      "facility_id": "151327",
+      "name": "SULLIVAN COUNTY COMMUNITY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 39.1223,
+      "lon": -87.4092,
+      "govt_payer_share": 0.538,
+      "medicare_discharges": 146
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "18167",
+      "county_name": "Vigo",
+      "state": "IN",
+      "pop_total": 106355,
+      "pop_65_plus": 17854,
+      "distance_to_hub_miles": 1.6
+    },
+    {
+      "county_fips": "18021",
+      "county_name": "Clay",
+      "state": "IN",
+      "pop_total": 26396,
+      "pop_65_plus": 4794,
+      "distance_to_hub_miles": 15.6
+    },
+    {
+      "county_fips": "18153",
+      "county_name": "Sullivan",
+      "state": "IN",
+      "pop_total": 20791,
+      "pop_65_plus": 3790,
+      "distance_to_hub_miles": 25.2
+    },
+    {
+      "county_fips": "17045",
+      "county_name": "Edgar",
+      "state": "IL",
+      "pop_total": 16852,
+      "pop_65_plus": 3920,
+      "distance_to_hub_miles": 24.2
+    },
+    {
+      "county_fips": "18121",
+      "county_name": "Parke",
+      "state": "IN",
+      "pop_total": 16327,
+      "pop_65_plus": 3287,
+      "distance_to_hub_miles": 24.4
+    },
+    {
+      "county_fips": "17023",
+      "county_name": "Clark",
+      "state": "IL",
+      "pop_total": 15467,
+      "pop_65_plus": 3009,
+      "distance_to_hub_miles": 22.4
+    }
+  ],
+  "summary": {
+    "total_beds": 671,
+    "catchment_pop": 202188,
+    "catchment_pop_65_plus": 36654,
+    "catchment_pct_65_plus": 0.1813,
+    "max_catchment_radius_miles": 25.2,
+    "avg_catchment_distance_miles": 11.2,
+    "num_counties": 6,
+    "hospital_employment": 3256,
+    "msa_total_employment": 63810,
+    "hospital_emp_share": 0.0375,
+    "avg_govt_payer_share": 0.3605
+  }
+}

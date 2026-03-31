@@ -1,0 +1,350 @@
+{
+  "cbsa_code": "12420",
+  "cbsa_name": "Austin-Round Rock-San Marcos, TX",
+  "mdi": 0.2051,
+  "bbox": [
+    -99.46,
+    28.69,
+    -95.68,
+    31.58
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450431",
+      "name": "ST DAVID'S MEDICAL CENTER",
+      "beds": 625,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.2947,
+      "lon": -97.739,
+      "govt_payer_share": 0.251,
+      "medicare_discharges": 6055
+    },
+    {
+      "facility_id": "450056",
+      "name": "ASCENSION SETON MEDICAL CENTER AUSTIN",
+      "beds": 521,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.3061,
+      "lon": -97.7454,
+      "govt_payer_share": 0.187,
+      "medicare_discharges": 2921
+    },
+    {
+      "facility_id": "450809",
+      "name": "NORTH AUSTIN MEDICAL CENTER",
+      "beds": 511,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 30.4124,
+      "lon": -97.7077,
+      "govt_payer_share": 0.137,
+      "medicare_discharges": 2836
+    },
+    {
+      "facility_id": "450713",
+      "name": "ST DAVID'S SOUTH AUSTIN MEDICAL CENTER",
+      "beds": 363,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 30.243,
+      "lon": -97.7651,
+      "govt_payer_share": 0.236,
+      "medicare_discharges": 4610
+    },
+    {
+      "facility_id": "670034",
+      "name": "BAYLOR SCOTT & WHITE MEDICAL CENTER - ROUND ROCK",
+      "beds": 278,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.5604,
+      "lon": -97.6848,
+      "govt_payer_share": 0.29,
+      "medicare_discharges": 3438
+    },
+    {
+      "facility_id": "450124",
+      "name": "DELL SETON  MED CENTER AT THE UNIVERSITY OF TX",
+      "beds": 240,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.2706,
+      "lon": -97.7426,
+      "govt_payer_share": 0.136,
+      "medicare_discharges": 1352
+    },
+    {
+      "facility_id": "450718",
+      "name": "ROUND ROCK MEDICAL CENTER",
+      "beds": 209,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 30.5096,
+      "lon": -97.7118,
+      "govt_payer_share": 0.281,
+      "medicare_discharges": 2981
+    },
+    {
+      "facility_id": "670041",
+      "name": "ASCENSION SETON WILLIAMSON",
+      "beds": 181,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.5684,
+      "lon": -97.6525,
+      "govt_payer_share": 0.233,
+      "medicare_discharges": 2263
+    },
+    {
+      "facility_id": "450272",
+      "name": "CHRISTUS SANTA ROSA HOSPITAL-SAN MARCOS",
+      "beds": 170,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 29.851,
+      "lon": -97.946,
+      "govt_payer_share": 0.246,
+      "medicare_discharges": 870
+    },
+    {
+      "facility_id": "670056",
+      "name": "ASCENSION  SETON HAYS",
+      "beds": 154,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.0074,
+      "lon": -97.855,
+      "govt_payer_share": 0.201,
+      "medicare_discharges": 1861
+    },
+    {
+      "facility_id": "670043",
+      "name": "CEDAR PARK REGIONAL MEDICAL CENTER",
+      "beds": 126,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 30.5316,
+      "lon": -97.814,
+      "govt_payer_share": 0.255,
+      "medicare_discharges": 1192
+    },
+    {
+      "facility_id": "450867",
+      "name": "ASCENSION SETON NORTHWEST",
+      "beds": 124,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.4082,
+      "lon": -97.7446,
+      "govt_payer_share": 0.173,
+      "medicare_discharges": 718
+    },
+    {
+      "facility_id": "670128",
+      "name": "BAYLOR SCOTT & WHITE MEDICAL CENTER PFLUGERVILLE",
+      "beds": 46,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.4396,
+      "lon": -97.5947,
+      "govt_payer_share": 0.233,
+      "medicare_discharges": 272
+    },
+    {
+      "facility_id": "450865",
+      "name": "ASCENSION SETON  SOUTHWEST",
+      "beds": 28,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.177,
+      "lon": -97.9567,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 107
+    },
+    {
+      "facility_id": "451374",
+      "name": "BAYLOR SCOTT & WHITE MEDICAL CENTER -TAYLOR",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.5793,
+      "lon": -97.3886,
+      "govt_payer_share": 0.209,
+      "medicare_discharges": 59
+    },
+    {
+      "facility_id": "451371",
+      "name": "ASCENSION SETON EDGAR B DAVIS",
+      "beds": 24,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 29.6943,
+      "lon": -97.6381,
+      "govt_payer_share": 0.215,
+      "medicare_discharges": 140
+    },
+    {
+      "facility_id": "670006",
+      "name": "THE HOSPITAL AT WESTLAKE MEDICAL CENTER",
+      "beds": 23,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 30.2969,
+      "lon": -97.8096,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 204
+    },
+    {
+      "facility_id": "670136",
+      "name": "BAYLOR SCOTT & WHITE MEDICAL CENTER- AUSTIN",
+      "beds": 16,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.2691,
+      "lon": -97.8688,
+      "govt_payer_share": 0.332,
+      "medicare_discharges": 196
+    },
+    {
+      "facility_id": "670131",
+      "name": "BAYLOR SCOTT & WHITE MEDICAL CENTER - BUDA",
+      "beds": 15,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.0795,
+      "lon": -97.841,
+      "govt_payer_share": 0.179,
+      "medicare_discharges": 77
+    },
+    {
+      "facility_id": "450143",
+      "name": "ASCENSION SETON SMITHVILLE",
+      "beds": 8,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.0139,
+      "lon": -97.1821,
+      "govt_payer_share": 0.274,
+      "medicare_discharges": 84
+    },
+    {
+      "facility_id": "450808",
+      "name": "NORTHWEST HILLS SURGICAL HOSPITAL",
+      "beds": 8,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.3482,
+      "lon": -97.7681,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 97
+    },
+    {
+      "facility_id": "670326",
+      "name": "BRUSHY CREEK FAMILY HOSPITAL LLC",
+      "beds": 7,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 30.5418,
+      "lon": -97.7166,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48453",
+      "county_name": "Travis",
+      "state": "TX",
+      "pop_total": 1289054,
+      "pop_65_plus": 133532,
+      "distance_to_hub_miles": 2.3
+    },
+    {
+      "county_fips": "48491",
+      "county_name": "Williamson",
+      "state": "TX",
+      "pop_total": 617396,
+      "pop_65_plus": 77609,
+      "distance_to_hub_miles": 23.2
+    },
+    {
+      "county_fips": "48209",
+      "county_name": "Hays",
+      "state": "TX",
+      "pop_total": 245351,
+      "pop_65_plus": 28057,
+      "distance_to_hub_miles": 25.7
+    },
+    {
+      "county_fips": "48021",
+      "county_name": "Bastrop",
+      "state": "TX",
+      "pop_total": 98435,
+      "pop_65_plus": 15129,
+      "distance_to_hub_miles": 30.3
+    },
+    {
+      "county_fips": "48053",
+      "county_name": "Burnet",
+      "state": "TX",
+      "pop_total": 49684,
+      "pop_65_plus": 11477,
+      "distance_to_hub_miles": 40.8
+    },
+    {
+      "county_fips": "48055",
+      "county_name": "Caldwell",
+      "state": "TX",
+      "pop_total": 46141,
+      "pop_65_plus": 7020,
+      "distance_to_hub_miles": 35.2
+    },
+    {
+      "county_fips": "48149",
+      "county_name": "Fayette",
+      "state": "TX",
+      "pop_total": 24564,
+      "pop_65_plus": 6399,
+      "distance_to_hub_miles": 58.5
+    },
+    {
+      "county_fips": "48299",
+      "county_name": "Llano",
+      "state": "TX",
+      "pop_total": 21637,
+      "pop_65_plus": 8030,
+      "distance_to_hub_miles": 61.6
+    },
+    {
+      "county_fips": "48287",
+      "county_name": "Lee",
+      "state": "TX",
+      "pop_total": 17543,
+      "pop_65_plus": 3597,
+      "distance_to_hub_miles": 46.4
+    },
+    {
+      "county_fips": "48031",
+      "county_name": "Blanco",
+      "state": "TX",
+      "pop_total": 11608,
+      "pop_65_plus": 2822,
+      "distance_to_hub_miles": 39.5
+    }
+  ],
+  "summary": {
+    "total_beds": 3702,
+    "catchment_pop": 2421413,
+    "catchment_pop_65_plus": 293672,
+    "catchment_pct_65_plus": 0.1213,
+    "max_catchment_radius_miles": 61.6,
+    "avg_catchment_distance_miles": 14.2,
+    "num_counties": 10,
+    "hospital_employment": 27568,
+    "msa_total_employment": 1249631,
+    "hospital_emp_share": 0.0128,
+    "avg_govt_payer_share": 0.2216
+  }
+}

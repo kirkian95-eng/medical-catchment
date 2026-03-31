@@ -1,0 +1,74 @@
+{
+  "cbsa_code": "40740",
+  "cbsa_name": "Roswell, NM",
+  "mdi": 0.3075,
+  "bbox": [
+    -106.03,
+    32.42,
+    -103.02,
+    34.42
+  ],
+  "hospitals": [
+    {
+      "facility_id": "320006",
+      "name": "EASTERN NEW MEXICO MEDICAL CENTER",
+      "beds": 149,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.4234,
+      "lon": -104.5285,
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 1155
+    },
+    {
+      "facility_id": "320086",
+      "name": "LOVELACE REGIONAL HOSPITAL - ROSWELL",
+      "beds": 27,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.416,
+      "lon": -104.5216,
+      "govt_payer_share": 0.206,
+      "medicare_discharges": 249
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "35005",
+      "county_name": "Chaves",
+      "state": "NM",
+      "pop_total": 64701,
+      "pop_65_plus": 10258,
+      "distance_to_hub_miles": 5.4
+    },
+    {
+      "county_fips": "35027",
+      "county_name": "Lincoln",
+      "state": "NM",
+      "pop_total": 20222,
+      "pop_65_plus": 5980,
+      "distance_to_hub_miles": 58.1
+    },
+    {
+      "county_fips": "35011",
+      "county_name": "De Baca",
+      "state": "NM",
+      "pop_total": 1695,
+      "pop_65_plus": 358,
+      "distance_to_hub_miles": 63.9
+    }
+  ],
+  "summary": {
+    "total_beds": 176,
+    "catchment_pop": 86618,
+    "catchment_pop_65_plus": 16596,
+    "catchment_pct_65_plus": 0.1916,
+    "max_catchment_radius_miles": 63.9,
+    "avg_catchment_distance_miles": 18.8,
+    "num_counties": 3,
+    "hospital_employment": 73,
+    "msa_total_employment": 21267,
+    "hospital_emp_share": 0.0201,
+    "avg_govt_payer_share": 0.2605
+  }
+}

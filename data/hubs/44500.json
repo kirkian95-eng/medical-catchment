@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "44500",
+  "cbsa_name": "Stephenville, TX",
+  "mdi": 0.2623,
+  "bbox": [
+    -99.7,
+    31.22,
+    -96.7,
+    33.22
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450351",
+      "name": "TEXAS HEALTH HARRIS METHODIST HOSPITAL STEPHENVILL",
+      "beds": 98,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.2225,
+      "lon": -98.2043,
+      "govt_payer_share": 0.319,
+      "medicare_discharges": 404
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48143",
+      "county_name": "Erath",
+      "state": "TX",
+      "pop_total": 42788,
+      "pop_65_plus": 6055,
+      "distance_to_hub_miles": 1.2
+    },
+    {
+      "county_fips": "48363",
+      "county_name": "Palo Pinto",
+      "state": "TX",
+      "pop_total": 28569,
+      "pop_65_plus": 5645,
+      "distance_to_hub_miles": 37.2
+    },
+    {
+      "county_fips": "48133",
+      "county_name": "Eastland",
+      "state": "TX",
+      "pop_total": 17812,
+      "pop_65_plus": 3851,
+      "distance_to_hub_miles": 37.4
+    },
+    {
+      "county_fips": "48193",
+      "county_name": "Hamilton",
+      "state": "TX",
+      "pop_total": 8244,
+      "pop_65_plus": 2123,
+      "distance_to_hub_miles": 36.2
+    }
+  ],
+  "summary": {
+    "total_beds": 98,
+    "catchment_pop": 97413,
+    "catchment_pop_65_plus": 17674,
+    "catchment_pct_65_plus": 0.1814,
+    "max_catchment_radius_miles": 37.4,
+    "avg_catchment_distance_miles": 21.3,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 18361,
+    "hospital_emp_share": 0.0115,
+    "avg_govt_payer_share": 0.3192
+  }
+}

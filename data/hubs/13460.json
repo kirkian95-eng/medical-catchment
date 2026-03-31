@@ -1,0 +1,93 @@
+{
+  "cbsa_code": "13460",
+  "cbsa_name": "Bend, OR",
+  "mdi": 0.4534,
+  "bbox": [
+    -122.77,
+    43.06,
+    -119.02,
+    45.64
+  ],
+  "hospitals": [
+    {
+      "facility_id": "380047",
+      "name": "ST CHARLES MEDICAL CENTER - BEND",
+      "beds": 231,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.0658,
+      "lon": -121.269,
+      "govt_payer_share": 0.461,
+      "medicare_discharges": 5396
+    },
+    {
+      "facility_id": "381324",
+      "name": "ST CHARLES MADRAS",
+      "beds": 36,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.6375,
+      "lon": -121.1206,
+      "govt_payer_share": 0.486,
+      "medicare_discharges": 122
+    },
+    {
+      "facility_id": "381313",
+      "name": "ST CHARLES MEDICAL CENTER PRINEVILLE",
+      "beds": 35,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.1287,
+      "lon": -120.5154,
+      "govt_payer_share": 0.443,
+      "medicare_discharges": 213
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "41017",
+      "county_name": "Deschutes",
+      "state": "OR",
+      "pop_total": 199352,
+      "pop_65_plus": 40820,
+      "distance_to_hub_miles": 16.0
+    },
+    {
+      "county_fips": "41013",
+      "county_name": "Crook",
+      "state": "OR",
+      "pop_total": 24987,
+      "pop_65_plus": 6169,
+      "distance_to_hub_miles": 40.0
+    },
+    {
+      "county_fips": "41031",
+      "county_name": "Jefferson",
+      "state": "OR",
+      "pop_total": 24659,
+      "pop_65_plus": 4798,
+      "distance_to_hub_miles": 33.7
+    },
+    {
+      "county_fips": "41069",
+      "county_name": "Wheeler",
+      "state": "OR",
+      "pop_total": 1407,
+      "pop_65_plus": 496,
+      "distance_to_hub_miles": 69.1
+    }
+  ],
+  "summary": {
+    "total_beds": 302,
+    "catchment_pop": 250405,
+    "catchment_pop_65_plus": 52283,
+    "catchment_pct_65_plus": 0.2088,
+    "max_catchment_radius_miles": 69.1,
+    "avg_catchment_distance_miles": 20.4,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 106535,
+    "hospital_emp_share": 0.0227,
+    "avg_govt_payer_share": 0.462
+  }
+}

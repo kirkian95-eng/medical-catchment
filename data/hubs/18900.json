@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "18900",
+  "cbsa_name": "Crossville, TN",
+  "mdi": 0.4223,
+  "bbox": [
+    -86.52,
+    34.94,
+    -83.52,
+    36.94
+  ],
+  "hospitals": [
+    {
+      "facility_id": "440009",
+      "name": "CUMBERLAND MEDICAL CENTER",
+      "beds": 189,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.9425,
+      "lon": -85.0227,
+      "govt_payer_share": 0.362,
+      "medicare_discharges": 1472
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "47035",
+      "county_name": "Cumberland",
+      "state": "TN",
+      "pop_total": 61552,
+      "pop_65_plus": 19390,
+      "distance_to_hub_miles": 1.5
+    },
+    {
+      "county_fips": "47143",
+      "county_name": "Rhea",
+      "state": "TN",
+      "pop_total": 33031,
+      "pop_65_plus": 6259,
+      "distance_to_hub_miles": 23.7
+    },
+    {
+      "county_fips": "47007",
+      "county_name": "Bledsoe",
+      "state": "TN",
+      "pop_total": 14816,
+      "pop_65_plus": 2861,
+      "distance_to_hub_miles": 25.9
+    }
+  ],
+  "summary": {
+    "total_beds": 189,
+    "catchment_pop": 109399,
+    "catchment_pop_65_plus": 28510,
+    "catchment_pct_65_plus": 0.2606,
+    "max_catchment_radius_miles": 25.9,
+    "avg_catchment_distance_miles": 11.5,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 19040,
+    "hospital_emp_share": 0.0279,
+    "avg_govt_payer_share": 0.3621
+  }
+}

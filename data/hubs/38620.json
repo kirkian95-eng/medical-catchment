@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "38620",
+  "cbsa_name": "Ponca City, OK",
+  "mdi": 0.3177,
+  "bbox": [
+    -98.57,
+    35.73,
+    -95.57,
+    37.73
+  ],
+  "hospitals": [
+    {
+      "facility_id": "370006",
+      "name": "INTEGRIS HEALTH PONCA CITY",
+      "beds": 140,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 36.725,
+      "lon": -97.0673,
+      "govt_payer_share": 0.552,
+      "medicare_discharges": 256
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "40071",
+      "county_name": "Kay",
+      "state": "OK",
+      "pop_total": 43859,
+      "pop_65_plus": 8325,
+      "distance_to_hub_miles": 7.7
+    },
+    {
+      "county_fips": "40103",
+      "county_name": "Noble",
+      "state": "OK",
+      "pop_total": 10981,
+      "pop_65_plus": 2275,
+      "distance_to_hub_miles": 24.9
+    }
+  ],
+  "summary": {
+    "total_beds": 140,
+    "catchment_pop": 54840,
+    "catchment_pop_65_plus": 10600,
+    "catchment_pct_65_plus": 0.1933,
+    "max_catchment_radius_miles": 24.9,
+    "avg_catchment_distance_miles": 11.1,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 17292,
+    "hospital_emp_share": 0.0056,
+    "avg_govt_payer_share": 0.5517
+  }
+}

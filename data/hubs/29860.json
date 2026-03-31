@@ -1,0 +1,74 @@
+{
+  "cbsa_code": "29860",
+  "cbsa_name": "Laurel, MS",
+  "mdi": 0.5727,
+  "bbox": [
+    -90.77,
+    30.69,
+    -87.64,
+    32.96
+  ],
+  "hospitals": [
+    {
+      "facility_id": "250058",
+      "name": "SOUTH CENTRAL REG MED CTR",
+      "beds": 285,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 31.6858,
+      "lon": -89.142,
+      "govt_payer_share": 0.461,
+      "medicare_discharges": 1639
+    },
+    {
+      "facility_id": "250018",
+      "name": "JASPER GENERAL HOSPITAL",
+      "beds": 20,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 31.9557,
+      "lon": -89.2659,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 3
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "28067",
+      "county_name": "Jones",
+      "state": "MS",
+      "pop_total": 67152,
+      "pop_65_plus": 11696,
+      "distance_to_hub_miles": 4.7
+    },
+    {
+      "county_fips": "28153",
+      "county_name": "Wayne",
+      "state": "MS",
+      "pop_total": 19760,
+      "pop_65_plus": 3425,
+      "distance_to_hub_miles": 26.4
+    },
+    {
+      "county_fips": "28061",
+      "county_name": "Jasper",
+      "state": "MS",
+      "pop_total": 16320,
+      "pop_65_plus": 3372,
+      "distance_to_hub_miles": 23.1
+    }
+  ],
+  "summary": {
+    "total_beds": 305,
+    "catchment_pop": 103232,
+    "catchment_pop_65_plus": 18493,
+    "catchment_pct_65_plus": 0.1791,
+    "max_catchment_radius_miles": 26.4,
+    "avg_catchment_distance_miles": 11.8,
+    "num_counties": 3,
+    "hospital_employment": 1563,
+    "msa_total_employment": 31757,
+    "hospital_emp_share": 0.0418,
+    "avg_govt_payer_share": 0.4702
+  }
+}

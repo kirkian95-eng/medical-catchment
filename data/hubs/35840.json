@@ -1,0 +1,121 @@
+{
+  "cbsa_code": "35840",
+  "cbsa_name": "North Port-Bradenton-Sarasota, FL",
+  "mdi": 0.4588,
+  "bbox": [
+    -84.15,
+    25.98,
+    -80.84,
+    28.5
+  ],
+  "hospitals": [
+    {
+      "facility_id": "100087",
+      "name": "SARASOTA MEMORIAL HOSPITAL",
+      "beds": 897,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 27.3177,
+      "lon": -82.5298,
+      "govt_payer_share": 0.393,
+      "medicare_discharges": 17639
+    },
+    {
+      "facility_id": "100213",
+      "name": "HCA FLORIDA BLAKE HOSPITAL",
+      "beds": 383,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 27.5047,
+      "lon": -82.6547,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 3612
+    },
+    {
+      "facility_id": "100035",
+      "name": "MANATEE MEMORIAL HOSPITAL",
+      "beds": 319,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 27.4967,
+      "lon": -82.5613,
+      "govt_payer_share": 0.363,
+      "medicare_discharges": 4098
+    },
+    {
+      "facility_id": "100359",
+      "name": "SARASOTA MEMORIAL HOSPITAL - VENICE",
+      "beds": 212,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 27.1374,
+      "lon": -82.4186,
+      "govt_payer_share": 0.474,
+      "medicare_discharges": 4776
+    },
+    {
+      "facility_id": "100166",
+      "name": "HCA FLORIDA SARASOTA DOCTORS HOSPITAL",
+      "beds": 155,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 27.28,
+      "lon": -82.4766,
+      "govt_payer_share": 0.386,
+      "medicare_discharges": 2710
+    },
+    {
+      "facility_id": "100299",
+      "name": "LAKEWOOD RANCH MEDICAL CENTER",
+      "beds": 120,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 27.3926,
+      "lon": -82.435,
+      "govt_payer_share": 0.396,
+      "medicare_discharges": 2586
+    },
+    {
+      "facility_id": "100267",
+      "name": "HCA FLORIDA ENGLEWOOD HOSPITAL",
+      "beds": 100,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 26.9837,
+      "lon": -82.3377,
+      "govt_payer_share": 0.401,
+      "medicare_discharges": 1736
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "12115",
+      "county_name": "Sarasota",
+      "state": "FL",
+      "pop_total": 439392,
+      "pop_65_plus": 163928,
+      "distance_to_hub_miles": 12.7
+    },
+    {
+      "county_fips": "12081",
+      "county_name": "Manatee",
+      "state": "FL",
+      "pop_total": 405069,
+      "pop_65_plus": 114243,
+      "distance_to_hub_miles": 12.2
+    }
+  ],
+  "summary": {
+    "total_beds": 2186,
+    "catchment_pop": 844461,
+    "catchment_pop_65_plus": 278171,
+    "catchment_pct_65_plus": 0.3294,
+    "max_catchment_radius_miles": 12.7,
+    "avg_catchment_distance_miles": 12.5,
+    "num_counties": 2,
+    "hospital_employment": 15546,
+    "msa_total_employment": 327639,
+    "hospital_emp_share": 0.0292,
+    "avg_govt_payer_share": 0.4328
+  }
+}

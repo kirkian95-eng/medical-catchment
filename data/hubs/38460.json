@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "38460",
+  "cbsa_name": "Plattsburgh, NY",
+  "mdi": 0.6786,
+  "bbox": [
+    -74.97,
+    43.7,
+    -71.97,
+    45.7
+  ],
+  "hospitals": [
+    {
+      "facility_id": "330250",
+      "name": "CHAMPLAIN VALLEY PHYSICIANS HOSPITAL MEDICAL CTR",
+      "beds": 300,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.7001,
+      "lon": -73.4668,
+      "govt_payer_share": 0.416,
+      "medicare_discharges": 2668
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36019",
+      "county_name": "Clinton",
+      "state": "NY",
+      "pop_total": 79839,
+      "pop_65_plus": 14244,
+      "distance_to_hub_miles": 10.8
+    },
+    {
+      "county_fips": "36033",
+      "county_name": "Franklin",
+      "state": "NY",
+      "pop_total": 47459,
+      "pop_65_plus": 8753,
+      "distance_to_hub_miles": 41.8
+    },
+    {
+      "county_fips": "50013",
+      "county_name": "Grand Isle",
+      "state": "VT",
+      "pop_total": 7335,
+      "pop_65_plus": 1600,
+      "distance_to_hub_miles": 10.9
+    }
+  ],
+  "summary": {
+    "total_beds": 300,
+    "catchment_pop": 134633,
+    "catchment_pop_65_plus": 24597,
+    "catchment_pct_65_plus": 0.1827,
+    "max_catchment_radius_miles": 41.8,
+    "avg_catchment_distance_miles": 21.7,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 32733,
+    "hospital_emp_share": 0.0536,
+    "avg_govt_payer_share": 0.4157
+  }
+}

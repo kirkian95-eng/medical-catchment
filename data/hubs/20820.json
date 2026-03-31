@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "20820",
+  "cbsa_name": "Effingham, IL",
+  "mdi": 0.3857,
+  "bbox": [
+    -90.05,
+    38.13,
+    -87.05,
+    40.13
+  ],
+  "hospitals": [
+    {
+      "facility_id": "140032",
+      "name": "ST ANTHONYS MEMORIAL HOSPITAL",
+      "beds": 146,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 39.1262,
+      "lon": -88.5493,
+      "govt_payer_share": 0.48,
+      "medicare_discharges": 1368
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "17049",
+      "county_name": "Effingham",
+      "state": "IL",
+      "pop_total": 34594,
+      "pop_65_plus": 6203,
+      "distance_to_hub_miles": 5.2
+    },
+    {
+      "county_fips": "17051",
+      "county_name": "Fayette",
+      "state": "IL",
+      "pop_total": 21464,
+      "pop_65_plus": 4118,
+      "distance_to_hub_miles": 26.9
+    },
+    {
+      "county_fips": "17025",
+      "county_name": "Clay",
+      "state": "IL",
+      "pop_total": 13248,
+      "pop_65_plus": 2727,
+      "distance_to_hub_miles": 25.9
+    },
+    {
+      "county_fips": "17079",
+      "county_name": "Jasper",
+      "state": "IL",
+      "pop_total": 9295,
+      "pop_65_plus": 1862,
+      "distance_to_hub_miles": 22.6
+    }
+  ],
+  "summary": {
+    "total_beds": 146,
+    "catchment_pop": 78601,
+    "catchment_pop_65_plus": 14910,
+    "catchment_pct_65_plus": 0.1897,
+    "max_catchment_radius_miles": 26.9,
+    "avg_catchment_distance_miles": 16.7,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 23344,
+    "hospital_emp_share": 0.0135,
+    "avg_govt_payer_share": 0.4804
+  }
+}

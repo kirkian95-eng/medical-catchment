@@ -1,0 +1,148 @@
+{
+  "cbsa_code": "31540",
+  "cbsa_name": "Madison, WI",
+  "mdi": 0.526,
+  "bbox": [
+    -91.66,
+    41.61,
+    -87.56,
+    44.57
+  ],
+  "hospitals": [
+    {
+      "facility_id": "520098",
+      "name": "UNIVERSITY OF WI  HOSPITALS & CLINICS AUTHORITY",
+      "beds": 536,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 43.0772,
+      "lon": -89.4304,
+      "govt_payer_share": 0.331,
+      "medicare_discharges": 8444
+    },
+    {
+      "facility_id": "520089",
+      "name": "UNITYPOINT HEALTH - MERITER",
+      "beds": 448,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.0651,
+      "lon": -89.4009,
+      "govt_payer_share": 0.269,
+      "medicare_discharges": 3653
+    },
+    {
+      "facility_id": "520083",
+      "name": "SSM HEALTH ST MARY'S HOSPITAL - MADISON",
+      "beds": 440,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.0556,
+      "lon": -89.3878,
+      "govt_payer_share": 0.441,
+      "medicare_discharges": 6417
+    },
+    {
+      "facility_id": "520028",
+      "name": "THE MONROE CLINIC",
+      "beds": 100,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.6077,
+      "lon": -89.6327,
+      "govt_payer_share": 0.425,
+      "medicare_discharges": 936
+    },
+    {
+      "facility_id": "520041",
+      "name": "ASPIRUS DIVINE SAVIOR HOSPITAL",
+      "beds": 73,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.5666,
+      "lon": -89.4665,
+      "govt_payer_share": 0.382,
+      "medicare_discharges": 423
+    },
+    {
+      "facility_id": "521338",
+      "name": "COLUMBUS COMMUNITY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.3267,
+      "lon": -89.0571,
+      "govt_payer_share": 0.465,
+      "medicare_discharges": 354
+    },
+    {
+      "facility_id": "521343",
+      "name": "STOUGHTON HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.9283,
+      "lon": -89.2152,
+      "govt_payer_share": 0.607,
+      "medicare_discharges": 271
+    },
+    {
+      "facility_id": "521352",
+      "name": "UPLAND HILLS HEALTH",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.9968,
+      "lon": -90.1623,
+      "govt_payer_share": 0.526,
+      "medicare_discharges": 358
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "55025",
+      "county_name": "Dane",
+      "state": "WI",
+      "pop_total": 559891,
+      "pop_65_plus": 80883,
+      "distance_to_hub_miles": 0.6
+    },
+    {
+      "county_fips": "55021",
+      "county_name": "Columbia",
+      "state": "WI",
+      "pop_total": 58272,
+      "pop_65_plus": 10871,
+      "distance_to_hub_miles": 28.4
+    },
+    {
+      "county_fips": "55045",
+      "county_name": "Green",
+      "state": "WI",
+      "pop_total": 37066,
+      "pop_65_plus": 7181,
+      "distance_to_hub_miles": 27.9
+    },
+    {
+      "county_fips": "55049",
+      "county_name": "Iowa",
+      "state": "WI",
+      "pop_total": 23766,
+      "pop_65_plus": 4576,
+      "distance_to_hub_miles": 36.0
+    }
+  ],
+  "summary": {
+    "total_beds": 1672,
+    "catchment_pop": 678995,
+    "catchment_pop_65_plus": 103511,
+    "catchment_pct_65_plus": 0.1524,
+    "max_catchment_radius_miles": 36.0,
+    "avg_catchment_distance_miles": 5.7,
+    "num_counties": 4,
+    "hospital_employment": 8745,
+    "msa_total_employment": 401163,
+    "hospital_emp_share": 0.0395,
+    "avg_govt_payer_share": 0.3601
+  }
+}

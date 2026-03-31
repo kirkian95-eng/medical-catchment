@@ -1,0 +1,82 @@
+{
+  "cbsa_code": "22180",
+  "cbsa_name": "Fayetteville, NC",
+  "mdi": 0.4071,
+  "bbox": [
+    -80.74,
+    34.05,
+    -77.38,
+    36.06
+  ],
+  "hospitals": [
+    {
+      "facility_id": "340028",
+      "name": "CAPE FEAR VALLEY MEDICAL CENTER",
+      "beds": 600,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.0554,
+      "lon": -78.8774,
+      "govt_payer_share": 0.232,
+      "medicare_discharges": 5701
+    },
+    {
+      "facility_id": "340188",
+      "name": "CAPE FEAR VALLEY HOKE HOSPITAL",
+      "beds": 41,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.0468,
+      "lon": -79.2414,
+      "govt_payer_share": 0.28,
+      "medicare_discharges": 376
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "37051",
+      "county_name": "Cumberland",
+      "state": "NC",
+      "pop_total": 335207,
+      "pop_65_plus": 41783,
+      "distance_to_hub_miles": 4.1
+    },
+    {
+      "county_fips": "37085",
+      "county_name": "Harnett",
+      "state": "NC",
+      "pop_total": 134718,
+      "pop_65_plus": 17740,
+      "distance_to_hub_miles": 21.8
+    },
+    {
+      "county_fips": "37163",
+      "county_name": "Sampson",
+      "state": "NC",
+      "pop_total": 59317,
+      "pop_65_plus": 10735,
+      "distance_to_hub_miles": 30.2
+    },
+    {
+      "county_fips": "37093",
+      "county_name": "Hoke",
+      "state": "NC",
+      "pop_total": 52612,
+      "pop_65_plus": 5778,
+      "distance_to_hub_miles": 19.2
+    }
+  ],
+  "summary": {
+    "total_beds": 641,
+    "catchment_pop": 581854,
+    "catchment_pop_65_plus": 76036,
+    "catchment_pct_65_plus": 0.1307,
+    "max_catchment_radius_miles": 30.2,
+    "avg_catchment_distance_miles": 12.2,
+    "num_counties": 4,
+    "hospital_employment": 10070,
+    "msa_total_employment": 131496,
+    "hospital_emp_share": 0.0311,
+    "avg_govt_payer_share": 0.2355
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "cbsa_code": "36740",
+  "cbsa_name": "Orlando-Kissimmee-Sanford, FL",
+  "mdi": 0.4124,
+  "bbox": [
+    -83.4,
+    27.19,
+    -79.73,
+    29.92
+  ],
+  "hospitals": [
+    {
+      "facility_id": "100007",
+      "name": "ADVENTHEALTH ORLANDO",
+      "beds": 3289,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.5742,
+      "lon": -81.3711,
+      "govt_payer_share": 0.247,
+      "medicare_discharges": 30431
+    },
+    {
+      "facility_id": "100006",
+      "name": "ORLANDO HEALTH",
+      "beds": 2024,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.5268,
+      "lon": -81.3779,
+      "govt_payer_share": 0.185,
+      "medicare_discharges": 12589
+    },
+    {
+      "facility_id": "100110",
+      "name": "HCA FLORIDA OSCEOLA HOSPITAL",
+      "beds": 407,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 28.3008,
+      "lon": -81.411,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 2466
+    },
+    {
+      "facility_id": "100084",
+      "name": "UF HEALTH LEESBURG HOSPITAL",
+      "beds": 330,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.8067,
+      "lon": -81.8683,
+      "govt_payer_share": 0.362,
+      "medicare_discharges": 4616
+    },
+    {
+      "facility_id": "100290",
+      "name": "VILLAGES REGIONAL HOSPITAL, THE",
+      "beds": 315,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.9181,
+      "lon": -81.8977,
+      "govt_payer_share": 0.388,
+      "medicare_discharges": 5370
+    },
+    {
+      "facility_id": "100057",
+      "name": "ADVENTHEALTH WATERMAN",
+      "beds": 269,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 28.8194,
+      "lon": -81.7233,
+      "govt_payer_share": 0.339,
+      "medicare_discharges": 5389
+    },
+    {
+      "facility_id": "100051",
+      "name": "ORLANDO HEALTH SOUTH LAKE HOSPITAL",
+      "beds": 235,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 28.5512,
+      "lon": -81.7234,
+      "govt_payer_share": 0.289,
+      "medicare_discharges": 4272
+    },
+    {
+      "facility_id": "100161",
+      "name": "CENTRAL FLORIDA LAKE MONROE HOSPITAL",
+      "beds": 221,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 28.8147,
+      "lon": -81.3176,
+      "govt_payer_share": 0.284,
+      "medicare_discharges": 1841
+    },
+    {
+      "facility_id": "100030",
+      "name": "ORLANDO HEALTH-HEALTH CENTRAL HOSPITAL",
+      "beds": 216,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 28.5786,
+      "lon": -81.5341,
+      "govt_payer_share": 0.22,
+      "medicare_discharges": 2876
+    },
+    {
+      "facility_id": "100329",
+      "name": "OVIEDO MEDICAL CENTER",
+      "beds": 96,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 28.6562,
+      "lon": -81.2304,
+      "govt_payer_share": 0.283,
+      "medicare_discharges": 874
+    },
+    {
+      "facility_id": "100320",
+      "name": "HCA FLORIDA POINCIANA HOSPITAL",
+      "beds": 94,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 28.1921,
+      "lon": -81.4854,
+      "govt_payer_share": 0.198,
+      "medicare_discharges": 667
+    },
+    {
+      "facility_id": "100302",
+      "name": "ORLANDO HEALTH ST CLOUD HOSPITAL",
+      "beds": 84,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 28.2437,
+      "lon": -81.2942,
+      "govt_payer_share": 0.283,
+      "medicare_discharges": 1239
+    },
+    {
+      "facility_id": "100350",
+      "name": "UCF LAKE NONA HOSPITAL",
+      "beds": 64,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 28.3774,
+      "lon": -81.2577,
+      "govt_payer_share": 0.208,
+      "medicare_discharges": 402
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "12095",
+      "county_name": "Orange",
+      "state": "FL",
+      "pop_total": 1427403,
+      "pop_65_plus": 177634,
+      "distance_to_hub_miles": 8.4
+    },
+    {
+      "county_fips": "12117",
+      "county_name": "Seminole",
+      "state": "FL",
+      "pop_total": 471321,
+      "pop_65_plus": 75622,
+      "distance_to_hub_miles": 15.7
+    },
+    {
+      "county_fips": "12069",
+      "county_name": "Lake",
+      "state": "FL",
+      "pop_total": 386829,
+      "pop_65_plus": 103276,
+      "distance_to_hub_miles": 20.7
+    }
+  ],
+  "summary": {
+    "total_beds": 7644,
+    "catchment_pop": 2285553,
+    "catchment_pop_65_plus": 356532,
+    "catchment_pct_65_plus": 0.156,
+    "max_catchment_radius_miles": 20.7,
+    "avg_catchment_distance_miles": 12.0,
+    "num_counties": 3,
+    "hospital_employment": 54305,
+    "msa_total_employment": 1374857,
+    "hospital_emp_share": 0.0341,
+    "avg_govt_payer_share": 0.2651
+  }
+}

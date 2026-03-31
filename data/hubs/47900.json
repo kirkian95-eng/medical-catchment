@@ -1,0 +1,482 @@
+{
+  "cbsa_code": "47900",
+  "cbsa_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+  "mdi": 0.2719,
+  "bbox": [
+    -79.68,
+    37.22,
+    -75.46,
+    40.42
+  ],
+  "hospitals": [
+    {
+      "facility_id": "490063",
+      "name": "INOVA FAIRFAX HOSPITAL",
+      "beds": 923,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.8576,
+      "lon": -77.2258,
+      "govt_payer_share": 0.318,
+      "medicare_discharges": 11622
+    },
+    {
+      "facility_id": "490022",
+      "name": "MARY WASHINGTON HOSPITAL",
+      "beds": 451,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.3098,
+      "lon": -77.4823,
+      "govt_payer_share": 0.332,
+      "medicare_discharges": 6931
+    },
+    {
+      "facility_id": "210004",
+      "name": "HOLY CROSS HOSPITAL",
+      "beds": 444,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 39.016,
+      "lon": -77.0329,
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 3490
+    },
+    {
+      "facility_id": "490050",
+      "name": "VIRGINIA HOSPITAL CENTER",
+      "beds": 342,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.8897,
+      "lon": -77.1288,
+      "govt_payer_share": 0.23,
+      "medicare_discharges": 4566
+    },
+    {
+      "facility_id": "210057",
+      "name": "ADVENTIST HEALTHCARE SHADY GROVE MEDICAL CENTER",
+      "beds": 331,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.0966,
+      "lon": -77.1989,
+      "govt_payer_share": 0.451,
+      "medicare_discharges": 4684
+    },
+    {
+      "facility_id": "490040",
+      "name": "INOVA ALEXANDRIA HOSPITAL",
+      "beds": 318,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.824,
+      "lon": -77.1043,
+      "govt_payer_share": 0.372,
+      "medicare_discharges": 4083
+    },
+    {
+      "facility_id": "210016",
+      "name": "ADVENTIST HEALTHCARE WHITE OAK MEDICAL CENTER",
+      "beds": 298,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.0533,
+      "lon": -76.9624,
+      "govt_payer_share": 0.555,
+      "medicare_discharges": 3705
+    },
+    {
+      "facility_id": "210005",
+      "name": "FREDERICK HEALTH HOSPITAL",
+      "beds": 248,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.4238,
+      "lon": -77.4145,
+      "govt_payer_share": 0.475,
+      "medicare_discharges": 6231
+    },
+    {
+      "facility_id": "490122",
+      "name": "INOVA MOUNT VERNON HOSPITAL",
+      "beds": 237,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.7498,
+      "lon": -77.1074,
+      "govt_payer_share": 0.481,
+      "medicare_discharges": 1816
+    },
+    {
+      "facility_id": "210022",
+      "name": "SUBURBAN HOSPITAL",
+      "beds": 229,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.0048,
+      "lon": -77.103,
+      "govt_payer_share": 0.57,
+      "medicare_discharges": 6394
+    },
+    {
+      "facility_id": "490033",
+      "name": "WARREN MEMORIAL HOSPITAL",
+      "beds": 196,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.9309,
+      "lon": -78.1765,
+      "govt_payer_share": 0.453,
+      "medicare_discharges": 887
+    },
+    {
+      "facility_id": "490107",
+      "name": "RESTON HOSPITAL CENTER",
+      "beds": 187,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.9592,
+      "lon": -77.3411,
+      "govt_payer_share": 0.33,
+      "medicare_discharges": 3041
+    },
+    {
+      "facility_id": "490113",
+      "name": "SENTARA NORTHERN VIRGINIA MEDICAL CENTER",
+      "beds": 183,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.6369,
+      "lon": -77.2854,
+      "govt_payer_share": 0.324,
+      "medicare_discharges": 2584
+    },
+    {
+      "facility_id": "490101",
+      "name": "INOVA FAIR OAKS HOSPITAL",
+      "beds": 182,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 38.8874,
+      "lon": -77.3792,
+      "govt_payer_share": 0.309,
+      "medicare_discharges": 2699
+    },
+    {
+      "facility_id": "490045",
+      "name": "NOVANT PRINCE WILLIAM MEDICAL CENTER",
+      "beds": 170,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.7674,
+      "lon": -77.485,
+      "govt_payer_share": 0.363,
+      "medicare_discharges": 1606
+    },
+    {
+      "facility_id": "490043",
+      "name": "INOVA LOUDOUN HOSPITAL",
+      "beds": 167,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.0727,
+      "lon": -77.4765,
+      "govt_payer_share": 0.375,
+      "medicare_discharges": 4397
+    },
+    {
+      "facility_id": "210018",
+      "name": "MEDSTAR MONTGOMERY MEDICAL CENTER",
+      "beds": 165,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.1542,
+      "lon": -77.0568,
+      "govt_payer_share": 0.61,
+      "medicare_discharges": 2943
+    },
+    {
+      "facility_id": "210035",
+      "name": "UNIVERSITY OF MD CHARLES REGIONAL  MEDICAL CENTER",
+      "beds": 131,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.5285,
+      "lon": -76.9703,
+      "govt_payer_share": 0.529,
+      "medicare_discharges": 2195
+    },
+    {
+      "facility_id": "490141",
+      "name": "SPOTSYLVANIA REGIONAL MEDICAL CENTER",
+      "beds": 126,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 38.2193,
+      "lon": -77.4972,
+      "govt_payer_share": 0.321,
+      "medicare_discharges": 1690
+    },
+    {
+      "facility_id": "490145",
+      "name": "STONESPRINGS HOSPITAL CENTER",
+      "beds": 124,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 38.9398,
+      "lon": -77.5452,
+      "govt_payer_share": 0.182,
+      "medicare_discharges": 447
+    },
+    {
+      "facility_id": "490140",
+      "name": "STAFFORD HOSPITAL, LLC",
+      "beds": 100,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.4157,
+      "lon": -77.4068,
+      "govt_payer_share": 0.269,
+      "medicare_discharges": 1044
+    },
+    {
+      "facility_id": "490023",
+      "name": "FAUQUIER HOSPITAL",
+      "beds": 97,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 38.7114,
+      "lon": -77.8093,
+      "govt_payer_share": 0.378,
+      "medicare_discharges": 857
+    },
+    {
+      "facility_id": "210065",
+      "name": "HOLY CROSS GERMANTOWN HOSPITAL",
+      "beds": 93,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.1791,
+      "lon": -77.2424,
+      "govt_payer_share": 0.419,
+      "medicare_discharges": 1806
+    },
+    {
+      "facility_id": "490019",
+      "name": "UVA HEALTH CULPEPER MEDICAL CENTER",
+      "beds": 70,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.4553,
+      "lon": -78.0119,
+      "govt_payer_share": 0.463,
+      "medicare_discharges": 1266
+    },
+    {
+      "facility_id": "490144",
+      "name": "UVA HEALTH HAYMARKET MEDICAL CENTER",
+      "beds": 60,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.8721,
+      "lon": -77.6414,
+      "govt_payer_share": 0.508,
+      "medicare_discharges": 1114
+    },
+    {
+      "facility_id": "511319",
+      "name": "JEFFERSON MEDICAL CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.3234,
+      "lon": -77.864,
+      "govt_payer_share": 0.35,
+      "medicare_discharges": 372
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "51059",
+      "county_name": "Fairfax",
+      "state": "VA",
+      "pop_total": 1145354,
+      "pop_65_plus": 162234,
+      "distance_to_hub_miles": 2.0
+    },
+    {
+      "county_fips": "24031",
+      "county_name": "Montgomery",
+      "state": "MD",
+      "pop_total": 1056910,
+      "pop_65_plus": 170697,
+      "distance_to_hub_miles": 19.6
+    },
+    {
+      "county_fips": "24033",
+      "county_name": "Prince George's",
+      "state": "MD",
+      "pop_total": 957189,
+      "pop_65_plus": 135034,
+      "distance_to_hub_miles": 23.9
+    },
+    {
+      "county_fips": "11001",
+      "county_name": "District of Columbia",
+      "state": "DC",
+      "pop_total": 670587,
+      "pop_65_plus": 84451,
+      "distance_to_hub_miles": 15.0
+    },
+    {
+      "county_fips": "51153",
+      "county_name": "Prince William",
+      "state": "VA",
+      "pop_total": 481114,
+      "pop_65_plus": 50434,
+      "distance_to_hub_miles": 14.9
+    },
+    {
+      "county_fips": "51107",
+      "county_name": "Loudoun",
+      "state": "VA",
+      "pop_total": 420773,
+      "pop_65_plus": 41972,
+      "distance_to_hub_miles": 24.4
+    },
+    {
+      "county_fips": "51013",
+      "county_name": "Arlington",
+      "state": "VA",
+      "pop_total": 235845,
+      "pop_65_plus": 26573,
+      "distance_to_hub_miles": 10.2
+    },
+    {
+      "county_fips": "24017",
+      "county_name": "Charles",
+      "state": "MD",
+      "pop_total": 167035,
+      "pop_65_plus": 21545,
+      "distance_to_hub_miles": 30.6
+    },
+    {
+      "county_fips": "51179",
+      "county_name": "Stafford",
+      "state": "VA",
+      "pop_total": 157606,
+      "pop_65_plus": 17275,
+      "distance_to_hub_miles": 31.7
+    },
+    {
+      "county_fips": "51510",
+      "county_name": "Alexandria",
+      "state": "VA",
+      "pop_total": 157594,
+      "pop_65_plus": 19445,
+      "distance_to_hub_miles": 11.3
+    },
+    {
+      "county_fips": "51177",
+      "county_name": "Spotsylvania",
+      "state": "VA",
+      "pop_total": 141097,
+      "pop_65_plus": 20566,
+      "distance_to_hub_miles": 50.7
+    },
+    {
+      "county_fips": "51061",
+      "county_name": "Fauquier",
+      "state": "VA",
+      "pop_total": 73290,
+      "pop_65_plus": 12262,
+      "distance_to_hub_miles": 29.2
+    },
+    {
+      "county_fips": "51047",
+      "county_name": "Culpeper",
+      "state": "VA",
+      "pop_total": 52822,
+      "pop_65_plus": 8531,
+      "distance_to_hub_miles": 44.3
+    },
+    {
+      "county_fips": "51683",
+      "county_name": "Manassas",
+      "state": "VA",
+      "pop_total": 42620,
+      "pop_65_plus": 4569,
+      "distance_to_hub_miles": 13.2
+    },
+    {
+      "county_fips": "51630",
+      "county_name": "Fredericksburg",
+      "state": "VA",
+      "pop_total": 28258,
+      "pop_65_plus": 3157,
+      "distance_to_hub_miles": 40.3
+    },
+    {
+      "county_fips": "51099",
+      "county_name": "King George",
+      "state": "VA",
+      "pop_total": 26985,
+      "pop_65_plus": 3682,
+      "distance_to_hub_miles": 41.2
+    },
+    {
+      "county_fips": "51600",
+      "county_name": "Fairfax",
+      "state": "VA",
+      "pop_total": 24242,
+      "pop_65_plus": 3498,
+      "distance_to_hub_miles": 0.8
+    },
+    {
+      "county_fips": "51193",
+      "county_name": "Westmoreland",
+      "state": "VA",
+      "pop_total": 18480,
+      "pop_65_plus": 4757,
+      "distance_to_hub_miles": 58.1
+    },
+    {
+      "county_fips": "51685",
+      "county_name": "Manassas Park",
+      "state": "VA",
+      "pop_total": 17123,
+      "pop_65_plus": 1679,
+      "distance_to_hub_miles": 10.3
+    },
+    {
+      "county_fips": "51610",
+      "county_name": "Falls Church",
+      "state": "VA",
+      "pop_total": 14576,
+      "pop_65_plus": 2001,
+      "distance_to_hub_miles": 6.3
+    },
+    {
+      "county_fips": "51157",
+      "county_name": "Rappahannock",
+      "state": "VA",
+      "pop_total": 7422,
+      "pop_65_plus": 1968,
+      "distance_to_hub_miles": 48.4
+    }
+  ],
+  "summary": {
+    "total_beds": 5897,
+    "catchment_pop": 5896922,
+    "catchment_pop_65_plus": 796330,
+    "catchment_pct_65_plus": 0.135,
+    "max_catchment_radius_miles": 58.1,
+    "avg_catchment_distance_miles": 17.6,
+    "num_counties": 21,
+    "hospital_employment": 22494,
+    "msa_total_employment": 2027503,
+    "hospital_emp_share": 0.0118,
+    "avg_govt_payer_share": 0.3789
+  }
+}

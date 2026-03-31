@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "12180",
+  "cbsa_name": "Auburn, NY",
+  "mdi": 0.4319,
+  "bbox": [
+    -78.07,
+    41.94,
+    -75.07,
+    43.94
+  ],
+  "hospitals": [
+    {
+      "facility_id": "330235",
+      "name": "AUBURN  COMMUNITY  HOSPITAL",
+      "beds": 99,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.9408,
+      "lon": -76.5651,
+      "govt_payer_share": 0.389,
+      "medicare_discharges": 1302
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36011",
+      "county_name": "Cayuga",
+      "state": "NY",
+      "pop_total": 76171,
+      "pop_65_plus": 15272,
+      "distance_to_hub_miles": 4.8
+    },
+    {
+      "county_fips": "36099",
+      "county_name": "Seneca",
+      "state": "NY",
+      "pop_total": 33651,
+      "pop_65_plus": 6788,
+      "distance_to_hub_miles": 17.2
+    }
+  ],
+  "summary": {
+    "total_beds": 99,
+    "catchment_pop": 109822,
+    "catchment_pop_65_plus": 22060,
+    "catchment_pct_65_plus": 0.2009,
+    "max_catchment_radius_miles": 17.2,
+    "avg_catchment_distance_miles": 8.6,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 24832,
+    "hospital_emp_share": 0.0285,
+    "avg_govt_payer_share": 0.3891
+  }
+}

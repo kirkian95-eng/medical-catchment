@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "19620",
+  "cbsa_name": "Del Rio, TX",
+  "mdi": 0.3942,
+  "bbox": [
+    -102.39,
+    28.37,
+    -99.39,
+    30.37
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450154",
+      "name": "VAL VERDE REGIONAL MEDICAL CENTER",
+      "beds": 93,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 29.3744,
+      "lon": -100.8928,
+      "govt_payer_share": 0.219,
+      "medicare_discharges": 340
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48465",
+      "county_name": "Val Verde",
+      "state": "TX",
+      "pop_total": 47693,
+      "pop_65_plus": 6647,
+      "distance_to_hub_miles": 39.0
+    },
+    {
+      "county_fips": "48271",
+      "county_name": "Kinney",
+      "state": "TX",
+      "pop_total": 3157,
+      "pop_65_plus": 759,
+      "distance_to_hub_miles": 28.7
+    },
+    {
+      "county_fips": "48137",
+      "county_name": "Edwards",
+      "state": "TX",
+      "pop_total": 1380,
+      "pop_65_plus": 303,
+      "distance_to_hub_miles": 54.9
+    }
+  ],
+  "summary": {
+    "total_beds": 93,
+    "catchment_pop": 52230,
+    "catchment_pop_65_plus": 7709,
+    "catchment_pct_65_plus": 0.1476,
+    "max_catchment_radius_miles": 54.9,
+    "avg_catchment_distance_miles": 38.8,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 18716,
+    "hospital_emp_share": 0.0375,
+    "avg_govt_payer_share": 0.2189
+  }
+}

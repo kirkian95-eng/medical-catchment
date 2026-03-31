@@ -1,0 +1,58 @@
+{
+  "cbsa_code": "41400",
+  "cbsa_name": "Salem, OH",
+  "mdi": 0.4196,
+  "bbox": [
+    -82.37,
+    39.68,
+    -79.09,
+    41.9
+  ],
+  "hospitals": [
+    {
+      "facility_id": "360185",
+      "name": "SALEM REGIONAL MEDICAL CENTER",
+      "beds": 252,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.9028,
+      "lon": -80.8687,
+      "govt_payer_share": 0.293,
+      "medicare_discharges": 570
+    },
+    {
+      "facility_id": "360096",
+      "name": "EAST LIVERPOOL CITY HOSPITAL",
+      "beds": 144,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.6772,
+      "lon": -80.5943,
+      "govt_payer_share": 0.266,
+      "medicare_discharges": 831
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "39029",
+      "county_name": "Columbiana",
+      "state": "OH",
+      "pop_total": 101723,
+      "pop_65_plus": 21271,
+      "distance_to_hub_miles": 3.6
+    }
+  ],
+  "summary": {
+    "total_beds": 396,
+    "catchment_pop": 101723,
+    "catchment_pop_65_plus": 21271,
+    "catchment_pct_65_plus": 0.2091,
+    "max_catchment_radius_miles": 3.6,
+    "avg_catchment_distance_miles": 3.6,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 28353,
+    "hospital_emp_share": 0.0307,
+    "avg_govt_payer_share": 0.2828
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "cbsa_code": "38220",
+  "cbsa_name": "Pine Bluff, AR",
+  "mdi": 0.6668,
+  "bbox": [
+    -93.52,
+    33.19,
+    -90.52,
+    35.19
+  ],
+  "hospitals": [
+    {
+      "facility_id": "040071",
+      "name": "JEFFERSON REGIONAL MEDICAL CENTER",
+      "beds": 300,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.189,
+      "lon": -92.0187,
+      "govt_payer_share": 0.472,
+      "medicare_discharges": 1677
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "05069",
+      "county_name": "Jefferson",
+      "state": "AR",
+      "pop_total": 66934,
+      "pop_65_plus": 11816,
+      "distance_to_hub_miles": 7.4
+    },
+    {
+      "county_fips": "05053",
+      "county_name": "Grant",
+      "state": "AR",
+      "pop_total": 18022,
+      "pop_65_plus": 3273,
+      "distance_to_hub_miles": 24.2
+    },
+    {
+      "county_fips": "05001",
+      "county_name": "Arkansas",
+      "state": "AR",
+      "pop_total": 17024,
+      "pop_65_plus": 3391,
+      "distance_to_hub_miles": 37.5
+    },
+    {
+      "county_fips": "05079",
+      "county_name": "Lincoln",
+      "state": "AR",
+      "pop_total": 13016,
+      "pop_65_plus": 1946,
+      "distance_to_hub_miles": 22.8
+    },
+    {
+      "county_fips": "05025",
+      "county_name": "Cleveland",
+      "state": "AR",
+      "pop_total": 7548,
+      "pop_65_plus": 1571,
+      "distance_to_hub_miles": 22.2
+    }
+  ],
+  "summary": {
+    "total_beds": 300,
+    "catchment_pop": 122544,
+    "catchment_pop_65_plus": 21997,
+    "catchment_pct_65_plus": 0.1795,
+    "max_catchment_radius_miles": 37.5,
+    "avg_catchment_distance_miles": 16.6,
+    "num_counties": 5,
+    "hospital_employment": 16,
+    "msa_total_employment": 25848,
+    "hospital_emp_share": 0.0471,
+    "avg_govt_payer_share": 0.4721
+  }
+}

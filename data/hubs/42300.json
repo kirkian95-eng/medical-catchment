@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "42300",
+  "cbsa_name": "Sault Ste. Marie, MI",
+  "mdi": 0.601,
+  "bbox": [
+    -85.85,
+    45.5,
+    -82.85,
+    47.5
+  ],
+  "hospitals": [
+    {
+      "facility_id": "230239",
+      "name": "CHIPPEWA COUNTY WAR MEMORIAL HOSPITAL",
+      "beds": 82,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 46.4975,
+      "lon": -84.35,
+      "govt_payer_share": 0.287,
+      "medicare_discharges": 354
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "26033",
+      "county_name": "Chippewa",
+      "state": "MI",
+      "pop_total": 36670,
+      "pop_65_plus": 6902,
+      "distance_to_hub_miles": 14.5
+    },
+    {
+      "county_fips": "26095",
+      "county_name": "Luce",
+      "state": "MI",
+      "pop_total": 5442,
+      "pop_65_plus": 1402,
+      "distance_to_hub_miles": 59.5
+    }
+  ],
+  "summary": {
+    "total_beds": 82,
+    "catchment_pop": 42112,
+    "catchment_pop_65_plus": 8304,
+    "catchment_pct_65_plus": 0.1972,
+    "max_catchment_radius_miles": 59.5,
+    "avg_catchment_distance_miles": 20.3,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 12605,
+    "hospital_emp_share": 0.0484,
+    "avg_govt_payer_share": 0.2867
+  }
+}

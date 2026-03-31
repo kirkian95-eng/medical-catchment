@@ -1,0 +1,82 @@
+{
+  "cbsa_code": "15820",
+  "cbsa_name": "Campbellsville, KY",
+  "mdi": 0.8356,
+  "bbox": [
+    -87.03,
+    36.23,
+    -83.84,
+    38.37
+  ],
+  "hospitals": [
+    {
+      "facility_id": "180087",
+      "name": "TAYLOR REGIONAL HOSPITAL",
+      "beds": 90,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 37.368,
+      "lon": -85.3391,
+      "govt_payer_share": 0.315,
+      "medicare_discharges": 524
+    },
+    {
+      "facility_id": "181325",
+      "name": "JANE TODD CRAWFORD HOSPITAL",
+      "beds": 35,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.2283,
+      "lon": -85.5323,
+      "govt_payer_share": 0.95,
+      "medicare_discharges": 38
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "21217",
+      "county_name": "Taylor",
+      "state": "KY",
+      "pop_total": 26056,
+      "pop_65_plus": 4734,
+      "distance_to_hub_miles": 4.5
+    },
+    {
+      "county_fips": "21155",
+      "county_name": "Marion",
+      "state": "KY",
+      "pop_total": 19627,
+      "pop_65_plus": 3300,
+      "distance_to_hub_miles": 16.9
+    },
+    {
+      "county_fips": "21001",
+      "county_name": "Adair",
+      "state": "KY",
+      "pop_total": 18887,
+      "pop_65_plus": 3655,
+      "distance_to_hub_miles": 16.7
+    },
+    {
+      "county_fips": "21087",
+      "county_name": "Green",
+      "state": "KY",
+      "pop_total": 11198,
+      "pop_65_plus": 2251,
+      "distance_to_hub_miles": 9.9
+    }
+  ],
+  "summary": {
+    "total_beds": 125,
+    "catchment_pop": 75768,
+    "catchment_pop_65_plus": 13940,
+    "catchment_pct_65_plus": 0.184,
+    "max_catchment_radius_miles": 16.9,
+    "avg_catchment_distance_miles": 11.6,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 13717,
+    "hospital_emp_share": 0.0602,
+    "avg_govt_payer_share": 0.4925
+  }
+}

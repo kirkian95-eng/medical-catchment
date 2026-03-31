@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "12300",
+  "cbsa_name": "Augusta-Waterville, ME",
+  "mdi": 0.6942,
+  "bbox": [
+    -71.29,
+    43.36,
+    -68.29,
+    45.36
+  ],
+  "hospitals": [
+    {
+      "facility_id": "200039",
+      "name": "MAINE GENERAL MEDICAL CENTER",
+      "beds": 287,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 44.3552,
+      "lon": -69.7881,
+      "govt_payer_share": 0.438,
+      "medicare_discharges": 1691
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "23011",
+      "county_name": "Kennebec",
+      "state": "ME",
+      "pop_total": 124003,
+      "pop_65_plus": 25596,
+      "distance_to_hub_miles": 3.8
+    },
+    {
+      "county_fips": "23013",
+      "county_name": "Knox",
+      "state": "ME",
+      "pop_total": 40729,
+      "pop_65_plus": 10780,
+      "distance_to_hub_miles": 44.5
+    },
+    {
+      "county_fips": "23015",
+      "county_name": "Lincoln",
+      "state": "ME",
+      "pop_total": 35466,
+      "pop_65_plus": 10034,
+      "distance_to_hub_miles": 27.9
+    },
+    {
+      "county_fips": "23007",
+      "county_name": "Franklin",
+      "state": "ME",
+      "pop_total": 29839,
+      "pop_65_plus": 6832,
+      "distance_to_hub_miles": 53.5
+    }
+  ],
+  "summary": {
+    "total_beds": 287,
+    "catchment_pop": 230037,
+    "catchment_pop_65_plus": 53242,
+    "catchment_pct_65_plus": 0.2314,
+    "max_catchment_radius_miles": 53.5,
+    "avg_catchment_distance_miles": 21.2,
+    "num_counties": 4,
+    "hospital_employment": 1795,
+    "msa_total_employment": 61825,
+    "hospital_emp_share": 0.0528,
+    "avg_govt_payer_share": 0.4376
+  }
+}

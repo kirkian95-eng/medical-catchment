@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "13380",
+  "cbsa_name": "Bellingham, WA",
+  "mdi": 0.4002,
+  "bbox": [
+    -123.97,
+    47.77,
+    -120.97,
+    49.77
+  ],
+  "hospitals": [
+    {
+      "facility_id": "500030",
+      "name": "ST JOSEPH HOSPITAL",
+      "beds": 253,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 48.7722,
+      "lon": -122.4732,
+      "govt_payer_share": 0.325,
+      "medicare_discharges": 4358
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "53073",
+      "county_name": "Whatcom",
+      "state": "WA",
+      "pop_total": 226523,
+      "pop_65_plus": 40971,
+      "distance_to_hub_miles": 27.7
+    },
+    {
+      "county_fips": "53055",
+      "county_name": "San Juan",
+      "state": "WA",
+      "pop_total": 18001,
+      "pop_65_plus": 6227,
+      "distance_to_hub_miles": 27.2
+    }
+  ],
+  "summary": {
+    "total_beds": 253,
+    "catchment_pop": 244524,
+    "catchment_pop_65_plus": 47198,
+    "catchment_pct_65_plus": 0.193,
+    "max_catchment_radius_miles": 27.7,
+    "avg_catchment_distance_miles": 27.7,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 93260,
+    "hospital_emp_share": 0.0253,
+    "avg_govt_payer_share": 0.3245
+  }
+}

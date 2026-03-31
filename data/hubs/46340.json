@@ -1,0 +1,96 @@
+{
+  "cbsa_code": "46340",
+  "cbsa_name": "Tyler, TX",
+  "mdi": 0.7107,
+  "bbox": [
+    -96.8,
+    31.32,
+    -93.71,
+    33.41
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450102",
+      "name": "CHRISTUS MOTHER FRANCES HOSPITAL",
+      "beds": 537,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.3422,
+      "lon": -95.292,
+      "govt_payer_share": 0.241,
+      "medicare_discharges": 6708
+    },
+    {
+      "facility_id": "450083",
+      "name": "UT HEALTH EAST TEXAS TYLER REGIONAL HOSPITAL",
+      "beds": 432,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.3382,
+      "lon": -95.2917,
+      "govt_payer_share": 0.262,
+      "medicare_discharges": 5670
+    },
+    {
+      "facility_id": "450690",
+      "name": "THE UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT TYLER",
+      "beds": 182,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 32.4132,
+      "lon": -95.2087,
+      "govt_payer_share": 0.111,
+      "medicare_discharges": 197
+    },
+    {
+      "facility_id": "450864",
+      "name": "BAYLOR SCOTT & WHITE TEXAS SPINE & JOINT HOSPITAL",
+      "beds": 18,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 32.3229,
+      "lon": -95.2963,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 720
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48423",
+      "county_name": "Smith",
+      "state": "TX",
+      "pop_total": 234667,
+      "pop_65_plus": 39803,
+      "distance_to_hub_miles": 1.7
+    },
+    {
+      "county_fips": "48467",
+      "county_name": "Van Zandt",
+      "state": "TX",
+      "pop_total": 60053,
+      "pop_65_plus": 12089,
+      "distance_to_hub_miles": 35.7
+    },
+    {
+      "county_fips": "48499",
+      "county_name": "Wood",
+      "state": "TX",
+      "pop_total": 45341,
+      "pop_65_plus": 12198,
+      "distance_to_hub_miles": 30.6
+    }
+  ],
+  "summary": {
+    "total_beds": 1169,
+    "catchment_pop": 340061,
+    "catchment_pop_65_plus": 64090,
+    "catchment_pct_65_plus": 0.1885,
+    "max_catchment_radius_miles": 35.7,
+    "avg_catchment_distance_miles": 11.6,
+    "num_counties": 3,
+    "hospital_employment": 7887,
+    "msa_total_employment": 112279,
+    "hospital_emp_share": 0.067,
+    "avg_govt_payer_share": 0.2337
+  }
+}

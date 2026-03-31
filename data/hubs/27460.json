@@ -1,0 +1,69 @@
+{
+  "cbsa_code": "27460",
+  "cbsa_name": "Jamestown-Dunkirk, NY",
+  "mdi": 0.3441,
+  "bbox": [
+    -81.07,
+    41.09,
+    -77.73,
+    43.49
+  ],
+  "hospitals": [
+    {
+      "facility_id": "330239",
+      "name": "UPMC CHAUTAUQUA AT WCA",
+      "beds": 95,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.0911,
+      "lon": -79.2328,
+      "govt_payer_share": 0.327,
+      "medicare_discharges": 1111
+    },
+    {
+      "facility_id": "330229",
+      "name": "BROOKS-TLC HOSPITAL SYSTEM, INC",
+      "beds": 65,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.4868,
+      "lon": -79.3136,
+      "govt_payer_share": 0.291,
+      "medicare_discharges": 266
+    },
+    {
+      "facility_id": "330166",
+      "name": "WESTFIELD MEMORIAL HOSPITAL, INC",
+      "beds": 4,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3175,
+      "lon": -79.5695,
+      "govt_payer_share": 0.46,
+      "medicare_discharges": 65
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36013",
+      "county_name": "Chautauqua",
+      "state": "NY",
+      "pop_total": 127440,
+      "pop_65_plus": 26525,
+      "distance_to_hub_miles": 8.0
+    }
+  ],
+  "summary": {
+    "total_beds": 164,
+    "catchment_pop": 127440,
+    "catchment_pop_65_plus": 26525,
+    "catchment_pct_65_plus": 0.2081,
+    "max_catchment_radius_miles": 8.0,
+    "avg_catchment_distance_miles": 8.0,
+    "num_counties": 1,
+    "hospital_employment": 1244,
+    "msa_total_employment": 45836,
+    "hospital_emp_share": 0.0232,
+    "avg_govt_payer_share": 0.316
+  }
+}

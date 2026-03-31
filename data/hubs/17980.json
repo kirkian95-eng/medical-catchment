@@ -1,0 +1,136 @@
+{
+  "cbsa_code": "17980",
+  "cbsa_name": "Columbus, GA-AL",
+  "mdi": 0.4513,
+  "bbox": [
+    -86.52,
+    31.48,
+    -83.42,
+    33.55
+  ],
+  "hospitals": [
+    {
+      "facility_id": "110064",
+      "name": "PIEDMONT COLUMBUS REGIONAL MIDTOWN",
+      "beds": 417,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 32.4814,
+      "lon": -84.9826,
+      "govt_payer_share": 0.213,
+      "medicare_discharges": 2427
+    },
+    {
+      "facility_id": "110129",
+      "name": "ST FRANCIS HOSPITAL- EMORY HEALTHCARE",
+      "beds": 376,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.5069,
+      "lon": -84.961,
+      "govt_payer_share": 0.293,
+      "medicare_discharges": 2108
+    },
+    {
+      "facility_id": "110200",
+      "name": "PIEDMONT COLUMBUS REGIONAL NORTHSIDE",
+      "beds": 100,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.5488,
+      "lon": -84.9241,
+      "govt_payer_share": 0.322,
+      "medicare_discharges": 1724
+    },
+    {
+      "facility_id": "010168",
+      "name": "JACK HUGHSTON MEMORIAL HOSPITAL",
+      "beds": 70,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 32.4981,
+      "lon": -85.0236,
+      "govt_payer_share": 0.244,
+      "medicare_discharges": 412
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "13215",
+      "county_name": "Muscogee",
+      "state": "GA",
+      "pop_total": 204572,
+      "pop_65_plus": 28777,
+      "distance_to_hub_miles": 5.5
+    },
+    {
+      "county_fips": "01113",
+      "county_name": "Russell",
+      "state": "AL",
+      "pop_total": 58849,
+      "pop_65_plus": 8769,
+      "distance_to_hub_miles": 19.1
+    },
+    {
+      "county_fips": "13145",
+      "county_name": "Harris",
+      "state": "GA",
+      "pop_total": 34914,
+      "pop_65_plus": 6451,
+      "distance_to_hub_miles": 16.7
+    },
+    {
+      "county_fips": "13053",
+      "county_name": "Chattahoochee",
+      "state": "GA",
+      "pop_total": 9402,
+      "pop_65_plus": 272,
+      "distance_to_hub_miles": 15.1
+    },
+    {
+      "county_fips": "13197",
+      "county_name": "Marion",
+      "state": "GA",
+      "pop_total": 7508,
+      "pop_65_plus": 1592,
+      "distance_to_hub_miles": 27.9
+    },
+    {
+      "county_fips": "13263",
+      "county_name": "Talbot",
+      "state": "GA",
+      "pop_total": 5793,
+      "pop_65_plus": 1499,
+      "distance_to_hub_miles": 29.0
+    },
+    {
+      "county_fips": "13259",
+      "county_name": "Stewart",
+      "state": "GA",
+      "pop_total": 5121,
+      "pop_65_plus": 741,
+      "distance_to_hub_miles": 30.1
+    },
+    {
+      "county_fips": "13239",
+      "county_name": "Quitman",
+      "state": "GA",
+      "pop_total": 2180,
+      "pop_65_plus": 759,
+      "distance_to_hub_miles": 43.8
+    }
+  ],
+  "summary": {
+    "total_beds": 963,
+    "catchment_pop": 328339,
+    "catchment_pop_65_plus": 48860,
+    "catchment_pct_65_plus": 0.1488,
+    "max_catchment_radius_miles": 43.8,
+    "avg_catchment_distance_miles": 11.0,
+    "num_counties": 8,
+    "hospital_employment": 7035,
+    "msa_total_employment": 105084,
+    "hospital_emp_share": 0.0368,
+    "avg_govt_payer_share": 0.258
+  }
+}

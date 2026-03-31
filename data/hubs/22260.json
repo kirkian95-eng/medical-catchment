@@ -1,0 +1,82 @@
+{
+  "cbsa_code": "22260",
+  "cbsa_name": "Fergus Falls, MN",
+  "mdi": 0.5763,
+  "bbox": [
+    -97.59,
+    45.28,
+    -94.04,
+    47.61
+  ],
+  "hospitals": [
+    {
+      "facility_id": "240052",
+      "name": "LAKE REGION HEALTHCARE CORPORATION",
+      "beds": 100,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 46.2767,
+      "lon": -96.0919,
+      "govt_payer_share": 0.387,
+      "medicare_discharges": 490
+    },
+    {
+      "facility_id": "241373",
+      "name": "PERHAM HEALTH",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 46.6102,
+      "lon": -95.5422,
+      "govt_payer_share": 0.337,
+      "medicare_discharges": 201
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "27111",
+      "county_name": "Otter Tail",
+      "state": "MN",
+      "pop_total": 60072,
+      "pop_65_plus": 14651,
+      "distance_to_hub_miles": 13.9
+    },
+    {
+      "county_fips": "27167",
+      "county_name": "Wilkin",
+      "state": "MN",
+      "pop_total": 6454,
+      "pop_65_plus": 1220,
+      "distance_to_hub_miles": 23.2
+    },
+    {
+      "county_fips": "27051",
+      "county_name": "Grant",
+      "state": "MN",
+      "pop_total": 6091,
+      "pop_65_plus": 1425,
+      "distance_to_hub_miles": 28.3
+    },
+    {
+      "county_fips": "27155",
+      "county_name": "Traverse",
+      "state": "MN",
+      "pop_total": 3345,
+      "pop_65_plus": 822,
+      "distance_to_hub_miles": 45.9
+    }
+  ],
+  "summary": {
+    "total_beds": 125,
+    "catchment_pop": 75962,
+    "catchment_pop_65_plus": 18118,
+    "catchment_pct_65_plus": 0.2385,
+    "max_catchment_radius_miles": 45.9,
+    "avg_catchment_distance_miles": 17.3,
+    "num_counties": 4,
+    "hospital_employment": 597,
+    "msa_total_employment": 22705,
+    "hospital_emp_share": 0.0416,
+    "avg_govt_payer_share": 0.3767
+  }
+}

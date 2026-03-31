@@ -1,0 +1,101 @@
+{
+  "cbsa_code": "39960",
+  "cbsa_name": "Rice Lake, WI",
+  "mdi": 0.5797,
+  "bbox": [
+    -93.58,
+    44.39,
+    -90.25,
+    46.57
+  ],
+  "hospitals": [
+    {
+      "facility_id": "520011",
+      "name": "MARSHFIELD MEDICAL CENTER - RICE LAKE",
+      "beds": 75,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.5078,
+      "lon": -91.7544,
+      "govt_payer_share": 0.35,
+      "medicare_discharges": 438
+    },
+    {
+      "facility_id": "521315",
+      "name": "MAYO CLINIC HEALTH SYSTEM-NORTHLAND",
+      "beds": 29,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.3925,
+      "lon": -91.8826,
+      "govt_payer_share": 0.587,
+      "medicare_discharges": 379
+    },
+    {
+      "facility_id": "521353",
+      "name": "CUMBERLAND MEMORIAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 45.5679,
+      "lon": -92.0765,
+      "govt_payer_share": 0.598,
+      "medicare_discharges": 103
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "55005",
+      "county_name": "Barron",
+      "state": "WI",
+      "pop_total": 46683,
+      "pop_65_plus": 10607,
+      "distance_to_hub_miles": 4.8
+    },
+    {
+      "county_fips": "55113",
+      "county_name": "Sawyer",
+      "state": "WI",
+      "pop_total": 18057,
+      "pop_65_plus": 4870,
+      "distance_to_hub_miles": 43.1
+    },
+    {
+      "county_fips": "55129",
+      "county_name": "Washburn",
+      "state": "WI",
+      "pop_total": 16685,
+      "pop_65_plus": 4553,
+      "distance_to_hub_miles": 28.2
+    },
+    {
+      "county_fips": "55013",
+      "county_name": "Burnett",
+      "state": "WI",
+      "pop_total": 16561,
+      "pop_65_plus": 4998,
+      "distance_to_hub_miles": 35.9
+    },
+    {
+      "county_fips": "55107",
+      "county_name": "Rusk",
+      "state": "WI",
+      "pop_total": 14179,
+      "pop_65_plus": 3561,
+      "distance_to_hub_miles": 34.5
+    }
+  ],
+  "summary": {
+    "total_beds": 129,
+    "catchment_pop": 112165,
+    "catchment_pop_65_plus": 28589,
+    "catchment_pct_65_plus": 0.2549,
+    "max_catchment_radius_miles": 43.1,
+    "avg_catchment_distance_miles": 22.8,
+    "num_counties": 5,
+    "hospital_employment": 923,
+    "msa_total_employment": 21428,
+    "hospital_emp_share": 0.0311,
+    "avg_govt_payer_share": 0.4514
+  }
+}

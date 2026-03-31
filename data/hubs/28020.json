@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "28020",
+  "cbsa_name": "Kalamazoo-Portage, MI",
+  "mdi": 0.5187,
+  "bbox": [
+    -87.08,
+    41.29,
+    -84.06,
+    43.3
+  ],
+  "hospitals": [
+    {
+      "facility_id": "230017",
+      "name": "BRONSON METHODIST HOSPITAL",
+      "beds": 380,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.2859,
+      "lon": -85.5812,
+      "govt_payer_share": 0.212,
+      "medicare_discharges": 4401
+    },
+    {
+      "facility_id": "230117",
+      "name": "BORGESS MEDICAL CENTER",
+      "beds": 372,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 42.3049,
+      "lon": -85.5614,
+      "govt_payer_share": 0.235,
+      "medicare_discharges": 2157
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "26077",
+      "county_name": "Kalamazoo",
+      "state": "MI",
+      "pop_total": 261426,
+      "pop_65_plus": 40516,
+      "distance_to_hub_miles": 4.1
+    },
+    {
+      "county_fips": "26015",
+      "county_name": "Barry",
+      "state": "MI",
+      "pop_total": 62581,
+      "pop_65_plus": 11767,
+      "distance_to_hub_miles": 24.7
+    }
+  ],
+  "summary": {
+    "total_beds": 752,
+    "catchment_pop": 324007,
+    "catchment_pop_65_plus": 52283,
+    "catchment_pct_65_plus": 0.1614,
+    "max_catchment_radius_miles": 24.7,
+    "avg_catchment_distance_miles": 8.1,
+    "num_counties": 2,
+    "hospital_employment": 6199,
+    "msa_total_employment": 119964,
+    "hospital_emp_share": 0.0476,
+    "avg_govt_payer_share": 0.2233
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "cbsa_code": "45500",
+  "cbsa_name": "Texarkana, TX-AR",
+  "mdi": 0.5314,
+  "bbox": [
+    -95.65,
+    32.37,
+    -92.57,
+    34.67
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450801",
+      "name": "CHRISTUS ST MICHAEL HEALTH SYSTEM",
+      "beds": 724,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 33.4625,
+      "lon": -94.0747,
+      "govt_payer_share": 0.405,
+      "medicare_discharges": 3853
+    },
+    {
+      "facility_id": "450200",
+      "name": "WADLEY REGIONAL MEDICAL CENTER",
+      "beds": 370,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 33.3718,
+      "lon": -94.1398,
+      "govt_payer_share": 0.328,
+      "medicare_discharges": 1158
+    },
+    {
+      "facility_id": "041320",
+      "name": "LITTLE RIVER MEMORIAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.6702,
+      "lon": -94.1479,
+      "govt_payer_share": 0.663,
+      "medicare_discharges": 48
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48037",
+      "county_name": "Bowie",
+      "state": "TX",
+      "pop_total": 92747,
+      "pop_65_plus": 15839,
+      "distance_to_hub_miles": 18.7
+    },
+    {
+      "county_fips": "05091",
+      "county_name": "Miller",
+      "state": "AR",
+      "pop_total": 42682,
+      "pop_65_plus": 7073,
+      "distance_to_hub_miles": 14.7
+    },
+    {
+      "county_fips": "40089",
+      "county_name": "McCurtain",
+      "state": "OK",
+      "pop_total": 31003,
+      "pop_65_plus": 5549,
+      "distance_to_hub_miles": 60.9
+    },
+    {
+      "county_fips": "48067",
+      "county_name": "Cass",
+      "state": "TX",
+      "pop_total": 28637,
+      "pop_65_plus": 6349,
+      "distance_to_hub_miles": 28.6
+    },
+    {
+      "county_fips": "05057",
+      "county_name": "Hempstead",
+      "state": "AR",
+      "pop_total": 20037,
+      "pop_65_plus": 3665,
+      "distance_to_hub_miles": 32.2
+    },
+    {
+      "county_fips": "05133",
+      "county_name": "Sevier",
+      "state": "AR",
+      "pop_total": 15913,
+      "pop_65_plus": 2185,
+      "distance_to_hub_miles": 39.6
+    },
+    {
+      "county_fips": "05061",
+      "county_name": "Howard",
+      "state": "AR",
+      "pop_total": 12779,
+      "pop_65_plus": 2310,
+      "distance_to_hub_miles": 45.5
+    },
+    {
+      "county_fips": "05081",
+      "county_name": "Little River",
+      "state": "AR",
+      "pop_total": 12024,
+      "pop_65_plus": 2535,
+      "distance_to_hub_miles": 19.9
+    },
+    {
+      "county_fips": "05099",
+      "county_name": "Nevada",
+      "state": "AR",
+      "pop_total": 8292,
+      "pop_65_plus": 1739,
+      "distance_to_hub_miles": 48.1
+    },
+    {
+      "county_fips": "05073",
+      "county_name": "Lafayette",
+      "state": "AR",
+      "pop_total": 6277,
+      "pop_65_plus": 1518,
+      "distance_to_hub_miles": 31.4
+    }
+  ],
+  "summary": {
+    "total_beds": 1119,
+    "catchment_pop": 270391,
+    "catchment_pop_65_plus": 48762,
+    "catchment_pct_65_plus": 0.1803,
+    "max_catchment_radius_miles": 60.9,
+    "avg_catchment_distance_miles": 28.7,
+    "num_counties": 10,
+    "hospital_employment": 2526,
+    "msa_total_employment": 44572,
+    "hospital_emp_share": 0.0393,
+    "avg_govt_payer_share": 0.3855
+  }
+}

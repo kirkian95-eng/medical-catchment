@@ -1,0 +1,104 @@
+{
+  "cbsa_code": "30620",
+  "cbsa_name": "Lima, OH",
+  "mdi": 0.6698,
+  "bbox": [
+    -85.59,
+    39.71,
+    -82.38,
+    41.88
+  ],
+  "hospitals": [
+    {
+      "facility_id": "360066",
+      "name": "MERCY HEALTH-ST RITA'S MEDICAL CENTER",
+      "beds": 424,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.7729,
+      "lon": -84.0341,
+      "govt_payer_share": 0.299,
+      "medicare_discharges": 4358
+    },
+    {
+      "facility_id": "360009",
+      "name": "LIMA MEMORIAL HEALTH SYSTEM",
+      "beds": 285,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 40.7357,
+      "lon": -84.0881,
+      "govt_payer_share": 0.363,
+      "medicare_discharges": 1940
+    },
+    {
+      "facility_id": "361322",
+      "name": "BLUFFTON HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.8788,
+      "lon": -83.884,
+      "govt_payer_share": 0.865,
+      "medicare_discharges": 19
+    },
+    {
+      "facility_id": "360263",
+      "name": "INSTITUTE FOR ORTHOPAEDIC SURGERY",
+      "beds": 3,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.7096,
+      "lon": -84.0612,
+      "govt_payer_share": 0.539,
+      "medicare_discharges": 284
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "39003",
+      "county_name": "Allen",
+      "state": "OH",
+      "pop_total": 102087,
+      "pop_65_plus": 18753,
+      "distance_to_hub_miles": 3.0
+    },
+    {
+      "county_fips": "39137",
+      "county_name": "Putnam",
+      "state": "OH",
+      "pop_total": 34400,
+      "pop_65_plus": 6151,
+      "distance_to_hub_miles": 18.5
+    },
+    {
+      "county_fips": "39065",
+      "county_name": "Hardin",
+      "state": "OH",
+      "pop_total": 30622,
+      "pop_65_plus": 4895,
+      "distance_to_hub_miles": 21.6
+    },
+    {
+      "county_fips": "39161",
+      "county_name": "Van Wert",
+      "state": "OH",
+      "pop_total": 28833,
+      "pop_65_plus": 5528,
+      "distance_to_hub_miles": 28.8
+    }
+  ],
+  "summary": {
+    "total_beds": 737,
+    "catchment_pop": 195942,
+    "catchment_pop_65_plus": 35327,
+    "catchment_pct_65_plus": 0.1803,
+    "max_catchment_radius_miles": 28.8,
+    "avg_catchment_distance_miles": 12.4,
+    "num_counties": 4,
+    "hospital_employment": 4007,
+    "msa_total_employment": 49577,
+    "hospital_emp_share": 0.0588,
+    "avg_govt_payer_share": 0.3439
+  }
+}

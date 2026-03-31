@@ -1,0 +1,47 @@
+{
+  "cbsa_code": "14780",
+  "cbsa_name": "Brenham, TX",
+  "mdi": 0.2579,
+  "bbox": [
+    -97.9,
+    29.15,
+    -94.9,
+    31.15
+  ],
+  "hospitals": [
+    {
+      "facility_id": "451397",
+      "name": "BAYLOR SCOTT & WHITE HOSPITAL BRENHAM",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.1451,
+      "lon": -96.3991,
+      "govt_payer_share": 0.349,
+      "medicare_discharges": 310
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48477",
+      "county_name": "Washington",
+      "state": "TX",
+      "pop_total": 35807,
+      "pop_65_plus": 7777,
+      "distance_to_hub_miles": 4.8
+    }
+  ],
+  "summary": {
+    "total_beds": 25,
+    "catchment_pop": 35807,
+    "catchment_pop_65_plus": 7777,
+    "catchment_pct_65_plus": 0.2172,
+    "max_catchment_radius_miles": 4.8,
+    "avg_catchment_distance_miles": 4.8,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 16117,
+    "hospital_emp_share": 0.0103,
+    "avg_govt_payer_share": 0.3487
+  }
+}

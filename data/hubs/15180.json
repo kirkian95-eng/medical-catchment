@@ -1,0 +1,88 @@
+{
+  "cbsa_code": "15180",
+  "cbsa_name": "Brownsville-Harlingen, TX",
+  "mdi": 0.297,
+  "bbox": [
+    -99.22,
+    24.92,
+    -96.01,
+    27.2
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450033",
+      "name": "VHS HARLINGEN HOSPITAL COMPANY LLC",
+      "beds": 578,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 26.1742,
+      "lon": -97.6712,
+      "govt_payer_share": 0.211,
+      "medicare_discharges": 2045
+    },
+    {
+      "facility_id": "450028",
+      "name": "VALLEY BAPTIST MEDICAL CENTER- BROWNSVILLE",
+      "beds": 240,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 25.9176,
+      "lon": -97.5115,
+      "govt_payer_share": 0.265,
+      "medicare_discharges": 1115
+    },
+    {
+      "facility_id": "450662",
+      "name": "VALLEY REGIONAL MEDICAL CENTER",
+      "beds": 214,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 25.9778,
+      "lon": -97.5144,
+      "govt_payer_share": 0.196,
+      "medicare_discharges": 1234
+    },
+    {
+      "facility_id": "450855",
+      "name": "HARLINGEN MEDICAL CENTER",
+      "beds": 112,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 26.204,
+      "lon": -97.7177,
+      "govt_payer_share": 0.16,
+      "medicare_discharges": 971
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48061",
+      "county_name": "Cameron",
+      "state": "TX",
+      "pop_total": 421854,
+      "pop_65_plus": 57772,
+      "distance_to_hub_miles": 10.9
+    },
+    {
+      "county_fips": "48489",
+      "county_name": "Willacy",
+      "state": "TX",
+      "pop_total": 20308,
+      "pop_65_plus": 2959,
+      "distance_to_hub_miles": 27.0
+    }
+  ],
+  "summary": {
+    "total_beds": 1144,
+    "catchment_pop": 442162,
+    "catchment_pop_65_plus": 60731,
+    "catchment_pct_65_plus": 0.1374,
+    "max_catchment_radius_miles": 27.0,
+    "avg_catchment_distance_miles": 11.6,
+    "num_counties": 2,
+    "hospital_employment": 3638,
+    "msa_total_employment": 154822,
+    "hospital_emp_share": 0.0207,
+    "avg_govt_payer_share": 0.2144
+  }
+}

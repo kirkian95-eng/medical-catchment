@@ -1,0 +1,69 @@
+{
+  "cbsa_code": "42100",
+  "cbsa_name": "Santa Cruz-Watsonville, CA",
+  "mdi": 0.3851,
+  "bbox": [
+    -123.48,
+    35.93,
+    -120.29,
+    37.99
+  ],
+  "hospitals": [
+    {
+      "facility_id": "050242",
+      "name": "DOMINICAN HOSPITAL",
+      "beds": 222,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.9901,
+      "lon": -121.9836,
+      "govt_payer_share": 0.47,
+      "medicare_discharges": 4201
+    },
+    {
+      "facility_id": "050194",
+      "name": "WATSONVILLE COMMUNITY HOSPITAL",
+      "beds": 106,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.9282,
+      "lon": -121.7928,
+      "govt_payer_share": 0.399,
+      "medicare_discharges": 982
+    },
+    {
+      "facility_id": "050714",
+      "name": "SUTTER MATERNITY & SURGERY CENTER OF SANTA CRUZ",
+      "beds": 30,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.9877,
+      "lon": -121.9775,
+      "govt_payer_share": 0.062,
+      "medicare_discharges": 60
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "06087",
+      "county_name": "Santa Cruz",
+      "state": "CA",
+      "pop_total": 268571,
+      "pop_65_plus": 47668,
+      "distance_to_hub_miles": 5.7
+    }
+  ],
+  "summary": {
+    "total_beds": 358,
+    "catchment_pop": 268571,
+    "catchment_pop_65_plus": 47668,
+    "catchment_pct_65_plus": 0.1775,
+    "max_catchment_radius_miles": 5.7,
+    "avg_catchment_distance_miles": 5.7,
+    "num_counties": 1,
+    "hospital_employment": 2243,
+    "msa_total_employment": 103428,
+    "hospital_emp_share": 0.0173,
+    "avg_govt_payer_share": 0.4144
+  }
+}

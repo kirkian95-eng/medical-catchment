@@ -1,0 +1,133 @@
+{
+  "cbsa_code": "18260",
+  "cbsa_name": "Cookeville, TN",
+  "mdi": 0.5735,
+  "bbox": [
+    -87.01,
+    34.95,
+    -83.83,
+    37.39
+  ],
+  "hospitals": [
+    {
+      "facility_id": "440059",
+      "name": "COOKEVILLE REGIONAL MEDICAL CENTER",
+      "beds": 269,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 36.1706,
+      "lon": -85.5093,
+      "govt_payer_share": 0.334,
+      "medicare_discharges": 3946
+    },
+    {
+      "facility_id": "440187",
+      "name": "LIVINGSTON REGIONAL HOSPITAL",
+      "beds": 110,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.3851,
+      "lon": -85.3281,
+      "govt_payer_share": 0.515,
+      "medicare_discharges": 449
+    },
+    {
+      "facility_id": "440192",
+      "name": "SAINT THOMAS HIGHLANDS HOSPITAL",
+      "beds": 60,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.9531,
+      "lon": -85.4304,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 188
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "47141",
+      "county_name": "Putnam",
+      "state": "TN",
+      "pop_total": 80157,
+      "pop_65_plus": 13088,
+      "distance_to_hub_miles": 4.4
+    },
+    {
+      "county_fips": "47185",
+      "county_name": "White",
+      "state": "TN",
+      "pop_total": 27420,
+      "pop_65_plus": 5586,
+      "distance_to_hub_miles": 18.5
+    },
+    {
+      "county_fips": "47133",
+      "county_name": "Overton",
+      "state": "TN",
+      "pop_total": 22576,
+      "pop_65_plus": 4538,
+      "distance_to_hub_miles": 13.9
+    },
+    {
+      "county_fips": "47159",
+      "county_name": "Smith",
+      "state": "TN",
+      "pop_total": 20034,
+      "pop_65_plus": 3291,
+      "distance_to_hub_miles": 28.3
+    },
+    {
+      "county_fips": "47049",
+      "county_name": "Fentress",
+      "state": "TN",
+      "pop_total": 18642,
+      "pop_65_plus": 4224,
+      "distance_to_hub_miles": 31.7
+    },
+    {
+      "county_fips": "47087",
+      "county_name": "Jackson",
+      "state": "TN",
+      "pop_total": 11730,
+      "pop_65_plus": 2636,
+      "distance_to_hub_miles": 16.7
+    },
+    {
+      "county_fips": "21053",
+      "county_name": "Clinton",
+      "state": "KY",
+      "pop_total": 9295,
+      "pop_65_plus": 1855,
+      "distance_to_hub_miles": 40.7
+    },
+    {
+      "county_fips": "47027",
+      "county_name": "Clay",
+      "state": "TN",
+      "pop_total": 7592,
+      "pop_65_plus": 1834,
+      "distance_to_hub_miles": 25.1
+    },
+    {
+      "county_fips": "47137",
+      "county_name": "Pickett",
+      "state": "TN",
+      "pop_total": 5042,
+      "pop_65_plus": 1390,
+      "distance_to_hub_miles": 32.7
+    }
+  ],
+  "summary": {
+    "total_beds": 439,
+    "catchment_pop": 202488,
+    "catchment_pop_65_plus": 38442,
+    "catchment_pct_65_plus": 0.1898,
+    "max_catchment_radius_miles": 40.7,
+    "avg_catchment_distance_miles": 16.1,
+    "num_counties": 9,
+    "hospital_employment": 2364,
+    "msa_total_employment": 52173,
+    "hospital_emp_share": 0.0415,
+    "avg_govt_payer_share": 0.416
+  }
+}

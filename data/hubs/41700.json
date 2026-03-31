@@ -1,0 +1,322 @@
+{
+  "cbsa_code": "41700",
+  "cbsa_name": "San Antonio-New Braunfels, TX",
+  "mdi": 0.3039,
+  "bbox": [
+    -100.63,
+    27.61,
+    -96.45,
+    30.86
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450388",
+      "name": "METHODIST HOSPITAL",
+      "beds": 2465,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 29.5082,
+      "lon": -98.5737,
+      "govt_payer_share": 0.198,
+      "medicare_discharges": 18047
+    },
+    {
+      "facility_id": "450058",
+      "name": "BAPTIST MEDICAL CENTER",
+      "beds": 1285,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 29.4333,
+      "lon": -98.4923,
+      "govt_payer_share": 0.23,
+      "medicare_discharges": 8426
+    },
+    {
+      "facility_id": "450213",
+      "name": "UNIVERSITY HEALTH SYSTEM",
+      "beds": 1034,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 29.5089,
+      "lon": -98.5748,
+      "govt_payer_share": 0.2,
+      "medicare_discharges": 3783
+    },
+    {
+      "facility_id": "450237",
+      "name": "CHRISTUS SANTA ROSA MEDICAL CENTER",
+      "beds": 601,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 29.5132,
+      "lon": -98.5916,
+      "govt_payer_share": 0.241,
+      "medicare_discharges": 5240
+    },
+    {
+      "facility_id": "670055",
+      "name": "METHODIST HOSPITAL  STONE OAK",
+      "beds": 287,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 29.6146,
+      "lon": -98.4754,
+      "govt_payer_share": 0.282,
+      "medicare_discharges": 4610
+    },
+    {
+      "facility_id": "450104",
+      "name": "GUADALUPE REGIONAL MEDICAL CENTER",
+      "beds": 153,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 29.569,
+      "lon": -97.9506,
+      "govt_payer_share": 0.29,
+      "medicare_discharges": 1200
+    },
+    {
+      "facility_id": "670335",
+      "name": "UT HEALTH SAN ANTONIO MULTISPECIALTY & RESEARCH HO",
+      "beds": 144,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 29.5055,
+      "lon": -98.577,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
+    },
+    {
+      "facility_id": "670098",
+      "name": "RESOLUTE HEALTH HOSPITAL",
+      "beds": 128,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 29.72,
+      "lon": -98.0887,
+      "govt_payer_share": 0.191,
+      "medicare_discharges": 1080
+    },
+    {
+      "facility_id": "670333",
+      "name": "WESTOVER HILLS BAPTIST HOSPITAL",
+      "beds": 92,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 29.4617,
+      "lon": -98.6767,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
+    },
+    {
+      "facility_id": "670125",
+      "name": "TEXAS CENTER FOR INFECTIOUS DISEASE",
+      "beds": 75,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 29.3105,
+      "lon": -98.3875,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 0
+    },
+    {
+      "facility_id": "450165",
+      "name": "METHODIST HOSPITAL ATASCOSA",
+      "beds": 67,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 28.7473,
+      "lon": -98.5591,
+      "govt_payer_share": 0.286,
+      "medicare_discharges": 396
+    },
+    {
+      "facility_id": "670078",
+      "name": "BAPTIST NEIGHBORHOOD HOSPITAL THOUSAND OAKS",
+      "beds": 58,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 29.5901,
+      "lon": -98.4763,
+      "govt_payer_share": 0.132,
+      "medicare_discharges": 248
+    },
+    {
+      "facility_id": "450108",
+      "name": "CONNALLY MEMORIAL MEDICAL CENTER",
+      "beds": 44,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 29.1268,
+      "lon": -98.1984,
+      "govt_payer_share": 0.417,
+      "medicare_discharges": 188
+    },
+    {
+      "facility_id": "450856",
+      "name": "SOUTH TEXAS SPINE AND SURGICAL HOSPITAL",
+      "beds": 30,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 29.6342,
+      "lon": -98.4898,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 479
+    },
+    {
+      "facility_id": "451330",
+      "name": "MEDINA REGIONAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 29.3349,
+      "lon": -99.1335,
+      "govt_payer_share": 0.353,
+      "medicare_discharges": 94
+    },
+    {
+      "facility_id": "670112",
+      "name": "LEGENT ORTHOPEDIC + SPINE",
+      "beds": 25,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 29.5668,
+      "lon": -98.6158,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 139
+    },
+    {
+      "facility_id": "670054",
+      "name": "FOUNDATION SURGICAL HOSPITAL OF SAN ANTONIO",
+      "beds": 20,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 29.5253,
+      "lon": -98.6044,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 106
+    },
+    {
+      "facility_id": "670336",
+      "name": "BANDERA FAMILY HOSPITAL",
+      "beds": 2,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 29.5027,
+      "lon": -98.6649,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48029",
+      "county_name": "Bexar",
+      "state": "TX",
+      "pop_total": 2014059,
+      "pop_65_plus": 248631,
+      "distance_to_hub_miles": 3.0
+    },
+    {
+      "county_fips": "48187",
+      "county_name": "Guadalupe",
+      "state": "TX",
+      "pop_total": 173828,
+      "pop_65_plus": 24746,
+      "distance_to_hub_miles": 35.4
+    },
+    {
+      "county_fips": "48091",
+      "county_name": "Comal",
+      "state": "TX",
+      "pop_total": 165201,
+      "pop_65_plus": 30283,
+      "distance_to_hub_miles": 26.6
+    },
+    {
+      "county_fips": "48325",
+      "county_name": "Medina",
+      "state": "TX",
+      "pop_total": 51432,
+      "pop_65_plus": 8730,
+      "distance_to_hub_miles": 36.2
+    },
+    {
+      "county_fips": "48493",
+      "county_name": "Wilson",
+      "state": "TX",
+      "pop_total": 50381,
+      "pop_65_plus": 8177,
+      "distance_to_hub_miles": 34.5
+    },
+    {
+      "county_fips": "48013",
+      "county_name": "Atascosa",
+      "state": "TX",
+      "pop_total": 49403,
+      "pop_65_plus": 7323,
+      "distance_to_hub_miles": 41.4
+    },
+    {
+      "county_fips": "48259",
+      "county_name": "Kendall",
+      "state": "TX",
+      "pop_total": 45376,
+      "pop_65_plus": 8897,
+      "distance_to_hub_miles": 33.2
+    },
+    {
+      "county_fips": "48463",
+      "county_name": "Uvalde",
+      "state": "TX",
+      "pop_total": 24833,
+      "pop_65_plus": 4056,
+      "distance_to_hub_miles": 74.8
+    },
+    {
+      "county_fips": "48177",
+      "county_name": "Gonzales",
+      "state": "TX",
+      "pop_total": 19736,
+      "pop_65_plus": 3336,
+      "distance_to_hub_miles": 62.4
+    },
+    {
+      "county_fips": "48163",
+      "county_name": "Frio",
+      "state": "TX",
+      "pop_total": 18151,
+      "pop_65_plus": 2290,
+      "distance_to_hub_miles": 55.5
+    },
+    {
+      "county_fips": "48255",
+      "county_name": "Karnes",
+      "state": "TX",
+      "pop_total": 14805,
+      "pop_65_plus": 2136,
+      "distance_to_hub_miles": 57.2
+    },
+    {
+      "county_fips": "48311",
+      "county_name": "McMullen",
+      "state": "TX",
+      "pop_total": 670,
+      "pop_65_plus": 128,
+      "distance_to_hub_miles": 78.8
+    }
+  ],
+  "summary": {
+    "total_beds": 6535,
+    "catchment_pop": 2627875,
+    "catchment_pop_65_plus": 348733,
+    "catchment_pct_65_plus": 0.1327,
+    "max_catchment_radius_miles": 78.8,
+    "avg_catchment_distance_miles": 10.9,
+    "num_counties": 12,
+    "hospital_employment": 37145,
+    "msa_total_employment": 1078311,
+    "hospital_emp_share": 0.022,
+    "avg_govt_payer_share": 0.2378
+  }
+}

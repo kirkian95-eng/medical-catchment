@@ -1,0 +1,136 @@
+{
+  "cbsa_code": "18340",
+  "cbsa_name": "Corbin, KY",
+  "mdi": 0.5113,
+  "bbox": [
+    -85.62,
+    35.89,
+    -82.26,
+    38.16
+  ],
+  "hospitals": [
+    {
+      "facility_id": "180080",
+      "name": "BAPTIST HEALTH CORBIN",
+      "beds": 240,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.9222,
+      "lon": -84.1184,
+      "govt_payer_share": 0.177,
+      "medicare_discharges": 1308
+    },
+    {
+      "facility_id": "180011",
+      "name": "SAINT JOSEPH LONDON",
+      "beds": 120,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.12,
+      "lon": -84.1106,
+      "govt_payer_share": 0.24,
+      "medicare_discharges": 1163
+    },
+    {
+      "facility_id": "180043",
+      "name": "AdventHealthManchester",
+      "beds": 49,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 37.1615,
+      "lon": -83.7615,
+      "govt_payer_share": 0.213,
+      "medicare_discharges": 281
+    },
+    {
+      "facility_id": "181328",
+      "name": "KNOX COUNTY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 36.8892,
+      "lon": -83.8756,
+      "govt_payer_share": 0.293,
+      "medicare_discharges": 107
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "21125",
+      "county_name": "Laurel",
+      "state": "KY",
+      "pop_total": 62442,
+      "pop_65_plus": 10463,
+      "distance_to_hub_miles": 8.1
+    },
+    {
+      "county_fips": "21235",
+      "county_name": "Whitley",
+      "state": "KY",
+      "pop_total": 36648,
+      "pop_65_plus": 5764,
+      "distance_to_hub_miles": 17.5
+    },
+    {
+      "county_fips": "21121",
+      "county_name": "Knox",
+      "state": "KY",
+      "pop_total": 30207,
+      "pop_65_plus": 5193,
+      "distance_to_hub_miles": 13.9
+    },
+    {
+      "county_fips": "21095",
+      "county_name": "Harlan",
+      "state": "KY",
+      "pop_total": 26589,
+      "pop_65_plus": 5048,
+      "distance_to_hub_miles": 47.7
+    },
+    {
+      "county_fips": "21013",
+      "county_name": "Bell",
+      "state": "KY",
+      "pop_total": 24248,
+      "pop_65_plus": 4538,
+      "distance_to_hub_miles": 28.5
+    },
+    {
+      "county_fips": "21051",
+      "county_name": "Clay",
+      "state": "KY",
+      "pop_total": 20322,
+      "pop_65_plus": 3216,
+      "distance_to_hub_miles": 22.0
+    },
+    {
+      "county_fips": "21131",
+      "county_name": "Leslie",
+      "state": "KY",
+      "pop_total": 10468,
+      "pop_65_plus": 1920,
+      "distance_to_hub_miles": 38.1
+    },
+    {
+      "county_fips": "21189",
+      "county_name": "Owsley",
+      "state": "KY",
+      "pop_total": 4054,
+      "pop_65_plus": 893,
+      "distance_to_hub_miles": 35.6
+    }
+  ],
+  "summary": {
+    "total_beds": 434,
+    "catchment_pop": 214978,
+    "catchment_pop_65_plus": 37035,
+    "catchment_pct_65_plus": 0.1723,
+    "max_catchment_radius_miles": 47.7,
+    "avg_catchment_distance_miles": 21.0,
+    "num_counties": 8,
+    "hospital_employment": 0,
+    "msa_total_employment": 52196,
+    "hospital_emp_share": 0.0435,
+    "avg_govt_payer_share": 0.2049
+  }
+}

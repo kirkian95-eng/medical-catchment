@@ -1,0 +1,90 @@
+{
+  "cbsa_code": "34100",
+  "cbsa_name": "Morristown, TN",
+  "mdi": 0.4599,
+  "bbox": [
+    -84.97,
+    35.1,
+    -81.8,
+    37.21
+  ],
+  "hospitals": [
+    {
+      "facility_id": "440030",
+      "name": "MORRISTOWN HAMBLEN HOSPITAL ASSOCIATION",
+      "beds": 167,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 36.212,
+      "lon": -83.3044,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 1281
+    },
+    {
+      "facility_id": "440056",
+      "name": "TENNOVA HEALTHCARE-JEFFERSON MEMORIAL HOSPITAL",
+      "beds": 58,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.1038,
+      "lon": -83.4663,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 607
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "47063",
+      "county_name": "Hamblen",
+      "state": "TN",
+      "pop_total": 64531,
+      "pop_65_plus": 11719,
+      "distance_to_hub_miles": 5.0
+    },
+    {
+      "county_fips": "47089",
+      "county_name": "Jefferson",
+      "state": "TN",
+      "pop_total": 55017,
+      "pop_65_plus": 11137,
+      "distance_to_hub_miles": 10.8
+    },
+    {
+      "county_fips": "47025",
+      "county_name": "Claiborne",
+      "state": "TN",
+      "pop_total": 32092,
+      "pop_65_plus": 6310,
+      "distance_to_hub_miles": 27.2
+    },
+    {
+      "county_fips": "47057",
+      "county_name": "Grainger",
+      "state": "TN",
+      "pop_total": 23648,
+      "pop_65_plus": 4906,
+      "distance_to_hub_miles": 11.1
+    },
+    {
+      "county_fips": "47067",
+      "county_name": "Hancock",
+      "state": "TN",
+      "pop_total": 6726,
+      "pop_65_plus": 1504,
+      "distance_to_hub_miles": 24.6
+    }
+  ],
+  "summary": {
+    "total_beds": 225,
+    "catchment_pop": 182014,
+    "catchment_pop_65_plus": 35576,
+    "catchment_pct_65_plus": 0.1955,
+    "max_catchment_radius_miles": 27.2,
+    "avg_catchment_distance_miles": 12.2,
+    "num_counties": 5,
+    "hospital_employment": 0,
+    "msa_total_employment": 47583,
+    "hospital_emp_share": 0.0185,
+    "avg_govt_payer_share": 0.6
+  }
+}

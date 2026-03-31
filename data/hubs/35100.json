@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "35100",
+  "cbsa_name": "New Bern, NC",
+  "mdi": 0.7277,
+  "bbox": [
+    -78.57,
+    34.11,
+    -75.57,
+    36.11
+  ],
+  "hospitals": [
+    {
+      "facility_id": "340131",
+      "name": "CAROLINA EAST MEDICAL CENTER",
+      "beds": 314,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.112,
+      "lon": -77.0661,
+      "govt_payer_share": 0.375,
+      "medicare_discharges": 4517
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "37049",
+      "county_name": "Craven",
+      "state": "NC",
+      "pop_total": 101098,
+      "pop_65_plus": 20015,
+      "distance_to_hub_miles": 0.9
+    },
+    {
+      "county_fips": "37137",
+      "county_name": "Pamlico",
+      "state": "NC",
+      "pop_total": 12317,
+      "pop_65_plus": 3738,
+      "distance_to_hub_miles": 22.6
+    },
+    {
+      "county_fips": "37103",
+      "county_name": "Jones",
+      "state": "NC",
+      "pop_total": 9263,
+      "pop_65_plus": 2149,
+      "distance_to_hub_miles": 17.5
+    },
+    {
+      "county_fips": "37095",
+      "county_name": "Hyde",
+      "state": "NC",
+      "pop_total": 4636,
+      "pop_65_plus": 1083,
+      "distance_to_hub_miles": 55.9
+    }
+  ],
+  "summary": {
+    "total_beds": 314,
+    "catchment_pop": 127314,
+    "catchment_pop_65_plus": 26985,
+    "catchment_pct_65_plus": 0.212,
+    "max_catchment_radius_miles": 55.9,
+    "avg_catchment_distance_miles": 6.2,
+    "num_counties": 4,
+    "hospital_employment": 2220,
+    "msa_total_employment": 40816,
+    "hospital_emp_share": 0.0549,
+    "avg_govt_payer_share": 0.3748
+  }
+}

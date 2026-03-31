@@ -1,0 +1,170 @@
+{
+  "cbsa_code": "41620",
+  "cbsa_name": "Salt Lake City-Murray, UT",
+  "mdi": 0.3598,
+  "bbox": [
+    -113.8,
+    39.36,
+    -110.3,
+    41.94
+  ],
+  "hospitals": [
+    {
+      "facility_id": "460009",
+      "name": "UNIVERSITY OF UTAH HOSPITAL AND CLINICS",
+      "beds": 1013,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 40.7702,
+      "lon": -111.843,
+      "govt_payer_share": 0.336,
+      "medicare_discharges": 6355
+    },
+    {
+      "facility_id": "460010",
+      "name": "INTERMOUNTAIN MEDICAL CENTER",
+      "beds": 520,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.6785,
+      "lon": -111.8911,
+      "govt_payer_share": 0.323,
+      "medicare_discharges": 4890
+    },
+    {
+      "facility_id": "460047",
+      "name": "ST MARK'S HOSPITAL",
+      "beds": 294,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.6778,
+      "lon": -111.7976,
+      "govt_payer_share": 0.256,
+      "medicare_discharges": 2446
+    },
+    {
+      "facility_id": "460006",
+      "name": "LDS HOSPITAL",
+      "beds": 250,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.7786,
+      "lon": -111.8787,
+      "govt_payer_share": 0.275,
+      "medicare_discharges": 825
+    },
+    {
+      "facility_id": "460051",
+      "name": "HOLY CROSS HOSPITAL-JORDAN VALLEY",
+      "beds": 172,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.5879,
+      "lon": -111.9763,
+      "govt_payer_share": 0.213,
+      "medicare_discharges": 1078
+    },
+    {
+      "facility_id": "460003",
+      "name": "HOLY CROSS HOSPITAL - SALT LAKE",
+      "beds": 158,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.7599,
+      "lon": -111.8636,
+      "govt_payer_share": 0.284,
+      "medicare_discharges": 300
+    },
+    {
+      "facility_id": "460058",
+      "name": "RIVERTON HOSPITAL",
+      "beds": 97,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.5223,
+      "lon": -111.9813,
+      "govt_payer_share": 0.199,
+      "medicare_discharges": 479
+    },
+    {
+      "facility_id": "460044",
+      "name": "INTERMOUNTAIN HEALTH ALTA VIEW HOSPITAL",
+      "beds": 70,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.578,
+      "lon": -111.8532,
+      "govt_payer_share": 0.25,
+      "medicare_discharges": 467
+    },
+    {
+      "facility_id": "460060",
+      "name": "LONE PEAK HOSPITAL",
+      "beds": 61,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.534,
+      "lon": -111.8916,
+      "govt_payer_share": 0.087,
+      "medicare_discharges": 314
+    },
+    {
+      "facility_id": "460014",
+      "name": "MOUNTAIN WEST MEDICAL CENTER",
+      "beds": 44,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.5665,
+      "lon": -112.2957,
+      "govt_payer_share": 0.222,
+      "medicare_discharges": 309
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "49035",
+      "county_name": "Salt Lake",
+      "state": "UT",
+      "pop_total": 1180643,
+      "pop_65_plus": 133703,
+      "distance_to_hub_miles": 3.8
+    },
+    {
+      "county_fips": "49045",
+      "county_name": "Tooele",
+      "state": "UT",
+      "pop_total": 74032,
+      "pop_65_plus": 6659,
+      "distance_to_hub_miles": 68.3
+    },
+    {
+      "county_fips": "49043",
+      "county_name": "Summit",
+      "state": "UT",
+      "pop_total": 42524,
+      "pop_65_plus": 5860,
+      "distance_to_hub_miles": 49.4
+    },
+    {
+      "county_fips": "56041",
+      "county_name": "Uinta",
+      "state": "WY",
+      "pop_total": 20546,
+      "pop_65_plus": 3203,
+      "distance_to_hub_miles": 80.0
+    }
+  ],
+  "summary": {
+    "total_beds": 2679,
+    "catchment_pop": 1317745,
+    "catchment_pop_65_plus": 149425,
+    "catchment_pct_65_plus": 0.1134,
+    "max_catchment_radius_miles": 80.0,
+    "avg_catchment_distance_miles": 10.1,
+    "num_counties": 4,
+    "hospital_employment": 31967,
+    "msa_total_employment": 807244,
+    "hospital_emp_share": 0.0265,
+    "avg_govt_payer_share": 0.2932
+  }
+}

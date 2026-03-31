@@ -1,0 +1,47 @@
+{
+  "cbsa_code": "48980",
+  "cbsa_name": "Wilson, NC",
+  "mdi": 0.2866,
+  "bbox": [
+    -79.44,
+    34.72,
+    -76.44,
+    36.72
+  ],
+  "hospitals": [
+    {
+      "facility_id": "340126",
+      "name": "WILSON MEDICAL CENTER",
+      "beds": 317,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.7202,
+      "lon": -77.9447,
+      "govt_payer_share": 0.31,
+      "medicare_discharges": 1124
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "37195",
+      "county_name": "Wilson",
+      "state": "NC",
+      "pop_total": 78667,
+      "pop_65_plus": 14889,
+      "distance_to_hub_miles": 1.8
+    }
+  ],
+  "summary": {
+    "total_beds": 317,
+    "catchment_pop": 78667,
+    "catchment_pop_65_plus": 14889,
+    "catchment_pct_65_plus": 0.1893,
+    "max_catchment_radius_miles": 1.8,
+    "avg_catchment_distance_miles": 1.8,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 35767,
+    "hospital_emp_share": 0.0156,
+    "avg_govt_payer_share": 0.3104
+  }
+}

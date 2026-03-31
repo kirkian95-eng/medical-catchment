@@ -1,0 +1,217 @@
+{
+  "cbsa_code": "19780",
+  "cbsa_name": "Des Moines-West Des Moines, IA",
+  "mdi": 0.4573,
+  "bbox": [
+    -96.06,
+    40.14,
+    -91.54,
+    43.02
+  ],
+  "hospitals": [
+    {
+      "facility_id": "160082",
+      "name": "UNITYPOINT HEALTH - DES MOINES IOWA METHODIST MEDI",
+      "beds": 674,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.5898,
+      "lon": -93.6365,
+      "govt_payer_share": 0.524,
+      "medicare_discharges": 8210
+    },
+    {
+      "facility_id": "160083",
+      "name": "MERCYONE DES MOINES MEDICAL CENTER",
+      "beds": 649,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.5976,
+      "lon": -93.6256,
+      "govt_payer_share": 0.316,
+      "medicare_discharges": 6144
+    },
+    {
+      "facility_id": "160101",
+      "name": "BROADLAWNS MEDICAL CENTER",
+      "beds": 200,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 41.6151,
+      "lon": -93.6412,
+      "govt_payer_share": 0.612,
+      "medicare_discharges": 286
+    },
+    {
+      "facility_id": "160032",
+      "name": "MERCYONE NEWTON MEDICAL CENTER",
+      "beds": 68,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.7108,
+      "lon": -93.0398,
+      "govt_payer_share": 0.538,
+      "medicare_discharges": 245
+    },
+    {
+      "facility_id": "161314",
+      "name": "GUTHRIE COUNTY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 41.6832,
+      "lon": -94.5616,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 90
+    },
+    {
+      "facility_id": "161322",
+      "name": "DALLAS COUNTY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 41.8364,
+      "lon": -94.1213,
+      "govt_payer_share": 0.635,
+      "medicare_discharges": 38
+    },
+    {
+      "facility_id": "161326",
+      "name": "MADISON COUNTY HEALTH CARE SYSTEM",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 41.3265,
+      "lon": -94.049,
+      "govt_payer_share": 0.513,
+      "medicare_discharges": 123
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "19153",
+      "county_name": "Polk",
+      "state": "IA",
+      "pop_total": 493378,
+      "pop_65_plus": 66726,
+      "distance_to_hub_miles": 6.6
+    },
+    {
+      "county_fips": "19049",
+      "county_name": "Dallas",
+      "state": "IA",
+      "pop_total": 100367,
+      "pop_65_plus": 12259,
+      "distance_to_hub_miles": 21.6
+    },
+    {
+      "county_fips": "19181",
+      "county_name": "Warren",
+      "state": "IA",
+      "pop_total": 52709,
+      "pop_65_plus": 8650,
+      "distance_to_hub_miles": 18.9
+    },
+    {
+      "county_fips": "19099",
+      "county_name": "Jasper",
+      "state": "IA",
+      "pop_total": 37808,
+      "pop_65_plus": 7220,
+      "distance_to_hub_miles": 30.6
+    },
+    {
+      "county_fips": "19121",
+      "county_name": "Madison",
+      "state": "IA",
+      "pop_total": 16609,
+      "pop_65_plus": 3014,
+      "distance_to_hub_miles": 27.1
+    },
+    {
+      "county_fips": "19175",
+      "county_name": "Union",
+      "state": "IA",
+      "pop_total": 12107,
+      "pop_65_plus": 2483,
+      "distance_to_hub_miles": 50.6
+    },
+    {
+      "county_fips": "19077",
+      "county_name": "Guthrie",
+      "state": "IA",
+      "pop_total": 10619,
+      "pop_65_plus": 2425,
+      "distance_to_hub_miles": 45.0
+    },
+    {
+      "county_fips": "19039",
+      "county_name": "Clarke",
+      "state": "IA",
+      "pop_total": 9737,
+      "pop_65_plus": 1914,
+      "distance_to_hub_miles": 40.4
+    },
+    {
+      "county_fips": "19117",
+      "county_name": "Lucas",
+      "state": "IA",
+      "pop_total": 8666,
+      "pop_65_plus": 1867,
+      "distance_to_hub_miles": 42.7
+    },
+    {
+      "county_fips": "19053",
+      "county_name": "Decatur",
+      "state": "IA",
+      "pop_total": 7684,
+      "pop_65_plus": 1594,
+      "distance_to_hub_miles": 60.3
+    },
+    {
+      "county_fips": "19001",
+      "county_name": "Adair",
+      "state": "IA",
+      "pop_total": 7479,
+      "pop_65_plus": 1659,
+      "distance_to_hub_miles": 47.1
+    },
+    {
+      "county_fips": "19185",
+      "county_name": "Wayne",
+      "state": "IA",
+      "pop_total": 6484,
+      "pop_65_plus": 1406,
+      "distance_to_hub_miles": 61.7
+    },
+    {
+      "county_fips": "19159",
+      "county_name": "Ringgold",
+      "state": "IA",
+      "pop_total": 4690,
+      "pop_65_plus": 1077,
+      "distance_to_hub_miles": 67.7
+    },
+    {
+      "county_fips": "29129",
+      "county_name": "Mercer",
+      "state": "MO",
+      "pop_total": 3517,
+      "pop_65_plus": 770,
+      "distance_to_hub_miles": 81.6
+    }
+  ],
+  "summary": {
+    "total_beds": 1666,
+    "catchment_pop": 771854,
+    "catchment_pop_65_plus": 113064,
+    "catchment_pct_65_plus": 0.1465,
+    "max_catchment_radius_miles": 81.6,
+    "avg_catchment_distance_miles": 15.2,
+    "num_counties": 14,
+    "hospital_employment": 10907,
+    "msa_total_employment": 384103,
+    "hospital_emp_share": 0.0258,
+    "avg_govt_payer_share": 0.4566
+  }
+}

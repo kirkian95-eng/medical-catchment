@@ -1,0 +1,58 @@
+{
+  "cbsa_code": "34900",
+  "cbsa_name": "Napa, CA",
+  "mdi": 0.4142,
+  "bbox": [
+    -123.92,
+    37.32,
+    -120.8,
+    39.54
+  ],
+  "hospitals": [
+    {
+      "facility_id": "050013",
+      "name": "ADVENTIST HEALTH ST HELENA",
+      "beds": 181,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.5424,
+      "lon": -122.4199,
+      "govt_payer_share": 0.39,
+      "medicare_discharges": 1449
+    },
+    {
+      "facility_id": "050009",
+      "name": "PROVIDENCE QUEEN OF THE VALLEY MEDICAL CENTER",
+      "beds": 171,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.3235,
+      "lon": -122.2964,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 2054
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "06055",
+      "county_name": "Napa",
+      "state": "CA",
+      "pop_total": 137384,
+      "pop_65_plus": 27774,
+      "distance_to_hub_miles": 5.1
+    }
+  ],
+  "summary": {
+    "total_beds": 352,
+    "catchment_pop": 137384,
+    "catchment_pop_65_plus": 27774,
+    "catchment_pct_65_plus": 0.2022,
+    "max_catchment_radius_miles": 5.1,
+    "avg_catchment_distance_miles": 5.1,
+    "num_counties": 1,
+    "hospital_employment": 2335,
+    "msa_total_employment": 79646,
+    "hospital_emp_share": 0.0171,
+    "avg_govt_payer_share": 0.4921
+  }
+}

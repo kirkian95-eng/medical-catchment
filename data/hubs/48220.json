@@ -1,0 +1,77 @@
+{
+  "cbsa_code": "48220",
+  "cbsa_name": "Weatherford, OK",
+  "mdi": 0.4054,
+  "bbox": [
+    -100.45,
+    34.27,
+    -97.22,
+    36.51
+  ],
+  "hospitals": [
+    {
+      "facility_id": "371323",
+      "name": "WEATHERFORD REGIONAL HOSPITAL, INC OF WEATHERFORD",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.5128,
+      "lon": -98.7221,
+      "govt_payer_share": 0.791,
+      "medicare_discharges": 158
+    },
+    {
+      "facility_id": "370245",
+      "name": "CLINTON REGIONAL HOSPITAL",
+      "beds": 22,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 35.4875,
+      "lon": -98.9508,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
+    },
+    {
+      "facility_id": "371325",
+      "name": "CORDELL MEMORIAL HOSPITAL",
+      "beds": 14,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.2692,
+      "lon": -98.9148,
+      "govt_payer_share": 0.64,
+      "medicare_discharges": 67
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "40039",
+      "county_name": "Custer",
+      "state": "OK",
+      "pop_total": 28391,
+      "pop_65_plus": 3925,
+      "distance_to_hub_miles": 17.9
+    },
+    {
+      "county_fips": "40149",
+      "county_name": "Washita",
+      "state": "OK",
+      "pop_total": 10930,
+      "pop_65_plus": 2025,
+      "distance_to_hub_miles": 21.6
+    }
+  ],
+  "summary": {
+    "total_beds": 61,
+    "catchment_pop": 39321,
+    "catchment_pop_65_plus": 5950,
+    "catchment_pct_65_plus": 0.1513,
+    "max_catchment_radius_miles": 21.6,
+    "avg_catchment_distance_miles": 18.9,
+    "num_counties": 2,
+    "hospital_employment": 45,
+    "msa_total_employment": 14382,
+    "hospital_emp_share": 0.0123,
+    "avg_govt_payer_share": 0.6621
+  }
+}

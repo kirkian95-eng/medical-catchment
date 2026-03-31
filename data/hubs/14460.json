@@ -1,0 +1,486 @@
+{
+  "cbsa_code": "14460",
+  "cbsa_name": "Boston-Cambridge-Newton, MA-NH",
+  "mdi": 0.5248,
+  "bbox": [
+    -73.08,
+    40.94,
+    -69.15,
+    44.3
+  ],
+  "hospitals": [
+    {
+      "facility_id": "220071",
+      "name": "MASSACHUSETTS GENERAL HOSPITAL",
+      "beds": 907,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3625,
+      "lon": -71.0698,
+      "govt_payer_share": 0.445,
+      "medicare_discharges": 14665
+    },
+    {
+      "facility_id": "220110",
+      "name": "BRIGHAM AND WOMEN'S HOSPITAL",
+      "beds": 663,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3394,
+      "lon": -71.0945,
+      "govt_payer_share": 0.407,
+      "medicare_discharges": 12345
+    },
+    {
+      "facility_id": "220086",
+      "name": "BETH ISRAEL DEACONESS MEDICAL CENTER",
+      "beds": 597,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3397,
+      "lon": -71.1049,
+      "govt_payer_share": 0.446,
+      "medicare_discharges": 10097
+    },
+    {
+      "facility_id": "220070",
+      "name": "MELROSEWAKEFIELD HEALTHCARE",
+      "beds": 538,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.4597,
+      "lon": -71.0617,
+      "govt_payer_share": 0.454,
+      "medicare_discharges": 3046
+    },
+    {
+      "facility_id": "220031",
+      "name": "BOSTON MEDICAL CENTER",
+      "beds": 441,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3426,
+      "lon": -71.0697,
+      "govt_payer_share": 0.358,
+      "medicare_discharges": 3028
+    },
+    {
+      "facility_id": "220035",
+      "name": "NORTH SHORE MEDICAL CENTER -",
+      "beds": 415,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.5124,
+      "lon": -70.9081,
+      "govt_payer_share": 0.469,
+      "medicare_discharges": 6614
+    },
+    {
+      "facility_id": "220116",
+      "name": "TUFTS MEDICAL CENTER",
+      "beds": 415,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3499,
+      "lon": -71.0635,
+      "govt_payer_share": 0.696,
+      "medicare_discharges": 6121
+    },
+    {
+      "facility_id": "220175",
+      "name": "METROWEST MEDICAL CENTER",
+      "beds": 360,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.2848,
+      "lon": -71.4205,
+      "govt_payer_share": 0.523,
+      "medicare_discharges": 2168
+    },
+    {
+      "facility_id": "220171",
+      "name": "LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",
+      "beds": 327,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.5032,
+      "lon": -71.2017,
+      "govt_payer_share": 0.513,
+      "medicare_discharges": 8972
+    },
+    {
+      "facility_id": "220100",
+      "name": "SOUTH SHORE HOSPITAL",
+      "beds": 284,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.1748,
+      "lon": -70.9548,
+      "govt_payer_share": 0.473,
+      "medicare_discharges": 11656
+    },
+    {
+      "facility_id": "220033",
+      "name": "NORTHEAST HOSPITAL CORPORATION",
+      "beds": 283,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.5652,
+      "lon": -70.8771,
+      "govt_payer_share": 0.442,
+      "medicare_discharges": 6267
+    },
+    {
+      "facility_id": "220080",
+      "name": "HOLY FAMILY HOSPITAL",
+      "beds": 275,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.726,
+      "lon": -71.171,
+      "govt_payer_share": 0.506,
+      "medicare_discharges": 3103
+    },
+    {
+      "facility_id": "220126",
+      "name": "NORWOOD HOSPITAL",
+      "beds": 263,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.1874,
+      "lon": -71.1925,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
+    },
+    {
+      "facility_id": "220036",
+      "name": "BOSTON MEDICAL CENTER-BRIGHTON",
+      "beds": 252,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.35,
+      "lon": -71.1472,
+      "govt_payer_share": 0.492,
+      "medicare_discharges": 2861
+    },
+    {
+      "facility_id": "220111",
+      "name": "GOOD SAMARITAN MEDICAL CENTER",
+      "beds": 231,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.0985,
+      "lon": -71.0659,
+      "govt_payer_share": 0.502,
+      "medicare_discharges": 4901
+    },
+    {
+      "facility_id": "220101",
+      "name": "NEWTON-WELLESLEY HOSPITAL",
+      "beds": 224,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3325,
+      "lon": -71.2463,
+      "govt_payer_share": 0.405,
+      "medicare_discharges": 6355
+    },
+    {
+      "facility_id": "220002",
+      "name": "MOUNT AUBURN HOSPITAL",
+      "beds": 217,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3749,
+      "lon": -71.136,
+      "govt_payer_share": 0.507,
+      "medicare_discharges": 3389
+    },
+    {
+      "facility_id": "300029",
+      "name": "PORTSMOUTH REGIONAL HOSPITAL",
+      "beds": 209,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 43.0637,
+      "lon": -70.7901,
+      "govt_payer_share": 0.41,
+      "medicare_discharges": 3408
+    },
+    {
+      "facility_id": "220052",
+      "name": "SIGNATURE HEALTHCARE BROCKTON HOSPITAL",
+      "beds": 205,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 42.0863,
+      "lon": -70.9913,
+      "govt_payer_share": 0.438,
+      "medicare_discharges": 998
+    },
+    {
+      "facility_id": "220010",
+      "name": "LAWRENCE GENERAL HOSPITAL",
+      "beds": 189,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.7092,
+      "lon": -71.1488,
+      "govt_payer_share": 0.549,
+      "medicare_discharges": 3137
+    },
+    {
+      "facility_id": "220105",
+      "name": "WINCHESTER HOSPITAL",
+      "beds": 189,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.4663,
+      "lon": -71.1212,
+      "govt_payer_share": 0.372,
+      "medicare_discharges": 3933
+    },
+    {
+      "facility_id": "300018",
+      "name": "WENTWORTH-DOUGLASS HOSPITAL",
+      "beds": 178,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.2142,
+      "lon": -70.8769,
+      "govt_payer_share": 0.446,
+      "medicare_discharges": 3337
+    },
+    {
+      "facility_id": "220011",
+      "name": "CAMBRIDGE HEALTH ALLIANCE",
+      "beds": 159,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 42.3743,
+      "lon": -71.1044,
+      "govt_payer_share": 0.306,
+      "medicare_discharges": 1225
+    },
+    {
+      "facility_id": "220063",
+      "name": "LOWELL GENERAL HOSPITAL",
+      "beds": 158,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.6463,
+      "lon": -71.342,
+      "govt_payer_share": 0.441,
+      "medicare_discharges": 5414
+    },
+    {
+      "facility_id": "220060",
+      "name": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH",
+      "beds": 155,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.9446,
+      "lon": -70.6455,
+      "govt_payer_share": 0.535,
+      "medicare_discharges": 5373
+    },
+    {
+      "facility_id": "220119",
+      "name": "BRIGHAM AND WOMEN FAULKNER HOSPITAL",
+      "beds": 153,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3082,
+      "lon": -71.1135,
+      "govt_payer_share": 0.508,
+      "medicare_discharges": 3126
+    },
+    {
+      "facility_id": "220084",
+      "name": "EMERSON HOSPITAL -",
+      "beds": 149,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.4518,
+      "lon": -71.3777,
+      "govt_payer_share": 0.403,
+      "medicare_discharges": 2298
+    },
+    {
+      "facility_id": "220017",
+      "name": "CARNEY HOSPITAL",
+      "beds": 135,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.2859,
+      "lon": -71.075,
+      "govt_payer_share": 0.345,
+      "medicare_discharges": 474
+    },
+    {
+      "facility_id": "220029",
+      "name": "ANNA JAQUES HOSPITAL",
+      "beds": 123,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.8147,
+      "lon": -70.8906,
+      "govt_payer_share": 0.438,
+      "medicare_discharges": 2271
+    },
+    {
+      "facility_id": "300014",
+      "name": "FRISBIE MEMORIAL HOSPITAL",
+      "beds": 122,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 43.3017,
+      "lon": -70.9918,
+      "govt_payer_share": 0.3,
+      "medicare_discharges": 305
+    },
+    {
+      "facility_id": "220088",
+      "name": "NEW ENGLAND BAPTIST HOSPITAL",
+      "beds": 118,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3321,
+      "lon": -71.0966,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 1703
+    },
+    {
+      "facility_id": "300023",
+      "name": "EXETER HOSPITAL INC",
+      "beds": 100,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.9837,
+      "lon": -70.9348,
+      "govt_payer_share": 0.388,
+      "medicare_discharges": 1966
+    },
+    {
+      "facility_id": "300017",
+      "name": "PARKLAND MEDICAL CENTER",
+      "beds": 86,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.8928,
+      "lon": -71.2768,
+      "govt_payer_share": 0.389,
+      "medicare_discharges": 1384
+    },
+    {
+      "facility_id": "220108",
+      "name": "BETH ISRAEL DEACONESS HOSPITAL - MILTON",
+      "beds": 81,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Federal",
+      "lat": 42.2416,
+      "lon": -71.0824,
+      "govt_payer_share": 0.546,
+      "medicare_discharges": 2815
+    },
+    {
+      "facility_id": "220049",
+      "name": "UMASS MEMORIAL HEALTHCARE-MARLBOROUGH HOSPITAL",
+      "beds": 79,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3496,
+      "lon": -71.5472,
+      "govt_payer_share": 0.514,
+      "medicare_discharges": 1373
+    },
+    {
+      "facility_id": "220083",
+      "name": "BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM",
+      "beds": 58,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.2996,
+      "lon": -71.2312,
+      "govt_payer_share": 0.633,
+      "medicare_discharges": 2450
+    },
+    {
+      "facility_id": "220075",
+      "name": "MASSACHUSETTS EYE AND EAR INFIRMARY -",
+      "beds": 42,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3637,
+      "lon": -71.0669,
+      "govt_payer_share": 0.362,
+      "medicare_discharges": 350
+    },
+    {
+      "facility_id": "220098",
+      "name": "NASHOBA VALLEY MEDICAL CENTER",
+      "beds": 40,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.5666,
+      "lon": -71.5751,
+      "govt_payer_share": 0.523,
+      "medicare_discharges": 624
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "25017",
+      "county_name": "Middlesex",
+      "state": "MA",
+      "pop_total": 1623109,
+      "pop_65_plus": 255404,
+      "distance_to_hub_miles": 15.9
+    },
+    {
+      "county_fips": "25009",
+      "county_name": "Essex",
+      "state": "MA",
+      "pop_total": 806103,
+      "pop_65_plus": 141798,
+      "distance_to_hub_miles": 18.2
+    },
+    {
+      "county_fips": "25025",
+      "county_name": "Suffolk",
+      "state": "MA",
+      "pop_total": 785443,
+      "pop_65_plus": 98735,
+      "distance_to_hub_miles": 7.7
+    },
+    {
+      "county_fips": "25021",
+      "county_name": "Norfolk",
+      "state": "MA",
+      "pop_total": 722112,
+      "pop_65_plus": 124003,
+      "distance_to_hub_miles": 18.6
+    },
+    {
+      "county_fips": "25023",
+      "county_name": "Plymouth",
+      "state": "MA",
+      "pop_total": 529548,
+      "pop_65_plus": 99368,
+      "distance_to_hub_miles": 35.5
+    }
+  ],
+  "summary": {
+    "total_beds": 9420,
+    "catchment_pop": 4466315,
+    "catchment_pop_65_plus": 719308,
+    "catchment_pct_65_plus": 0.1611,
+    "max_catchment_radius_miles": 35.5,
+    "avg_catchment_distance_miles": 17.6,
+    "num_counties": 5,
+    "hospital_employment": 163488,
+    "msa_total_employment": 2703965,
+    "hospital_emp_share": 0.0366,
+    "avg_govt_payer_share": 0.4635
+  }
+}

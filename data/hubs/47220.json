@@ -1,0 +1,47 @@
+{
+  "cbsa_code": "47220",
+  "cbsa_name": "Vineland, NJ",
+  "mdi": 0.6124,
+  "bbox": [
+    -76.56,
+    38.45,
+    -73.56,
+    40.45
+  ],
+  "hospitals": [
+    {
+      "facility_id": "310032",
+      "name": "INSPIRA MEDICAL CENTER VINELAND",
+      "beds": 374,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.4474,
+      "lon": -75.0581,
+      "govt_payer_share": 0.35,
+      "medicare_discharges": 3936
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "34011",
+      "county_name": "Cumberland",
+      "state": "NJ",
+      "pop_total": 153588,
+      "pop_65_plus": 23937,
+      "distance_to_hub_miles": 9.0
+    }
+  ],
+  "summary": {
+    "total_beds": 374,
+    "catchment_pop": 153588,
+    "catchment_pop_65_plus": 23937,
+    "catchment_pct_65_plus": 0.1559,
+    "max_catchment_radius_miles": 9.0,
+    "avg_catchment_distance_miles": 9.0,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 59837,
+    "hospital_emp_share": 0.0482,
+    "avg_govt_payer_share": 0.3501
+  }
+}

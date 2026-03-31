@@ -1,0 +1,74 @@
+{
+  "cbsa_code": "36660",
+  "cbsa_name": "Opelousas, LA",
+  "mdi": 0.6222,
+  "bbox": [
+    -93.88,
+    29.49,
+    -90.58,
+    31.54
+  ],
+  "hospitals": [
+    {
+      "facility_id": "190017",
+      "name": "OPELOUSAS GENERAL HEALTH SYSTEM",
+      "beds": 171,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 30.5434,
+      "lon": -92.0759,
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 1073
+    },
+    {
+      "facility_id": "190318",
+      "name": "ACADIAN MEDICAL CENTER",
+      "beds": 49,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 30.4949,
+      "lon": -92.3845,
+      "govt_payer_share": 0.686,
+      "medicare_discharges": 349
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "22097",
+      "county_name": "St. Landry",
+      "state": "LA",
+      "pop_total": 82574,
+      "pop_65_plus": 13479,
+      "distance_to_hub_miles": 9.5
+    },
+    {
+      "county_fips": "22039",
+      "county_name": "Evangeline",
+      "state": "LA",
+      "pop_total": 32335,
+      "pop_65_plus": 5037,
+      "distance_to_hub_miles": 20.6
+    },
+    {
+      "county_fips": "22077",
+      "county_name": "Pointe Coupee",
+      "state": "LA",
+      "pop_total": 20652,
+      "pop_65_plus": 4395,
+      "distance_to_hub_miles": 34.5
+    }
+  ],
+  "summary": {
+    "total_beds": 220,
+    "catchment_pop": 135561,
+    "catchment_pop_65_plus": 22911,
+    "catchment_pct_65_plus": 0.169,
+    "max_catchment_radius_miles": 34.5,
+    "avg_catchment_distance_miles": 16.0,
+    "num_counties": 3,
+    "hospital_employment": 427,
+    "msa_total_employment": 23788,
+    "hospital_emp_share": 0.0467,
+    "avg_govt_payer_share": 0.3969
+  }
+}

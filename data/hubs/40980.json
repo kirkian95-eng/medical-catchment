@@ -1,0 +1,101 @@
+{
+  "cbsa_code": "40980",
+  "cbsa_name": "Saginaw, MI",
+  "mdi": 0.7434,
+  "bbox": [
+    -85.77,
+    42.0,
+    -82.14,
+    44.85
+  ],
+  "hospitals": [
+    {
+      "facility_id": "230070",
+      "name": "COVENANT MEDICAL CENTER",
+      "beds": 623,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.4285,
+      "lon": -83.9557,
+      "govt_payer_share": 0.238,
+      "medicare_discharges": 4435
+    },
+    {
+      "facility_id": "230275",
+      "name": "HEALTHSOURCE SAGINAW",
+      "beds": 278,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 43.4588,
+      "lon": -84.0295,
+      "govt_payer_share": 0.472,
+      "medicare_discharges": 15
+    },
+    {
+      "facility_id": "230077",
+      "name": "ASCENSION ST MARY'S HOSPITAL",
+      "beds": 268,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 43.395,
+      "lon": -83.8893,
+      "govt_payer_share": 0.263,
+      "medicare_discharges": 1760
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "26145",
+      "county_name": "Saginaw",
+      "state": "MI",
+      "pop_total": 189821,
+      "pop_65_plus": 37247,
+      "distance_to_hub_miles": 8.0
+    },
+    {
+      "county_fips": "26157",
+      "county_name": "Tuscola",
+      "state": "MI",
+      "pop_total": 53218,
+      "pop_65_plus": 11195,
+      "distance_to_hub_miles": 26.3
+    },
+    {
+      "county_fips": "26063",
+      "county_name": "Huron",
+      "state": "MI",
+      "pop_total": 31461,
+      "pop_65_plus": 8208,
+      "distance_to_hub_miles": 64.3
+    },
+    {
+      "county_fips": "26069",
+      "county_name": "Iosco",
+      "state": "MI",
+      "pop_total": 25319,
+      "pop_65_plus": 7591,
+      "distance_to_hub_miles": 76.4
+    },
+    {
+      "county_fips": "26001",
+      "county_name": "Alcona",
+      "state": "MI",
+      "pop_total": 10238,
+      "pop_65_plus": 3693,
+      "distance_to_hub_miles": 96.0
+    }
+  ],
+  "summary": {
+    "total_beds": 1169,
+    "catchment_pop": 310057,
+    "catchment_pop_65_plus": 67934,
+    "catchment_pct_65_plus": 0.2191,
+    "max_catchment_radius_miles": 96.0,
+    "avg_catchment_distance_miles": 25.3,
+    "num_counties": 5,
+    "hospital_employment": 1209,
+    "msa_total_employment": 79433,
+    "hospital_emp_share": 0.0644,
+    "avg_govt_payer_share": 0.2992
+  }
+}

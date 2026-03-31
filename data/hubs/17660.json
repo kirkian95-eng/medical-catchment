@@ -1,0 +1,74 @@
+{
+  "cbsa_code": "17660",
+  "cbsa_name": "Coeur d'Alene, ID",
+  "mdi": 0.7935,
+  "bbox": [
+    -118.48,
+    46.69,
+    -115.15,
+    48.73
+  ],
+  "hospitals": [
+    {
+      "facility_id": "130049",
+      "name": "KOOTENAI HEALTH",
+      "beds": 321,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 47.6907,
+      "lon": -116.6549,
+      "govt_payer_share": 0.509,
+      "medicare_discharges": 4766
+    },
+    {
+      "facility_id": "130066",
+      "name": "NORTHWEST SPECIALTY HOSPITAL",
+      "beds": 34,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 47.7264,
+      "lon": -116.9761,
+      "govt_payer_share": 0.385,
+      "medicare_discharges": 304
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "16055",
+      "county_name": "Kootenai",
+      "state": "ID",
+      "pop_total": 173396,
+      "pop_65_plus": 33702,
+      "distance_to_hub_miles": 1.6
+    },
+    {
+      "county_fips": "16079",
+      "county_name": "Shoshone",
+      "state": "ID",
+      "pop_total": 13399,
+      "pop_65_plus": 3082,
+      "distance_to_hub_miles": 43.9
+    },
+    {
+      "county_fips": "16009",
+      "county_name": "Benewah",
+      "state": "ID",
+      "pop_total": 9731,
+      "pop_65_plus": 2240,
+      "distance_to_hub_miles": 33.0
+    }
+  ],
+  "summary": {
+    "total_beds": 355,
+    "catchment_pop": 196526,
+    "catchment_pop_65_plus": 39024,
+    "catchment_pct_65_plus": 0.1986,
+    "max_catchment_radius_miles": 43.9,
+    "avg_catchment_distance_miles": 6.0,
+    "num_counties": 3,
+    "hospital_employment": 3860,
+    "msa_total_employment": 70758,
+    "hospital_emp_share": 0.0545,
+    "avg_govt_payer_share": 0.4968
+  }
+}

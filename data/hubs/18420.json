@@ -1,0 +1,79 @@
+{
+  "cbsa_code": "18420",
+  "cbsa_name": "Corinth, MS",
+  "mdi": 0.4745,
+  "bbox": [
+    -90.06,
+    33.93,
+    -87.06,
+    35.93
+  ],
+  "hospitals": [
+    {
+      "facility_id": "250009",
+      "name": "MAGNOLIA REGIONAL HEALTH CENTER",
+      "beds": 164,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 34.9348,
+      "lon": -88.5587,
+      "govt_payer_share": 0.637,
+      "medicare_discharges": 2744
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "28003",
+      "county_name": "Alcorn",
+      "state": "MS",
+      "pop_total": 34717,
+      "pop_65_plus": 6406,
+      "distance_to_hub_miles": 3.9
+    },
+    {
+      "county_fips": "47071",
+      "county_name": "Hardin",
+      "state": "TN",
+      "pop_total": 26824,
+      "pop_65_plus": 6180,
+      "distance_to_hub_miles": 27.9
+    },
+    {
+      "county_fips": "47109",
+      "county_name": "McNairy",
+      "state": "TN",
+      "pop_total": 25895,
+      "pop_65_plus": 5365,
+      "distance_to_hub_miles": 16.6
+    },
+    {
+      "county_fips": "28139",
+      "county_name": "Tippah",
+      "state": "MS",
+      "pop_total": 21769,
+      "pop_65_plus": 3658,
+      "distance_to_hub_miles": 22.9
+    },
+    {
+      "county_fips": "28141",
+      "county_name": "Tishomingo",
+      "state": "MS",
+      "pop_total": 18837,
+      "pop_65_plus": 3928,
+      "distance_to_hub_miles": 22.5
+    }
+  ],
+  "summary": {
+    "total_beds": 164,
+    "catchment_pop": 128042,
+    "catchment_pop_65_plus": 25537,
+    "catchment_pct_65_plus": 0.1994,
+    "max_catchment_radius_miles": 27.9,
+    "avg_catchment_distance_miles": 17.5,
+    "num_counties": 5,
+    "hospital_employment": 286,
+    "msa_total_employment": 13538,
+    "hospital_emp_share": 0.0202,
+    "avg_govt_payer_share": 0.6369
+  }
+}

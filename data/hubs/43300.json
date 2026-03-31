@@ -1,0 +1,77 @@
+{
+  "cbsa_code": "43300",
+  "cbsa_name": "Sherman-Denison, TX",
+  "mdi": 0.5343,
+  "bbox": [
+    -98.2,
+    32.6,
+    -95.05,
+    34.74
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450324",
+      "name": "TEXOMA MEDICAL CENTER",
+      "beds": 414,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.7356,
+      "lon": -96.5943,
+      "govt_payer_share": 0.3,
+      "medicare_discharges": 5887
+    },
+    {
+      "facility_id": "450469",
+      "name": "WILSON N JONES REGIONAL MEDICAL CENTER",
+      "beds": 241,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.6521,
+      "lon": -96.7003,
+      "govt_payer_share": 0.192,
+      "medicare_discharges": 470
+    },
+    {
+      "facility_id": "670076",
+      "name": "BAYLOR SCOTT AND WHITE SURGICAL HOSPITAL AT SHERMA",
+      "beds": 14,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 33.6041,
+      "lon": -96.5504,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 109
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48181",
+      "county_name": "Grayson",
+      "state": "TX",
+      "pop_total": 137008,
+      "pop_65_plus": 24528,
+      "distance_to_hub_miles": 6.0
+    },
+    {
+      "county_fips": "40095",
+      "county_name": "Marshall",
+      "state": "OK",
+      "pop_total": 15494,
+      "pop_65_plus": 3348,
+      "distance_to_hub_miles": 23.5
+    }
+  ],
+  "summary": {
+    "total_beds": 669,
+    "catchment_pop": 152502,
+    "catchment_pop_65_plus": 27876,
+    "catchment_pct_65_plus": 0.1828,
+    "max_catchment_radius_miles": 23.5,
+    "avg_catchment_distance_miles": 7.8,
+    "num_counties": 2,
+    "hospital_employment": 3200,
+    "msa_total_employment": 51369,
+    "hospital_emp_share": 0.0462,
+    "avg_govt_payer_share": 0.2671
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "cbsa_code": "33500",
+  "cbsa_name": "Minot, ND",
+  "mdi": 0.9256,
+  "bbox": [
+    -103.91,
+    46.78,
+    -99.47,
+    50.16
+  ],
+  "hospitals": [
+    {
+      "facility_id": "350006",
+      "name": "TRINITY HOSPITALS",
+      "beds": 416,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 48.2321,
+      "lon": -101.2883,
+      "govt_payer_share": 0.601,
+      "medicare_discharges": 2336
+    },
+    {
+      "facility_id": "351305",
+      "name": "TRINITY KENMARE COMMUNITY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 48.7134,
+      "lon": -102.0941,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 2
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "38101",
+      "county_name": "Ward",
+      "state": "ND",
+      "pop_total": 69532,
+      "pop_65_plus": 9219,
+      "distance_to_hub_miles": 9.9
+    },
+    {
+      "county_fips": "38079",
+      "county_name": "Rolette",
+      "state": "ND",
+      "pop_total": 12292,
+      "pop_65_plus": 1520,
+      "distance_to_hub_miles": 77.0
+    },
+    {
+      "county_fips": "38055",
+      "county_name": "McLean",
+      "state": "ND",
+      "pop_total": 9781,
+      "pop_65_plus": 2408,
+      "distance_to_hub_miles": 45.1
+    },
+    {
+      "county_fips": "38061",
+      "county_name": "Mountrail",
+      "state": "ND",
+      "pop_total": 9648,
+      "pop_65_plus": 1193,
+      "distance_to_hub_miles": 47.2
+    },
+    {
+      "county_fips": "38009",
+      "county_name": "Bottineau",
+      "state": "ND",
+      "pop_total": 6411,
+      "pop_65_plus": 1578,
+      "distance_to_hub_miles": 43.4
+    },
+    {
+      "county_fips": "38005",
+      "county_name": "Benson",
+      "state": "ND",
+      "pop_total": 5960,
+      "pop_65_plus": 837,
+      "distance_to_hub_miles": 91.7
+    },
+    {
+      "county_fips": "38049",
+      "county_name": "McHenry",
+      "state": "ND",
+      "pop_total": 5326,
+      "pop_65_plus": 1149,
+      "distance_to_hub_miles": 32.1
+    },
+    {
+      "county_fips": "38069",
+      "county_name": "Pierce",
+      "state": "ND",
+      "pop_total": 3999,
+      "pop_65_plus": 983,
+      "distance_to_hub_miles": 62.7
+    },
+    {
+      "county_fips": "38075",
+      "county_name": "Renville",
+      "state": "ND",
+      "pop_total": 2282,
+      "pop_65_plus": 438,
+      "distance_to_hub_miles": 35.0
+    },
+    {
+      "county_fips": "38013",
+      "county_name": "Burke",
+      "state": "ND",
+      "pop_total": 2184,
+      "pop_65_plus": 467,
+      "distance_to_hub_miles": 65.5
+    },
+    {
+      "county_fips": "38095",
+      "county_name": "Towner",
+      "state": "ND",
+      "pop_total": 2152,
+      "pop_65_plus": 485,
+      "distance_to_hub_miles": 100.1
+    }
+  ],
+  "summary": {
+    "total_beds": 441,
+    "catchment_pop": 129567,
+    "catchment_pop_65_plus": 20277,
+    "catchment_pct_65_plus": 0.1565,
+    "max_catchment_radius_miles": 100.1,
+    "avg_catchment_distance_miles": 32.5,
+    "num_counties": 11,
+    "hospital_employment": 25,
+    "msa_total_employment": 31117,
+    "hospital_emp_share": 0.0612,
+    "avg_govt_payer_share": 0.6006
+  }
+}

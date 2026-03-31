@@ -1,0 +1,191 @@
+{
+  "cbsa_code": "33740",
+  "cbsa_name": "Monroe, LA",
+  "mdi": 0.5396,
+  "bbox": [
+    -94.16,
+    31.41,
+    -90.0,
+    33.83
+  ],
+  "hospitals": [
+    {
+      "facility_id": "190125",
+      "name": "ST FRANCIS MEDICAL CENTER",
+      "beds": 328,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.4991,
+      "lon": -92.1144,
+      "govt_payer_share": 0.509,
+      "medicare_discharges": 3516
+    },
+    {
+      "facility_id": "190160",
+      "name": "GLENWOOD REGIONAL MEDICAL CENTER",
+      "beds": 257,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.5652,
+      "lon": -92.1732,
+      "govt_payer_share": 0.341,
+      "medicare_discharges": 2121
+    },
+    {
+      "facility_id": "190011",
+      "name": "OCHSNER LSU HEALTH MONROE",
+      "beds": 247,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.4509,
+      "lon": -92.1055,
+      "govt_payer_share": 0.131,
+      "medicare_discharges": 460
+    },
+    {
+      "facility_id": "190116",
+      "name": "MOREHOUSE GENERAL HOSPITAL",
+      "beds": 49,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.7752,
+      "lon": -91.9172,
+      "govt_payer_share": 0.24,
+      "medicare_discharges": 164
+    },
+    {
+      "facility_id": "190151",
+      "name": "RICHARDSON MEDICAL CENTER",
+      "beds": 38,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.4406,
+      "lon": -91.7938,
+      "govt_payer_share": 0.397,
+      "medicare_discharges": 142
+    },
+    {
+      "facility_id": "191323",
+      "name": "RICHLAND PARISH HOSPITAL-DELHI",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.4144,
+      "lon": -91.4967,
+      "govt_payer_share": 0.716,
+      "medicare_discharges": 148
+    },
+    {
+      "facility_id": "191301",
+      "name": "UNION GENERAL HOSPITAL",
+      "beds": 20,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.7794,
+      "lon": -92.352,
+      "govt_payer_share": 0.6,
+      "medicare_discharges": 106
+    },
+    {
+      "facility_id": "191326",
+      "name": "REEVES MEMORIAL MEDICAL CENTER",
+      "beds": 15,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.8292,
+      "lon": -92.6605,
+      "govt_payer_share": 0.614,
+      "medicare_discharges": 56
+    },
+    {
+      "facility_id": "190245",
+      "name": "MONROE SURGICAL HOSPITAL",
+      "beds": 10,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.5396,
+      "lon": -92.1069,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 50
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "22073",
+      "county_name": "Ouachita",
+      "state": "LA",
+      "pop_total": 159585,
+      "pop_65_plus": 24441,
+      "distance_to_hub_miles": 4.6
+    },
+    {
+      "county_fips": "22067",
+      "county_name": "Morehouse",
+      "state": "LA",
+      "pop_total": 25438,
+      "pop_65_plus": 4821,
+      "distance_to_hub_miles": 26.9
+    },
+    {
+      "county_fips": "22111",
+      "county_name": "Union",
+      "state": "LA",
+      "pop_total": 21049,
+      "pop_65_plus": 4509,
+      "distance_to_hub_miles": 27.5
+    },
+    {
+      "county_fips": "22083",
+      "county_name": "Richland",
+      "state": "LA",
+      "pop_total": 20028,
+      "pop_65_plus": 3539,
+      "distance_to_hub_miles": 20.1
+    },
+    {
+      "county_fips": "22041",
+      "county_name": "Franklin",
+      "state": "LA",
+      "pop_total": 19752,
+      "pop_65_plus": 3751,
+      "distance_to_hub_miles": 35.8
+    },
+    {
+      "county_fips": "05003",
+      "county_name": "Ashley",
+      "state": "AR",
+      "pop_total": 19018,
+      "pop_65_plus": 4011,
+      "distance_to_hub_miles": 50.3
+    },
+    {
+      "county_fips": "22123",
+      "county_name": "West Carroll",
+      "state": "LA",
+      "pop_total": 9800,
+      "pop_65_plus": 1918,
+      "distance_to_hub_miles": 41.3
+    },
+    {
+      "county_fips": "22021",
+      "county_name": "Caldwell",
+      "state": "LA",
+      "pop_total": 9658,
+      "pop_65_plus": 1762,
+      "distance_to_hub_miles": 29.2
+    }
+  ],
+  "summary": {
+    "total_beds": 989,
+    "catchment_pop": 284328,
+    "catchment_pop_65_plus": 48752,
+    "catchment_pct_65_plus": 0.1715,
+    "max_catchment_radius_miles": 50.3,
+    "avg_catchment_distance_miles": 16.7,
+    "num_counties": 8,
+    "hospital_employment": 3252,
+    "msa_total_employment": 86989,
+    "hospital_emp_share": 0.0389,
+    "avg_govt_payer_share": 0.3629
+  }
+}

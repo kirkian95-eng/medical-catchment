@@ -1,0 +1,117 @@
+{
+  "cbsa_code": "45900",
+  "cbsa_name": "Traverse City, MI",
+  "mdi": 0.6025,
+  "bbox": [
+    -87.69,
+    43.63,
+    -83.54,
+    45.76
+  ],
+  "hospitals": [
+    {
+      "facility_id": "230097",
+      "name": "MUNSON MEDICAL CENTER",
+      "beds": 377,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 44.7615,
+      "lon": -85.6418,
+      "govt_payer_share": 0.283,
+      "medicare_discharges": 4843
+    },
+    {
+      "facility_id": "231300",
+      "name": "PAUL OLIVER MEMORIAL HOSPITAL",
+      "beds": 8,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 44.6256,
+      "lon": -86.1931,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 1
+    },
+    {
+      "facility_id": "231301",
+      "name": "KALKASKA MEMORIAL HEALTH CENTER",
+      "beds": 8,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 44.72,
+      "lon": -85.0365,
+      "govt_payer_share": 0.265,
+      "medicare_discharges": 56
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "26055",
+      "county_name": "Grand Traverse",
+      "state": "MI",
+      "pop_total": 95315,
+      "pop_65_plus": 19762,
+      "distance_to_hub_miles": 5.4
+    },
+    {
+      "county_fips": "26101",
+      "county_name": "Manistee",
+      "state": "MI",
+      "pop_total": 25058,
+      "pop_65_plus": 6676,
+      "distance_to_hub_miles": 46.0
+    },
+    {
+      "county_fips": "26009",
+      "county_name": "Antrim",
+      "state": "MI",
+      "pop_total": 23662,
+      "pop_65_plus": 6606,
+      "distance_to_hub_miles": 28.4
+    },
+    {
+      "county_fips": "26089",
+      "county_name": "Leelanau",
+      "state": "MI",
+      "pop_total": 22426,
+      "pop_65_plus": 7262,
+      "distance_to_hub_miles": 33.2
+    },
+    {
+      "county_fips": "26019",
+      "county_name": "Benzie",
+      "state": "MI",
+      "pop_total": 18058,
+      "pop_65_plus": 4867,
+      "distance_to_hub_miles": 33.4
+    },
+    {
+      "county_fips": "26079",
+      "county_name": "Kalkaska",
+      "state": "MI",
+      "pop_total": 17934,
+      "pop_65_plus": 3669,
+      "distance_to_hub_miles": 27.6
+    },
+    {
+      "county_fips": "26039",
+      "county_name": "Crawford",
+      "state": "MI",
+      "pop_total": 13197,
+      "pop_65_plus": 3416,
+      "distance_to_hub_miles": 50.9
+    }
+  ],
+  "summary": {
+    "total_beds": 393,
+    "catchment_pop": 215650,
+    "catchment_pop_65_plus": 52258,
+    "catchment_pct_65_plus": 0.2423,
+    "max_catchment_radius_miles": 50.9,
+    "avg_catchment_distance_miles": 22.5,
+    "num_counties": 7,
+    "hospital_employment": 0,
+    "msa_total_employment": 60815,
+    "hospital_emp_share": 0.0494,
+    "avg_govt_payer_share": 0.289
+  }
+}

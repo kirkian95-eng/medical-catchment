@@ -1,0 +1,79 @@
+{
+  "cbsa_code": "13700",
+  "cbsa_name": "Big Spring, TX",
+  "mdi": 0.2519,
+  "bbox": [
+    -102.99,
+    31.24,
+    -99.99,
+    33.24
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450653",
+      "name": "SCENIC MOUNTAIN MEDICAL CENTER",
+      "beds": 146,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.2411,
+      "lon": -101.4872,
+      "govt_payer_share": 0.309,
+      "medicare_discharges": 167
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48227",
+      "county_name": "Howard",
+      "state": "TX",
+      "pop_total": 34488,
+      "pop_65_plus": 4382,
+      "distance_to_hub_miles": 5.4
+    },
+    {
+      "county_fips": "48415",
+      "county_name": "Scurry",
+      "state": "TX",
+      "pop_total": 16883,
+      "pop_65_plus": 2530,
+      "distance_to_hub_miles": 48.3
+    },
+    {
+      "county_fips": "48335",
+      "county_name": "Mitchell",
+      "state": "TX",
+      "pop_total": 8947,
+      "pop_65_plus": 1278,
+      "distance_to_hub_miles": 33.4
+    },
+    {
+      "county_fips": "48173",
+      "county_name": "Glasscock",
+      "state": "TX",
+      "pop_total": 1068,
+      "pop_65_plus": 136,
+      "distance_to_hub_miles": 25.8
+    },
+    {
+      "county_fips": "48033",
+      "county_name": "Borden",
+      "state": "TX",
+      "pop_total": 686,
+      "pop_65_plus": 126,
+      "distance_to_hub_miles": 34.9
+    }
+  ],
+  "summary": {
+    "total_beds": 146,
+    "catchment_pop": 62072,
+    "catchment_pop_65_plus": 8452,
+    "catchment_pct_65_plus": 0.1362,
+    "max_catchment_radius_miles": 48.3,
+    "avg_catchment_distance_miles": 21.8,
+    "num_counties": 5,
+    "hospital_employment": 693,
+    "msa_total_employment": 12602,
+    "hospital_emp_share": 0.0132,
+    "avg_govt_payer_share": 0.3094
+  }
+}

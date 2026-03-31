@@ -1,0 +1,130 @@
+{
+  "cbsa_code": "17220",
+  "cbsa_name": "Clarksburg, WV",
+  "mdi": 0.561,
+  "bbox": [
+    -81.74,
+    38.33,
+    -78.52,
+    40.35
+  ],
+  "hospitals": [
+    {
+      "facility_id": "510006",
+      "name": "UNITED HOSPITAL CENTER, INC",
+      "beds": 375,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.3274,
+      "lon": -80.2381,
+      "govt_payer_share": 0.355,
+      "medicare_discharges": 3528
+    },
+    {
+      "facility_id": "511307",
+      "name": "GRAFTON CITY HOSPITAL, INC",
+      "beds": 102,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 39.354,
+      "lon": -80.0187,
+      "govt_payer_share": 0.277,
+      "medicare_discharges": 46
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "54033",
+      "county_name": "Harrison",
+      "state": "WV",
+      "pop_total": 65862,
+      "pop_65_plus": 13069,
+      "distance_to_hub_miles": 10.7
+    },
+    {
+      "county_fips": "54049",
+      "county_name": "Marion",
+      "state": "WV",
+      "pop_total": 56194,
+      "pop_65_plus": 11073,
+      "distance_to_hub_miles": 12.5
+    },
+    {
+      "county_fips": "54083",
+      "county_name": "Randolph",
+      "state": "WV",
+      "pop_total": 28005,
+      "pop_65_plus": 6280,
+      "distance_to_hub_miles": 42.1
+    },
+    {
+      "county_fips": "54097",
+      "county_name": "Upshur",
+      "state": "WV",
+      "pop_total": 23875,
+      "pop_65_plus": 5025,
+      "distance_to_hub_miles": 30.2
+    },
+    {
+      "county_fips": "54041",
+      "county_name": "Lewis",
+      "state": "WV",
+      "pop_total": 16920,
+      "pop_65_plus": 3529,
+      "distance_to_hub_miles": 28.6
+    },
+    {
+      "county_fips": "54091",
+      "county_name": "Taylor",
+      "state": "WV",
+      "pop_total": 16602,
+      "pop_65_plus": 3404,
+      "distance_to_hub_miles": 7.8
+    },
+    {
+      "county_fips": "54001",
+      "county_name": "Barbour",
+      "state": "WV",
+      "pop_total": 15527,
+      "pop_65_plus": 3235,
+      "distance_to_hub_miles": 17.1
+    },
+    {
+      "county_fips": "54017",
+      "county_name": "Doddridge",
+      "state": "WV",
+      "pop_total": 7847,
+      "pop_65_plus": 1634,
+      "distance_to_hub_miles": 27.9
+    },
+    {
+      "county_fips": "54021",
+      "county_name": "Gilmer",
+      "state": "WV",
+      "pop_total": 7444,
+      "pop_65_plus": 1303,
+      "distance_to_hub_miles": 45.5
+    },
+    {
+      "county_fips": "54093",
+      "county_name": "Tucker",
+      "state": "WV",
+      "pop_total": 6747,
+      "pop_65_plus": 1820,
+      "distance_to_hub_miles": 36.8
+    }
+  ],
+  "summary": {
+    "total_beds": 477,
+    "catchment_pop": 245023,
+    "catchment_pop_65_plus": 50372,
+    "catchment_pct_65_plus": 0.2056,
+    "max_catchment_radius_miles": 45.5,
+    "avg_catchment_distance_miles": 20.4,
+    "num_counties": 10,
+    "hospital_employment": 1325,
+    "msa_total_employment": 40110,
+    "hospital_emp_share": 0.0447,
+    "avg_govt_payer_share": 0.3386
+  }
+}

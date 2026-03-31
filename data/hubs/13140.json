@@ -1,0 +1,112 @@
+{
+  "cbsa_code": "13140",
+  "cbsa_name": "Beaumont-Port Arthur, TX",
+  "mdi": 0.2923,
+  "bbox": [
+    -95.69,
+    28.94,
+    -92.49,
+    31.23
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450034",
+      "name": "CHRISTUS SOUTHEAST TEXAS- ST ELIZABETH",
+      "beds": 487,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.0857,
+      "lon": -94.1319,
+      "govt_payer_share": 0.218,
+      "medicare_discharges": 3199
+    },
+    {
+      "facility_id": "450346",
+      "name": "BAPTIST BEAUMONT HOSPITAL",
+      "beds": 483,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.0686,
+      "lon": -94.1192,
+      "govt_payer_share": 0.171,
+      "medicare_discharges": 2713
+    },
+    {
+      "facility_id": "450518",
+      "name": "THE MEDICAL CENTER OF SOUTHEAST TEXAS",
+      "beds": 216,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 29.9351,
+      "lon": -93.9864,
+      "govt_payer_share": 0.292,
+      "medicare_discharges": 855
+    },
+    {
+      "facility_id": "670134",
+      "name": "ALTUS LUMBERTON HOSPITAL",
+      "beds": 4,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 30.2268,
+      "lon": -94.1889,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 50
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48245",
+      "county_name": "Jefferson",
+      "state": "TX",
+      "pop_total": 254942,
+      "pop_65_plus": 38008,
+      "distance_to_hub_miles": 14.1
+    },
+    {
+      "county_fips": "48361",
+      "county_name": "Orange",
+      "state": "TX",
+      "pop_total": 84761,
+      "pop_65_plus": 13312,
+      "distance_to_hub_miles": 13.2
+    },
+    {
+      "county_fips": "48199",
+      "county_name": "Hardin",
+      "state": "TX",
+      "pop_total": 56576,
+      "pop_65_plus": 9751,
+      "distance_to_hub_miles": 26.0
+    },
+    {
+      "county_fips": "48241",
+      "county_name": "Jasper",
+      "state": "TX",
+      "pop_total": 33032,
+      "pop_65_plus": 6771,
+      "distance_to_hub_miles": 48.1
+    },
+    {
+      "county_fips": "48457",
+      "county_name": "Tyler",
+      "state": "TX",
+      "pop_total": 19962,
+      "pop_65_plus": 4417,
+      "distance_to_hub_miles": 52.5
+    }
+  ],
+  "summary": {
+    "total_beds": 1190,
+    "catchment_pop": 449273,
+    "catchment_pop_65_plus": 72259,
+    "catchment_pct_65_plus": 0.1608,
+    "max_catchment_radius_miles": 52.5,
+    "avg_catchment_distance_miles": 19.6,
+    "num_counties": 5,
+    "hospital_employment": 4274,
+    "msa_total_employment": 131345,
+    "hospital_emp_share": 0.0241,
+    "avg_govt_payer_share": 0.2134
+  }
+}

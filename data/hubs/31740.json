@@ -1,0 +1,139 @@
+{
+  "cbsa_code": "31740",
+  "cbsa_name": "Manhattan, KS",
+  "mdi": 0.4075,
+  "bbox": [
+    -98.35,
+    38.01,
+    -94.67,
+    40.5
+  ],
+  "hospitals": [
+    {
+      "facility_id": "170142",
+      "name": "ASCENSION VIA CHRISTI HOSPITAL MANHATTAN, INC",
+      "beds": 150,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.2022,
+      "lon": -96.5983,
+      "govt_payer_share": 0.479,
+      "medicare_discharges": 1185
+    },
+    {
+      "facility_id": "170074",
+      "name": "STORMONT VAIL HEALTH FLINT HILLS, LLC",
+      "beds": 92,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.013,
+      "lon": -96.8506,
+      "govt_payer_share": 0.437,
+      "medicare_discharges": 146
+    },
+    {
+      "facility_id": "171337",
+      "name": "WAMEGO HEALTH CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.2316,
+      "lon": -96.2956,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 56
+    },
+    {
+      "facility_id": "171354",
+      "name": "COMMUNITY HOSPITAL, ONAGA AND ST MARYS CAMPUS",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 39.4952,
+      "lon": -96.1739,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 190
+    },
+    {
+      "facility_id": "170190",
+      "name": "MANHATTAN SURGICAL HOSPITAL LLC",
+      "beds": 13,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 39.1399,
+      "lon": -96.5287,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 82
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "20161",
+      "county_name": "Riley",
+      "state": "KS",
+      "pop_total": 72105,
+      "pop_65_plus": 6904,
+      "distance_to_hub_miles": 10.8
+    },
+    {
+      "county_fips": "20061",
+      "county_name": "Geary",
+      "state": "KS",
+      "pop_total": 36247,
+      "pop_65_plus": 3076,
+      "distance_to_hub_miles": 13.7
+    },
+    {
+      "county_fips": "20149",
+      "county_name": "Pottawatomie",
+      "state": "KS",
+      "pop_total": 25482,
+      "pop_65_plus": 3763,
+      "distance_to_hub_miles": 20.5
+    },
+    {
+      "county_fips": "20117",
+      "county_name": "Marshall",
+      "state": "KS",
+      "pop_total": 10014,
+      "pop_65_plus": 2209,
+      "distance_to_hub_miles": 42.7
+    },
+    {
+      "county_fips": "20027",
+      "county_name": "Clay",
+      "state": "KS",
+      "pop_total": 8088,
+      "pop_65_plus": 1966,
+      "distance_to_hub_miles": 31.9
+    },
+    {
+      "county_fips": "20201",
+      "county_name": "Washington",
+      "state": "KS",
+      "pop_total": 5529,
+      "pop_65_plus": 1315,
+      "distance_to_hub_miles": 49.3
+    },
+    {
+      "county_fips": "20127",
+      "county_name": "Morris",
+      "state": "KS",
+      "pop_total": 5385,
+      "pop_65_plus": 1362,
+      "distance_to_hub_miles": 33.4
+    }
+  ],
+  "summary": {
+    "total_beds": 305,
+    "catchment_pop": 162850,
+    "catchment_pop_65_plus": 20595,
+    "catchment_pct_65_plus": 0.1265,
+    "max_catchment_radius_miles": 49.3,
+    "avg_catchment_distance_miles": 18.0,
+    "num_counties": 7,
+    "hospital_employment": 816,
+    "msa_total_employment": 52424,
+    "hospital_emp_share": 0.0176,
+    "avg_govt_payer_share": 0.4911
+  }
+}

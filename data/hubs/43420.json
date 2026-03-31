@@ -1,0 +1,88 @@
+{
+  "cbsa_code": "43420",
+  "cbsa_name": "Sierra Vista-Douglas, AZ",
+  "mdi": 0.5087,
+  "bbox": [
+    -112.09,
+    30.09,
+    -108.24,
+    33.8
+  ],
+  "hospitals": [
+    {
+      "facility_id": "030043",
+      "name": "CANYON VISTA MEDICAL CENTER",
+      "beds": 100,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 31.5545,
+      "lon": -110.2305,
+      "govt_payer_share": 0.493,
+      "medicare_discharges": 1431
+    },
+    {
+      "facility_id": "031302",
+      "name": "NORTHERN COCHISE COMMUNITY HOSPITAL, INC.",
+      "beds": 24,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.4607,
+      "lon": -110.0003,
+      "govt_payer_share": 0.484,
+      "medicare_discharges": 46
+    },
+    {
+      "facility_id": "031301",
+      "name": "BENSON HOSPITAL",
+      "beds": 22,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.1675,
+      "lon": -110.4119,
+      "govt_payer_share": 0.387,
+      "medicare_discharges": 34
+    },
+    {
+      "facility_id": "031312",
+      "name": "COPPER QUEEN COMMUNITY HOSPITAL",
+      "beds": 14,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 31.4327,
+      "lon": -109.9191,
+      "govt_payer_share": 0.432,
+      "medicare_discharges": 85
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "04003",
+      "county_name": "Cochise",
+      "state": "AZ",
+      "pop_total": 125504,
+      "pop_65_plus": 29105,
+      "distance_to_hub_miles": 36.0
+    },
+    {
+      "county_fips": "35023",
+      "county_name": "Hidalgo",
+      "state": "NM",
+      "pop_total": 4160,
+      "pop_65_plus": 908,
+      "distance_to_hub_miles": 92.5
+    }
+  ],
+  "summary": {
+    "total_beds": 160,
+    "catchment_pop": 129664,
+    "catchment_pop_65_plus": 30013,
+    "catchment_pct_65_plus": 0.2315,
+    "max_catchment_radius_miles": 92.5,
+    "avg_catchment_distance_miles": 37.8,
+    "num_counties": 2,
+    "hospital_employment": 1222,
+    "msa_total_employment": 34678,
+    "hospital_emp_share": 0.0309,
+    "avg_govt_payer_share": 0.4718
+  }
+}

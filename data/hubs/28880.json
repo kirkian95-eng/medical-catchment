@@ -1,0 +1,110 @@
+{
+  "cbsa_code": "28880",
+  "cbsa_name": "Kiryas Joel-Poughkeepsie-Newburgh, NY",
+  "mdi": 0.4313,
+  "bbox": [
+    -76.13,
+    40.26,
+    -72.41,
+    42.93
+  ],
+  "hospitals": [
+    {
+      "facility_id": "330126",
+      "name": "GARNET HEALTH MEDICAL CENTER",
+      "beds": 450,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.4404,
+      "lon": -74.3653,
+      "govt_payer_share": 0.433,
+      "medicare_discharges": 6547
+    },
+    {
+      "facility_id": "330023",
+      "name": "VASSAR BROTHERS MEDICAL CENTER",
+      "beds": 365,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.6945,
+      "lon": -73.9356,
+      "govt_payer_share": 0.414,
+      "medicare_discharges": 6735
+    },
+    {
+      "facility_id": "330264",
+      "name": "MONTEFIORE ST LUKE'S CORNWALL",
+      "beds": 244,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 41.5396,
+      "lon": -74.0572,
+      "govt_payer_share": 0.329,
+      "medicare_discharges": 2523
+    },
+    {
+      "facility_id": "330135",
+      "name": "BON SECOURS COMMUNITY HOSPITAL",
+      "beds": 141,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 41.3753,
+      "lon": -74.6315,
+      "govt_payer_share": 0.332,
+      "medicare_discharges": 737
+    },
+    {
+      "facility_id": "330049",
+      "name": "NORTHERN DUTCHESS HOSPITAL",
+      "beds": 68,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.9349,
+      "lon": -73.9115,
+      "govt_payer_share": 0.406,
+      "medicare_discharges": 1679
+    },
+    {
+      "facility_id": "330205",
+      "name": "ST ANTHONY COMMUNITY HOSPITAL",
+      "beds": 60,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 41.2628,
+      "lon": -74.3565,
+      "govt_payer_share": 0.421,
+      "medicare_discharges": 623
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36071",
+      "county_name": "Orange",
+      "state": "NY",
+      "pop_total": 401237,
+      "pop_65_plus": 56715,
+      "distance_to_hub_miles": 11.1
+    },
+    {
+      "county_fips": "36079",
+      "county_name": "Putnam",
+      "state": "NY",
+      "pop_total": 97942,
+      "pop_65_plus": 17900,
+      "distance_to_hub_miles": 24.3
+    }
+  ],
+  "summary": {
+    "total_beds": 1328,
+    "catchment_pop": 499179,
+    "catchment_pop_65_plus": 74615,
+    "catchment_pct_65_plus": 0.1495,
+    "max_catchment_radius_miles": 24.3,
+    "avg_catchment_distance_miles": 13.7,
+    "num_counties": 2,
+    "hospital_employment": 10719,
+    "msa_total_employment": 262208,
+    "hospital_emp_share": 0.0278,
+    "avg_govt_payer_share": 0.3959
+  }
+}

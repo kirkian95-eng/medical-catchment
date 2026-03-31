@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "20460",
+  "cbsa_name": "Durant, OK",
+  "mdi": 0.4522,
+  "bbox": [
+    -97.9,
+    33.0,
+    -94.9,
+    35.0
+  ],
+  "hospitals": [
+    {
+      "facility_id": "370014",
+      "name": "ALLIANCEHEALTH DURANT",
+      "beds": 148,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.0048,
+      "lon": -96.3958,
+      "govt_payer_share": 0.665,
+      "medicare_discharges": 1963
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "40013",
+      "county_name": "Bryan",
+      "state": "OK",
+      "pop_total": 46528,
+      "pop_65_plus": 8148,
+      "distance_to_hub_miles": 8.3
+    },
+    {
+      "county_fips": "40005",
+      "county_name": "Atoka",
+      "state": "OK",
+      "pop_total": 14117,
+      "pop_65_plus": 2619,
+      "distance_to_hub_miles": 32.7
+    },
+    {
+      "county_fips": "40069",
+      "county_name": "Johnston",
+      "state": "OK",
+      "pop_total": 10410,
+      "pop_65_plus": 1956,
+      "distance_to_hub_miles": 26.3
+    }
+  ],
+  "summary": {
+    "total_beds": 148,
+    "catchment_pop": 71055,
+    "catchment_pop_65_plus": 12723,
+    "catchment_pct_65_plus": 0.1791,
+    "max_catchment_radius_miles": 32.7,
+    "avg_catchment_distance_miles": 15.8,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 21302,
+    "hospital_emp_share": 0.0172,
+    "avg_govt_payer_share": 0.6649
+  }
+}

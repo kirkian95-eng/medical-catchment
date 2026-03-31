@@ -1,0 +1,47 @@
+{
+  "cbsa_code": "15860",
+  "cbsa_name": "Ca\u00f1on City, CO",
+  "mdi": 0.4067,
+  "bbox": [
+    -106.73,
+    37.46,
+    -103.73,
+    39.46
+  ],
+  "hospitals": [
+    {
+      "facility_id": "061344",
+      "name": "ST THOMAS MORE HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.4558,
+      "lon": -105.2301,
+      "govt_payer_share": 0.457,
+      "medicare_discharges": 311
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "08043",
+      "county_name": "Fremont",
+      "state": "CO",
+      "pop_total": 49107,
+      "pop_65_plus": 10751,
+      "distance_to_hub_miles": 11.4
+    }
+  ],
+  "summary": {
+    "total_beds": 25,
+    "catchment_pop": 49107,
+    "catchment_pop_65_plus": 10751,
+    "catchment_pct_65_plus": 0.2189,
+    "max_catchment_radius_miles": 11.4,
+    "avg_catchment_distance_miles": 11.4,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 14147,
+    "hospital_emp_share": 0.0172,
+    "avg_govt_payer_share": 0.4572
+  }
+}

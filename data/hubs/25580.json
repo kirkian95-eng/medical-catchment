@@ -1,0 +1,98 @@
+{
+  "cbsa_code": "25580",
+  "cbsa_name": "Hastings, NE",
+  "mdi": 0.6952,
+  "bbox": [
+    -100.03,
+    39.11,
+    -96.89,
+    41.59
+  ],
+  "hospitals": [
+    {
+      "facility_id": "280032",
+      "name": "MARY LANNING HEALTHCARE",
+      "beds": 163,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 40.5927,
+      "lon": -98.3876,
+      "govt_payer_share": 0.399,
+      "medicare_discharges": 879
+    },
+    {
+      "facility_id": "281316",
+      "name": "WEBSTER COUNTY COMMUNITY HOSPITAL",
+      "beds": 13,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 40.108,
+      "lon": -98.5298,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 10
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "31001",
+      "county_name": "Adams",
+      "state": "NE",
+      "pop_total": 31143,
+      "pop_65_plus": 5644,
+      "distance_to_hub_miles": 7.6
+    },
+    {
+      "county_fips": "31035",
+      "county_name": "Clay",
+      "state": "NE",
+      "pop_total": 6088,
+      "pop_65_plus": 1236,
+      "distance_to_hub_miles": 18.3
+    },
+    {
+      "county_fips": "31129",
+      "county_name": "Nuckolls",
+      "state": "NE",
+      "pop_total": 4092,
+      "pop_65_plus": 1126,
+      "distance_to_hub_miles": 33.9
+    },
+    {
+      "county_fips": "20183",
+      "county_name": "Smith",
+      "state": "KS",
+      "pop_total": 3561,
+      "pop_65_plus": 1019,
+      "distance_to_hub_miles": 59.6
+    },
+    {
+      "county_fips": "31181",
+      "county_name": "Webster",
+      "state": "NE",
+      "pop_total": 3410,
+      "pop_65_plus": 770,
+      "distance_to_hub_miles": 29.4
+    },
+    {
+      "county_fips": "20089",
+      "county_name": "Jewell",
+      "state": "KS",
+      "pop_total": 2929,
+      "pop_65_plus": 885,
+      "distance_to_hub_miles": 56.6
+    }
+  ],
+  "summary": {
+    "total_beds": 176,
+    "catchment_pop": 51223,
+    "catchment_pop_65_plus": 10680,
+    "catchment_pct_65_plus": 0.2085,
+    "max_catchment_radius_miles": 59.6,
+    "avg_catchment_distance_miles": 18.8,
+    "num_counties": 6,
+    "hospital_employment": 127,
+    "msa_total_employment": 16676,
+    "hospital_emp_share": 0.0489,
+    "avg_govt_payer_share": 0.4141
+  }
+}

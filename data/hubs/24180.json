@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "24180",
+  "cbsa_name": "Granbury, TX",
+  "mdi": 0.4692,
+  "bbox": [
+    -99.3,
+    31.43,
+    -96.3,
+    33.43
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450596",
+      "name": "LAKE GRANBURY MEDICAL CENTER",
+      "beds": 59,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.4309,
+      "lon": -97.8041,
+      "govt_payer_share": 0.342,
+      "medicare_discharges": 800
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48221",
+      "county_name": "Hood",
+      "state": "TX",
+      "pop_total": 62459,
+      "pop_65_plus": 15761,
+      "distance_to_hub_miles": 1.7
+    },
+    {
+      "county_fips": "48425",
+      "county_name": "Somervell",
+      "state": "TX",
+      "pop_total": 9337,
+      "pop_65_plus": 1721,
+      "distance_to_hub_miles": 14.5
+    }
+  ],
+  "summary": {
+    "total_beds": 59,
+    "catchment_pop": 71796,
+    "catchment_pop_65_plus": 17482,
+    "catchment_pct_65_plus": 0.2435,
+    "max_catchment_radius_miles": 14.5,
+    "avg_catchment_distance_miles": 3.4,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 18034,
+    "hospital_emp_share": 0.0314,
+    "avg_govt_payer_share": 0.3422
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "cbsa_code": "29620",
+  "cbsa_name": "Lansing-East Lansing, MI",
+  "mdi": 0.4068,
+  "bbox": [
+    -86.35,
+    41.51,
+    -83.0,
+    44.01
+  ],
+  "hospitals": [
+    {
+      "facility_id": "230230",
+      "name": "EDWARD W SPARROW HOSPITAL",
+      "beds": 617,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 42.7337,
+      "lon": -84.5354,
+      "govt_payer_share": 0.213,
+      "medicare_discharges": 3671
+    },
+    {
+      "facility_id": "230167",
+      "name": "MCLAREN GREATER LANSING",
+      "beds": 363,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.7015,
+      "lon": -84.4989,
+      "govt_payer_share": 0.278,
+      "medicare_discharges": 2118
+    },
+    {
+      "facility_id": "231324",
+      "name": "EATON RAPIDS MEDICAL CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.5084,
+      "lon": -84.6613,
+      "govt_payer_share": 0.236,
+      "medicare_discharges": 58
+    },
+    {
+      "facility_id": "231326",
+      "name": "SPARROW CLINTON HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Proprietary",
+      "lat": 43.0067,
+      "lon": -84.5792,
+      "govt_payer_share": 0.303,
+      "medicare_discharges": 191
+    },
+    {
+      "facility_id": "231327",
+      "name": "UNIVERSITY OF MICHIGAN HEALTH - SPARROW EATON",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 42.5734,
+      "lon": -84.8457,
+      "govt_payer_share": 0.288,
+      "medicare_discharges": 225
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "26065",
+      "county_name": "Ingham",
+      "state": "MI",
+      "pop_total": 282540,
+      "pop_65_plus": 40219,
+      "distance_to_hub_miles": 11.7
+    },
+    {
+      "county_fips": "26045",
+      "county_name": "Eaton",
+      "state": "MI",
+      "pop_total": 109072,
+      "pop_65_plus": 20988,
+      "distance_to_hub_miles": 17.6
+    },
+    {
+      "county_fips": "26037",
+      "county_name": "Clinton",
+      "state": "MI",
+      "pop_total": 79249,
+      "pop_65_plus": 14116,
+      "distance_to_hub_miles": 15.9
+    }
+  ],
+  "summary": {
+    "total_beds": 1055,
+    "catchment_pop": 470861,
+    "catchment_pop_65_plus": 75323,
+    "catchment_pct_65_plus": 0.16,
+    "max_catchment_radius_miles": 17.6,
+    "avg_catchment_distance_miles": 13.8,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 215404,
+    "hospital_emp_share": 0.0329,
+    "avg_govt_payer_share": 0.2398
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "cbsa_code": "12620",
+  "cbsa_name": "Bangor, ME",
+  "mdi": 0.875,
+  "bbox": [
+    -71.15,
+    43.04,
+    -66.32,
+    47.76
+  ],
+  "hospitals": [
+    {
+      "facility_id": "200033",
+      "name": "NORTHERN LIGHT EASTERN MAINE MEDICAL CENTER",
+      "beds": 411,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.81,
+      "lon": -68.7494,
+      "govt_payer_share": 0.494,
+      "medicare_discharges": 3550
+    },
+    {
+      "facility_id": "200001",
+      "name": "ST JOSEPH HOSPITAL",
+      "beds": 112,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 44.8485,
+      "lon": -68.8504,
+      "govt_payer_share": 0.517,
+      "medicare_discharges": 1181
+    },
+    {
+      "facility_id": "201303",
+      "name": "PENOBSCOT VALLEY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.4455,
+      "lon": -68.5345,
+      "govt_payer_share": 0.537,
+      "medicare_discharges": 86
+    },
+    {
+      "facility_id": "201307",
+      "name": "MILLINOCKET REGIONAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.9958,
+      "lon": -68.9283,
+      "govt_payer_share": 0.397,
+      "medicare_discharges": 111
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "23019",
+      "county_name": "Penobscot",
+      "state": "ME",
+      "pop_total": 152640,
+      "pop_65_plus": 29546,
+      "distance_to_hub_miles": 35.3
+    },
+    {
+      "county_fips": "23003",
+      "county_name": "Aroostook",
+      "state": "ME",
+      "pop_total": 67237,
+      "pop_65_plus": 16847,
+      "distance_to_hub_miles": 122.0
+    },
+    {
+      "county_fips": "23009",
+      "county_name": "Hancock",
+      "state": "ME",
+      "pop_total": 55851,
+      "pop_65_plus": 14335,
+      "distance_to_hub_miles": 30.3
+    },
+    {
+      "county_fips": "23025",
+      "county_name": "Somerset",
+      "state": "ME",
+      "pop_total": 50656,
+      "pop_65_plus": 11250,
+      "distance_to_hub_miles": 72.0
+    },
+    {
+      "county_fips": "23027",
+      "county_name": "Waldo",
+      "state": "ME",
+      "pop_total": 39772,
+      "pop_65_plus": 9497,
+      "distance_to_hub_miles": 33.3
+    },
+    {
+      "county_fips": "23029",
+      "county_name": "Washington",
+      "state": "ME",
+      "pop_total": 31096,
+      "pop_65_plus": 7874,
+      "distance_to_hub_miles": 56.9
+    },
+    {
+      "county_fips": "23021",
+      "county_name": "Piscataquis",
+      "state": "ME",
+      "pop_total": 16936,
+      "pop_65_plus": 4539,
+      "distance_to_hub_miles": 69.7
+    }
+  ],
+  "summary": {
+    "total_beds": 573,
+    "catchment_pop": 414188,
+    "catchment_pop_65_plus": 93888,
+    "catchment_pct_65_plus": 0.2267,
+    "max_catchment_radius_miles": 122.0,
+    "avg_catchment_distance_miles": 56.0,
+    "num_counties": 7,
+    "hospital_employment": 5620,
+    "msa_total_employment": 70445,
+    "hospital_emp_share": 0.0633,
+    "avg_govt_payer_share": 0.4963
+  }
+}

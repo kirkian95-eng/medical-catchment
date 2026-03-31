@@ -1,0 +1,225 @@
+{
+  "cbsa_code": "40900",
+  "cbsa_name": "Sacramento-Roseville-Folsom, CA",
+  "mdi": 0.4158,
+  "bbox": [
+    -123.29,
+    37.46,
+    -118.5,
+    39.91
+  ],
+  "hospitals": [
+    {
+      "facility_id": "050599",
+      "name": "UNIVERSITY OF CALIFORNIA DAVIS MEDICAL CENTER",
+      "beds": 631,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 38.5536,
+      "lon": -121.4567,
+      "govt_payer_share": 0.41,
+      "medicare_discharges": 7897
+    },
+    {
+      "facility_id": "050425",
+      "name": "KAISER FOUNDATION HOSPITAL - SACRAMENTO",
+      "beds": 628,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.5919,
+      "lon": -121.4085,
+      "govt_payer_share": 0.196,
+      "medicare_discharges": 713
+    },
+    {
+      "facility_id": "050108",
+      "name": "SUTTER MEDICAL CENTER, SACRAMENTO",
+      "beds": 523,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.5704,
+      "lon": -121.4699,
+      "govt_payer_share": 0.327,
+      "medicare_discharges": 5466
+    },
+    {
+      "facility_id": "050017",
+      "name": "MERCY GENERAL HOSPITAL",
+      "beds": 419,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.5696,
+      "lon": -121.4531,
+      "govt_payer_share": 0.28,
+      "medicare_discharges": 3145
+    },
+    {
+      "facility_id": "050516",
+      "name": "MERCY SAN JUAN MEDICAL CENTER",
+      "beds": 370,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.6681,
+      "lon": -121.3126,
+      "govt_payer_share": 0.307,
+      "medicare_discharges": 4555
+    },
+    {
+      "facility_id": "050772",
+      "name": "KAISER FOUNDATION HOSPITAL - ROSEVILLE",
+      "beds": 340,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.7463,
+      "lon": -121.2471,
+      "govt_payer_share": 0.149,
+      "medicare_discharges": 640
+    },
+    {
+      "facility_id": "050309",
+      "name": "SUTTER ROSEVILLE MEDICAL CENTER",
+      "beds": 328,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.7672,
+      "lon": -121.2487,
+      "govt_payer_share": 0.379,
+      "medicare_discharges": 7752
+    },
+    {
+      "facility_id": "050674",
+      "name": "KAISER FOUNDATION HOSP SO SACRAMENTO",
+      "beds": 241,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.4718,
+      "lon": -121.4234,
+      "govt_payer_share": 0.213,
+      "medicare_discharges": 809
+    },
+    {
+      "facility_id": "050590",
+      "name": "METHODIST HOSPITAL OF SACRAMENTO",
+      "beds": 158,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.4641,
+      "lon": -121.4168,
+      "govt_payer_share": 0.261,
+      "medicare_discharges": 1594
+    },
+    {
+      "facility_id": "050127",
+      "name": "WOODLAND MEMORIAL HOSPITAL",
+      "beds": 122,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 38.6631,
+      "lon": -121.7934,
+      "govt_payer_share": 0.293,
+      "medicare_discharges": 753
+    },
+    {
+      "facility_id": "050254",
+      "name": "MARSHALL MEDICAL CENTER",
+      "beds": 111,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.7246,
+      "lon": -120.7912,
+      "govt_payer_share": 0.439,
+      "medicare_discharges": 1747
+    },
+    {
+      "facility_id": "050414",
+      "name": "MERCY HOSPITAL OF FOLSOM",
+      "beds": 106,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.6714,
+      "lon": -121.1449,
+      "govt_payer_share": 0.349,
+      "medicare_discharges": 1993
+    },
+    {
+      "facility_id": "050498",
+      "name": "SUTTER AUBURN FAITH HOSPITAL",
+      "beds": 97,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.9113,
+      "lon": -121.0858,
+      "govt_payer_share": 0.441,
+      "medicare_discharges": 1302
+    },
+    {
+      "facility_id": "050352",
+      "name": "BARTON MEMORIAL HOSPITAL",
+      "beds": 64,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.9124,
+      "lon": -119.9987,
+      "govt_payer_share": 0.307,
+      "medicare_discharges": 450
+    },
+    {
+      "facility_id": "050537",
+      "name": "SUTTER DAVIS HOSPITAL",
+      "beds": 48,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.5629,
+      "lon": -121.7725,
+      "govt_payer_share": 0.303,
+      "medicare_discharges": 957
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "06067",
+      "county_name": "Sacramento",
+      "state": "CA",
+      "pop_total": 1579211,
+      "pop_65_plus": 230399,
+      "distance_to_hub_miles": 12.0
+    },
+    {
+      "county_fips": "06113",
+      "county_name": "Yolo",
+      "state": "CA",
+      "pop_total": 217141,
+      "pop_65_plus": 28323,
+      "distance_to_hub_miles": 29.6
+    },
+    {
+      "county_fips": "06017",
+      "county_name": "El Dorado",
+      "state": "CA",
+      "pop_total": 191713,
+      "pop_65_plus": 42605,
+      "distance_to_hub_miles": 46.2
+    },
+    {
+      "county_fips": "06005",
+      "county_name": "Amador",
+      "state": "CA",
+      "pop_total": 40577,
+      "pop_65_plus": 10925,
+      "distance_to_hub_miles": 40.1
+    }
+  ],
+  "summary": {
+    "total_beds": 4186,
+    "catchment_pop": 2028642,
+    "catchment_pop_65_plus": 312252,
+    "catchment_pct_65_plus": 0.1539,
+    "max_catchment_radius_miles": 46.2,
+    "avg_catchment_distance_miles": 17.7,
+    "num_counties": 4,
+    "hospital_employment": 30822,
+    "msa_total_employment": 1060829,
+    "hospital_emp_share": 0.0262,
+    "avg_govt_payer_share": 0.2985
+  }
+}

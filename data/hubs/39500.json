@@ -1,0 +1,103 @@
+{
+  "cbsa_code": "39500",
+  "cbsa_name": "Quincy, IL-MO",
+  "mdi": 0.867,
+  "bbox": [
+    -92.9,
+    38.94,
+    -89.9,
+    40.94
+  ],
+  "hospitals": [
+    {
+      "facility_id": "140015",
+      "name": "BLESSING HOSPITAL",
+      "beds": 312,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9358,
+      "lon": -91.4,
+      "govt_payer_share": 0.365,
+      "medicare_discharges": 4610
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "17001",
+      "county_name": "Adams",
+      "state": "IL",
+      "pop_total": 65583,
+      "pop_65_plus": 13151,
+      "distance_to_hub_miles": 11.8
+    },
+    {
+      "county_fips": "17149",
+      "county_name": "Pike",
+      "state": "IL",
+      "pop_total": 14776,
+      "pop_65_plus": 3174,
+      "distance_to_hub_miles": 34.8
+    },
+    {
+      "county_fips": "29111",
+      "county_name": "Lewis",
+      "state": "MO",
+      "pop_total": 9987,
+      "pop_65_plus": 1869,
+      "distance_to_hub_miles": 20.4
+    },
+    {
+      "county_fips": "17169",
+      "county_name": "Schuyler",
+      "state": "IL",
+      "pop_total": 6879,
+      "pop_65_plus": 1669,
+      "distance_to_hub_miles": 44.2
+    },
+    {
+      "county_fips": "29045",
+      "county_name": "Clark",
+      "state": "MO",
+      "pop_total": 6693,
+      "pop_65_plus": 1380,
+      "distance_to_hub_miles": 37.4
+    },
+    {
+      "county_fips": "17009",
+      "county_name": "Brown",
+      "state": "IL",
+      "pop_total": 6334,
+      "pop_65_plus": 940,
+      "distance_to_hub_miles": 34.5
+    },
+    {
+      "county_fips": "29205",
+      "county_name": "Shelby",
+      "state": "MO",
+      "pop_total": 6049,
+      "pop_65_plus": 1301,
+      "distance_to_hub_miles": 37.1
+    },
+    {
+      "county_fips": "29103",
+      "county_name": "Knox",
+      "state": "MO",
+      "pop_total": 3772,
+      "pop_65_plus": 785,
+      "distance_to_hub_miles": 41.8
+    }
+  ],
+  "summary": {
+    "total_beds": 312,
+    "catchment_pop": 120073,
+    "catchment_pop_65_plus": 24269,
+    "catchment_pct_65_plus": 0.2021,
+    "max_catchment_radius_miles": 44.2,
+    "avg_catchment_distance_miles": 22.0,
+    "num_counties": 8,
+    "hospital_employment": 0,
+    "msa_total_employment": 32284,
+    "hospital_emp_share": 0.0708,
+    "avg_govt_payer_share": 0.365
+  }
+}

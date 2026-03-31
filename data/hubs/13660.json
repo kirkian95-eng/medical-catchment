@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "13660",
+  "cbsa_name": "Big Rapids, MI",
+  "mdi": 0.3725,
+  "bbox": [
+    -86.98,
+    42.69,
+    -83.98,
+    44.69
+  ],
+  "hospitals": [
+    {
+      "facility_id": "230093",
+      "name": "COREWELL HEALTH BIG RAPIDS HOSPITAL",
+      "beds": 74,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.6932,
+      "lon": -85.4751,
+      "govt_payer_share": 0.242,
+      "medicare_discharges": 445
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "26123",
+      "county_name": "Newaygo",
+      "state": "MI",
+      "pop_total": 50130,
+      "pop_65_plus": 9948,
+      "distance_to_hub_miles": 18.9
+    },
+    {
+      "county_fips": "26107",
+      "county_name": "Mecosta",
+      "state": "MI",
+      "pop_total": 40128,
+      "pop_65_plus": 7917,
+      "distance_to_hub_miles": 8.4
+    }
+  ],
+  "summary": {
+    "total_beds": 74,
+    "catchment_pop": 90258,
+    "catchment_pop_65_plus": 17865,
+    "catchment_pct_65_plus": 0.1979,
+    "max_catchment_radius_miles": 18.9,
+    "avg_catchment_distance_miles": 14.2,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 13160,
+    "hospital_emp_share": 0.0248,
+    "avg_govt_payer_share": 0.2421
+  }
+}

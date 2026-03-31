@@ -1,0 +1,90 @@
+{
+  "cbsa_code": "34260",
+  "cbsa_name": "Mountain Home, AR",
+  "mdi": 0.8979,
+  "bbox": [
+    -93.89,
+    35.13,
+    -90.68,
+    37.34
+  ],
+  "hospitals": [
+    {
+      "facility_id": "040027",
+      "name": "BAXTER HEALTH",
+      "beds": 268,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.3429,
+      "lon": -92.394,
+      "govt_payer_share": 0.387,
+      "medicare_discharges": 2995
+    },
+    {
+      "facility_id": "041306",
+      "name": "IZARD REGIONAL HOSPITAL LLC",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.1341,
+      "lon": -92.1803,
+      "govt_payer_share": 0.758,
+      "medicare_discharges": 72
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "05005",
+      "county_name": "Baxter",
+      "state": "AR",
+      "pop_total": 41801,
+      "pop_65_plus": 13003,
+      "distance_to_hub_miles": 3.4
+    },
+    {
+      "county_fips": "05089",
+      "county_name": "Marion",
+      "state": "AR",
+      "pop_total": 16905,
+      "pop_65_plus": 4867,
+      "distance_to_hub_miles": 17.6
+    },
+    {
+      "county_fips": "05049",
+      "county_name": "Fulton",
+      "state": "AR",
+      "pop_total": 12183,
+      "pop_65_plus": 3110,
+      "distance_to_hub_miles": 31.3
+    },
+    {
+      "county_fips": "29153",
+      "county_name": "Ozark",
+      "state": "MO",
+      "pop_total": 8688,
+      "pop_65_plus": 2506,
+      "distance_to_hub_miles": 22.7
+    },
+    {
+      "county_fips": "05129",
+      "county_name": "Searcy",
+      "state": "AR",
+      "pop_total": 7880,
+      "pop_65_plus": 1990,
+      "distance_to_hub_miles": 33.8
+    }
+  ],
+  "summary": {
+    "total_beds": 293,
+    "catchment_pop": 87457,
+    "catchment_pop_65_plus": 25476,
+    "catchment_pct_65_plus": 0.2913,
+    "max_catchment_radius_miles": 33.8,
+    "avg_catchment_distance_miles": 14.7,
+    "num_counties": 5,
+    "hospital_employment": 0,
+    "msa_total_employment": 16074,
+    "hospital_emp_share": 0.0921,
+    "avg_govt_payer_share": 0.419
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "cbsa_code": "30020",
+  "cbsa_name": "Lawton, OK",
+  "mdi": 0.8173,
+  "bbox": [
+    -100.34,
+    33.11,
+    -96.57,
+    36.22
+  ],
+  "hospitals": [
+    {
+      "facility_id": "370056",
+      "name": "COMANCHE COUNTY MEMORIAL HOSPITAL",
+      "beds": 265,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 34.609,
+      "lon": -98.4366,
+      "govt_payer_share": 0.63,
+      "medicare_discharges": 3407
+    },
+    {
+      "facility_id": "370097",
+      "name": "SOUTHWESTERN MEDICAL CENTER",
+      "beds": 199,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.5943,
+      "lon": -98.4613,
+      "govt_payer_share": 0.5,
+      "medicare_discharges": 646
+    },
+    {
+      "facility_id": "370170",
+      "name": "LAWTON INDIAN HOSPITAL",
+      "beds": 26,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Federal",
+      "lat": 34.7283,
+      "lon": -98.4746,
+      "govt_payer_share": 0.529,
+      "medicare_discharges": 76
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "40031",
+      "county_name": "Comanche",
+      "state": "OK",
+      "pop_total": 121777,
+      "pop_65_plus": 15956,
+      "distance_to_hub_miles": 3.9
+    },
+    {
+      "county_fips": "40065",
+      "county_name": "Jackson",
+      "state": "OK",
+      "pop_total": 24776,
+      "pop_65_plus": 3750,
+      "distance_to_hub_miles": 55.0
+    },
+    {
+      "county_fips": "40009",
+      "county_name": "Beckham",
+      "state": "OK",
+      "pop_total": 22295,
+      "pop_65_plus": 3074,
+      "distance_to_hub_miles": 83.4
+    },
+    {
+      "county_fips": "40075",
+      "county_name": "Kiowa",
+      "state": "OK",
+      "pop_total": 8446,
+      "pop_65_plus": 1709,
+      "distance_to_hub_miles": 36.9
+    },
+    {
+      "county_fips": "40141",
+      "county_name": "Tillman",
+      "state": "OK",
+      "pop_total": 7013,
+      "pop_65_plus": 1418,
+      "distance_to_hub_miles": 31.6
+    },
+    {
+      "county_fips": "40033",
+      "county_name": "Cotton",
+      "state": "OK",
+      "pop_total": 5537,
+      "pop_65_plus": 1038,
+      "distance_to_hub_miles": 22.5
+    },
+    {
+      "county_fips": "40055",
+      "county_name": "Greer",
+      "state": "OK",
+      "pop_total": 5531,
+      "pop_65_plus": 945,
+      "distance_to_hub_miles": 67.0
+    },
+    {
+      "county_fips": "40129",
+      "county_name": "Roger Mills",
+      "state": "OK",
+      "pop_total": 3423,
+      "pop_65_plus": 727,
+      "distance_to_hub_miles": 102.6
+    },
+    {
+      "county_fips": "40057",
+      "county_name": "Harmon",
+      "state": "OK",
+      "pop_total": 2499,
+      "pop_65_plus": 485,
+      "distance_to_hub_miles": 80.0
+    }
+  ],
+  "summary": {
+    "total_beds": 490,
+    "catchment_pop": 201297,
+    "catchment_pop_65_plus": 29102,
+    "catchment_pct_65_plus": 0.1446,
+    "max_catchment_radius_miles": 102.6,
+    "avg_catchment_distance_miles": 26.2,
+    "num_counties": 9,
+    "hospital_employment": 627,
+    "msa_total_employment": 40942,
+    "hospital_emp_share": 0.055,
+    "avg_govt_payer_share": 0.5719
+  }
+}

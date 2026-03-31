@@ -1,0 +1,47 @@
+{
+  "cbsa_code": "44300",
+  "cbsa_name": "State College, PA",
+  "mdi": 0.3318,
+  "bbox": [
+    -79.37,
+    39.8,
+    -76.37,
+    41.8
+  ],
+  "hospitals": [
+    {
+      "facility_id": "390268",
+      "name": "MOUNT NITTANY MEDICAL CENTER",
+      "beds": 260,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.8047,
+      "lon": -77.8656,
+      "govt_payer_share": 0.28,
+      "medicare_discharges": 2468
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42027",
+      "county_name": "Centre",
+      "state": "PA",
+      "pop_total": 158665,
+      "pop_65_plus": 23904,
+      "distance_to_hub_miles": 8.2
+    }
+  ],
+  "summary": {
+    "total_beds": 260,
+    "catchment_pop": 158665,
+    "catchment_pop_65_plus": 23904,
+    "catchment_pct_65_plus": 0.1507,
+    "max_catchment_radius_miles": 8.2,
+    "avg_catchment_distance_miles": 8.2,
+    "num_counties": 1,
+    "hospital_employment": 2265,
+    "msa_total_employment": 68463,
+    "hospital_emp_share": 0.0236,
+    "avg_govt_payer_share": 0.2801
+  }
+}

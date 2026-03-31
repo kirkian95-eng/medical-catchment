@@ -1,0 +1,135 @@
+{
+  "cbsa_code": "12540",
+  "cbsa_name": "Bakersfield-Delano, CA",
+  "mdi": 0.3873,
+  "bbox": [
+    -120.74,
+    34.1,
+    -116.18,
+    36.76
+  ],
+  "hospitals": [
+    {
+      "facility_id": "050036",
+      "name": "BAKERSFIELD MEMORIAL HOSPITAL",
+      "beds": 421,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.3906,
+      "lon": -119.0069,
+      "govt_payer_share": 0.342,
+      "medicare_discharges": 3094
+    },
+    {
+      "facility_id": "050455",
+      "name": "ADVENTIST HEALTH BAKERSFIELD",
+      "beds": 255,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.3834,
+      "lon": -119.0189,
+      "govt_payer_share": 0.267,
+      "medicare_discharges": 2696
+    },
+    {
+      "facility_id": "050315",
+      "name": "KERN MEDICAL CENTER",
+      "beds": 222,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.382,
+      "lon": -118.9675,
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 935
+    },
+    {
+      "facility_id": "050295",
+      "name": "MERCY HOSPITAL",
+      "beds": 211,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 35.3733,
+      "lon": -119.0276,
+      "govt_payer_share": 0.294,
+      "medicare_discharges": 2077
+    },
+    {
+      "facility_id": "050608",
+      "name": "ADVENTIST HEALTH DELANO",
+      "beds": 156,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.7615,
+      "lon": -119.2394,
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 370
+    },
+    {
+      "facility_id": "051333",
+      "name": "RIDGECREST REGIONAL HOSPITAL",
+      "beds": 72,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.5824,
+      "lon": -117.6836,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 537
+    },
+    {
+      "facility_id": "050257",
+      "name": "GOOD SAMARITAN HOSPITAL",
+      "beds": 64,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.5475,
+      "lon": -118.9469,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 392
+    },
+    {
+      "facility_id": "051314",
+      "name": "KERN VALLEY HEALTHCARE DISTRICT",
+      "beds": 27,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.6175,
+      "lon": -118.4523,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 94
+    },
+    {
+      "facility_id": "051301",
+      "name": "ADVENTIST HEALTH TEHACHAPI VALLEY",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.0987,
+      "lon": -118.5167,
+      "govt_payer_share": 0.379,
+      "medicare_discharges": 268
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "06029",
+      "county_name": "Kern",
+      "state": "CA",
+      "pop_total": 906883,
+      "pop_65_plus": 102703,
+      "distance_to_hub_miles": 13.8
+    }
+  ],
+  "summary": {
+    "total_beds": 1453,
+    "catchment_pop": 906883,
+    "catchment_pop_65_plus": 102703,
+    "catchment_pct_65_plus": 0.1132,
+    "max_catchment_radius_miles": 13.8,
+    "avg_catchment_distance_miles": 13.8,
+    "num_counties": 1,
+    "hospital_employment": 9980,
+    "msa_total_employment": 343323,
+    "hospital_emp_share": 0.023,
+    "avg_govt_payer_share": 0.3499
+  }
+}

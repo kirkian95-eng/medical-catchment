@@ -1,0 +1,128 @@
+{
+  "cbsa_code": "29100",
+  "cbsa_name": "La Crosse-Onalaska, WI-MN",
+  "mdi": 0.8061,
+  "bbox": [
+    -92.75,
+    42.53,
+    -88.92,
+    44.8
+  ],
+  "hospitals": [
+    {
+      "facility_id": "520004",
+      "name": "MAYO CLINIC HEALTH SYSTEM-FRANCISCAN MEDICAL CENTER INC",
+      "beds": 345,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.8041,
+      "lon": -91.2396,
+      "govt_payer_share": 0.461,
+      "medicare_discharges": 1539
+    },
+    {
+      "facility_id": "520087",
+      "name": "GUNDERSEN LUTHERAN MEDICAL CENTER",
+      "beds": 325,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.7945,
+      "lon": -91.2459,
+      "govt_payer_share": 0.344,
+      "medicare_discharges": 2522
+    },
+    {
+      "facility_id": "521304",
+      "name": "GUNDERSEN ST JOSEPHS HOSPITAL AND CLINICS",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.5817,
+      "lon": -90.4224,
+      "govt_payer_share": 0.43,
+      "medicare_discharges": 49
+    },
+    {
+      "facility_id": "521348",
+      "name": "VERNON MEMORIAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.532,
+      "lon": -90.9286,
+      "govt_payer_share": 0.353,
+      "medicare_discharges": 232
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "55063",
+      "county_name": "La Crosse",
+      "state": "WI",
+      "pop_total": 120216,
+      "pop_65_plus": 20543,
+      "distance_to_hub_miles": 9.6
+    },
+    {
+      "county_fips": "55123",
+      "county_name": "Vernon",
+      "state": "WI",
+      "pop_total": 30811,
+      "pop_65_plus": 6246,
+      "distance_to_hub_miles": 22.6
+    },
+    {
+      "county_fips": "55121",
+      "county_name": "Trempealeau",
+      "state": "WI",
+      "pop_total": 30679,
+      "pop_65_plus": 5745,
+      "distance_to_hub_miles": 36.9
+    },
+    {
+      "county_fips": "19191",
+      "county_name": "Winneshiek",
+      "state": "IA",
+      "pop_total": 20050,
+      "pop_65_plus": 4465,
+      "distance_to_hub_miles": 46.7
+    },
+    {
+      "county_fips": "27055",
+      "county_name": "Houston",
+      "state": "MN",
+      "pop_total": 18826,
+      "pop_65_plus": 4166,
+      "distance_to_hub_miles": 16.4
+    },
+    {
+      "county_fips": "55023",
+      "county_name": "Crawford",
+      "state": "WI",
+      "pop_total": 16123,
+      "pop_65_plus": 3899,
+      "distance_to_hub_miles": 39.9
+    },
+    {
+      "county_fips": "19005",
+      "county_name": "Allamakee",
+      "state": "IA",
+      "pop_total": 14046,
+      "pop_65_plus": 3190,
+      "distance_to_hub_miles": 35.6
+    }
+  ],
+  "summary": {
+    "total_beds": 720,
+    "catchment_pop": 250751,
+    "catchment_pop_65_plus": 48254,
+    "catchment_pct_65_plus": 0.1924,
+    "max_catchment_radius_miles": 46.7,
+    "avg_catchment_distance_miles": 21.4,
+    "num_counties": 7,
+    "hospital_employment": 8341,
+    "msa_total_employment": 77670,
+    "hospital_emp_share": 0.0566,
+    "avg_govt_payer_share": 0.4036
+  }
+}

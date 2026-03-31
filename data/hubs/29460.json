@@ -1,0 +1,91 @@
+{
+  "cbsa_code": "29460",
+  "cbsa_name": "Lakeland-Winter Haven, FL",
+  "mdi": 0.4265,
+  "bbox": [
+    -83.45,
+    26.88,
+    -80.09,
+    29.18
+  ],
+  "hospitals": [
+    {
+      "facility_id": "100157",
+      "name": "LAKELAND REGIONAL MEDICAL CENTER",
+      "beds": 892,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.0616,
+      "lon": -81.9534,
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 9037
+    },
+    {
+      "facility_id": "100052",
+      "name": "WINTER HAVEN HOSPITAL",
+      "beds": 508,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.0276,
+      "lon": -81.7267,
+      "govt_payer_share": 0.308,
+      "medicare_discharges": 3527
+    },
+    {
+      "facility_id": "100137",
+      "name": "ADVENTHEALTH HEART OF FLORIDA",
+      "beds": 268,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 28.1842,
+      "lon": -81.6401,
+      "govt_payer_share": 0.184,
+      "medicare_discharges": 1447
+    },
+    {
+      "facility_id": "100099",
+      "name": "ADVENTHEALTH LAKE WALES",
+      "beds": 118,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 27.9008,
+      "lon": -81.5857,
+      "govt_payer_share": 0.229,
+      "medicare_discharges": 778
+    },
+    {
+      "facility_id": "100121",
+      "name": "BARTOW REGIONAL MEDICAL CENTER",
+      "beds": 72,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 27.8832,
+      "lon": -81.811,
+      "govt_payer_share": 0.28,
+      "medicare_discharges": 573
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "12105",
+      "county_name": "Polk",
+      "state": "FL",
+      "pop_total": 736229,
+      "pop_65_plus": 146515,
+      "distance_to_hub_miles": 10.3
+    }
+  ],
+  "summary": {
+    "total_beds": 1858,
+    "catchment_pop": 736229,
+    "catchment_pop_65_plus": 146515,
+    "catchment_pct_65_plus": 0.199,
+    "max_catchment_radius_miles": 10.3,
+    "avg_catchment_distance_miles": 10.3,
+    "num_counties": 1,
+    "hospital_employment": 9592,
+    "msa_total_employment": 258740,
+    "hospital_emp_share": 0.0334,
+    "avg_govt_payer_share": 0.2867
+  }
+}

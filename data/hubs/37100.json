@@ -1,0 +1,102 @@
+{
+  "cbsa_code": "37100",
+  "cbsa_name": "Oxnard-Thousand Oaks-Ventura, CA",
+  "mdi": 0.4529,
+  "bbox": [
+    -120.76,
+    33.21,
+    -117.27,
+    35.51
+  ],
+  "hospitals": [
+    {
+      "facility_id": "050549",
+      "name": "LOS ROBLES HOSPITAL & MEDICAL CENTER",
+      "beds": 273,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.2066,
+      "lon": -118.8825,
+      "govt_payer_share": 0.472,
+      "medicare_discharges": 6421
+    },
+    {
+      "facility_id": "050159",
+      "name": "VENTURA COUNTY MEDICAL CENTER",
+      "beds": 272,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 34.2784,
+      "lon": -119.2543,
+      "govt_payer_share": 0.432,
+      "medicare_discharges": 1699
+    },
+    {
+      "facility_id": "050082",
+      "name": "ST JOHNS REGIONAL MEDICAL CENTER",
+      "beds": 265,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.2176,
+      "lon": -119.1582,
+      "govt_payer_share": 0.412,
+      "medicare_discharges": 4411
+    },
+    {
+      "facility_id": "050394",
+      "name": "COMMUNITY MEMORIAL HOSPITAL - VENTURA",
+      "beds": 242,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.2741,
+      "lon": -119.2573,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 3130
+    },
+    {
+      "facility_id": "050236",
+      "name": "ADVENTIST HEALTH SIMI VALLEY",
+      "beds": 149,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.2624,
+      "lon": -118.7722,
+      "govt_payer_share": 0.435,
+      "medicare_discharges": 2433
+    },
+    {
+      "facility_id": "051334",
+      "name": "COMMUNITY MEMORIAL HOSPITAL - OJAI",
+      "beds": 91,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.5091,
+      "lon": -119.2519,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 75
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "06111",
+      "county_name": "Ventura",
+      "state": "CA",
+      "pop_total": 842009,
+      "pop_65_plus": 137596,
+      "distance_to_hub_miles": 6.6
+    }
+  ],
+  "summary": {
+    "total_beds": 1292,
+    "catchment_pop": 842009,
+    "catchment_pop_65_plus": 137596,
+    "catchment_pct_65_plus": 0.1634,
+    "max_catchment_radius_miles": 6.6,
+    "avg_catchment_distance_miles": 6.6,
+    "num_counties": 1,
+    "hospital_employment": 10506,
+    "msa_total_employment": 330058,
+    "hospital_emp_share": 0.023,
+    "avg_govt_payer_share": 0.4799
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "cbsa_code": "16580",
+  "cbsa_name": "Champaign-Urbana, IL",
+  "mdi": 0.5889,
+  "bbox": [
+    -90.08,
+    39.03,
+    -86.71,
+    41.48
+  ],
+  "hospitals": [
+    {
+      "facility_id": "140091",
+      "name": "CARLE FOUNDATION HOSPITAL",
+      "beds": 316,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.1173,
+      "lon": -88.2151,
+      "govt_payer_share": 0.29,
+      "medicare_discharges": 5870
+    },
+    {
+      "facility_id": "140113",
+      "name": "OSF HEART OF MARY MEDICAL CENTER",
+      "beds": 268,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 40.1095,
+      "lon": -88.211,
+      "govt_payer_share": 0.296,
+      "medicare_discharges": 809
+    },
+    {
+      "facility_id": "141317",
+      "name": "GIBSON COMMUNITY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.4779,
+      "lon": -88.3706,
+      "govt_payer_share": 0.534,
+      "medicare_discharges": 337
+    },
+    {
+      "facility_id": "141301",
+      "name": "KIRBY MEDICAL CENTER",
+      "beds": 16,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.0293,
+      "lon": -88.5837,
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 54
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "17019",
+      "county_name": "Champaign",
+      "state": "IL",
+      "pop_total": 206525,
+      "pop_65_plus": 27749,
+      "distance_to_hub_miles": 1.3
+    },
+    {
+      "county_fips": "17041",
+      "county_name": "Douglas",
+      "state": "IL",
+      "pop_total": 19714,
+      "pop_65_plus": 3654,
+      "distance_to_hub_miles": 24.8
+    },
+    {
+      "county_fips": "17147",
+      "county_name": "Piatt",
+      "state": "IL",
+      "pop_total": 16698,
+      "pop_65_plus": 3383,
+      "distance_to_hub_miles": 21.2
+    },
+    {
+      "county_fips": "17053",
+      "county_name": "Ford",
+      "state": "IL",
+      "pop_total": 13484,
+      "pop_65_plus": 2524,
+      "distance_to_hub_miles": 32.4
+    }
+  ],
+  "summary": {
+    "total_beds": 625,
+    "catchment_pop": 256421,
+    "catchment_pop_65_plus": 37310,
+    "catchment_pct_65_plus": 0.1455,
+    "max_catchment_radius_miles": 32.4,
+    "avg_catchment_distance_miles": 6.0,
+    "num_counties": 4,
+    "hospital_employment": 7229,
+    "msa_total_employment": 104772,
+    "hospital_emp_share": 0.0458,
+    "avg_govt_payer_share": 0.3037
+  }
+}

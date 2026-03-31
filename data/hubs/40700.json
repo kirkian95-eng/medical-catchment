@@ -1,0 +1,58 @@
+{
+  "cbsa_code": "40700",
+  "cbsa_name": "Roseburg, OR",
+  "mdi": 0.4074,
+  "bbox": [
+    -125.41,
+    42.24,
+    -121.87,
+    44.74
+  ],
+  "hospitals": [
+    {
+      "facility_id": "380027",
+      "name": "MERCY MEDICAL CENTER",
+      "beds": 174,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 43.24,
+      "lon": -123.3667,
+      "govt_payer_share": 0.302,
+      "medicare_discharges": 1433
+    },
+    {
+      "facility_id": "381311",
+      "name": "LOWER UMPQUA HOSPITAL DISTRICT",
+      "beds": 24,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 43.7389,
+      "lon": -123.9079,
+      "govt_payer_share": 0.562,
+      "medicare_discharges": 102
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "41019",
+      "county_name": "Douglas",
+      "state": "OR",
+      "pop_total": 111322,
+      "pop_65_plus": 28899,
+      "distance_to_hub_miles": 9.9
+    }
+  ],
+  "summary": {
+    "total_beds": 198,
+    "catchment_pop": 111322,
+    "catchment_pop_65_plus": 28899,
+    "catchment_pct_65_plus": 0.2596,
+    "max_catchment_radius_miles": 9.9,
+    "avg_catchment_distance_miles": 9.9,
+    "num_counties": 1,
+    "hospital_employment": 836,
+    "msa_total_employment": 38662,
+    "hospital_emp_share": 0.0256,
+    "avg_govt_payer_share": 0.3337
+  }
+}

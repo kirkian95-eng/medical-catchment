@@ -1,0 +1,115 @@
+{
+  "cbsa_code": "42540",
+  "cbsa_name": "Scranton--Wilkes-Barre, PA",
+  "mdi": 0.3742,
+  "bbox": [
+    -77.46,
+    39.95,
+    -74.13,
+    42.46
+  ],
+  "hospitals": [
+    {
+      "facility_id": "390270",
+      "name": "GEISINGER WYOMING VALLEY MEDICAL CENTER",
+      "beds": 356,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.2527,
+      "lon": -75.8091,
+      "govt_payer_share": 0.279,
+      "medicare_discharges": 4702
+    },
+    {
+      "facility_id": "390237",
+      "name": "REGIONAL HOSPITAL OF SCRANTON",
+      "beds": 308,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.4128,
+      "lon": -75.654,
+      "govt_payer_share": 0.391,
+      "medicare_discharges": 2877
+    },
+    {
+      "facility_id": "390001",
+      "name": "GEISINGER-COMMUNITY MEDICAL CENTER",
+      "beds": 294,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.401,
+      "lon": -75.6464,
+      "govt_payer_share": 0.351,
+      "medicare_discharges": 4688
+    },
+    {
+      "facility_id": "390185",
+      "name": "LEHIGH VALLEY HOSPITAL - HAZLETON",
+      "beds": 150,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 40.9499,
+      "lon": -75.9627,
+      "govt_payer_share": 0.42,
+      "medicare_discharges": 1650
+    },
+    {
+      "facility_id": "390338",
+      "name": "LEHIGH VALLEY HOSPITAL - DICKSON CITY",
+      "beds": 24,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.462,
+      "lon": -75.6306,
+      "govt_payer_share": 0.375,
+      "medicare_discharges": 825
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42079",
+      "county_name": "Luzerne",
+      "state": "PA",
+      "pop_total": 325396,
+      "pop_65_plus": 64551,
+      "distance_to_hub_miles": 15.2
+    },
+    {
+      "county_fips": "42069",
+      "county_name": "Lackawanna",
+      "state": "PA",
+      "pop_total": 215672,
+      "pop_65_plus": 43161,
+      "distance_to_hub_miles": 12.0
+    },
+    {
+      "county_fips": "42127",
+      "county_name": "Wayne",
+      "state": "PA",
+      "pop_total": 51227,
+      "pop_65_plus": 12609,
+      "distance_to_hub_miles": 33.4
+    },
+    {
+      "county_fips": "42131",
+      "county_name": "Wyoming",
+      "state": "PA",
+      "pop_total": 26219,
+      "pop_65_plus": 5751,
+      "distance_to_hub_miles": 20.9
+    }
+  ],
+  "summary": {
+    "total_beds": 1132,
+    "catchment_pop": 618514,
+    "catchment_pop_65_plus": 126072,
+    "catchment_pct_65_plus": 0.2038,
+    "max_catchment_radius_miles": 33.4,
+    "avg_catchment_distance_miles": 15.8,
+    "num_counties": 4,
+    "hospital_employment": 9214,
+    "msa_total_employment": 241284,
+    "hospital_emp_share": 0.0245,
+    "avg_govt_payer_share": 0.3489
+  }
+}

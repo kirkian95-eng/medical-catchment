@@ -1,0 +1,87 @@
+{
+  "cbsa_code": "28500",
+  "cbsa_name": "Kerrville, TX",
+  "mdi": 0.5579,
+  "bbox": [
+    -100.65,
+    29.04,
+    -97.65,
+    31.04
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450007",
+      "name": "PETERSON REGIONAL MEDICAL CENTER",
+      "beds": 124,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 30.0434,
+      "lon": -99.1509,
+      "govt_payer_share": 0.36,
+      "medicare_discharges": 1719
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48265",
+      "county_name": "Kerr",
+      "state": "TX",
+      "pop_total": 52810,
+      "pop_65_plus": 14760,
+      "distance_to_hub_miles": 11.9
+    },
+    {
+      "county_fips": "48171",
+      "county_name": "Gillespie",
+      "state": "TX",
+      "pop_total": 26953,
+      "pop_65_plus": 7810,
+      "distance_to_hub_miles": 22.6
+    },
+    {
+      "county_fips": "48019",
+      "county_name": "Bandera",
+      "state": "TX",
+      "pop_total": 21182,
+      "pop_65_plus": 5919,
+      "distance_to_hub_miles": 21.3
+    },
+    {
+      "county_fips": "48267",
+      "county_name": "Kimble",
+      "state": "TX",
+      "pop_total": 4316,
+      "pop_65_plus": 1209,
+      "distance_to_hub_miles": 47.0
+    },
+    {
+      "county_fips": "48319",
+      "county_name": "Mason",
+      "state": "TX",
+      "pop_total": 3959,
+      "pop_65_plus": 1235,
+      "distance_to_hub_miles": 46.8
+    },
+    {
+      "county_fips": "48385",
+      "county_name": "Real",
+      "state": "TX",
+      "pop_total": 2830,
+      "pop_65_plus": 966,
+      "distance_to_hub_miles": 42.8
+    }
+  ],
+  "summary": {
+    "total_beds": 124,
+    "catchment_pop": 112050,
+    "catchment_pop_65_plus": 31899,
+    "catchment_pct_65_plus": 0.2847,
+    "max_catchment_radius_miles": 47.0,
+    "avg_catchment_distance_miles": 19.6,
+    "num_counties": 6,
+    "hospital_employment": 379,
+    "msa_total_employment": 19106,
+    "hospital_emp_share": 0.0419,
+    "avg_govt_payer_share": 0.36
+  }
+}

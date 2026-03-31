@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "17380",
+  "cbsa_name": "Cleveland, MS",
+  "mdi": 0.5272,
+  "bbox": [
+    -92.21,
+    32.75,
+    -89.21,
+    34.75
+  ],
+  "hospitals": [
+    {
+      "facility_id": "250093",
+      "name": "BOLIVAR MEDICAL CENTER",
+      "beds": 165,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.7476,
+      "lon": -90.7083,
+      "govt_payer_share": 0.449,
+      "medicare_discharges": 751
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "28011",
+      "county_name": "Bolivar",
+      "state": "MS",
+      "pop_total": 30688,
+      "pop_65_plus": 5031,
+      "distance_to_hub_miles": 10.5
+    },
+    {
+      "county_fips": "28133",
+      "county_name": "Sunflower",
+      "state": "MS",
+      "pop_total": 25867,
+      "pop_65_plus": 3729,
+      "distance_to_hub_miles": 12.2
+    },
+    {
+      "county_fips": "28027",
+      "county_name": "Coahoma",
+      "state": "MS",
+      "pop_total": 21264,
+      "pop_65_plus": 3359,
+      "distance_to_hub_miles": 33.9
+    }
+  ],
+  "summary": {
+    "total_beds": 165,
+    "catchment_pop": 77819,
+    "catchment_pop_65_plus": 12119,
+    "catchment_pct_65_plus": 0.1557,
+    "max_catchment_radius_miles": 33.9,
+    "avg_catchment_distance_miles": 17.5,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 10623,
+    "hospital_emp_share": 0.0314,
+    "avg_govt_payer_share": 0.449
+  }
+}

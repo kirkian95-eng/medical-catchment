@@ -1,0 +1,85 @@
+{
+  "cbsa_code": "32620",
+  "cbsa_name": "McComb, MS",
+  "mdi": 0.8586,
+  "bbox": [
+    -91.97,
+    30.11,
+    -88.63,
+    32.25
+  ],
+  "hospitals": [
+    {
+      "facility_id": "250097",
+      "name": "SOUTHWEST MS REGIONAL MEDICAL CENTER",
+      "beds": 160,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 31.2523,
+      "lon": -90.4724,
+      "govt_payer_share": 0.52,
+      "medicare_discharges": 1292
+    },
+    {
+      "facility_id": "251324",
+      "name": "WALTHALL COUNTY GENERAL HOSPITAL CAH",
+      "beds": 35,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 31.1247,
+      "lon": -90.1262,
+      "govt_payer_share": 0.879,
+      "medicare_discharges": 71
+    },
+    {
+      "facility_id": "250049",
+      "name": "BEACHAM MEMORIAL HOSPITAL",
+      "beds": 31,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 31.1111,
+      "lon": -90.4653,
+      "govt_payer_share": 0.883,
+      "medicare_discharges": 102
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "28113",
+      "county_name": "Pike",
+      "state": "MS",
+      "pop_total": 40098,
+      "pop_65_plus": 6897,
+      "distance_to_hub_miles": 2.8
+    },
+    {
+      "county_fips": "28147",
+      "county_name": "Walthall",
+      "state": "MS",
+      "pop_total": 13888,
+      "pop_65_plus": 2761,
+      "distance_to_hub_miles": 19.0
+    },
+    {
+      "county_fips": "28005",
+      "county_name": "Amite",
+      "state": "MS",
+      "pop_total": 12683,
+      "pop_65_plus": 3116,
+      "distance_to_hub_miles": 23.0
+    }
+  ],
+  "summary": {
+    "total_beds": 226,
+    "catchment_pop": 66669,
+    "catchment_pop_65_plus": 12774,
+    "catchment_pct_65_plus": 0.1916,
+    "max_catchment_radius_miles": 23.0,
+    "avg_catchment_distance_miles": 10.0,
+    "num_counties": 3,
+    "hospital_employment": 999,
+    "msa_total_employment": 17152,
+    "hospital_emp_share": 0.0539,
+    "avg_govt_payer_share": 0.6251
+  }
+}

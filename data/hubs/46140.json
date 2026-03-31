@@ -1,0 +1,337 @@
+{
+  "cbsa_code": "46140",
+  "cbsa_name": "Tulsa, OK",
+  "mdi": 0.5614,
+  "bbox": [
+    -98.14,
+    34.44,
+    -93.89,
+    37.8
+  ],
+  "hospitals": [
+    {
+      "facility_id": "370091",
+      "name": "SAINT FRANCIS HOSPITAL, INC",
+      "beds": 1088,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.0752,
+      "lon": -95.922,
+      "govt_payer_share": 0.521,
+      "medicare_discharges": 9525
+    },
+    {
+      "facility_id": "370114",
+      "name": "ASCENSION ST JOHN MEDICAL CENTER",
+      "beds": 703,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.1341,
+      "lon": -95.9671,
+      "govt_payer_share": 0.406,
+      "medicare_discharges": 5525
+    },
+    {
+      "facility_id": "370001",
+      "name": "HILLCREST MEDICAL CENTER",
+      "beds": 620,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.1465,
+      "lon": -95.9671,
+      "govt_payer_share": 0.492,
+      "medicare_discharges": 4412
+    },
+    {
+      "facility_id": "370078",
+      "name": "OKLAHOMA STATE UNIVERSITY MEDICAL CENTER",
+      "beds": 195,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 36.1469,
+      "lon": -96.0001,
+      "govt_payer_share": 0.564,
+      "medicare_discharges": 1319
+    },
+    {
+      "facility_id": "370202",
+      "name": "HILLCREST HOSPITAL SOUTH",
+      "beds": 180,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.0359,
+      "lon": -95.8646,
+      "govt_payer_share": 0.448,
+      "medicare_discharges": 2423
+    },
+    {
+      "facility_id": "370218",
+      "name": "SAINT FRANCIS HOSPITAL SOUTH, LLC",
+      "beds": 104,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.0332,
+      "lon": -95.858,
+      "govt_payer_share": 0.453,
+      "medicare_discharges": 1531
+    },
+    {
+      "facility_id": "370166",
+      "name": "WAGONER COMMUNITY HOSPITAL",
+      "beds": 100,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.9674,
+      "lon": -95.393,
+      "govt_payer_share": 0.717,
+      "medicare_discharges": 248
+    },
+    {
+      "facility_id": "370210",
+      "name": "OKLAHOMA SURGICAL HOSPITAL, LLC",
+      "beds": 75,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 36.0224,
+      "lon": -95.9306,
+      "govt_payer_share": 0.442,
+      "medicare_discharges": 612
+    },
+    {
+      "facility_id": "370228",
+      "name": "BAILEY MEDICAL CENTER, LLC",
+      "beds": 73,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.3067,
+      "lon": -95.8471,
+      "govt_payer_share": 0.457,
+      "medicare_discharges": 183
+    },
+    {
+      "facility_id": "370057",
+      "name": "MUSCOGEE (CREEK) NATION MEDICAL CENTER",
+      "beds": 66,
+      "type": "Acute Care Hospitals",
+      "ownership": "Tribal",
+      "lat": 35.6497,
+      "lon": -96.0122,
+      "govt_payer_share": 0.468,
+      "medicare_discharges": 112
+    },
+    {
+      "facility_id": "370235",
+      "name": "ASCENSION ST JOHN BROKEN ARROW",
+      "beds": 62,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.0514,
+      "lon": -95.8057,
+      "govt_payer_share": 0.38,
+      "medicare_discharges": 473
+    },
+    {
+      "facility_id": "370173",
+      "name": "CLAREMORE INDIAN HOSPITAL",
+      "beds": 60,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Federal",
+      "lat": 36.3162,
+      "lon": -95.6283,
+      "govt_payer_share": 0.528,
+      "medicare_discharges": 68
+    },
+    {
+      "facility_id": "370227",
+      "name": "ST JOHN OWASSO",
+      "beds": 54,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.2989,
+      "lon": -95.8351,
+      "govt_payer_share": 0.398,
+      "medicare_discharges": 347
+    },
+    {
+      "facility_id": "370039",
+      "name": "HILLCREST HOSPITAL CLAREMORE",
+      "beds": 49,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.3221,
+      "lon": -95.6052,
+      "govt_payer_share": 0.536,
+      "medicare_discharges": 506
+    },
+    {
+      "facility_id": "370183",
+      "name": "HILLCREST HOSPITAL HENRYETTA",
+      "beds": 41,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.4365,
+      "lon": -95.9272,
+      "govt_payer_share": 0.647,
+      "medicare_discharges": 105
+    },
+    {
+      "facility_id": "370244",
+      "name": "COUNCIL OAK COMPREHENSIVE HEALTHCARE",
+      "beds": 40,
+      "type": "Acute Care Hospitals",
+      "ownership": "Tribal",
+      "lat": 36.0393,
+      "lon": -95.8775,
+      "govt_payer_share": 0.341,
+      "medicare_discharges": 14
+    },
+    {
+      "facility_id": "370216",
+      "name": "TULSA SPINE & SPECIALTY HOSPITAL",
+      "beds": 38,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.0488,
+      "lon": -96.0167,
+      "govt_payer_share": 0.368,
+      "medicare_discharges": 280
+    },
+    {
+      "facility_id": "371309",
+      "name": "PAWHUSKA HOSPITAL, INC",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.7953,
+      "lon": -96.3309,
+      "govt_payer_share": 0.731,
+      "medicare_discharges": 65
+    },
+    {
+      "facility_id": "371312",
+      "name": "ASCENSION ST JOHN SAPULPA",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.9944,
+      "lon": -96.1702,
+      "govt_payer_share": 0.451,
+      "medicare_discharges": 98
+    },
+    {
+      "facility_id": "371318",
+      "name": "RURAL WELLNESS FAIRFAX HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.6028,
+      "lon": -96.6439,
+      "govt_payer_share": 0.489,
+      "medicare_discharges": 43
+    },
+    {
+      "facility_id": "371331",
+      "name": "DRUMRIGHT REGIONAL HOSPITAL",
+      "beds": 15,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 35.9845,
+      "lon": -96.565,
+      "govt_payer_share": 0.721,
+      "medicare_discharges": 60
+    },
+    {
+      "facility_id": "371320",
+      "name": "CLEVELAND AREA HOSPITAL",
+      "beds": 14,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 36.2462,
+      "lon": -96.4207,
+      "govt_payer_share": 0.825,
+      "medicare_discharges": 27
+    },
+    {
+      "facility_id": "370246",
+      "name": "CARRUS LAKESIDE HOSPITAL",
+      "beds": 4,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.8081,
+      "lon": -96.3621,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "40143",
+      "county_name": "Tulsa",
+      "state": "OK",
+      "pop_total": 668923,
+      "pop_65_plus": 99114,
+      "distance_to_hub_miles": 1.7
+    },
+    {
+      "county_fips": "40131",
+      "county_name": "Rogers",
+      "state": "OK",
+      "pop_total": 95870,
+      "pop_65_plus": 15976,
+      "distance_to_hub_miles": 25.6
+    },
+    {
+      "county_fips": "40037",
+      "county_name": "Creek",
+      "state": "OK",
+      "pop_total": 72076,
+      "pop_65_plus": 13016,
+      "distance_to_hub_miles": 28.7
+    },
+    {
+      "county_fips": "40113",
+      "county_name": "Osage",
+      "state": "OK",
+      "pop_total": 46004,
+      "pop_65_plus": 9411,
+      "distance_to_hub_miles": 45.0
+    },
+    {
+      "county_fips": "40097",
+      "county_name": "Mayes",
+      "state": "OK",
+      "pop_total": 39324,
+      "pop_65_plus": 7294,
+      "distance_to_hub_miles": 40.8
+    },
+    {
+      "county_fips": "40111",
+      "county_name": "Okmulgee",
+      "state": "OK",
+      "pop_total": 36900,
+      "pop_65_plus": 6795,
+      "distance_to_hub_miles": 31.6
+    },
+    {
+      "county_fips": "40107",
+      "county_name": "Okfuskee",
+      "state": "OK",
+      "pop_total": 11349,
+      "pop_65_plus": 2045,
+      "distance_to_hub_miles": 49.4
+    }
+  ],
+  "summary": {
+    "total_beds": 3656,
+    "catchment_pop": 970446,
+    "catchment_pop_65_plus": 153651,
+    "catchment_pct_65_plus": 0.1583,
+    "max_catchment_radius_miles": 49.4,
+    "avg_catchment_distance_miles": 11.4,
+    "num_counties": 7,
+    "hospital_employment": 18055,
+    "msa_total_employment": 446422,
+    "hospital_emp_share": 0.035,
+    "avg_govt_payer_share": 0.4887
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "27780",
+  "cbsa_name": "Johnstown, PA",
+  "mdi": 0.4901,
+  "bbox": [
+    -80.42,
+    39.31,
+    -77.23,
+    41.69
+  ],
+  "hospitals": [
+    {
+      "facility_id": "390110",
+      "name": "CONEMAUGH MEMORIAL MEDICAL CENTER",
+      "beds": 486,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.3051,
+      "lon": -78.9186,
+      "govt_payer_share": 0.164,
+      "medicare_discharges": 2046
+    },
+    {
+      "facility_id": "391317",
+      "name": "CONEMAUGH MINERS MEDICAL CENTER",
+      "beds": 20,
+      "type": "Critical Access Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.6896,
+      "lon": -78.7268,
+      "govt_payer_share": 0.259,
+      "medicare_discharges": 116
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42021",
+      "county_name": "Cambria",
+      "state": "PA",
+      "pop_total": 133263,
+      "pop_65_plus": 30817,
+      "distance_to_hub_miles": 17.0
+    },
+    {
+      "county_fips": "42009",
+      "county_name": "Bedford",
+      "state": "PA",
+      "pop_total": 47613,
+      "pop_65_plus": 10958,
+      "distance_to_hub_miles": 30.6
+    }
+  ],
+  "summary": {
+    "total_beds": 506,
+    "catchment_pop": 180876,
+    "catchment_pop_65_plus": 41775,
+    "catchment_pct_65_plus": 0.231,
+    "max_catchment_radius_miles": 30.6,
+    "avg_catchment_distance_miles": 20.6,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 47552,
+    "hospital_emp_share": 0.0429,
+    "avg_govt_payer_share": 0.1675
+  }
+}

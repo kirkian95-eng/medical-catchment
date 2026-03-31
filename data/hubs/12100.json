@@ -1,0 +1,77 @@
+{
+  "cbsa_code": "12100",
+  "cbsa_name": "Atlantic City-Hammonton, NJ",
+  "mdi": 0.4619,
+  "bbox": [
+    -76.32,
+    38.12,
+    -72.93,
+    40.36
+  ],
+  "hospitals": [
+    {
+      "facility_id": "310064",
+      "name": "ATLANTICARE REGIONAL MEDICAL CENTER - CITY CAMPUS",
+      "beds": 593,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.3579,
+      "lon": -74.434,
+      "govt_payer_share": 0.327,
+      "medicare_discharges": 6906
+    },
+    {
+      "facility_id": "310047",
+      "name": "SHORE MEDICAL CENTER",
+      "beds": 302,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.3142,
+      "lon": -74.592,
+      "govt_payer_share": 0.505,
+      "medicare_discharges": 3044
+    },
+    {
+      "facility_id": "310011",
+      "name": "CAPE REGIONAL MEDICAL CENTER INC",
+      "beds": 242,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.1192,
+      "lon": -74.8232,
+      "govt_payer_share": 0.506,
+      "medicare_discharges": 2561
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "34001",
+      "county_name": "Atlantic",
+      "state": "NJ",
+      "pop_total": 274339,
+      "pop_65_plus": 51456,
+      "distance_to_hub_miles": 12.6
+    },
+    {
+      "county_fips": "34009",
+      "county_name": "Cape May",
+      "state": "NJ",
+      "pop_total": 95456,
+      "pop_65_plus": 26529,
+      "distance_to_hub_miles": 21.3
+    }
+  ],
+  "summary": {
+    "total_beds": 1137,
+    "catchment_pop": 369795,
+    "catchment_pop_65_plus": 77985,
+    "catchment_pct_65_plus": 0.2109,
+    "max_catchment_radius_miles": 21.3,
+    "avg_catchment_distance_miles": 14.8,
+    "num_counties": 2,
+    "hospital_employment": 5236,
+    "msa_total_employment": 166871,
+    "hospital_emp_share": 0.0289,
+    "avg_govt_payer_share": 0.4124
+  }
+}

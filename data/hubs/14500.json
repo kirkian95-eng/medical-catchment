@@ -1,0 +1,99 @@
+{
+  "cbsa_code": "14500",
+  "cbsa_name": "Boulder, CO",
+  "mdi": 0.3423,
+  "bbox": [
+    -106.74,
+    38.95,
+    -103.47,
+    41.18
+  ],
+  "hospitals": [
+    {
+      "facility_id": "060116",
+      "name": "GOOD SAMARITAN MEDICAL CENTER LLC",
+      "beds": 234,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9723,
+      "lon": -105.0882,
+      "govt_payer_share": 0.221,
+      "medicare_discharges": 940
+    },
+    {
+      "facility_id": "060003",
+      "name": "LONGMONT UNITED HOSPITAL",
+      "beds": 186,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.1814,
+      "lon": -105.1269,
+      "govt_payer_share": 0.463,
+      "medicare_discharges": 552
+    },
+    {
+      "facility_id": "060027",
+      "name": "BOULDER COMMUNITY HEALTH",
+      "beds": 181,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.016,
+      "lon": -105.2364,
+      "govt_payer_share": 0.5,
+      "medicare_discharges": 2471
+    },
+    {
+      "facility_id": "060103",
+      "name": "ADVENTHEALTH AVISTA",
+      "beds": 114,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 39.951,
+      "lon": -105.1482,
+      "govt_payer_share": 0.431,
+      "medicare_discharges": 467
+    },
+    {
+      "facility_id": "060128",
+      "name": "LONGS PEAK HOSPITAL",
+      "beds": 83,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.1764,
+      "lon": -104.9695,
+      "govt_payer_share": 0.405,
+      "medicare_discharges": 1110
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "08013",
+      "county_name": "Boulder",
+      "state": "CO",
+      "pop_total": 328658,
+      "pop_65_plus": 50239,
+      "distance_to_hub_miles": 12.5
+    },
+    {
+      "county_fips": "08014",
+      "county_name": "Broomfield",
+      "state": "CO",
+      "pop_total": 73946,
+      "pop_65_plus": 10853,
+      "distance_to_hub_miles": 7.6
+    }
+  ],
+  "summary": {
+    "total_beds": 798,
+    "catchment_pop": 402604,
+    "catchment_pop_65_plus": 61092,
+    "catchment_pct_65_plus": 0.1517,
+    "max_catchment_radius_miles": 12.5,
+    "avg_catchment_distance_miles": 11.6,
+    "num_counties": 2,
+    "hospital_employment": 5406,
+    "msa_total_employment": 195224,
+    "hospital_emp_share": 0.019,
+    "avg_govt_payer_share": 0.3899
+  }
+}

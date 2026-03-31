@@ -1,0 +1,47 @@
+{
+  "cbsa_code": "18820",
+  "cbsa_name": "Crawfordsville, IN",
+  "mdi": 0.2707,
+  "bbox": [
+    -88.4,
+    39.04,
+    -85.4,
+    41.04
+  ],
+  "hospitals": [
+    {
+      "facility_id": "150022",
+      "name": "FRANCISCAN HEALTH CRAWFORDSVILLE",
+      "beds": 103,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 40.0377,
+      "lon": -86.9022,
+      "govt_payer_share": 0.372,
+      "medicare_discharges": 400
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "18107",
+      "county_name": "Montgomery",
+      "state": "IN",
+      "pop_total": 38018,
+      "pop_65_plus": 6959,
+      "distance_to_hub_miles": 0.5
+    }
+  ],
+  "summary": {
+    "total_beds": 103,
+    "catchment_pop": 38018,
+    "catchment_pop_65_plus": 6959,
+    "catchment_pct_65_plus": 0.183,
+    "max_catchment_radius_miles": 0.5,
+    "avg_catchment_distance_miles": 0.5,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 15413,
+    "hospital_emp_share": 0.0106,
+    "avg_govt_payer_share": 0.3715
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "cbsa_code": "48460",
+  "cbsa_name": "West Plains, MO",
+  "mdi": 0.8544,
+  "bbox": [
+    -93.38,
+    35.74,
+    -90.21,
+    38.01
+  ],
+  "hospitals": [
+    {
+      "facility_id": "260078",
+      "name": "OZARKS HEALTHCARE",
+      "beds": 120,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.7385,
+      "lon": -91.8755,
+      "govt_payer_share": 0.346,
+      "medicare_discharges": 1118
+    },
+    {
+      "facility_id": "261335",
+      "name": "MERCY ST FRANCIS HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.0057,
+      "lon": -91.712,
+      "govt_payer_share": 0.417,
+      "medicare_discharges": 53
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "29091",
+      "county_name": "Howell",
+      "state": "MO",
+      "pop_total": 39960,
+      "pop_65_plus": 7849,
+      "distance_to_hub_miles": 2.3
+    },
+    {
+      "county_fips": "29215",
+      "county_name": "Texas",
+      "state": "MO",
+      "pop_total": 24828,
+      "pop_65_plus": 5194,
+      "distance_to_hub_miles": 37.4
+    },
+    {
+      "county_fips": "29149",
+      "county_name": "Oregon",
+      "state": "MO",
+      "pop_total": 8783,
+      "pop_65_plus": 1993,
+      "distance_to_hub_miles": 25.5
+    },
+    {
+      "county_fips": "29203",
+      "county_name": "Shannon",
+      "state": "MO",
+      "pop_total": 7132,
+      "pop_65_plus": 1615,
+      "distance_to_hub_miles": 35.7
+    }
+  ],
+  "summary": {
+    "total_beds": 145,
+    "catchment_pop": 80703,
+    "catchment_pop_65_plus": 16651,
+    "catchment_pct_65_plus": 0.2063,
+    "max_catchment_radius_miles": 37.4,
+    "avg_catchment_distance_miles": 18.6,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 15438,
+    "hospital_emp_share": 0.0693,
+    "avg_govt_payer_share": 0.3581
+  }
+}

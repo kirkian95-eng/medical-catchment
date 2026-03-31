@@ -1,0 +1,88 @@
+{
+  "cbsa_code": "48060",
+  "cbsa_name": "Watertown-Fort Drum, NY",
+  "mdi": 0.6087,
+  "bbox": [
+    -77.41,
+    42.96,
+    -74.09,
+    45.33
+  ],
+  "hospitals": [
+    {
+      "facility_id": "330157",
+      "name": "SAMARITAN MEDICAL CENTER",
+      "beds": 287,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.9645,
+      "lon": -75.9129,
+      "govt_payer_share": 0.253,
+      "medicare_discharges": 1444
+    },
+    {
+      "facility_id": "330060",
+      "name": "CARTHAGE AREA HOSPITAL, INC",
+      "beds": 25,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.9774,
+      "lon": -75.5923,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
+    },
+    {
+      "facility_id": "331318",
+      "name": "CARTHAGE AREA HOSPITAL, INC",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.9774,
+      "lon": -75.5923,
+      "govt_payer_share": 0.301,
+      "medicare_discharges": 194
+    },
+    {
+      "facility_id": "331309",
+      "name": "RIVER HOSPITAL CLINICS",
+      "beds": 24,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.3318,
+      "lon": -75.9095,
+      "govt_payer_share": 0.36,
+      "medicare_discharges": 34
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36045",
+      "county_name": "Jefferson",
+      "state": "NY",
+      "pop_total": 117445,
+      "pop_65_plus": 16666,
+      "distance_to_hub_miles": 9.6
+    },
+    {
+      "county_fips": "36049",
+      "county_name": "Lewis",
+      "state": "NY",
+      "pop_total": 26690,
+      "pop_65_plus": 5229,
+      "distance_to_hub_miles": 24.2
+    }
+  ],
+  "summary": {
+    "total_beds": 361,
+    "catchment_pop": 144135,
+    "catchment_pop_65_plus": 21895,
+    "catchment_pct_65_plus": 0.1519,
+    "max_catchment_radius_miles": 24.2,
+    "avg_catchment_distance_miles": 12.3,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 39842,
+    "hospital_emp_share": 0.0532,
+    "avg_govt_payer_share": 0.2828
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "cbsa_code": "19860",
+  "cbsa_name": "Dickinson, ND",
+  "mdi": 0.3137,
+  "bbox": [
+    -104.36,
+    45.66,
+    -101.28,
+    48.12
+  ],
+  "hospitals": [
+    {
+      "facility_id": "351336",
+      "name": "CHI ST ALEXIUS HEALTH DICKINSON",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 46.8873,
+      "lon": -102.8219,
+      "govt_payer_share": 0.514,
+      "medicare_discharges": 449
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "38089",
+      "county_name": "Stark",
+      "state": "ND",
+      "pop_total": 32989,
+      "pop_65_plus": 4398,
+      "distance_to_hub_miles": 9.5
+    },
+    {
+      "county_fips": "38025",
+      "county_name": "Dunn",
+      "state": "ND",
+      "pop_total": 4049,
+      "pop_65_plus": 717,
+      "distance_to_hub_miles": 33.8
+    },
+    {
+      "county_fips": "38011",
+      "county_name": "Bowman",
+      "state": "ND",
+      "pop_total": 2975,
+      "pop_65_plus": 683,
+      "distance_to_hub_miles": 63.0
+    },
+    {
+      "county_fips": "30025",
+      "county_name": "Fallon",
+      "state": "MT",
+      "pop_total": 2941,
+      "pop_65_plus": 570,
+      "distance_to_hub_miles": 84.8
+    },
+    {
+      "county_fips": "38041",
+      "county_name": "Hettinger",
+      "state": "ND",
+      "pop_total": 2477,
+      "pop_65_plus": 641,
+      "distance_to_hub_miles": 35.8
+    },
+    {
+      "county_fips": "38033",
+      "county_name": "Golden Valley",
+      "state": "ND",
+      "pop_total": 1734,
+      "pop_65_plus": 411,
+      "distance_to_hub_miles": 48.5
+    },
+    {
+      "county_fips": "30109",
+      "county_name": "Wibaux",
+      "state": "MT",
+      "pop_total": 1119,
+      "pop_65_plus": 249,
+      "distance_to_hub_miles": 67.5
+    },
+    {
+      "county_fips": "38007",
+      "county_name": "Billings",
+      "state": "ND",
+      "pop_total": 839,
+      "pop_65_plus": 212,
+      "distance_to_hub_miles": 27.8
+    },
+    {
+      "county_fips": "38087",
+      "county_name": "Slope",
+      "state": "ND",
+      "pop_total": 837,
+      "pop_65_plus": 226,
+      "distance_to_hub_miles": 42.9
+    }
+  ],
+  "summary": {
+    "total_beds": 25,
+    "catchment_pop": 49960,
+    "catchment_pop_65_plus": 8107,
+    "catchment_pct_65_plus": 0.1623,
+    "max_catchment_radius_miles": 84.8,
+    "avg_catchment_distance_miles": 23.9,
+    "num_counties": 9,
+    "hospital_employment": 0,
+    "msa_total_employment": 19047,
+    "hospital_emp_share": 0.0064,
+    "avg_govt_payer_share": 0.5142
+  }
+}

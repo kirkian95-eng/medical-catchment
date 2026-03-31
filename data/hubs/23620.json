@@ -1,0 +1,58 @@
+{
+  "cbsa_code": "23620",
+  "cbsa_name": "Gainesville, TX",
+  "mdi": 0.3652,
+  "bbox": [
+    -98.88,
+    32.64,
+    -95.66,
+    34.67
+  ],
+  "hospitals": [
+    {
+      "facility_id": "450090",
+      "name": "NORTH TEXAS MEDICAL CENTER",
+      "beds": 60,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.6414,
+      "lon": -97.1625,
+      "govt_payer_share": 0.36,
+      "medicare_discharges": 463
+    },
+    {
+      "facility_id": "451335",
+      "name": "MUENSTER MEMORIAL HOSPITAL",
+      "beds": 18,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.6707,
+      "lon": -97.378,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 25
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "48097",
+      "county_name": "Cooke",
+      "state": "TX",
+      "pop_total": 41860,
+      "pop_65_plus": 7928,
+      "distance_to_hub_miles": 2.9
+    }
+  ],
+  "summary": {
+    "total_beds": 78,
+    "catchment_pop": 41860,
+    "catchment_pop_65_plus": 7928,
+    "catchment_pct_65_plus": 0.1894,
+    "max_catchment_radius_miles": 2.9,
+    "avg_catchment_distance_miles": 2.9,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 15697,
+    "hospital_emp_share": 0.0194,
+    "avg_govt_payer_share": 0.4152
+  }
+}

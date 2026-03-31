@@ -1,0 +1,91 @@
+{
+  "cbsa_code": "29420",
+  "cbsa_name": "Lake Havasu City-Kingman, AZ",
+  "mdi": 0.6785,
+  "bbox": [
+    -116.1,
+    33.48,
+    -112.54,
+    36.22
+  ],
+  "hospitals": [
+    {
+      "facility_id": "030055",
+      "name": "KINGMAN REGIONAL MEDICAL CENTER",
+      "beds": 235,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.2179,
+      "lon": -114.0355,
+      "govt_payer_share": 0.456,
+      "medicare_discharges": 1667
+    },
+    {
+      "facility_id": "030069",
+      "name": "HAVASU REGIONAL MEDICAL CENTER",
+      "beds": 152,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.4798,
+      "lon": -114.3397,
+      "govt_payer_share": 0.508,
+      "medicare_discharges": 1838
+    },
+    {
+      "facility_id": "030101",
+      "name": "WESTERN ARIZONA REGIONAL MEDICAL CENTER",
+      "beds": 139,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.0896,
+      "lon": -114.5609,
+      "govt_payer_share": 0.279,
+      "medicare_discharges": 1306
+    },
+    {
+      "facility_id": "030117",
+      "name": "VALLEY VIEW MEDICAL CENTER",
+      "beds": 84,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.0012,
+      "lon": -114.5979,
+      "govt_payer_share": 0.198,
+      "medicare_discharges": 227
+    },
+    {
+      "facility_id": "030155",
+      "name": "EXCEPTIONAL COMMUNITY HOSPITAL BULLHEAD CITY",
+      "beds": 8,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.0896,
+      "lon": -114.5609,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "04015",
+      "county_name": "Mohave",
+      "state": "AZ",
+      "pop_total": 214229,
+      "pop_65_plus": 66984,
+      "distance_to_hub_miles": 59.2
+    }
+  ],
+  "summary": {
+    "total_beds": 618,
+    "catchment_pop": 214229,
+    "catchment_pop_65_plus": 66984,
+    "catchment_pct_65_plus": 0.3127,
+    "max_catchment_radius_miles": 59.2,
+    "avg_catchment_distance_miles": 59.2,
+    "num_counties": 1,
+    "hospital_employment": 3285,
+    "msa_total_employment": 55181,
+    "hospital_emp_share": 0.0497,
+    "avg_govt_payer_share": 0.3949
+  }
+}

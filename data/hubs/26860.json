@@ -1,0 +1,47 @@
+{
+  "cbsa_code": "26860",
+  "cbsa_name": "Indiana, PA",
+  "mdi": 0.5637,
+  "bbox": [
+    -80.66,
+    39.61,
+    -77.66,
+    41.61
+  ],
+  "hospitals": [
+    {
+      "facility_id": "390173",
+      "name": "INDIANA REGIONAL MEDICAL CENTER",
+      "beds": 166,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.6081,
+      "lon": -79.1589,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 959
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42063",
+      "county_name": "Indiana",
+      "state": "PA",
+      "pop_total": 83394,
+      "pop_65_plus": 16461,
+      "distance_to_hub_miles": 4.8
+    }
+  ],
+  "summary": {
+    "total_beds": 166,
+    "catchment_pop": 83394,
+    "catchment_pop_65_plus": 16461,
+    "catchment_pct_65_plus": 0.1974,
+    "max_catchment_radius_miles": 4.8,
+    "avg_catchment_distance_miles": 4.8,
+    "num_counties": 1,
+    "hospital_employment": 0,
+    "msa_total_employment": 27671,
+    "hospital_emp_share": 0.0307,
+    "avg_govt_payer_share": 0.6
+  }
+}

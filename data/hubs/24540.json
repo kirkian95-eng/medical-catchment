@@ -1,0 +1,66 @@
+{
+  "cbsa_code": "24540",
+  "cbsa_name": "Greeley, CO",
+  "mdi": 0.3992,
+  "bbox": [
+    -106.22,
+    39.41,
+    -103.21,
+    41.42
+  ],
+  "hospitals": [
+    {
+      "facility_id": "060001",
+      "name": "BANNER NORTH COLORADO MEDICAL CENTER",
+      "beds": 378,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.4148,
+      "lon": -104.7089,
+      "govt_payer_share": 0.592,
+      "medicare_discharges": 1381
+    },
+    {
+      "facility_id": "060131",
+      "name": "UCHEALTH GREELEY HOSPITAL",
+      "beds": 88,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.4206,
+      "lon": -104.7248,
+      "govt_payer_share": 0.467,
+      "medicare_discharges": 1155
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "08123",
+      "county_name": "Weld",
+      "state": "CO",
+      "pop_total": 331466,
+      "pop_65_plus": 41300,
+      "distance_to_hub_miles": 19.3
+    },
+    {
+      "county_fips": "08087",
+      "county_name": "Morgan",
+      "state": "CO",
+      "pop_total": 29045,
+      "pop_65_plus": 4552,
+      "distance_to_hub_miles": 48.7
+    }
+  ],
+  "summary": {
+    "total_beds": 466,
+    "catchment_pop": 360511,
+    "catchment_pop_65_plus": 45852,
+    "catchment_pct_65_plus": 0.1272,
+    "max_catchment_radius_miles": 48.7,
+    "avg_catchment_distance_miles": 21.7,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 116173,
+    "hospital_emp_share": 0.014,
+    "avg_govt_payer_share": 0.5685
+  }
+}

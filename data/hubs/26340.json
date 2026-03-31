@@ -1,0 +1,74 @@
+{
+  "cbsa_code": "26340",
+  "cbsa_name": "Houghton, MI",
+  "mdi": 0.6534,
+  "bbox": [
+    -90.09,
+    46.14,
+    -86.94,
+    48.24
+  ],
+  "hospitals": [
+    {
+      "facility_id": "230108",
+      "name": "UP HEALTH SYSTEM PORTAGE",
+      "beds": 36,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 47.1412,
+      "lon": -88.5888,
+      "govt_payer_share": 0.362,
+      "medicare_discharges": 240
+    },
+    {
+      "facility_id": "231319",
+      "name": "ASPIRUS KEWEENAW HOSPITAL AND CLINICS",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.2384,
+      "lon": -88.4436,
+      "govt_payer_share": 0.337,
+      "medicare_discharges": 213
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "26061",
+      "county_name": "Houghton",
+      "state": "MI",
+      "pop_total": 37414,
+      "pop_65_plus": 6514,
+      "distance_to_hub_miles": 14.3
+    },
+    {
+      "county_fips": "26131",
+      "county_name": "Ontonagon",
+      "state": "MI",
+      "pop_total": 5862,
+      "pop_65_plus": 2175,
+      "distance_to_hub_miles": 44.0
+    },
+    {
+      "county_fips": "26083",
+      "county_name": "Keweenaw",
+      "state": "MI",
+      "pop_total": 2088,
+      "pop_65_plus": 750,
+      "distance_to_hub_miles": 39.1
+    }
+  ],
+  "summary": {
+    "total_beds": 61,
+    "catchment_pop": 45364,
+    "catchment_pop_65_plus": 9439,
+    "catchment_pct_65_plus": 0.2081,
+    "max_catchment_radius_miles": 44.0,
+    "avg_catchment_distance_miles": 19.3,
+    "num_counties": 3,
+    "hospital_employment": 789,
+    "msa_total_employment": 11904,
+    "hospital_emp_share": 0.0427,
+    "avg_govt_payer_share": 0.3516
+  }
+}

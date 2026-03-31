@@ -1,0 +1,71 @@
+{
+  "cbsa_code": "43700",
+  "cbsa_name": "Somerset, KY",
+  "mdi": 0.503,
+  "bbox": [
+    -86.12,
+    36.09,
+    -83.12,
+    38.09
+  ],
+  "hospitals": [
+    {
+      "facility_id": "180132",
+      "name": "LAKE CUMBERLAND REGIONAL HOSPITAL",
+      "beds": 215,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 37.0875,
+      "lon": -84.6185,
+      "govt_payer_share": 0.248,
+      "medicare_discharges": 1957
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "21199",
+      "county_name": "Pulaski",
+      "state": "KY",
+      "pop_total": 65145,
+      "pop_65_plus": 12384,
+      "distance_to_hub_miles": 2.6
+    },
+    {
+      "county_fips": "21231",
+      "county_name": "Wayne",
+      "state": "KY",
+      "pop_total": 19666,
+      "pop_65_plus": 4128,
+      "distance_to_hub_miles": 22.9
+    },
+    {
+      "county_fips": "21207",
+      "county_name": "Russell",
+      "state": "KY",
+      "pop_total": 18021,
+      "pop_65_plus": 3642,
+      "distance_to_hub_miles": 25.1
+    },
+    {
+      "county_fips": "21147",
+      "county_name": "McCreary",
+      "state": "KY",
+      "pop_total": 16892,
+      "pop_65_plus": 2713,
+      "distance_to_hub_miles": 25.3
+    }
+  ],
+  "summary": {
+    "total_beds": 215,
+    "catchment_pop": 119724,
+    "catchment_pop_65_plus": 22867,
+    "catchment_pct_65_plus": 0.191,
+    "max_catchment_radius_miles": 25.3,
+    "avg_catchment_distance_miles": 12.5,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 25998,
+    "hospital_emp_share": 0.0372,
+    "avg_govt_payer_share": 0.2478
+  }
+}

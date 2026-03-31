@@ -1,0 +1,114 @@
+{
+  "cbsa_code": "48780",
+  "cbsa_name": "Williston, ND",
+  "mdi": 0.3433,
+  "bbox": [
+    -105.63,
+    46.57,
+    -100.94,
+    49.97
+  ],
+  "hospitals": [
+    {
+      "facility_id": "351300",
+      "name": "TIOGA MEDICAL CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 48.3816,
+      "lon": -102.9319,
+      "govt_payer_share": 0.622,
+      "medicare_discharges": 92
+    },
+    {
+      "facility_id": "351334",
+      "name": "CHI ST ALEXIUS HEALTH WILLISTON",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 48.1553,
+      "lon": -103.6456,
+      "govt_payer_share": 0.357,
+      "medicare_discharges": 314
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "38105",
+      "county_name": "Williams",
+      "state": "ND",
+      "pop_total": 39076,
+      "pop_65_plus": 3737,
+      "distance_to_hub_miles": 10.2
+    },
+    {
+      "county_fips": "38053",
+      "county_name": "McKenzie",
+      "state": "ND",
+      "pop_total": 14081,
+      "pop_65_plus": 1251,
+      "distance_to_hub_miles": 36.8
+    },
+    {
+      "county_fips": "30083",
+      "county_name": "Richland",
+      "state": "MT",
+      "pop_total": 11366,
+      "pop_65_plus": 1926,
+      "distance_to_hub_miles": 67.5
+    },
+    {
+      "county_fips": "30085",
+      "county_name": "Roosevelt",
+      "state": "MT",
+      "pop_total": 10799,
+      "pop_65_plus": 1255,
+      "distance_to_hub_miles": 79.5
+    },
+    {
+      "county_fips": "30021",
+      "county_name": "Dawson",
+      "state": "MT",
+      "pop_total": 8915,
+      "pop_65_plus": 1824,
+      "distance_to_hub_miles": 101.9
+    },
+    {
+      "county_fips": "30091",
+      "county_name": "Sheridan",
+      "state": "MT",
+      "pop_total": 3700,
+      "pop_65_plus": 834,
+      "distance_to_hub_miles": 63.9
+    },
+    {
+      "county_fips": "38023",
+      "county_name": "Divide",
+      "state": "ND",
+      "pop_total": 2195,
+      "pop_65_plus": 529,
+      "distance_to_hub_miles": 38.8
+    },
+    {
+      "county_fips": "30019",
+      "county_name": "Daniels",
+      "state": "MT",
+      "pop_total": 1535,
+      "pop_65_plus": 458,
+      "distance_to_hub_miles": 109.4
+    }
+  ],
+  "summary": {
+    "total_beds": 50,
+    "catchment_pop": 91667,
+    "catchment_pop_65_plus": 11814,
+    "catchment_pct_65_plus": 0.1289,
+    "max_catchment_radius_miles": 109.4,
+    "avg_catchment_distance_miles": 43.0,
+    "num_counties": 8,
+    "hospital_employment": 0,
+    "msa_total_employment": 26224,
+    "hospital_emp_share": 0.0133,
+    "avg_govt_payer_share": 0.4896
+  }
+}

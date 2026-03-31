@@ -1,0 +1,63 @@
+{
+  "cbsa_code": "34660",
+  "cbsa_name": "Murray, KY",
+  "mdi": 0.6759,
+  "bbox": [
+    -89.81,
+    35.61,
+    -86.81,
+    37.61
+  ],
+  "hospitals": [
+    {
+      "facility_id": "180027",
+      "name": "MURRAY-CALLOWAY COUNTY HOSPITAL",
+      "beds": 140,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 36.6085,
+      "lon": -88.3096,
+      "govt_payer_share": 0.38,
+      "medicare_discharges": 1087
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "21035",
+      "county_name": "Calloway",
+      "state": "KY",
+      "pop_total": 37345,
+      "pop_65_plus": 6393,
+      "distance_to_hub_miles": 2.2
+    },
+    {
+      "county_fips": "21157",
+      "county_name": "Marshall",
+      "state": "KY",
+      "pop_total": 31706,
+      "pop_65_plus": 6907,
+      "distance_to_hub_miles": 19.0
+    },
+    {
+      "county_fips": "21143",
+      "county_name": "Lyon",
+      "state": "KY",
+      "pop_total": 8721,
+      "pop_65_plus": 2187,
+      "distance_to_hub_miles": 31.0
+    }
+  ],
+  "summary": {
+    "total_beds": 140,
+    "catchment_pop": 77772,
+    "catchment_pop_65_plus": 15487,
+    "catchment_pct_65_plus": 0.1991,
+    "max_catchment_radius_miles": 31.0,
+    "avg_catchment_distance_miles": 12.3,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 15490,
+    "hospital_emp_share": 0.0509,
+    "avg_govt_payer_share": 0.3801
+  }
+}

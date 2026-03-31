@@ -1,0 +1,185 @@
+{
+  "cbsa_code": "14260",
+  "cbsa_name": "Boise City, ID",
+  "mdi": 0.5673,
+  "bbox": [
+    -118.51,
+    42.12,
+    -114.24,
+    45.42
+  ],
+  "hospitals": [
+    {
+      "facility_id": "130006",
+      "name": "ST LUKE'S REGIONAL MEDICAL CENTER",
+      "beds": 544,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.6172,
+      "lon": -116.0932,
+      "govt_payer_share": 0.412,
+      "medicare_discharges": 4713
+    },
+    {
+      "facility_id": "130007",
+      "name": "SAINT ALPHONSUS REGIONAL MEDICAL CENTER",
+      "beds": 365,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 43.6138,
+      "lon": -116.2537,
+      "govt_payer_share": 0.47,
+      "medicare_discharges": 3557
+    },
+    {
+      "facility_id": "130013",
+      "name": "SAINT ALPHONSUS MEDICAL CENTER - NAMPA",
+      "beds": 152,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 43.5967,
+      "lon": -116.5182,
+      "govt_payer_share": 0.446,
+      "medicare_discharges": 1193
+    },
+    {
+      "facility_id": "130014",
+      "name": "WEST VALLEY MEDICAL CENTER",
+      "beds": 150,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 43.6641,
+      "lon": -116.6517,
+      "govt_payer_share": 0.476,
+      "medicare_discharges": 603
+    },
+    {
+      "facility_id": "130071",
+      "name": "ST LUKE'S NAMPA MEDICAL CENTER",
+      "beds": 87,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.61,
+      "lon": -116.5291,
+      "govt_payer_share": 0.43,
+      "medicare_discharges": 815
+    },
+    {
+      "facility_id": "130063",
+      "name": "TREASURE VALLEY HOSPITAL",
+      "beds": 20,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 43.6272,
+      "lon": -116.2877,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 65
+    },
+    {
+      "facility_id": "131318",
+      "name": "VALOR HEALTH",
+      "beds": 16,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 43.9368,
+      "lon": -116.5052,
+      "govt_payer_share": 0.505,
+      "medicare_discharges": 39
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "16001",
+      "county_name": "Ada",
+      "state": "ID",
+      "pop_total": 497494,
+      "pop_65_plus": 76317,
+      "distance_to_hub_miles": 11.8
+    },
+    {
+      "county_fips": "16027",
+      "county_name": "Canyon",
+      "state": "ID",
+      "pop_total": 235006,
+      "pop_65_plus": 33361,
+      "distance_to_hub_miles": 21.3
+    },
+    {
+      "county_fips": "41045",
+      "county_name": "Malheur",
+      "state": "OR",
+      "pop_total": 31538,
+      "pop_65_plus": 5257,
+      "distance_to_hub_miles": 73.4
+    },
+    {
+      "county_fips": "16039",
+      "county_name": "Elmore",
+      "state": "ID",
+      "pop_total": 28752,
+      "pop_65_plus": 4030,
+      "distance_to_hub_miles": 44.7
+    },
+    {
+      "county_fips": "16045",
+      "county_name": "Gem",
+      "state": "ID",
+      "pop_total": 19250,
+      "pop_65_plus": 4273,
+      "distance_to_hub_miles": 31.1
+    },
+    {
+      "county_fips": "41001",
+      "county_name": "Baker",
+      "state": "OR",
+      "pop_total": 16685,
+      "pop_65_plus": 4530,
+      "distance_to_hub_miles": 102.2
+    },
+    {
+      "county_fips": "16073",
+      "county_name": "Owyhee",
+      "state": "ID",
+      "pop_total": 12043,
+      "pop_65_plus": 2217,
+      "distance_to_hub_miles": 71.9
+    },
+    {
+      "county_fips": "16085",
+      "county_name": "Valley",
+      "state": "ID",
+      "pop_total": 11830,
+      "pop_65_plus": 3103,
+      "distance_to_hub_miles": 86.9
+    },
+    {
+      "county_fips": "16015",
+      "county_name": "Boise",
+      "state": "ID",
+      "pop_total": 7809,
+      "pop_65_plus": 2103,
+      "distance_to_hub_miles": 37.6
+    },
+    {
+      "county_fips": "16003",
+      "county_name": "Adams",
+      "state": "ID",
+      "pop_total": 4464,
+      "pop_65_plus": 1321,
+      "distance_to_hub_miles": 88.2
+    }
+  ],
+  "summary": {
+    "total_beds": 1334,
+    "catchment_pop": 864871,
+    "catchment_pop_65_plus": 136512,
+    "catchment_pct_65_plus": 0.1578,
+    "max_catchment_radius_miles": 102.2,
+    "avg_catchment_distance_miles": 22.4,
+    "num_counties": 10,
+    "hospital_employment": 17871,
+    "msa_total_employment": 372134,
+    "hospital_emp_share": 0.0338,
+    "avg_govt_payer_share": 0.4443
+  }
+}

@@ -1,0 +1,524 @@
+{
+  "cbsa_code": "28140",
+  "cbsa_name": "Kansas City, MO-KS",
+  "mdi": 0.4615,
+  "bbox": [
+    -96.75,
+    36.84,
+    -92.06,
+    41.15
+  ],
+  "hospitals": [
+    {
+      "facility_id": "170040",
+      "name": "UNIVERSITY OF KANSAS HOSPITAL",
+      "beds": 1045,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 39.0544,
+      "lon": -94.6085,
+      "govt_payer_share": 0.253,
+      "medicare_discharges": 10572
+    },
+    {
+      "facility_id": "260138",
+      "name": "ST LUKES HOSPITAL OF KANSAS CITY",
+      "beds": 642,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.0465,
+      "lon": -94.59,
+      "govt_payer_share": 0.344,
+      "medicare_discharges": 4713
+    },
+    {
+      "facility_id": "260027",
+      "name": "RESEARCH MEDICAL CENTER",
+      "beds": 545,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 39.0072,
+      "lon": -94.5591,
+      "govt_payer_share": 0.262,
+      "medicare_discharges": 2417
+    },
+    {
+      "facility_id": "170104",
+      "name": "ADVENTHEALTH SHAWNEE MISSION",
+      "beds": 504,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.9952,
+      "lon": -94.6923,
+      "govt_payer_share": 0.223,
+      "medicare_discharges": 3522
+    },
+    {
+      "facility_id": "260096",
+      "name": "NORTH KANSAS CITY HOSPITAL",
+      "beds": 451,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 39.1493,
+      "lon": -94.55,
+      "govt_payer_share": 0.347,
+      "medicare_discharges": 5142
+    },
+    {
+      "facility_id": "170146",
+      "name": "PROVIDENCE MEDICAL CENTER",
+      "beds": 400,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 39.1149,
+      "lon": -94.7701,
+      "govt_payer_share": 0.288,
+      "medicare_discharges": 1307
+    },
+    {
+      "facility_id": "260095",
+      "name": "CENTERPOINT MEDICAL CENTER",
+      "beds": 366,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 39.0477,
+      "lon": -94.3475,
+      "govt_payer_share": 0.306,
+      "medicare_discharges": 3347
+    },
+    {
+      "facility_id": "170176",
+      "name": "OVERLAND PARK REG MED CTR",
+      "beds": 351,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 38.9377,
+      "lon": -94.7237,
+      "govt_payer_share": 0.238,
+      "medicare_discharges": 2839
+    },
+    {
+      "facility_id": "260102",
+      "name": "UNIVERSITY HEALTH LAKEWOOD MEDICAL CENTER",
+      "beds": 304,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.9746,
+      "lon": -94.3904,
+      "govt_payer_share": 0.284,
+      "medicare_discharges": 252
+    },
+    {
+      "facility_id": "170049",
+      "name": "UNIVERSITY OF KANSAS HEALTH SYSTEM OLATHE HOSPITAL",
+      "beds": 300,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.8545,
+      "lon": -94.823,
+      "govt_payer_share": 0.344,
+      "medicare_discharges": 3038
+    },
+    {
+      "facility_id": "260085",
+      "name": "ST JOSEPH MEDICAL CENTER",
+      "beds": 300,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 38.9578,
+      "lon": -94.5986,
+      "govt_payer_share": 0.35,
+      "medicare_discharges": 1309
+    },
+    {
+      "facility_id": "260048",
+      "name": "TRUMAN MEDICAL CENTER HOSPITAL HILL",
+      "beds": 283,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.0846,
+      "lon": -94.5757,
+      "govt_payer_share": 0.344,
+      "medicare_discharges": 716
+    },
+    {
+      "facility_id": "260177",
+      "name": "LIBERTY HOSPITAL",
+      "beds": 250,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.2764,
+      "lon": -94.4248,
+      "govt_payer_share": 0.328,
+      "medicare_discharges": 2236
+    },
+    {
+      "facility_id": "260216",
+      "name": "SAINT LUKE'S EAST  HOSPITAL",
+      "beds": 240,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.8992,
+      "lon": -94.2724,
+      "govt_payer_share": 0.329,
+      "medicare_discharges": 3639
+    },
+    {
+      "facility_id": "170182",
+      "name": "MENORAH MEDICAL CENTER",
+      "beds": 190,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 38.9009,
+      "lon": -94.6341,
+      "govt_payer_share": 0.352,
+      "medicare_discharges": 2779
+    },
+    {
+      "facility_id": "260062",
+      "name": "SAINT LUKES NORTH HOSPITAL",
+      "beds": 147,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.247,
+      "lon": -94.6473,
+      "govt_payer_share": 0.359,
+      "medicare_discharges": 1587
+    },
+    {
+      "facility_id": "260193",
+      "name": "ST MARY'S MEDICAL CENTER",
+      "beds": 146,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 39.0094,
+      "lon": -94.2565,
+      "govt_payer_share": 0.296,
+      "medicare_discharges": 757
+    },
+    {
+      "facility_id": "260190",
+      "name": "LEE'S SUMMIT MEDICAL CENTER",
+      "beds": 88,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 38.9122,
+      "lon": -94.3534,
+      "govt_payer_share": 0.337,
+      "medicare_discharges": 1528
+    },
+    {
+      "facility_id": "170208",
+      "name": "ADVENTHEALTH SOUTH OVERLAND PARK, INC",
+      "beds": 85,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.8598,
+      "lon": -94.6642,
+      "govt_payer_share": 0.29,
+      "medicare_discharges": 428
+    },
+    {
+      "facility_id": "170009",
+      "name": "SAINT JOHN HOSPITAL",
+      "beds": 76,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.2727,
+      "lon": -94.9804,
+      "govt_payer_share": 0.473,
+      "medicare_discharges": 380
+    },
+    {
+      "facility_id": "170185",
+      "name": "SAINT LUKE'S SOUTH HOSPITAL",
+      "beds": 75,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 38.8992,
+      "lon": -94.7037,
+      "govt_payer_share": 0.482,
+      "medicare_discharges": 2187
+    },
+    {
+      "facility_id": "260214",
+      "name": "BELTON REGIONAL MEDICAL CENTER",
+      "beds": 71,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.7884,
+      "lon": -94.5519,
+      "govt_payer_share": 0.338,
+      "medicare_discharges": 865
+    },
+    {
+      "facility_id": "260034",
+      "name": "BATES COUNTY MEMORIAL HOSPITAL",
+      "beds": 60,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 38.256,
+      "lon": -94.2838,
+      "govt_payer_share": 0.565,
+      "medicare_discharges": 137
+    },
+    {
+      "facility_id": "260057",
+      "name": "CAMERON REGIONAL MEDICAL CENTER",
+      "beds": 60,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.7367,
+      "lon": -94.2258,
+      "govt_payer_share": 0.55,
+      "medicare_discharges": 479
+    },
+    {
+      "facility_id": "170109",
+      "name": "MIAMI COUNTY MEDICAL CENTER",
+      "beds": 39,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.5745,
+      "lon": -94.8667,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 176
+    },
+    {
+      "facility_id": "261324",
+      "name": "CASS REGIONAL MEDICAL CENTER",
+      "beds": 35,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 38.6245,
+      "lon": -94.3293,
+      "govt_payer_share": 0.377,
+      "medicare_discharges": 259
+    },
+    {
+      "facility_id": "261320",
+      "name": "LAFAYETTE REGIONAL HEALTH CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Proprietary",
+      "lat": 39.1543,
+      "lon": -93.836,
+      "govt_payer_share": 0.495,
+      "medicare_discharges": 232
+    },
+    {
+      "facility_id": "261322",
+      "name": "EXCELSIOR SPRINGS HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 39.3272,
+      "lon": -94.2273,
+      "govt_payer_share": 0.365,
+      "medicare_discharges": 61
+    },
+    {
+      "facility_id": "261327",
+      "name": "RAY COUNTY MEMORIAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 39.3433,
+      "lon": -93.9554,
+      "govt_payer_share": 0.505,
+      "medicare_discharges": 70
+    },
+    {
+      "facility_id": "170188",
+      "name": "KANSAS CITY ORTHOPAEDIC INSTITUTE",
+      "beds": 21,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 38.9251,
+      "lon": -94.6356,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 590
+    },
+    {
+      "facility_id": "170194",
+      "name": "ASCENTIST HOSPITAL LLC",
+      "beds": 10,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 38.9251,
+      "lon": -94.6356,
+      "govt_payer_share": 0.384,
+      "medicare_discharges": 68
+    },
+    {
+      "facility_id": "170199",
+      "name": "MINIMALLY INVASIVE SURGERY HOSPITAL",
+      "beds": 9,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 38.9532,
+      "lon": -94.7784,
+      "govt_payer_share": 0.95,
+      "medicare_discharges": 32
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "29095",
+      "county_name": "Jackson",
+      "state": "MO",
+      "pop_total": 715526,
+      "pop_65_plus": 110061,
+      "distance_to_hub_miles": 12.1
+    },
+    {
+      "county_fips": "20091",
+      "county_name": "Johnson",
+      "state": "KS",
+      "pop_total": 610742,
+      "pop_65_plus": 92867,
+      "distance_to_hub_miles": 16.7
+    },
+    {
+      "county_fips": "29047",
+      "county_name": "Clay",
+      "state": "MO",
+      "pop_total": 253085,
+      "pop_65_plus": 36986,
+      "distance_to_hub_miles": 21.2
+    },
+    {
+      "county_fips": "20209",
+      "county_name": "Wyandotte",
+      "state": "KS",
+      "pop_total": 167989,
+      "pop_65_plus": 21855,
+      "distance_to_hub_miles": 12.0
+    },
+    {
+      "county_fips": "29037",
+      "county_name": "Cass",
+      "state": "MO",
+      "pop_total": 108205,
+      "pop_65_plus": 18574,
+      "distance_to_hub_miles": 28.6
+    },
+    {
+      "county_fips": "29165",
+      "county_name": "Platte",
+      "state": "MO",
+      "pop_total": 107033,
+      "pop_65_plus": 16454,
+      "distance_to_hub_miles": 26.7
+    },
+    {
+      "county_fips": "20103",
+      "county_name": "Leavenworth",
+      "state": "KS",
+      "pop_total": 82050,
+      "pop_65_plus": 12401,
+      "distance_to_hub_miles": 27.7
+    },
+    {
+      "county_fips": "20121",
+      "county_name": "Miami",
+      "state": "KS",
+      "pop_total": 34312,
+      "pop_65_plus": 5942,
+      "distance_to_hub_miles": 35.1
+    },
+    {
+      "county_fips": "20059",
+      "county_name": "Franklin",
+      "state": "KS",
+      "pop_total": 25968,
+      "pop_65_plus": 4490,
+      "distance_to_hub_miles": 50.0
+    },
+    {
+      "county_fips": "29177",
+      "county_name": "Ray",
+      "state": "MO",
+      "pop_total": 23122,
+      "pop_65_plus": 4293,
+      "distance_to_hub_miles": 38.4
+    },
+    {
+      "county_fips": "29013",
+      "county_name": "Bates",
+      "state": "MO",
+      "pop_total": 16101,
+      "pop_65_plus": 3054,
+      "distance_to_hub_miles": 54.6
+    },
+    {
+      "county_fips": "29117",
+      "county_name": "Livingston",
+      "state": "MO",
+      "pop_total": 14402,
+      "pop_65_plus": 2857,
+      "distance_to_hub_miles": 75.5
+    },
+    {
+      "county_fips": "29115",
+      "county_name": "Linn",
+      "state": "MO",
+      "pop_total": 11892,
+      "pop_65_plus": 2549,
+      "distance_to_hub_miles": 97.5
+    },
+    {
+      "county_fips": "29079",
+      "county_name": "Grundy",
+      "state": "MO",
+      "pop_total": 9878,
+      "pop_65_plus": 2147,
+      "distance_to_hub_miles": 92.3
+    },
+    {
+      "county_fips": "20107",
+      "county_name": "Linn",
+      "state": "KS",
+      "pop_total": 9696,
+      "pop_65_plus": 2146,
+      "distance_to_hub_miles": 58.2
+    },
+    {
+      "county_fips": "29025",
+      "county_name": "Caldwell",
+      "state": "MO",
+      "pop_total": 8876,
+      "pop_65_plus": 1774,
+      "distance_to_hub_miles": 53.7
+    },
+    {
+      "county_fips": "29033",
+      "county_name": "Carroll",
+      "state": "MO",
+      "pop_total": 8513,
+      "pop_65_plus": 1867,
+      "distance_to_hub_miles": 63.4
+    },
+    {
+      "county_fips": "20003",
+      "county_name": "Anderson",
+      "state": "KS",
+      "pop_total": 7799,
+      "pop_65_plus": 1625,
+      "distance_to_hub_miles": 68.3
+    }
+  ],
+  "summary": {
+    "total_beds": 7168,
+    "catchment_pop": 2215189,
+    "catchment_pop_65_plus": 341942,
+    "catchment_pct_65_plus": 0.1544,
+    "max_catchment_radius_miles": 97.5,
+    "avg_catchment_distance_miles": 19.9,
+    "num_counties": 18,
+    "hospital_employment": 51160,
+    "msa_total_employment": 1071870,
+    "hospital_emp_share": 0.0336,
+    "avg_govt_payer_share": 0.3121
+  }
+}

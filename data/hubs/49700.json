@@ -1,0 +1,74 @@
+{
+  "cbsa_code": "49700",
+  "cbsa_name": "Yuba City, CA",
+  "mdi": 0.5022,
+  "bbox": [
+    -123.11,
+    38.02,
+    -120.1,
+    40.14
+  ],
+  "hospitals": [
+    {
+      "facility_id": "050133",
+      "name": "ADVENTIST HEALTH AND RIDEOUT",
+      "beds": 173,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Federal",
+      "lat": 39.1386,
+      "lon": -121.5952,
+      "govt_payer_share": 0.479,
+      "medicare_discharges": 4028
+    },
+    {
+      "facility_id": "050766",
+      "name": "SUTTER SURGICAL HOSPITAL - NORTH VALLEY",
+      "beds": 14,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 39.0155,
+      "lon": -121.6112,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 130
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "06101",
+      "county_name": "Sutter",
+      "state": "CA",
+      "pop_total": 99101,
+      "pop_65_plus": 15578,
+      "distance_to_hub_miles": 8.9
+    },
+    {
+      "county_fips": "06115",
+      "county_name": "Yuba",
+      "state": "CA",
+      "pop_total": 81705,
+      "pop_65_plus": 10550,
+      "distance_to_hub_miles": 15.9
+    },
+    {
+      "county_fips": "06011",
+      "county_name": "Colusa",
+      "state": "CA",
+      "pop_total": 21811,
+      "pop_65_plus": 3299,
+      "distance_to_hub_miles": 34.5
+    }
+  ],
+  "summary": {
+    "total_beds": 187,
+    "catchment_pop": 202617,
+    "catchment_pop_65_plus": 29427,
+    "catchment_pct_65_plus": 0.1452,
+    "max_catchment_radius_miles": 34.5,
+    "avg_catchment_distance_miles": 14.5,
+    "num_counties": 3,
+    "hospital_employment": 355,
+    "msa_total_employment": 53545,
+    "hospital_emp_share": 0.0249,
+    "avg_govt_payer_share": 0.4883
+  }
+}

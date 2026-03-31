@@ -1,0 +1,133 @@
+{
+  "cbsa_code": "40220",
+  "cbsa_name": "Roanoke, VA",
+  "mdi": 0.7612,
+  "bbox": [
+    -81.61,
+    35.89,
+    -78.37,
+    38.37
+  ],
+  "hospitals": [
+    {
+      "facility_id": "490024",
+      "name": "CARILION MEDICAL CENTER",
+      "beds": 752,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.252,
+      "lon": -79.942,
+      "govt_payer_share": 0.328,
+      "medicare_discharges": 7643
+    },
+    {
+      "facility_id": "490048",
+      "name": "LEWISGALE MEDICAL CENTER",
+      "beds": 506,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 37.3025,
+      "lon": -80.1143,
+      "govt_payer_share": 0.341,
+      "medicare_discharges": 4751
+    },
+    {
+      "facility_id": "490089",
+      "name": "CARILION FRANKLIN MEMORIAL HOSPITAL",
+      "beds": 37,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.9614,
+      "lon": -79.8664,
+      "govt_payer_share": 0.398,
+      "medicare_discharges": 610
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "51770",
+      "county_name": "Roanoke",
+      "state": "VA",
+      "pop_total": 99213,
+      "pop_65_plus": 17419,
+      "distance_to_hub_miles": 2.9
+    },
+    {
+      "county_fips": "51161",
+      "county_name": "Roanoke",
+      "state": "VA",
+      "pop_total": 96653,
+      "pop_65_plus": 20967,
+      "distance_to_hub_miles": 3.4
+    },
+    {
+      "county_fips": "51067",
+      "county_name": "Franklin",
+      "state": "VA",
+      "pop_total": 54838,
+      "pop_65_plus": 13149,
+      "distance_to_hub_miles": 20.0
+    },
+    {
+      "county_fips": "51023",
+      "county_name": "Botetourt",
+      "state": "VA",
+      "pop_total": 33734,
+      "pop_65_plus": 7827,
+      "distance_to_hub_miles": 22.9
+    },
+    {
+      "county_fips": "51775",
+      "county_name": "Salem",
+      "state": "VA",
+      "pop_total": 25372,
+      "pop_65_plus": 4902,
+      "distance_to_hub_miles": 3.1
+    },
+    {
+      "county_fips": "51005",
+      "county_name": "Alleghany",
+      "state": "VA",
+      "pop_total": 15159,
+      "pop_65_plus": 3805,
+      "distance_to_hub_miles": 36.3
+    },
+    {
+      "county_fips": "54075",
+      "county_name": "Pocahontas",
+      "state": "WV",
+      "pop_total": 7940,
+      "pop_65_plus": 2094,
+      "distance_to_hub_miles": 73.8
+    },
+    {
+      "county_fips": "51580",
+      "county_name": "Covington",
+      "state": "VA",
+      "pop_total": 5722,
+      "pop_65_plus": 1092,
+      "distance_to_hub_miles": 35.6
+    },
+    {
+      "county_fips": "51045",
+      "county_name": "Craig",
+      "state": "VA",
+      "pop_total": 4898,
+      "pop_65_plus": 941,
+      "distance_to_hub_miles": 18.8
+    }
+  ],
+  "summary": {
+    "total_beds": 1295,
+    "catchment_pop": 343529,
+    "catchment_pop_65_plus": 72196,
+    "catchment_pct_65_plus": 0.2102,
+    "max_catchment_radius_miles": 73.8,
+    "avg_catchment_distance_miles": 11.6,
+    "num_counties": 9,
+    "hospital_employment": 1713,
+    "msa_total_employment": 100319,
+    "hospital_emp_share": 0.0701,
+    "avg_govt_payer_share": 0.3352
+  }
+}

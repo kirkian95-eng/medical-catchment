@@ -1,0 +1,74 @@
+{
+  "cbsa_code": "16460",
+  "cbsa_name": "Centralia, IL",
+  "mdi": 0.7375,
+  "bbox": [
+    -90.64,
+    37.51,
+    -87.43,
+    39.64
+  ],
+  "hospitals": [
+    {
+      "facility_id": "140034",
+      "name": "SSM HEALTH ST MARY'S HOSPITAL -CENTRALIA",
+      "beds": 125,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 38.511,
+      "lon": -89.1405,
+      "govt_payer_share": 0.57,
+      "medicare_discharges": 1204
+    },
+    {
+      "facility_id": "141345",
+      "name": "SALEM TOWNSHIP HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 38.6386,
+      "lon": -88.9273,
+      "govt_payer_share": 0.738,
+      "medicare_discharges": 194
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "17121",
+      "county_name": "Marion",
+      "state": "IL",
+      "pop_total": 37543,
+      "pop_65_plus": 7405,
+      "distance_to_hub_miles": 12.9
+    },
+    {
+      "county_fips": "17027",
+      "county_name": "Clinton",
+      "state": "IL",
+      "pop_total": 36998,
+      "pop_65_plus": 6531,
+      "distance_to_hub_miles": 18.0
+    },
+    {
+      "county_fips": "17189",
+      "county_name": "Washington",
+      "state": "IL",
+      "pop_total": 13781,
+      "pop_65_plus": 2860,
+      "distance_to_hub_miles": 20.7
+    }
+  ],
+  "summary": {
+    "total_beds": 150,
+    "catchment_pop": 88322,
+    "catchment_pop_65_plus": 16796,
+    "catchment_pct_65_plus": 0.1902,
+    "max_catchment_radius_miles": 20.7,
+    "avg_catchment_distance_miles": 16.3,
+    "num_counties": 3,
+    "hospital_employment": 0,
+    "msa_total_employment": 12623,
+    "hospital_emp_share": 0.045,
+    "avg_govt_payer_share": 0.5982
+  }
+}

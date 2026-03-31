@@ -1,0 +1,134 @@
+{
+  "cbsa_code": "33860",
+  "cbsa_name": "Montgomery, AL",
+  "mdi": 0.4429,
+  "bbox": [
+    -88.06,
+    31.33,
+    -84.44,
+    33.61
+  ],
+  "hospitals": [
+    {
+      "facility_id": "010023",
+      "name": "BAPTIST MEDICAL CENTER SOUTH",
+      "beds": 432,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.3273,
+      "lon": -86.2745,
+      "govt_payer_share": 0.365,
+      "medicare_discharges": 2422
+    },
+    {
+      "facility_id": "010024",
+      "name": "JACKSON HOSPITAL & CLINIC INC",
+      "beds": 344,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.3666,
+      "lon": -86.2852,
+      "govt_payer_share": 0.352,
+      "medicare_discharges": 2415
+    },
+    {
+      "facility_id": "010149",
+      "name": "BAPTIST MEDICAL CENTER EAST",
+      "beds": 150,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.3879,
+      "lon": -86.1761,
+      "govt_payer_share": 0.399,
+      "medicare_discharges": 1251
+    },
+    {
+      "facility_id": "010108",
+      "name": "PRATTVILLE BAPTIST HOSPITAL",
+      "beds": 85,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.5165,
+      "lon": -86.5615,
+      "govt_payer_share": 0.342,
+      "medicare_discharges": 663
+    },
+    {
+      "facility_id": "010034",
+      "name": "COMMUNITY HOSPITAL INC",
+      "beds": 69,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.547,
+      "lon": -85.9427,
+      "govt_payer_share": 0.439,
+      "medicare_discharges": 116
+    },
+    {
+      "facility_id": "010097",
+      "name": "ELMORE COMMUNITY HOSPITAL",
+      "beds": 38,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.6145,
+      "lon": -86.1972,
+      "govt_payer_share": 0.331,
+      "medicare_discharges": 154
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "01101",
+      "county_name": "Montgomery",
+      "state": "AL",
+      "pop_total": 228132,
+      "pop_65_plus": 35635,
+      "distance_to_hub_miles": 11.8
+    },
+    {
+      "county_fips": "01051",
+      "county_name": "Elmore",
+      "state": "AL",
+      "pop_total": 87694,
+      "pop_65_plus": 13833,
+      "distance_to_hub_miles": 16.1
+    },
+    {
+      "county_fips": "01001",
+      "county_name": "Autauga",
+      "state": "AL",
+      "pop_total": 58761,
+      "pop_65_plus": 9176,
+      "distance_to_hub_miles": 24.4
+    },
+    {
+      "county_fips": "01013",
+      "county_name": "Butler",
+      "state": "AL",
+      "pop_total": 18981,
+      "pop_65_plus": 4021,
+      "distance_to_hub_miles": 50.0
+    },
+    {
+      "county_fips": "01085",
+      "county_name": "Lowndes",
+      "state": "AL",
+      "pop_total": 10153,
+      "pop_65_plus": 1967,
+      "distance_to_hub_miles": 27.6
+    }
+  ],
+  "summary": {
+    "total_beds": 1118,
+    "catchment_pop": 403721,
+    "catchment_pop_65_plus": 64632,
+    "catchment_pct_65_plus": 0.1601,
+    "max_catchment_radius_miles": 50.0,
+    "avg_catchment_distance_miles": 16.8,
+    "num_counties": 5,
+    "hospital_employment": 5085,
+    "msa_total_employment": 163458,
+    "hospital_emp_share": 0.0306,
+    "avg_govt_payer_share": 0.3672
+  }
+}

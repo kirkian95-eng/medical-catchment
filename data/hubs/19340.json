@@ -1,0 +1,137 @@
+{
+  "cbsa_code": "19340",
+  "cbsa_name": "Davenport-Moline-Rock Island, IA-IL",
+  "mdi": 0.3041,
+  "bbox": [
+    -92.22,
+    40.21,
+    -88.44,
+    42.57
+  ],
+  "hospitals": [
+    {
+      "facility_id": "160033",
+      "name": "GENESIS MEDICAL CENTER-DAVENPORT",
+      "beds": 502,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.5428,
+      "lon": -90.5572,
+      "govt_payer_share": 0.272,
+      "medicare_discharges": 4173
+    },
+    {
+      "facility_id": "140280",
+      "name": "TRINITY ROCK ISLAND",
+      "beds": 314,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.4828,
+      "lon": -90.5727,
+      "govt_payer_share": 0.25,
+      "medicare_discharges": 2478
+    },
+    {
+      "facility_id": "160104",
+      "name": "TRINITY - BETTENDORF",
+      "beds": 150,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.5654,
+      "lon": -90.5174,
+      "govt_payer_share": 0.219,
+      "medicare_discharges": 721
+    },
+    {
+      "facility_id": "140275",
+      "name": "GENESIS HLTH SYSTEM DBA GENESIS MDL CTR-ILLINI",
+      "beds": 149,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 41.493,
+      "lon": -90.4186,
+      "govt_payer_share": 0.296,
+      "medicare_discharges": 620
+    },
+    {
+      "facility_id": "141319",
+      "name": "HAMMOND HENRY HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 41.4672,
+      "lon": -90.1496,
+      "govt_payer_share": 0.603,
+      "medicare_discharges": 211
+    },
+    {
+      "facility_id": "141325",
+      "name": "OSF SAINT LUKE MEDICAL CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.2637,
+      "lon": -89.9449,
+      "govt_payer_share": 0.487,
+      "medicare_discharges": 150
+    },
+    {
+      "facility_id": "141304",
+      "name": "GENESIS MEDICAL CENTER, ALEDO",
+      "beds": 22,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.2107,
+      "lon": -90.7178,
+      "govt_payer_share": 0.517,
+      "medicare_discharges": 40
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "19163",
+      "county_name": "Scott",
+      "state": "IA",
+      "pop_total": 174315,
+      "pop_65_plus": 29176,
+      "distance_to_hub_miles": 10.0
+    },
+    {
+      "county_fips": "17161",
+      "county_name": "Rock Island",
+      "state": "IL",
+      "pop_total": 143819,
+      "pop_65_plus": 28436,
+      "distance_to_hub_miles": 4.3
+    },
+    {
+      "county_fips": "17073",
+      "county_name": "Henry",
+      "state": "IL",
+      "pop_total": 49157,
+      "pop_65_plus": 10311,
+      "distance_to_hub_miles": 22.9
+    },
+    {
+      "county_fips": "17131",
+      "county_name": "Mercer",
+      "state": "IL",
+      "pop_total": 15692,
+      "pop_65_plus": 3381,
+      "distance_to_hub_miles": 24.4
+    }
+  ],
+  "summary": {
+    "total_beds": 1187,
+    "catchment_pop": 382983,
+    "catchment_pop_65_plus": 71304,
+    "catchment_pct_65_plus": 0.1862,
+    "max_catchment_radius_miles": 24.4,
+    "avg_catchment_distance_miles": 10.1,
+    "num_counties": 4,
+    "hospital_employment": 3037,
+    "msa_total_employment": 178208,
+    "hospital_emp_share": 0.0206,
+    "avg_govt_payer_share": 0.2787
+  }
+}

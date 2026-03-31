@@ -1,0 +1,247 @@
+{
+  "cbsa_code": "33340",
+  "cbsa_name": "Milwaukee-Waukesha, WI",
+  "mdi": 0.3561,
+  "bbox": [
+    -89.99,
+    41.89,
+    -86.38,
+    44.35
+  ],
+  "hospitals": [
+    {
+      "facility_id": "520138",
+      "name": "AURORA ST LUKES MEDICAL CENTER",
+      "beds": 1213,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.9886,
+      "lon": -87.9513,
+      "govt_payer_share": 0.282,
+      "medicare_discharges": 7494
+    },
+    {
+      "facility_id": "520177",
+      "name": "FROEDTERT MEMORIAL LUTHERAN HOSPITAL",
+      "beds": 596,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.0387,
+      "lon": -88.0265,
+      "govt_payer_share": 0.299,
+      "medicare_discharges": 7168
+    },
+    {
+      "facility_id": "520136",
+      "name": "ASCENSION SE WISCONSIN HOSPITAL",
+      "beds": 538,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 43.0735,
+      "lon": -87.9767,
+      "govt_payer_share": 0.266,
+      "medicare_discharges": 1871
+    },
+    {
+      "facility_id": "520051",
+      "name": "ASCENSION COLUMBIA ST MARYS HOSPITAL MILWAUKEE",
+      "beds": 422,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 43.0612,
+      "lon": -87.8795,
+      "govt_payer_share": 0.252,
+      "medicare_discharges": 2440
+    },
+    {
+      "facility_id": "520008",
+      "name": "WAUKESHA MEMORIAL HOSPITAL",
+      "beds": 400,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.0119,
+      "lon": -88.2426,
+      "govt_payer_share": 0.275,
+      "medicare_discharges": 3112
+    },
+    {
+      "facility_id": "520078",
+      "name": "ASCENSION ST FRANCIS HOSPITAL",
+      "beds": 270,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.9993,
+      "lon": -87.943,
+      "govt_payer_share": 0.236,
+      "medicare_discharges": 342
+    },
+    {
+      "facility_id": "520103",
+      "name": "COMMUNITY MEMORIAL HOSPITAL",
+      "beds": 237,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.1594,
+      "lon": -88.1215,
+      "govt_payer_share": 0.306,
+      "medicare_discharges": 1956
+    },
+    {
+      "facility_id": "520062",
+      "name": "OCONOMOWOC MEMORIAL HOSPITAL",
+      "beds": 156,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.1024,
+      "lon": -88.4878,
+      "govt_payer_share": 0.309,
+      "medicare_discharges": 803
+    },
+    {
+      "facility_id": "520139",
+      "name": "WEST ALLIS MEMORIAL HOSPITAL",
+      "beds": 149,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.0026,
+      "lon": -88.0242,
+      "govt_payer_share": 0.233,
+      "medicare_discharges": 1694
+    },
+    {
+      "facility_id": "520063",
+      "name": "ST JOSEPHS COMMUNITY HOSPITAL WEST BEND",
+      "beds": 121,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.3535,
+      "lon": -88.1925,
+      "govt_payer_share": 0.337,
+      "medicare_discharges": 993
+    },
+    {
+      "facility_id": "520038",
+      "name": "AURORA MEDICAL CTR WASHINGTON COUNTY",
+      "beds": 71,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.3163,
+      "lon": -88.3711,
+      "govt_payer_share": 0.344,
+      "medicare_discharges": 370
+    },
+    {
+      "facility_id": "520206",
+      "name": "AURORA MEDICAL CENTER - SUMMIT",
+      "beds": 66,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.066,
+      "lon": -88.4674,
+      "govt_payer_share": 0.309,
+      "medicare_discharges": 1278
+    },
+    {
+      "facility_id": "520207",
+      "name": "AURORA MEDICAL CENTER",
+      "beds": 62,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.3129,
+      "lon": -87.9244,
+      "govt_payer_share": 0.356,
+      "medicare_discharges": 2235
+    },
+    {
+      "facility_id": "520194",
+      "name": "ORTHOPAEDIC HOSPITAL OF WISCONSIN",
+      "beds": 25,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 43.0739,
+      "lon": -87.9086,
+      "govt_payer_share": 0.376,
+      "medicare_discharges": 347
+    },
+    {
+      "facility_id": "520214",
+      "name": "ASCENSION WISCONSIN HOSP MENOMONEE FALLS CAMPUS",
+      "beds": 24,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 43.1594,
+      "lon": -88.1215,
+      "govt_payer_share": 0.178,
+      "medicare_discharges": 73
+    },
+    {
+      "facility_id": "520205",
+      "name": "MIDWEST ORTHOPEDIC SPECIALTY HOSPITAL",
+      "beds": 16,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 42.8864,
+      "lon": -88.012,
+      "govt_payer_share": 0.291,
+      "medicare_discharges": 164
+    },
+    {
+      "facility_id": "520213",
+      "name": "FROEDTERT COMMUNITY HOSPITAL",
+      "beds": 16,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.9739,
+      "lon": -88.0956,
+      "govt_payer_share": 0.305,
+      "medicare_discharges": 114
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "55079",
+      "county_name": "Milwaukee",
+      "state": "WI",
+      "pop_total": 933063,
+      "pop_65_plus": 131732,
+      "distance_to_hub_miles": 23.2
+    },
+    {
+      "county_fips": "55133",
+      "county_name": "Waukesha",
+      "state": "WI",
+      "pop_total": 407290,
+      "pop_65_plus": 79312,
+      "distance_to_hub_miles": 13.7
+    },
+    {
+      "county_fips": "55131",
+      "county_name": "Washington",
+      "state": "WI",
+      "pop_total": 136842,
+      "pop_65_plus": 25584,
+      "distance_to_hub_miles": 24.0
+    },
+    {
+      "county_fips": "55089",
+      "county_name": "Ozaukee",
+      "state": "WI",
+      "pop_total": 91745,
+      "pop_65_plus": 18873,
+      "distance_to_hub_miles": 31.1
+    }
+  ],
+  "summary": {
+    "total_beds": 4382,
+    "catchment_pop": 1568940,
+    "catchment_pop_65_plus": 255501,
+    "catchment_pct_65_plus": 0.1628,
+    "max_catchment_radius_miles": 31.1,
+    "avg_catchment_distance_miles": 21.3,
+    "num_counties": 4,
+    "hospital_employment": 42219,
+    "msa_total_employment": 813424,
+    "hospital_emp_share": 0.0268,
+    "avg_govt_payer_share": 0.2806
+  }
+}

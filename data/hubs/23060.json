@@ -1,0 +1,156 @@
+{
+  "cbsa_code": "23060",
+  "cbsa_name": "Fort Wayne, IN",
+  "mdi": 0.5274,
+  "bbox": [
+    -86.98,
+    39.74,
+    -83.6,
+    42.21
+  ],
+  "hospitals": [
+    {
+      "facility_id": "150021",
+      "name": "PARKVIEW REGIONAL MEDICAL CENTER",
+      "beds": 600,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.1897,
+      "lon": -85.1013,
+      "govt_payer_share": 0.24,
+      "medicare_discharges": 7752
+    },
+    {
+      "facility_id": "150017",
+      "name": "LUTHERAN HOSPITAL OF INDIANA",
+      "beds": 396,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.044,
+      "lon": -85.2507,
+      "govt_payer_share": 0.265,
+      "medicare_discharges": 3571
+    },
+    {
+      "facility_id": "150047",
+      "name": "ST JOSEPH HEALTH SYSTEM, LLC",
+      "beds": 191,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.0693,
+      "lon": -85.1652,
+      "govt_payer_share": 0.211,
+      "medicare_discharges": 136
+    },
+    {
+      "facility_id": "150150",
+      "name": "DUPONT HOSPITAL LLC",
+      "beds": 131,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.1749,
+      "lon": -85.1093,
+      "govt_payer_share": 0.177,
+      "medicare_discharges": 373
+    },
+    {
+      "facility_id": "150075",
+      "name": "BLUFFTON REGIONAL MEDICAL CENTER",
+      "beds": 79,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.7376,
+      "lon": -85.1714,
+      "govt_payer_share": 0.359,
+      "medicare_discharges": 216
+    },
+    {
+      "facility_id": "150167",
+      "name": "ORTHOPAEDIC HOSPITAL AT PARKVIEW NORTH",
+      "beds": 49,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.212,
+      "lon": -85.1088,
+      "govt_payer_share": 0.245,
+      "medicare_discharges": 155
+    },
+    {
+      "facility_id": "150168",
+      "name": "THE ORTHOPAEDIC HOSPITAL OF LUTHERAN HEALTH NETWOR",
+      "beds": 44,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.0542,
+      "lon": -85.2391,
+      "govt_payer_share": 0.339,
+      "medicare_discharges": 363
+    },
+    {
+      "facility_id": "150101",
+      "name": "PARKVIEW WHITLEY HOSPITAL",
+      "beds": 30,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.167,
+      "lon": -85.4799,
+      "govt_payer_share": 0.213,
+      "medicare_discharges": 338
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "18003",
+      "county_name": "Allen",
+      "state": "IN",
+      "pop_total": 385456,
+      "pop_65_plus": 58170,
+      "distance_to_hub_miles": 5.2
+    },
+    {
+      "county_fips": "18033",
+      "county_name": "DeKalb",
+      "state": "IN",
+      "pop_total": 43312,
+      "pop_65_plus": 7184,
+      "distance_to_hub_miles": 21.8
+    },
+    {
+      "county_fips": "18183",
+      "county_name": "Whitley",
+      "state": "IN",
+      "pop_total": 34259,
+      "pop_65_plus": 6245,
+      "distance_to_hub_miles": 17.9
+    },
+    {
+      "county_fips": "18179",
+      "county_name": "Wells",
+      "state": "IN",
+      "pop_total": 28167,
+      "pop_65_plus": 5125,
+      "distance_to_hub_miles": 26.3
+    },
+    {
+      "county_fips": "39125",
+      "county_name": "Paulding",
+      "state": "OH",
+      "pop_total": 18827,
+      "pop_65_plus": 3574,
+      "distance_to_hub_miles": 30.4
+    }
+  ],
+  "summary": {
+    "total_beds": 1520,
+    "catchment_pop": 510021,
+    "catchment_pop_65_plus": 80298,
+    "catchment_pct_65_plus": 0.1574,
+    "max_catchment_radius_miles": 30.4,
+    "avg_catchment_distance_miles": 9.6,
+    "num_counties": 5,
+    "hospital_employment": 844,
+    "msa_total_employment": 221799,
+    "hospital_emp_share": 0.043,
+    "avg_govt_payer_share": 0.246
+  }
+}

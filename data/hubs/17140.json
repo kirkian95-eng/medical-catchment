@@ -1,0 +1,376 @@
+{
+  "cbsa_code": "17140",
+  "cbsa_name": "Cincinnati, OH-KY-IN",
+  "mdi": 0.3395,
+  "bbox": [
+    -86.72,
+    37.62,
+    -82.64,
+    40.51
+  ],
+  "hospitals": [
+    {
+      "facility_id": "360003",
+      "name": "UNIVERSITY OF CINCINNATI MEDICAL CENTER, LLC",
+      "beds": 771,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.1367,
+      "lon": -84.5039,
+      "govt_payer_share": 0.206,
+      "medicare_discharges": 3970
+    },
+    {
+      "facility_id": "360134",
+      "name": "GOOD SAMARITAN HOSPITAL",
+      "beds": 672,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.1401,
+      "lon": -84.5235,
+      "govt_payer_share": 0.201,
+      "medicare_discharges": 2447
+    },
+    {
+      "facility_id": "180035",
+      "name": "ST ELIZABETH EDGEWOOD",
+      "beds": 621,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 39.008,
+      "lon": -84.5648,
+      "govt_payer_share": 0.254,
+      "medicare_discharges": 5630
+    },
+    {
+      "facility_id": "360163",
+      "name": "CHRIST HOSPITAL",
+      "beds": 621,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.1213,
+      "lon": -84.5086,
+      "govt_payer_share": 0.246,
+      "medicare_discharges": 4861
+    },
+    {
+      "facility_id": "360179",
+      "name": "BETHESDA NORTH",
+      "beds": 465,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 39.2535,
+      "lon": -84.3436,
+      "govt_payer_share": 0.253,
+      "medicare_discharges": 5726
+    },
+    {
+      "facility_id": "360076",
+      "name": "ATRIUM MEDICAL CENTER",
+      "beds": 328,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.4984,
+      "lon": -84.3153,
+      "govt_payer_share": 0.28,
+      "medicare_discharges": 2126
+    },
+    {
+      "facility_id": "360234",
+      "name": "MERCY HEALTH - WEST HOSPITAL",
+      "beds": 297,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.1817,
+      "lon": -84.5971,
+      "govt_payer_share": 0.223,
+      "medicare_discharges": 2587
+    },
+    {
+      "facility_id": "360056",
+      "name": "MERCY HEALTH - FAIRFIELD HOSPITAL",
+      "beds": 271,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.3112,
+      "lon": -84.518,
+      "govt_payer_share": 0.236,
+      "medicare_discharges": 2713
+    },
+    {
+      "facility_id": "180045",
+      "name": "ST ELIZABETH FLORENCE",
+      "beds": 231,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.9872,
+      "lon": -84.647,
+      "govt_payer_share": 0.301,
+      "medicare_discharges": 2137
+    },
+    {
+      "facility_id": "360001",
+      "name": "MERCY HEALTH-ANDERSON HOSPITAL",
+      "beds": 226,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.0843,
+      "lon": -84.3476,
+      "govt_payer_share": 0.24,
+      "medicare_discharges": 2737
+    },
+    {
+      "facility_id": "360132",
+      "name": "FORT HAMILTON HUGHES MEMORIAL HOSPITAL",
+      "beds": 220,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.4153,
+      "lon": -84.5738,
+      "govt_payer_share": 0.239,
+      "medicare_discharges": 1213
+    },
+    {
+      "facility_id": "360016",
+      "name": "THE JEWISH HOSPITAL-MERCY HEALTH",
+      "beds": 209,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.2097,
+      "lon": -84.3972,
+      "govt_payer_share": 0.235,
+      "medicare_discharges": 2733
+    },
+    {
+      "facility_id": "180001",
+      "name": "ST ELIZABETH FT THOMAS",
+      "beds": 178,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.0824,
+      "lon": -84.4571,
+      "govt_payer_share": 0.258,
+      "medicare_discharges": 1512
+    },
+    {
+      "facility_id": "360354",
+      "name": "WEST CHESTER HOSPITAL",
+      "beds": 162,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.357,
+      "lon": -84.3675,
+      "govt_payer_share": 0.28,
+      "medicare_discharges": 2595
+    },
+    {
+      "facility_id": "360236",
+      "name": "MERCY HEALTH - CLERMONT HOSPITAL",
+      "beds": 157,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 39.0916,
+      "lon": -84.1437,
+      "govt_payer_share": 0.199,
+      "medicare_discharges": 1358
+    },
+    {
+      "facility_id": "360046",
+      "name": "MCCULLOUGH-HYDE MEMORIAL HOSPITAL",
+      "beds": 94,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.5123,
+      "lon": -84.7409,
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 389
+    },
+    {
+      "facility_id": "150086",
+      "name": "ST ELIZABETH DEARBORN HOSPITAL",
+      "beds": 78,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 39.1533,
+      "lon": -84.874,
+      "govt_payer_share": 0.482,
+      "medicare_discharges": 1146
+    },
+    {
+      "facility_id": "360374",
+      "name": "MERCY HEALTH KINGS MILLS HOSPITAL LLC",
+      "beds": 60,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.3508,
+      "lon": -84.3132,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
+    },
+    {
+      "facility_id": "151329",
+      "name": "MARGARET MARY COMMUNITY HOSPITAL INC",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.3048,
+      "lon": -85.2249,
+      "govt_payer_share": 0.362,
+      "medicare_discharges": 376
+    },
+    {
+      "facility_id": "181311",
+      "name": "ST ELIZABETH GRANT",
+      "beds": 15,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 38.6212,
+      "lon": -84.5814,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 30
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "39061",
+      "county_name": "Hamilton",
+      "state": "OH",
+      "pop_total": 827671,
+      "pop_65_plus": 132426,
+      "distance_to_hub_miles": 3.1
+    },
+    {
+      "county_fips": "39017",
+      "county_name": "Butler",
+      "state": "OH",
+      "pop_total": 388327,
+      "pop_65_plus": 59678,
+      "distance_to_hub_miles": 18.4
+    },
+    {
+      "county_fips": "39165",
+      "county_name": "Warren",
+      "state": "OH",
+      "pop_total": 243189,
+      "pop_65_plus": 36351,
+      "distance_to_hub_miles": 24.2
+    },
+    {
+      "county_fips": "39025",
+      "county_name": "Clermont",
+      "state": "OH",
+      "pop_total": 208851,
+      "pop_65_plus": 36276,
+      "distance_to_hub_miles": 20.2
+    },
+    {
+      "county_fips": "21117",
+      "county_name": "Kenton",
+      "state": "KY",
+      "pop_total": 169066,
+      "pop_65_plus": 25375,
+      "distance_to_hub_miles": 17.2
+    },
+    {
+      "county_fips": "21015",
+      "county_name": "Boone",
+      "state": "KY",
+      "pop_total": 136150,
+      "pop_65_plus": 19301,
+      "distance_to_hub_miles": 19.4
+    },
+    {
+      "county_fips": "21037",
+      "county_name": "Campbell",
+      "state": "KY",
+      "pop_total": 93122,
+      "pop_65_plus": 15494,
+      "distance_to_hub_miles": 17.2
+    },
+    {
+      "county_fips": "18029",
+      "county_name": "Dearborn",
+      "state": "IN",
+      "pop_total": 50709,
+      "pop_65_plus": 9248,
+      "distance_to_hub_miles": 26.1
+    },
+    {
+      "county_fips": "39015",
+      "county_name": "Brown",
+      "state": "OH",
+      "pop_total": 43715,
+      "pop_65_plus": 8079,
+      "distance_to_hub_miles": 37.5
+    },
+    {
+      "county_fips": "21081",
+      "county_name": "Grant",
+      "state": "KY",
+      "pop_total": 25085,
+      "pop_65_plus": 3501,
+      "distance_to_hub_miles": 37.5
+    },
+    {
+      "county_fips": "18047",
+      "county_name": "Franklin",
+      "state": "IN",
+      "pop_total": 22850,
+      "pop_65_plus": 4384,
+      "distance_to_hub_miles": 34.6
+    },
+    {
+      "county_fips": "21161",
+      "county_name": "Mason",
+      "state": "KY",
+      "pop_total": 17068,
+      "pop_65_plus": 3244,
+      "distance_to_hub_miles": 54.0
+    },
+    {
+      "county_fips": "21191",
+      "county_name": "Pendleton",
+      "state": "KY",
+      "pop_total": 14638,
+      "pop_65_plus": 2411,
+      "distance_to_hub_miles": 34.2
+    },
+    {
+      "county_fips": "21077",
+      "county_name": "Gallatin",
+      "state": "KY",
+      "pop_total": 8720,
+      "pop_65_plus": 1181,
+      "distance_to_hub_miles": 35.4
+    },
+    {
+      "county_fips": "21023",
+      "county_name": "Bracken",
+      "state": "KY",
+      "pop_total": 8420,
+      "pop_65_plus": 1434,
+      "distance_to_hub_miles": 40.2
+    },
+    {
+      "county_fips": "18115",
+      "county_name": "Ohio",
+      "state": "IN",
+      "pop_total": 5974,
+      "pop_65_plus": 1335,
+      "distance_to_hub_miles": 30.2
+    }
+  ],
+  "summary": {
+    "total_beds": 5701,
+    "catchment_pop": 2263555,
+    "catchment_pop_65_plus": 359718,
+    "catchment_pct_65_plus": 0.1589,
+    "max_catchment_radius_miles": 54.0,
+    "avg_catchment_distance_miles": 15.0,
+    "num_counties": 16,
+    "hospital_employment": 53907,
+    "msa_total_employment": 1071317,
+    "hospital_emp_share": 0.0264,
+    "avg_govt_payer_share": 0.2472
+  }
+}

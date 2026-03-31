@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "30500",
+  "cbsa_name": "Lexington Park, MD",
+  "mdi": 0.3537,
+  "bbox": [
+    -78.1,
+    37.56,
+    -75.1,
+    39.56
+  ],
+  "hospitals": [
+    {
+      "facility_id": "210039",
+      "name": "CALVERTHEALTH MEDICAL CENTER",
+      "beds": 106,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 38.56,
+      "lon": -76.5982,
+      "govt_payer_share": 0.54,
+      "medicare_discharges": 2207
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "24037",
+      "county_name": "St. Mary's",
+      "state": "MD",
+      "pop_total": 113814,
+      "pop_65_plus": 15170,
+      "distance_to_hub_miles": 24.1
+    },
+    {
+      "county_fips": "24009",
+      "county_name": "Calvert",
+      "state": "MD",
+      "pop_total": 93244,
+      "pop_65_plus": 14454,
+      "distance_to_hub_miles": 4.0
+    }
+  ],
+  "summary": {
+    "total_beds": 106,
+    "catchment_pop": 207058,
+    "catchment_pop_65_plus": 29624,
+    "catchment_pct_65_plus": 0.1431,
+    "max_catchment_radius_miles": 24.1,
+    "avg_catchment_distance_miles": 15.0,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 22057,
+    "hospital_emp_share": 0.0109,
+    "avg_govt_payer_share": 0.5401
+  }
+}

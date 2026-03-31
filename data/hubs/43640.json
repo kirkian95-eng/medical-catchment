@@ -1,0 +1,91 @@
+{
+  "cbsa_code": "43640",
+  "cbsa_name": "Slidell-Mandeville-Covington, LA",
+  "mdi": 0.5098,
+  "bbox": [
+    -91.64,
+    29.26,
+    -88.27,
+    31.47
+  ],
+  "hospitals": [
+    {
+      "facility_id": "190040",
+      "name": "SLIDELL MEMORIAL HOSPITAL",
+      "beds": 313,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 30.2846,
+      "lon": -89.7698,
+      "govt_payer_share": 0.399,
+      "medicare_discharges": 2104
+    },
+    {
+      "facility_id": "190045",
+      "name": "ST TAMMANY PARISH HOSPITAL",
+      "beds": 281,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 30.4683,
+      "lon": -90.1143,
+      "govt_payer_share": 0.25,
+      "medicare_discharges": 2781
+    },
+    {
+      "facility_id": "190270",
+      "name": "OUR LADY OF THE LAKE SURGICAL HOSPITAL",
+      "beds": 37,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 30.262,
+      "lon": -89.7942,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 119
+    },
+    {
+      "facility_id": "190267",
+      "name": "AVALA",
+      "beds": 21,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 30.4627,
+      "lon": -90.1405,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 152
+    },
+    {
+      "facility_id": "190256",
+      "name": "STERLING SURGICAL HOSPITAL",
+      "beds": 12,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 30.262,
+      "lon": -89.7942,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 79
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "22103",
+      "county_name": "St. Tammany",
+      "state": "LA",
+      "pop_total": 266168,
+      "pop_65_plus": 47243,
+      "distance_to_hub_miles": 3.5
+    }
+  ],
+  "summary": {
+    "total_beds": 664,
+    "catchment_pop": 266168,
+    "catchment_pop_65_plus": 47243,
+    "catchment_pct_65_plus": 0.1775,
+    "max_catchment_radius_miles": 3.5,
+    "avg_catchment_distance_miles": 3.5,
+    "num_counties": 1,
+    "hospital_employment": 2430,
+    "msa_total_employment": 95661,
+    "hospital_emp_share": 0.0405,
+    "avg_govt_payer_share": 0.357
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "cbsa_code": "22100",
+  "cbsa_name": "Farmington, MO",
+  "mdi": 0.4439,
+  "bbox": [
+    -91.94,
+    36.78,
+    -88.94,
+    38.78
+  ],
+  "hospitals": [
+    {
+      "facility_id": "260163",
+      "name": "PARKLAND HEALTH CENTER",
+      "beds": 133,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.7807,
+      "lon": -90.4384,
+      "govt_payer_share": 0.411,
+      "medicare_discharges": 1131
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "29187",
+      "county_name": "St. Francois",
+      "state": "MO",
+      "pop_total": 66814,
+      "pop_65_plus": 11293,
+      "distance_to_hub_miles": 2.8
+    },
+    {
+      "county_fips": "29221",
+      "county_name": "Washington",
+      "state": "MO",
+      "pop_total": 23580,
+      "pop_65_plus": 3970,
+      "distance_to_hub_miles": 27.1
+    },
+    {
+      "county_fips": "29186",
+      "county_name": "Ste. Genevieve",
+      "state": "MO",
+      "pop_total": 18494,
+      "pop_65_plus": 3810,
+      "distance_to_hub_miles": 15.4
+    },
+    {
+      "county_fips": "29123",
+      "county_name": "Madison",
+      "state": "MO",
+      "pop_total": 12649,
+      "pop_65_plus": 2406,
+      "distance_to_hub_miles": 21.5
+    },
+    {
+      "county_fips": "29093",
+      "county_name": "Iron",
+      "state": "MO",
+      "pop_total": 9538,
+      "pop_65_plus": 2100,
+      "distance_to_hub_miles": 24.1
+    },
+    {
+      "county_fips": "29179",
+      "county_name": "Reynolds",
+      "state": "MO",
+      "pop_total": 6102,
+      "pop_65_plus": 1437,
+      "distance_to_hub_miles": 41.0
+    }
+  ],
+  "summary": {
+    "total_beds": 133,
+    "catchment_pop": 137177,
+    "catchment_pop_65_plus": 25016,
+    "catchment_pct_65_plus": 0.1824,
+    "max_catchment_radius_miles": 41.0,
+    "avg_catchment_distance_miles": 13.6,
+    "num_counties": 6,
+    "hospital_employment": 1194,
+    "msa_total_employment": 22292,
+    "hospital_emp_share": 0.0234,
+    "avg_govt_payer_share": 0.4105
+  }
+}

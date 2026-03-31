@@ -1,0 +1,309 @@
+{
+  "cbsa_code": "16740",
+  "cbsa_name": "Charlotte-Concord-Gastonia, NC-SC",
+  "mdi": 0.3503,
+  "bbox": [
+    -82.73,
+    33.72,
+    -78.6,
+    36.8
+  ],
+  "hospitals": [
+    {
+      "facility_id": "340053",
+      "name": "NOVANT HEALTH PRESBYTERIAN MEDICAL CENTER",
+      "beds": 877,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.2134,
+      "lon": -80.8248,
+      "govt_payer_share": 0.197,
+      "medicare_discharges": 4332
+    },
+    {
+      "facility_id": "340113",
+      "name": "CAROLINAS MEDICAL CENTER/BEHAV HEALTH",
+      "beds": 843,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.2038,
+      "lon": -80.8375,
+      "govt_payer_share": 0.222,
+      "medicare_discharges": 7926
+    },
+    {
+      "facility_id": "340001",
+      "name": "CAROLINAS MEDICAL CENTER-NORTHEAST",
+      "beds": 457,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.4349,
+      "lon": -80.6033,
+      "govt_payer_share": 0.259,
+      "medicare_discharges": 5272
+    },
+    {
+      "facility_id": "340032",
+      "name": "CAROMONT REGIONAL MEDICAL CENTER",
+      "beds": 442,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.2737,
+      "lon": -81.1371,
+      "govt_payer_share": 0.24,
+      "medicare_discharges": 4539
+    },
+    {
+      "facility_id": "340098",
+      "name": "ATRIUM HEALTH PINEVILLE",
+      "beds": 344,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.0915,
+      "lon": -80.8695,
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 5210
+    },
+    {
+      "facility_id": "340015",
+      "name": "NOVANT HEALTH ROWAN MEDICAL CENTER",
+      "beds": 308,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.6824,
+      "lon": -80.4713,
+      "govt_payer_share": 0.239,
+      "medicare_discharges": 1749
+    },
+    {
+      "facility_id": "420002",
+      "name": "PIEDMONT MEDICAL CENTER",
+      "beds": 288,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.9578,
+      "lon": -81.053,
+      "govt_payer_share": 0.293,
+      "medicare_discharges": 3500
+    },
+    {
+      "facility_id": "340039",
+      "name": "IREDELL MEMORIAL HOSPITAL INC",
+      "beds": 247,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.7995,
+      "lon": -80.8769,
+      "govt_payer_share": 0.301,
+      "medicare_discharges": 1699
+    },
+    {
+      "facility_id": "420036",
+      "name": "MUSC HEALTH LANCASTER MEDICAL CENTER",
+      "beds": 217,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.7169,
+      "lon": -80.7882,
+      "govt_payer_share": 0.324,
+      "medicare_discharges": 1109
+    },
+    {
+      "facility_id": "340130",
+      "name": "ATRIUM HEALTH UNION",
+      "beds": 157,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 34.9742,
+      "lon": -80.5226,
+      "govt_payer_share": 0.31,
+      "medicare_discharges": 2791
+    },
+    {
+      "facility_id": "340166",
+      "name": "ATRIUM HEALTH UNIVERSITY CITY",
+      "beds": 130,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.322,
+      "lon": -80.7431,
+      "govt_payer_share": 0.215,
+      "medicare_discharges": 1015
+    },
+    {
+      "facility_id": "340145",
+      "name": "ATRIUM HEALTH LINCOLN",
+      "beds": 110,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.4886,
+      "lon": -81.2012,
+      "govt_payer_share": 0.274,
+      "medicare_discharges": 1120
+    },
+    {
+      "facility_id": "340129",
+      "name": "DUKE HEALTH LAKE NORMAN HOSPITAL",
+      "beds": 105,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.5491,
+      "lon": -80.8538,
+      "govt_payer_share": 0.342,
+      "medicare_discharges": 991
+    },
+    {
+      "facility_id": "340171",
+      "name": "NOVANT HEALTH MATTHEWS MEDICAL CENTER",
+      "beds": 102,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 35.1219,
+      "lon": -80.7136,
+      "govt_payer_share": 0.272,
+      "medicare_discharges": 2168
+    },
+    {
+      "facility_id": "420019",
+      "name": "MUSC HEALTH CHESTER MEDICAL CENTER",
+      "beds": 82,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.7156,
+      "lon": -81.2345,
+      "govt_payer_share": 0.694,
+      "medicare_discharges": 152
+    },
+    {
+      "facility_id": "340183",
+      "name": "NOVANT HEALTH HUNTERSVILLE MEDICAL CENTER",
+      "beds": 75,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.406,
+      "lon": -80.86,
+      "govt_payer_share": 0.271,
+      "medicare_discharges": 2036
+    },
+    {
+      "facility_id": "340190",
+      "name": "NOVANT HEALTH MINT HILL MEDICAL CENTER",
+      "beds": 36,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.2236,
+      "lon": -80.6465,
+      "govt_payer_share": 0.227,
+      "medicare_discharges": 517
+    },
+    {
+      "facility_id": "340195",
+      "name": "NOVANT HEALTH BALLANTYNE MEDICAL CENTER",
+      "beds": 36,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.0404,
+      "lon": -80.8415,
+      "govt_payer_share": 0.247,
+      "medicare_discharges": 187
+    },
+    {
+      "facility_id": "340084",
+      "name": "ATRIUM HEALTH ANSON",
+      "beds": 15,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 34.9987,
+      "lon": -80.0988,
+      "govt_payer_share": 0.315,
+      "medicare_discharges": 110
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "37119",
+      "county_name": "Mecklenburg",
+      "state": "NC",
+      "pop_total": 1115403,
+      "pop_65_plus": 129089,
+      "distance_to_hub_miles": 0.4
+    },
+    {
+      "county_fips": "45091",
+      "county_name": "York",
+      "state": "SC",
+      "pop_total": 282987,
+      "pop_65_plus": 41680,
+      "distance_to_hub_miles": 27.7
+    },
+    {
+      "county_fips": "37179",
+      "county_name": "Union",
+      "state": "NC",
+      "pop_total": 240109,
+      "pop_65_plus": 31439,
+      "distance_to_hub_miles": 24.9
+    },
+    {
+      "county_fips": "37071",
+      "county_name": "Gaston",
+      "state": "NC",
+      "pop_total": 228972,
+      "pop_65_plus": 37437,
+      "distance_to_hub_miles": 19.9
+    },
+    {
+      "county_fips": "37025",
+      "county_name": "Cabarrus",
+      "state": "NC",
+      "pop_total": 226396,
+      "pop_65_plus": 30191,
+      "distance_to_hub_miles": 18.4
+    },
+    {
+      "county_fips": "37159",
+      "county_name": "Rowan",
+      "state": "NC",
+      "pop_total": 147067,
+      "pop_65_plus": 26035,
+      "distance_to_hub_miles": 31.9
+    },
+    {
+      "county_fips": "45057",
+      "county_name": "Lancaster",
+      "state": "SC",
+      "pop_total": 97611,
+      "pop_65_plus": 20803,
+      "distance_to_hub_miles": 39.7
+    },
+    {
+      "county_fips": "45023",
+      "county_name": "Chester",
+      "state": "SC",
+      "pop_total": 32171,
+      "pop_65_plus": 5974,
+      "distance_to_hub_miles": 42.9
+    },
+    {
+      "county_fips": "37007",
+      "county_name": "Anson",
+      "state": "NC",
+      "pop_total": 22200,
+      "pop_65_plus": 4339,
+      "distance_to_hub_miles": 45.4
+    }
+  ],
+  "summary": {
+    "total_beds": 4871,
+    "catchment_pop": 2392916,
+    "catchment_pop_65_plus": 326987,
+    "catchment_pct_65_plus": 0.1366,
+    "max_catchment_radius_miles": 45.4,
+    "avg_catchment_distance_miles": 14.2,
+    "num_counties": 9,
+    "hospital_employment": 45278,
+    "msa_total_employment": 1324099,
+    "hospital_emp_share": 0.0244,
+    "avg_govt_payer_share": 0.2596
+  }
+}

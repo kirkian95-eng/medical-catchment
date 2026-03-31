@@ -1,0 +1,93 @@
+{
+  "cbsa_code": "18100",
+  "cbsa_name": "Columbus, NE",
+  "mdi": 0.5788,
+  "bbox": [
+    -99.27,
+    40.45,
+    -95.59,
+    42.49
+  ],
+  "hospitals": [
+    {
+      "facility_id": "280111",
+      "name": "COLUMBUS COMMUNITY HOSPITAL, INC",
+      "beds": 47,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 41.4534,
+      "lon": -97.3846,
+      "govt_payer_share": 0.537,
+      "medicare_discharges": 715
+    },
+    {
+      "facility_id": "281323",
+      "name": "CHI HEALTH SCHUYLER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.4925,
+      "lon": -97.0886,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 28
+    },
+    {
+      "facility_id": "281312",
+      "name": "GENOA COMMUNITY HOSPITAL",
+      "beds": 20,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 41.4588,
+      "lon": -97.7663,
+      "govt_payer_share": 0.595,
+      "medicare_discharges": 29
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "31141",
+      "county_name": "Platte",
+      "state": "NE",
+      "pop_total": 34219,
+      "pop_65_plus": 6076,
+      "distance_to_hub_miles": 14.3
+    },
+    {
+      "county_fips": "31037",
+      "county_name": "Colfax",
+      "state": "NE",
+      "pop_total": 10563,
+      "pop_65_plus": 1410,
+      "distance_to_hub_miles": 12.5
+    },
+    {
+      "county_fips": "31023",
+      "county_name": "Butler",
+      "state": "NE",
+      "pop_total": 8373,
+      "pop_65_plus": 1719,
+      "distance_to_hub_miles": 18.4
+    },
+    {
+      "county_fips": "31143",
+      "county_name": "Polk",
+      "state": "NE",
+      "pop_total": 5182,
+      "pop_65_plus": 1163,
+      "distance_to_hub_miles": 24.4
+    }
+  ],
+  "summary": {
+    "total_beds": 92,
+    "catchment_pop": 58337,
+    "catchment_pop_65_plus": 10368,
+    "catchment_pct_65_plus": 0.1777,
+    "max_catchment_radius_miles": 24.4,
+    "avg_catchment_distance_miles": 15.5,
+    "num_counties": 4,
+    "hospital_employment": 0,
+    "msa_total_employment": 25038,
+    "hospital_emp_share": 0.0309,
+    "avg_govt_payer_share": 0.5664
+  }
+}

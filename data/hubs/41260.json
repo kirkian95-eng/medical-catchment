@@ -1,0 +1,55 @@
+{
+  "cbsa_code": "41260",
+  "cbsa_name": "St. Marys, PA",
+  "mdi": 0.4135,
+  "bbox": [
+    -80.02,
+    40.45,
+    -77.02,
+    42.45
+  ],
+  "hospitals": [
+    {
+      "facility_id": "391315",
+      "name": "PENN HIGHLANDS ELK",
+      "beds": 40,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.455,
+      "lon": -78.5202,
+      "govt_payer_share": 0.495,
+      "medicare_discharges": 335
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42047",
+      "county_name": "Elk",
+      "state": "PA",
+      "pop_total": 30886,
+      "pop_65_plus": 7028,
+      "distance_to_hub_miles": 7.0
+    },
+    {
+      "county_fips": "42023",
+      "county_name": "Cameron",
+      "state": "PA",
+      "pop_total": 4536,
+      "pop_65_plus": 1269,
+      "distance_to_hub_miles": 16.4
+    }
+  ],
+  "summary": {
+    "total_beds": 40,
+    "catchment_pop": 35422,
+    "catchment_pop_65_plus": 8297,
+    "catchment_pct_65_plus": 0.2342,
+    "max_catchment_radius_miles": 16.4,
+    "avg_catchment_distance_miles": 8.2,
+    "num_counties": 2,
+    "hospital_employment": 0,
+    "msa_total_employment": 13478,
+    "hospital_emp_share": 0.017,
+    "avg_govt_payer_share": 0.4946
+  }
+}

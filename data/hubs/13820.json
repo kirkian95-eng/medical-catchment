@@ -1,0 +1,222 @@
+{
+  "cbsa_code": "13820",
+  "cbsa_name": "Birmingham, AL",
+  "mdi": 0.5118,
+  "bbox": [
+    -88.73,
+    31.81,
+    -84.79,
+    34.94
+  ],
+  "hospitals": [
+    {
+      "facility_id": "010033",
+      "name": "UNIVERSITY OF ALABAMA HOSPITAL",
+      "beds": 1157,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 33.5059,
+      "lon": -86.8017,
+      "govt_payer_share": 0.374,
+      "medicare_discharges": 8687
+    },
+    {
+      "facility_id": "010139",
+      "name": "BROOKWOOD BAPTIST MEDICAL CENTER",
+      "beds": 595,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.4476,
+      "lon": -86.8108,
+      "govt_payer_share": 0.367,
+      "medicare_discharges": 1526
+    },
+    {
+      "facility_id": "010103",
+      "name": "PRINCETON BAPTIST MEDICAL CENTER",
+      "beds": 505,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 33.4565,
+      "lon": -86.8685,
+      "govt_payer_share": 0.329,
+      "medicare_discharges": 1591
+    },
+    {
+      "facility_id": "010104",
+      "name": "GRANDVIEW MEDICAL CENTER",
+      "beds": 422,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.4327,
+      "lon": -86.7206,
+      "govt_payer_share": 0.323,
+      "medicare_discharges": 5050
+    },
+    {
+      "facility_id": "010056",
+      "name": "ST VINCENT'S BIRMINGHAM",
+      "beds": 409,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.4951,
+      "lon": -86.8082,
+      "govt_payer_share": 0.277,
+      "medicare_discharges": 3152
+    },
+    {
+      "facility_id": "010011",
+      "name": "ST. VINCENT'S EAST",
+      "beds": 362,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.6153,
+      "lon": -86.6454,
+      "govt_payer_share": 0.299,
+      "medicare_discharges": 2301
+    },
+    {
+      "facility_id": "010114",
+      "name": "MEDICAL WEST, AN AFFILIATE OF UAB HEALTH SYSTEM",
+      "beds": 310,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.3665,
+      "lon": -86.9984,
+      "govt_payer_share": 0.316,
+      "medicare_discharges": 977
+    },
+    {
+      "facility_id": "010089",
+      "name": "WALKER BAPTIST MEDICAL CENTER",
+      "beds": 267,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.8268,
+      "lon": -87.2266,
+      "govt_payer_share": 0.387,
+      "medicare_discharges": 964
+    },
+    {
+      "facility_id": "010016",
+      "name": "SHELBY BAPTIST MEDICAL CENTER",
+      "beds": 252,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.2214,
+      "lon": -86.7877,
+      "govt_payer_share": 0.304,
+      "medicare_discharges": 1405
+    },
+    {
+      "facility_id": "010018",
+      "name": "CALLAHAN EYE HOSPITAL",
+      "beds": 106,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.5092,
+      "lon": -86.8014,
+      "govt_payer_share": 0.221,
+      "medicare_discharges": 14
+    },
+    {
+      "facility_id": "010130",
+      "name": "ST VINCENT'S ST CLAIR",
+      "beds": 40,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.6334,
+      "lon": -86.2887,
+      "govt_payer_share": 0.302,
+      "medicare_discharges": 472
+    },
+    {
+      "facility_id": "010058",
+      "name": "BIBB MEDICAL CENTER",
+      "beds": 35,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.9513,
+      "lon": -87.1473,
+      "govt_payer_share": 0.499,
+      "medicare_discharges": 73
+    },
+    {
+      "facility_id": "010173",
+      "name": "ST VINCENT'S CHILTON",
+      "beds": 30,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 32.8116,
+      "lon": -86.6732,
+      "govt_payer_share": 0.268,
+      "medicare_discharges": 113
+    },
+    {
+      "facility_id": "011305",
+      "name": "ST VINCENTS BLOUNT",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.9411,
+      "lon": -86.4506,
+      "govt_payer_share": 0.281,
+      "medicare_discharges": 120
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "01073",
+      "county_name": "Jefferson",
+      "state": "AL",
+      "pop_total": 672265,
+      "pop_65_plus": 109751,
+      "distance_to_hub_miles": 6.5
+    },
+    {
+      "county_fips": "01117",
+      "county_name": "Shelby",
+      "state": "AL",
+      "pop_total": 223916,
+      "pop_65_plus": 36181,
+      "distance_to_hub_miles": 17.7
+    },
+    {
+      "county_fips": "01115",
+      "county_name": "St. Clair",
+      "state": "AL",
+      "pop_total": 91719,
+      "pop_65_plus": 15955,
+      "distance_to_hub_miles": 33.5
+    },
+    {
+      "county_fips": "01127",
+      "county_name": "Walker",
+      "state": "AL",
+      "pop_total": 64978,
+      "pop_65_plus": 12763,
+      "distance_to_hub_miles": 35.2
+    },
+    {
+      "county_fips": "01021",
+      "county_name": "Chilton",
+      "state": "AL",
+      "pop_total": 45140,
+      "pop_65_plus": 7605,
+      "distance_to_hub_miles": 44.2
+    }
+  ],
+  "summary": {
+    "total_beds": 4515,
+    "catchment_pop": 1098018,
+    "catchment_pop_65_plus": 182255,
+    "catchment_pct_65_plus": 0.166,
+    "max_catchment_radius_miles": 44.2,
+    "avg_catchment_distance_miles": 14.3,
+    "num_counties": 5,
+    "hospital_employment": 29879,
+    "msa_total_employment": 510871,
+    "hospital_emp_share": 0.0396,
+    "avg_govt_payer_share": 0.3368
+  }
+}

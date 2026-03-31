@@ -1,0 +1,79 @@
+{
+  "cbsa_code": "40260",
+  "cbsa_name": "Roanoke Rapids, NC",
+  "mdi": 0.3749,
+  "bbox": [
+    -79.15,
+    35.43,
+    -76.15,
+    37.43
+  ],
+  "hospitals": [
+    {
+      "facility_id": "340151",
+      "name": "ECU HEALTH NORTH HOSPITAL",
+      "beds": 206,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.4344,
+      "lon": -77.6487,
+      "govt_payer_share": 0.356,
+      "medicare_discharges": 871
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "37083",
+      "county_name": "Halifax",
+      "state": "NC",
+      "pop_total": 48772,
+      "pop_65_plus": 10363,
+      "distance_to_hub_miles": 12.3
+    },
+    {
+      "county_fips": "37131",
+      "county_name": "Northampton",
+      "state": "NC",
+      "pop_total": 17528,
+      "pop_65_plus": 4836,
+      "distance_to_hub_miles": 14.0
+    },
+    {
+      "county_fips": "51025",
+      "county_name": "Brunswick",
+      "state": "VA",
+      "pop_total": 15965,
+      "pop_65_plus": 3497,
+      "distance_to_hub_miles": 25.6
+    },
+    {
+      "county_fips": "51081",
+      "county_name": "Greensville",
+      "state": "VA",
+      "pop_total": 11373,
+      "pop_65_plus": 1783,
+      "distance_to_hub_miles": 17.4
+    },
+    {
+      "county_fips": "51595",
+      "county_name": "Emporia",
+      "state": "VA",
+      "pop_total": 5680,
+      "pop_65_plus": 1007,
+      "distance_to_hub_miles": 19.1
+    }
+  ],
+  "summary": {
+    "total_beds": 206,
+    "catchment_pop": 99318,
+    "catchment_pop_65_plus": 21486,
+    "catchment_pct_65_plus": 0.2163,
+    "max_catchment_radius_miles": 25.6,
+    "avg_catchment_distance_miles": 15.7,
+    "num_counties": 5,
+    "hospital_employment": 505,
+    "msa_total_employment": 15130,
+    "hospital_emp_share": 0.0232,
+    "avg_govt_payer_share": 0.3563
+  }
+}

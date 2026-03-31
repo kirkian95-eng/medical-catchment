@@ -1,0 +1,346 @@
+{
+  "cbsa_code": "17410",
+  "cbsa_name": "Cleveland, OH",
+  "mdi": 0.7113,
+  "bbox": [
+    -83.74,
+    40.05,
+    -79.08,
+    42.9
+  ],
+  "hospitals": [
+    {
+      "facility_id": "360180",
+      "name": "CLEVELAND CLINIC",
+      "beds": 1267,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.5022,
+      "lon": -81.6224,
+      "govt_payer_share": 0.259,
+      "medicare_discharges": 11325
+    },
+    {
+      "facility_id": "360137",
+      "name": "UH CLEVELAND MEDICAL CENTER",
+      "beds": 1037,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.5066,
+      "lon": -81.6079,
+      "govt_payer_share": 0.223,
+      "medicare_discharges": 4531
+    },
+    {
+      "facility_id": "360059",
+      "name": "METROHEALTH SYSTEM",
+      "beds": 702,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 41.4623,
+      "lon": -81.699,
+      "govt_payer_share": 0.185,
+      "medicare_discharges": 2211
+    },
+    {
+      "facility_id": "360230",
+      "name": "HILLCREST HOSPITAL",
+      "beds": 532,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.52,
+      "lon": -81.4332,
+      "govt_payer_share": 0.296,
+      "medicare_discharges": 6153
+    },
+    {
+      "facility_id": "360077",
+      "name": "FAIRVIEW HOSPITAL",
+      "beds": 468,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.4501,
+      "lon": -81.8212,
+      "govt_payer_share": 0.231,
+      "medicare_discharges": 4400
+    },
+    {
+      "facility_id": "360145",
+      "name": "UNIVERSITY HOSPITALS - ELYRIA MEDICAL CENTER",
+      "beds": 400,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.37,
+      "lon": -82.136,
+      "govt_payer_share": 0.274,
+      "medicare_discharges": 1796
+    },
+    {
+      "facility_id": "360098",
+      "name": "LAKE HEALTH",
+      "beds": 399,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.6976,
+      "lon": -81.2097,
+      "govt_payer_share": 0.325,
+      "medicare_discharges": 2999
+    },
+    {
+      "facility_id": "360143",
+      "name": "MARYMOUNT HOSPITAL",
+      "beds": 349,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.4058,
+      "lon": -81.6097,
+      "govt_payer_share": 0.269,
+      "medicare_discharges": 1659
+    },
+    {
+      "facility_id": "360155",
+      "name": "SOUTHWEST GENERAL HEALTH CENTER",
+      "beds": 346,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.372,
+      "lon": -81.8324,
+      "govt_payer_share": 0.276,
+      "medicare_discharges": 3735
+    },
+    {
+      "facility_id": "360172",
+      "name": "MERCY REGIONAL MEDICAL CENTER",
+      "beds": 317,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.4374,
+      "lon": -82.2354,
+      "govt_payer_share": 0.222,
+      "medicare_discharges": 1585
+    },
+    {
+      "facility_id": "360041",
+      "name": "PARMA COMMUNITY GENERAL HOSPITAL",
+      "beds": 309,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.3905,
+      "lon": -81.7353,
+      "govt_payer_share": 0.32,
+      "medicare_discharges": 2466
+    },
+    {
+      "facility_id": "360125",
+      "name": "ASHTABULA COUNTY MEDICAL CENTER",
+      "beds": 249,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.8559,
+      "lon": -80.7905,
+      "govt_payer_share": 0.392,
+      "medicare_discharges": 1560
+    },
+    {
+      "facility_id": "360123",
+      "name": "UH ST JOHN MEDICAL CENTER",
+      "beds": 240,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.4495,
+      "lon": -81.9302,
+      "govt_payer_share": 0.369,
+      "medicare_discharges": 2422
+    },
+    {
+      "facility_id": "360075",
+      "name": "UH REGIONAL HOSPITALS",
+      "beds": 213,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.5087,
+      "lon": -81.1937,
+      "govt_payer_share": 0.306,
+      "medicare_discharges": 1655
+    },
+    {
+      "facility_id": "360087",
+      "name": "LUTHERAN HOSPITAL",
+      "beds": 203,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.4832,
+      "lon": -81.6972,
+      "govt_payer_share": 0.199,
+      "medicare_discharges": 540
+    },
+    {
+      "facility_id": "360144",
+      "name": "SOUTH POINTE HOSPITAL",
+      "beds": 180,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 41.4695,
+      "lon": -81.5124,
+      "govt_payer_share": 0.298,
+      "medicare_discharges": 1528
+    },
+    {
+      "facility_id": "360091",
+      "name": "MEDINA HOSPITAL",
+      "beds": 157,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.1414,
+      "lon": -81.8595,
+      "govt_payer_share": 0.296,
+      "medicare_discharges": 2178
+    },
+    {
+      "facility_id": "360082",
+      "name": "EUCLID HOSPITAL",
+      "beds": 148,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 41.5883,
+      "lon": -81.5487,
+      "govt_payer_share": 0.225,
+      "medicare_discharges": 817
+    },
+    {
+      "facility_id": "360359",
+      "name": "UNIVERSITY HOSPITALS AHUJA MEDICAL CENTER",
+      "beds": 144,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.4695,
+      "lon": -81.5124,
+      "govt_payer_share": 0.313,
+      "medicare_discharges": 2532
+    },
+    {
+      "facility_id": "360364",
+      "name": "CLEVELAND CLINIC AVON HOSPITAL",
+      "beds": 126,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.4451,
+      "lon": -82.0051,
+      "govt_payer_share": 0.331,
+      "medicare_discharges": 2420
+    },
+    {
+      "facility_id": "360245",
+      "name": "GLENBEIGH HEALTH SOURCES",
+      "beds": 114,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.6714,
+      "lon": -80.8991,
+      "govt_payer_share": 0.11,
+      "medicare_discharges": 112
+    },
+    {
+      "facility_id": "361306",
+      "name": "MERCY ALLEN HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.289,
+      "lon": -82.236,
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 151
+    },
+    {
+      "facility_id": "361307",
+      "name": "UHHS MEMORIAL HOSPITAL OF GENEVA",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.777,
+      "lon": -80.95,
+      "govt_payer_share": 0.441,
+      "medicare_discharges": 615
+    },
+    {
+      "facility_id": "361308",
+      "name": "UNIVERSITY HOSPITALS CONNEAUT MEDICAL CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 41.9033,
+      "lon": -80.5799,
+      "govt_payer_share": 0.439,
+      "medicare_discharges": 204
+    },
+    {
+      "facility_id": "360367",
+      "name": "LAKE HEALTH BEACHWOOD MEDICAL CENTER",
+      "beds": 24,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 41.4695,
+      "lon": -81.5124,
+      "govt_payer_share": 0.325,
+      "medicare_discharges": 105
+    },
+    {
+      "facility_id": "361303",
+      "name": "LODI COMMUNITY HOSPITAL",
+      "beds": 20,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 41.0454,
+      "lon": -82.0125,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 22
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "39035",
+      "county_name": "Cuyahoga",
+      "state": "OH",
+      "pop_total": 1256620,
+      "pop_65_plus": 234709,
+      "distance_to_hub_miles": 10.7
+    },
+    {
+      "county_fips": "39093",
+      "county_name": "Lorain",
+      "state": "OH",
+      "pop_total": 313101,
+      "pop_65_plus": 59383,
+      "distance_to_hub_miles": 26.9
+    },
+    {
+      "county_fips": "39085",
+      "county_name": "Lake",
+      "state": "OH",
+      "pop_total": 232236,
+      "pop_65_plus": 47984,
+      "distance_to_hub_miles": 35.2
+    },
+    {
+      "county_fips": "39055",
+      "county_name": "Geauga",
+      "state": "OH",
+      "pop_total": 95455,
+      "pop_65_plus": 20354,
+      "distance_to_hub_miles": 23.5
+    }
+  ],
+  "summary": {
+    "total_beds": 8019,
+    "catchment_pop": 1897412,
+    "catchment_pop_65_plus": 362430,
+    "catchment_pct_65_plus": 0.191,
+    "max_catchment_radius_miles": 35.2,
+    "avg_catchment_distance_miles": 17.0,
+    "num_counties": 4,
+    "hospital_employment": 79777,
+    "msa_total_employment": 1027258,
+    "hospital_emp_share": 0.0616,
+    "avg_govt_payer_share": 0.2651
+  }
+}

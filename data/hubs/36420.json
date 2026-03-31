@@ -1,0 +1,402 @@
+{
+  "cbsa_code": "36420",
+  "cbsa_name": "Oklahoma City, OK",
+  "mdi": 0.7539,
+  "bbox": [
+    -99.58,
+    33.71,
+    -95.01,
+    37.18
+  ],
+  "hospitals": [
+    {
+      "facility_id": "370093",
+      "name": "O U MEDICAL CENTER",
+      "beds": 910,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.4823,
+      "lon": -97.5027,
+      "govt_payer_share": 0.573,
+      "medicare_discharges": 5512
+    },
+    {
+      "facility_id": "370028",
+      "name": "INTEGRIS BAPTIST MEDICAL CENTER, INC",
+      "beds": 876,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.5314,
+      "lon": -97.5778,
+      "govt_payer_share": 0.571,
+      "medicare_discharges": 6716
+    },
+    {
+      "facility_id": "370037",
+      "name": "SSM HEALTH ST ANTHONY HOSPITAL - OKLAHOMA CITY",
+      "beds": 686,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 35.478,
+      "lon": -97.5242,
+      "govt_payer_share": 0.526,
+      "medicare_discharges": 5025
+    },
+    {
+      "facility_id": "370008",
+      "name": "NORMAN REGIONAL",
+      "beds": 387,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.1862,
+      "lon": -97.5185,
+      "govt_payer_share": 0.557,
+      "medicare_discharges": 4495
+    },
+    {
+      "facility_id": "370013",
+      "name": "MERCY HOSPITAL OKLAHOMA CITY, INC",
+      "beds": 385,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 35.6089,
+      "lon": -97.6022,
+      "govt_payer_share": 0.435,
+      "medicare_discharges": 5673
+    },
+    {
+      "facility_id": "370106",
+      "name": "INTEGRIS SOUTHWEST MEDICAL CENTER",
+      "beds": 334,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.4205,
+      "lon": -97.5303,
+      "govt_payer_share": 0.519,
+      "medicare_discharges": 2300
+    },
+    {
+      "facility_id": "370094",
+      "name": "SSM HEALTH ST ANTHONY HOSPITAL - MIDWEST",
+      "beds": 255,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.4481,
+      "lon": -97.3945,
+      "govt_payer_share": 0.516,
+      "medicare_discharges": 1595
+    },
+    {
+      "facility_id": "370215",
+      "name": "OKLAHOMA HEART HOSPITAL, LLC",
+      "beds": 97,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 35.5813,
+      "lon": -97.5737,
+      "govt_payer_share": 0.478,
+      "medicare_discharges": 2542
+    },
+    {
+      "facility_id": "370236",
+      "name": "INTEGRIS HEALTH EDMOND HOSPITAL",
+      "beds": 95,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.7264,
+      "lon": -97.4256,
+      "govt_payer_share": 0.465,
+      "medicare_discharges": 1053
+    },
+    {
+      "facility_id": "370211",
+      "name": "INTEGRIS CANADIAN VALLEY HOSPITAL",
+      "beds": 75,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.4838,
+      "lon": -97.7643,
+      "govt_payer_share": 0.535,
+      "medicare_discharges": 1039
+    },
+    {
+      "facility_id": "370222",
+      "name": "MCBRIDE ORTHOPEDIC HOSPITAL",
+      "beds": 68,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 35.5781,
+      "lon": -97.5176,
+      "govt_payer_share": 0.563,
+      "medicare_discharges": 798
+    },
+    {
+      "facility_id": "370054",
+      "name": "GRADY MEMORIAL HOSPITAL",
+      "beds": 57,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 35.0485,
+      "lon": -97.9387,
+      "govt_payer_share": 0.577,
+      "medicare_discharges": 435
+    },
+    {
+      "facility_id": "370203",
+      "name": "COMMUNITY HOSPITAL, LLC",
+      "beds": 45,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 35.3879,
+      "lon": -97.5788,
+      "govt_payer_share": 0.381,
+      "medicare_discharges": 370
+    },
+    {
+      "facility_id": "370234",
+      "name": "OKLAHOMA HEART HOSPITAL SOUTH, LLC",
+      "beds": 44,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 35.4003,
+      "lon": -97.4331,
+      "govt_payer_share": 0.454,
+      "medicare_discharges": 1773
+    },
+    {
+      "facility_id": "370158",
+      "name": "PURCELL MUNICIPAL HOSPITAL",
+      "beds": 39,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 35.0164,
+      "lon": -97.4498,
+      "govt_payer_share": 0.584,
+      "medicare_discharges": 118
+    },
+    {
+      "facility_id": "370240",
+      "name": "INTEGRIS COMMUNITY HOSPITAL - COUNCIL CROSSING",
+      "beds": 32,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.582,
+      "lon": -97.6409,
+      "govt_payer_share": 0.49,
+      "medicare_discharges": 92
+    },
+    {
+      "facility_id": "370206",
+      "name": "OKLAHOMA SPINE HOSPITAL",
+      "beds": 25,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 35.6151,
+      "lon": -97.5829,
+      "govt_payer_share": 0.361,
+      "medicare_discharges": 619
+    },
+    {
+      "facility_id": "371301",
+      "name": "PRAGUE REGIONAL MEMORIAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 35.4987,
+      "lon": -96.707,
+      "govt_payer_share": 0.893,
+      "medicare_discharges": 13
+    },
+    {
+      "facility_id": "371316",
+      "name": "RURAL WELLNESS STROUD HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.7431,
+      "lon": -96.6562,
+      "govt_payer_share": 0.598,
+      "medicare_discharges": 21
+    },
+    {
+      "facility_id": "371317",
+      "name": "MERCY HOSPITAL LOGAN COUNTY",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.8679,
+      "lon": -97.4344,
+      "govt_payer_share": 0.443,
+      "medicare_discharges": 70
+    },
+    {
+      "facility_id": "370199",
+      "name": "LAKESIDE WOMEN'S HOSPITAL, A MEMBER OF INTEGRIS HE",
+      "beds": 23,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.5813,
+      "lon": -97.5737,
+      "govt_payer_share": 0.298,
+      "medicare_discharges": 10
+    },
+    {
+      "facility_id": "370225",
+      "name": "SUMMIT MEDICAL CENTER, LLC",
+      "beds": 15,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 35.7033,
+      "lon": -97.4336,
+      "govt_payer_share": 0.075,
+      "medicare_discharges": 20
+    },
+    {
+      "facility_id": "370201",
+      "name": "SURGICAL HOSPITAL OF OKLAHOMA",
+      "beds": 12,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 35.4316,
+      "lon": -97.4843,
+      "govt_payer_share": 0.493,
+      "medicare_discharges": 99
+    },
+    {
+      "facility_id": "370192",
+      "name": "NORTHWEST SURGICAL HOSPITAL",
+      "beds": 9,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 35.5813,
+      "lon": -97.5737,
+      "govt_payer_share": 0.305,
+      "medicare_discharges": 65
+    },
+    {
+      "facility_id": "370220",
+      "name": "ONECORE HEALTH",
+      "beds": 8,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 35.5781,
+      "lon": -97.5176,
+      "govt_payer_share": 0.358,
+      "medicare_discharges": 108
+    },
+    {
+      "facility_id": "370212",
+      "name": "OKLAHOMA CENTER FOR ORTHOPAEDIC & MULTI-SP",
+      "beds": 6,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 35.3864,
+      "lon": -97.5257,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 98
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "40109",
+      "county_name": "Oklahoma",
+      "state": "OK",
+      "pop_total": 795822,
+      "pop_65_plus": 112086,
+      "distance_to_hub_miles": 8.7
+    },
+    {
+      "county_fips": "40027",
+      "county_name": "Cleveland",
+      "state": "OK",
+      "pop_total": 295060,
+      "pop_65_plus": 41729,
+      "distance_to_hub_miles": 21.8
+    },
+    {
+      "county_fips": "40017",
+      "county_name": "Canadian",
+      "state": "OK",
+      "pop_total": 156681,
+      "pop_65_plus": 20977,
+      "distance_to_hub_miles": 26.0
+    },
+    {
+      "county_fips": "40051",
+      "county_name": "Grady",
+      "state": "OK",
+      "pop_total": 55314,
+      "pop_65_plus": 9137,
+      "distance_to_hub_miles": 37.4
+    },
+    {
+      "county_fips": "40083",
+      "county_name": "Logan",
+      "state": "OK",
+      "pop_total": 49919,
+      "pop_65_plus": 8284,
+      "distance_to_hub_miles": 31.2
+    },
+    {
+      "county_fips": "40087",
+      "county_name": "McClain",
+      "state": "OK",
+      "pop_total": 42393,
+      "pop_65_plus": 6538,
+      "distance_to_hub_miles": 32.4
+    },
+    {
+      "county_fips": "40015",
+      "county_name": "Caddo",
+      "state": "OK",
+      "pop_total": 26910,
+      "pop_65_plus": 4214,
+      "distance_to_hub_miles": 52.1
+    },
+    {
+      "county_fips": "40049",
+      "county_name": "Garvin",
+      "state": "OK",
+      "pop_total": 25806,
+      "pop_65_plus": 4633,
+      "distance_to_hub_miles": 54.5
+    },
+    {
+      "county_fips": "40073",
+      "county_name": "Kingfisher",
+      "state": "OK",
+      "pop_total": 15290,
+      "pop_65_plus": 2521,
+      "distance_to_hub_miles": 40.1
+    },
+    {
+      "county_fips": "40011",
+      "county_name": "Blaine",
+      "state": "OK",
+      "pop_total": 8661,
+      "pop_65_plus": 1628,
+      "distance_to_hub_miles": 57.9
+    },
+    {
+      "county_fips": "40043",
+      "county_name": "Dewey",
+      "state": "OK",
+      "pop_total": 4504,
+      "pop_65_plus": 840,
+      "distance_to_hub_miles": 90.3
+    }
+  ],
+  "summary": {
+    "total_beds": 4558,
+    "catchment_pop": 1476360,
+    "catchment_pop_65_plus": 212587,
+    "catchment_pct_65_plus": 0.144,
+    "max_catchment_radius_miles": 90.3,
+    "avg_catchment_distance_miles": 18.1,
+    "num_counties": 11,
+    "hospital_employment": 31719,
+    "msa_total_employment": 657819,
+    "hospital_emp_share": 0.0612,
+    "avg_govt_payer_share": 0.5327
+  }
+}

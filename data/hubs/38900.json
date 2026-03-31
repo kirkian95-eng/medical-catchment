@@ -1,0 +1,287 @@
+{
+  "cbsa_code": "38900",
+  "cbsa_name": "Portland-Vancouver-Hillsboro, OR-WA",
+  "mdi": 0.36,
+  "bbox": [
+    -124.93,
+    43.79,
+    -120.64,
+    47.13
+  ],
+  "hospitals": [
+    {
+      "facility_id": "380009",
+      "name": "OHSU HOSPITAL AND CLINICS",
+      "beds": 560,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 45.4996,
+      "lon": -122.6855,
+      "govt_payer_share": 0.28,
+      "medicare_discharges": 4330
+    },
+    {
+      "facility_id": "380007",
+      "name": "LEGACY EMANUEL MEDICAL CENTER",
+      "beds": 554,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.5431,
+      "lon": -122.6696,
+      "govt_payer_share": 0.221,
+      "medicare_discharges": 1934
+    },
+    {
+      "facility_id": "380017",
+      "name": "LEGACY GOOD SAMARITAN MEDICAL CENTER",
+      "beds": 539,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.5302,
+      "lon": -122.6967,
+      "govt_payer_share": 0.282,
+      "medicare_discharges": 1609
+    },
+    {
+      "facility_id": "380004",
+      "name": "PROVIDENCE ST VINCENT MEDICAL CENTER",
+      "beds": 523,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.5089,
+      "lon": -122.7718,
+      "govt_payer_share": 0.244,
+      "medicare_discharges": 4598
+    },
+    {
+      "facility_id": "380061",
+      "name": "PROVIDENCE PORTLAND MEDICAL CENTER",
+      "beds": 483,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.5266,
+      "lon": -122.6133,
+      "govt_payer_share": 0.229,
+      "medicare_discharges": 3088
+    },
+    {
+      "facility_id": "380091",
+      "name": "KAISER SUNNYSIDE MEDICAL CENTER",
+      "beds": 329,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 45.4334,
+      "lon": -122.5586,
+      "govt_payer_share": 0.096,
+      "medicare_discharges": 792
+    },
+    {
+      "facility_id": "380060",
+      "name": "ADVENTIST HEALTH PORTLAND",
+      "beds": 302,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 45.5117,
+      "lon": -122.5587,
+      "govt_payer_share": 0.219,
+      "medicare_discharges": 1407
+    },
+    {
+      "facility_id": "500050",
+      "name": "PEACEHEALTH SOUTHWEST MEDICAL CENTER",
+      "beds": 275,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.6248,
+      "lon": -122.5814,
+      "govt_payer_share": 0.215,
+      "medicare_discharges": 3662
+    },
+    {
+      "facility_id": "500150",
+      "name": "LEGACY SALMON CREEK MEDICAL CENTER",
+      "beds": 220,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.7218,
+      "lon": -122.6489,
+      "govt_payer_share": 0.237,
+      "medicare_discharges": 2039
+    },
+    {
+      "facility_id": "380021",
+      "name": "HILLSBORO MEDICAL CENTER",
+      "beds": 215,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.5198,
+      "lon": -122.9774,
+      "govt_payer_share": 0.216,
+      "medicare_discharges": 922
+    },
+    {
+      "facility_id": "380089",
+      "name": "LEGACY MERIDIAN PARK MEDICAL CENTER",
+      "beds": 150,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.3786,
+      "lon": -122.7441,
+      "govt_payer_share": 0.289,
+      "medicare_discharges": 1622
+    },
+    {
+      "facility_id": "380038",
+      "name": "PROVIDENCE WILLAMETTE FALLS MEDICAL CENTER",
+      "beds": 143,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.3573,
+      "lon": -122.5882,
+      "govt_payer_share": 0.176,
+      "medicare_discharges": 749
+    },
+    {
+      "facility_id": "380103",
+      "name": "KAISER FOUNDATION HOSPITAL WESTSIDE",
+      "beds": 122,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.5378,
+      "lon": -122.9438,
+      "govt_payer_share": 0.104,
+      "medicare_discharges": 332
+    },
+    {
+      "facility_id": "380025",
+      "name": "LEGACY MOUNT HOOD MEDICAL CENTER",
+      "beds": 115,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.5191,
+      "lon": -122.4079,
+      "govt_payer_share": 0.279,
+      "medicare_discharges": 872
+    },
+    {
+      "facility_id": "380071",
+      "name": "WILLAMETTE VALLEY MEDICAL CENTER",
+      "beds": 88,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.2005,
+      "lon": -123.1646,
+      "govt_payer_share": 0.313,
+      "medicare_discharges": 700
+    },
+    {
+      "facility_id": "380082",
+      "name": "PROVIDENCE MILWAUKIE HOSPITAL",
+      "beds": 77,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 45.4403,
+      "lon": -122.6159,
+      "govt_payer_share": 0.241,
+      "medicare_discharges": 531
+    },
+    {
+      "facility_id": "380037",
+      "name": "PROVIDENCE NEWBERG MEDICAL CENTER",
+      "beds": 40,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 45.309,
+      "lon": -122.9343,
+      "govt_payer_share": 0.263,
+      "medicare_discharges": 625
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "41051",
+      "county_name": "Multnomah",
+      "state": "OR",
+      "pop_total": 808098,
+      "pop_65_plus": 114187,
+      "distance_to_hub_miles": 13.2
+    },
+    {
+      "county_fips": "41067",
+      "county_name": "Washington",
+      "state": "OR",
+      "pop_total": 599541,
+      "pop_65_plus": 83963,
+      "distance_to_hub_miles": 20.3
+    },
+    {
+      "county_fips": "53011",
+      "county_name": "Clark",
+      "state": "WA",
+      "pop_total": 504091,
+      "pop_65_plus": 81124,
+      "distance_to_hub_miles": 20.9
+    },
+    {
+      "county_fips": "41005",
+      "county_name": "Clackamas",
+      "state": "OR",
+      "pop_total": 420925,
+      "pop_65_plus": 79730,
+      "distance_to_hub_miles": 31.7
+    },
+    {
+      "county_fips": "41057",
+      "county_name": "Tillamook",
+      "state": "OR",
+      "pop_total": 27345,
+      "pop_65_plus": 7315,
+      "distance_to_hub_miles": 52.2
+    },
+    {
+      "county_fips": "41065",
+      "county_name": "Wasco",
+      "state": "OR",
+      "pop_total": 26639,
+      "pop_65_plus": 5501,
+      "distance_to_hub_miles": 77.6
+    },
+    {
+      "county_fips": "41027",
+      "county_name": "Hood River",
+      "state": "OR",
+      "pop_total": 23965,
+      "pop_65_plus": 4092,
+      "distance_to_hub_miles": 50.0
+    },
+    {
+      "county_fips": "53059",
+      "county_name": "Skamania",
+      "state": "WA",
+      "pop_total": 12118,
+      "pop_65_plus": 2613,
+      "distance_to_hub_miles": 51.2
+    },
+    {
+      "county_fips": "41055",
+      "county_name": "Sherman",
+      "state": "OR",
+      "pop_total": 1900,
+      "pop_65_plus": 441,
+      "distance_to_hub_miles": 97.0
+    }
+  ],
+  "summary": {
+    "total_beds": 4735,
+    "catchment_pop": 2424622,
+    "catchment_pop_65_plus": 378966,
+    "catchment_pct_65_plus": 0.1563,
+    "max_catchment_radius_miles": 97.0,
+    "avg_catchment_distance_miles": 21.5,
+    "num_counties": 9,
+    "hospital_employment": 28680,
+    "msa_total_employment": 1208045,
+    "hospital_emp_share": 0.0273,
+    "avg_govt_payer_share": 0.2311
+  }
+}

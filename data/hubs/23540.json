@@ -1,0 +1,106 @@
+{
+  "cbsa_code": "23540",
+  "cbsa_name": "Gainesville, FL",
+  "mdi": 0.744,
+  "bbox": [
+    -83.91,
+    28.64,
+    -80.84,
+    30.66
+  ],
+  "hospitals": [
+    {
+      "facility_id": "100113",
+      "name": "UF HEALTH SHANDS HOSPITAL",
+      "beds": 1054,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 29.6388,
+      "lon": -82.3447,
+      "govt_payer_share": 0.329,
+      "medicare_discharges": 9220
+    },
+    {
+      "facility_id": "100204",
+      "name": "HCA FLORIDA NORTH FLORIDA HOSPITAL",
+      "beds": 528,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 29.6598,
+      "lon": -82.4114,
+      "govt_payer_share": 0.329,
+      "medicare_discharges": 8338
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "12001",
+      "county_name": "Alachua",
+      "state": "FL",
+      "pop_total": 279729,
+      "pop_65_plus": 41025,
+      "distance_to_hub_miles": 2.1
+    },
+    {
+      "county_fips": "12075",
+      "county_name": "Levy",
+      "state": "FL",
+      "pop_total": 43268,
+      "pop_65_plus": 10699,
+      "distance_to_hub_miles": 38.5
+    },
+    {
+      "county_fips": "12007",
+      "county_name": "Bradford",
+      "state": "FL",
+      "pop_total": 27816,
+      "pop_65_plus": 4955,
+      "distance_to_hub_miles": 24.2
+    },
+    {
+      "county_fips": "12041",
+      "county_name": "Gilchrist",
+      "state": "FL",
+      "pop_total": 18070,
+      "pop_65_plus": 3628,
+      "distance_to_hub_miles": 26.6
+    },
+    {
+      "county_fips": "12029",
+      "county_name": "Dixie",
+      "state": "FL",
+      "pop_total": 16737,
+      "pop_65_plus": 3969,
+      "distance_to_hub_miles": 52.1
+    },
+    {
+      "county_fips": "12125",
+      "county_name": "Union",
+      "state": "FL",
+      "pop_total": 15524,
+      "pop_65_plus": 2639,
+      "distance_to_hub_miles": 27.5
+    },
+    {
+      "county_fips": "12067",
+      "county_name": "Lafayette",
+      "state": "FL",
+      "pop_total": 8107,
+      "pop_65_plus": 1553,
+      "distance_to_hub_miles": 54.2
+    }
+  ],
+  "summary": {
+    "total_beds": 1582,
+    "catchment_pop": 409251,
+    "catchment_pop_65_plus": 68468,
+    "catchment_pct_65_plus": 0.1673,
+    "max_catchment_radius_miles": 54.2,
+    "avg_catchment_distance_miles": 12.6,
+    "num_counties": 7,
+    "hospital_employment": 4014,
+    "msa_total_employment": 138542,
+    "hospital_emp_share": 0.0648,
+    "avg_govt_payer_share": 0.3287
+  }
+}

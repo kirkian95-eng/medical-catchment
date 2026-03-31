@@ -1,0 +1,132 @@
+{
+  "cbsa_code": "15380",
+  "cbsa_name": "Buffalo-Cheektowaga, NY",
+  "mdi": 0.3645,
+  "bbox": [
+    -80.55,
+    41.52,
+    -77.21,
+    44.17
+  ],
+  "hospitals": [
+    {
+      "facility_id": "330005",
+      "name": "KALEIDA HEALTH",
+      "beds": 986,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.9004,
+      "lon": -78.8655,
+      "govt_payer_share": 0.196,
+      "medicare_discharges": 6557
+    },
+    {
+      "facility_id": "330219",
+      "name": "ERIE COUNTY MEDICAL CENTER",
+      "beds": 526,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 42.9345,
+      "lon": -78.8102,
+      "govt_payer_share": 0.202,
+      "medicare_discharges": 2296
+    },
+    {
+      "facility_id": "330078",
+      "name": "SISTERS OF CHARITY HOSPITAL",
+      "beds": 413,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.9292,
+      "lon": -78.8497,
+      "govt_payer_share": 0.136,
+      "medicare_discharges": 1030
+    },
+    {
+      "facility_id": "330279",
+      "name": "MERCY HOSPITAL OF BUFFALO",
+      "beds": 387,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.8491,
+      "lon": -78.8137,
+      "govt_payer_share": 0.193,
+      "medicare_discharges": 2929
+    },
+    {
+      "facility_id": "330102",
+      "name": "KENMORE MERCY HOSPITAL",
+      "beds": 184,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.9719,
+      "lon": -78.8768,
+      "govt_payer_share": 0.209,
+      "medicare_discharges": 1110
+    },
+    {
+      "facility_id": "330188",
+      "name": "MOUNT ST. MARY'S HOSPITAL & HEALTH CENTER",
+      "beds": 179,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.1732,
+      "lon": -78.9931,
+      "govt_payer_share": 0.156,
+      "medicare_discharges": 528
+    },
+    {
+      "facility_id": "330065",
+      "name": "NIAGARA FALLS MEMORIAL MEDICAL CENTER",
+      "beds": 171,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 43.0939,
+      "lon": -79.0503,
+      "govt_payer_share": 0.448,
+      "medicare_discharges": 511
+    },
+    {
+      "facility_id": "330111",
+      "name": "BERTRAND CHAFFEE HOSPITAL",
+      "beds": 49,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.525,
+      "lon": -78.7121,
+      "govt_payer_share": 0.225,
+      "medicare_discharges": 142
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "36029",
+      "county_name": "Erie",
+      "state": "NY",
+      "pop_total": 951232,
+      "pop_65_plus": 175697,
+      "distance_to_hub_miles": 12.6
+    },
+    {
+      "county_fips": "36063",
+      "county_name": "Niagara",
+      "state": "NY",
+      "pop_total": 212230,
+      "pop_65_plus": 41892,
+      "distance_to_hub_miles": 28.4
+    }
+  ],
+  "summary": {
+    "total_beds": 2895,
+    "catchment_pop": 1163462,
+    "catchment_pop_65_plus": 217589,
+    "catchment_pct_65_plus": 0.187,
+    "max_catchment_radius_miles": 28.4,
+    "avg_catchment_distance_miles": 15.5,
+    "num_counties": 2,
+    "hospital_employment": 20922,
+    "msa_total_employment": 527847,
+    "hospital_emp_share": 0.0308,
+    "avg_govt_payer_share": 0.2019
+  }
+}

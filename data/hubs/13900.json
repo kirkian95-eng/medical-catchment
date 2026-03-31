@@ -1,0 +1,186 @@
+{
+  "cbsa_code": "13900",
+  "cbsa_name": "Bismarck, ND",
+  "mdi": 0.7711,
+  "bbox": [
+    -102.86,
+    45.15,
+    -98.7,
+    48.46
+  ],
+  "hospitals": [
+    {
+      "facility_id": "350002",
+      "name": "CHI ST ALEXIUS HEALTH",
+      "beds": 287,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 46.8065,
+      "lon": -100.7778,
+      "govt_payer_share": 0.52,
+      "medicare_discharges": 2115
+    },
+    {
+      "facility_id": "350015",
+      "name": "SANFORD MEDICAL CENTER BISMARCK",
+      "beds": 233,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 46.808,
+      "lon": -100.7817,
+      "govt_payer_share": 0.606,
+      "medicare_discharges": 4329
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "38015",
+      "county_name": "Burleigh",
+      "state": "ND",
+      "pop_total": 98443,
+      "pop_65_plus": 16772,
+      "distance_to_hub_miles": 18.8
+    },
+    {
+      "county_fips": "38059",
+      "county_name": "Morton",
+      "state": "ND",
+      "pop_total": 33192,
+      "pop_65_plus": 5490,
+      "distance_to_hub_miles": 24.6
+    },
+    {
+      "county_fips": "38093",
+      "county_name": "Stutsman",
+      "state": "ND",
+      "pop_total": 21609,
+      "pop_65_plus": 4300,
+      "distance_to_hub_miles": 86.8
+    },
+    {
+      "county_fips": "38057",
+      "county_name": "Mercer",
+      "state": "ND",
+      "pop_total": 8366,
+      "pop_65_plus": 1773,
+      "distance_to_hub_miles": 60.5
+    },
+    {
+      "county_fips": "46041",
+      "county_name": "Dewey",
+      "state": "SD",
+      "pop_total": 5275,
+      "pop_65_plus": 505,
+      "distance_to_hub_miles": 114.1
+    },
+    {
+      "county_fips": "38103",
+      "county_name": "Wells",
+      "state": "ND",
+      "pop_total": 3990,
+      "pop_65_plus": 1001,
+      "distance_to_hub_miles": 75.3
+    },
+    {
+      "county_fips": "46031",
+      "county_name": "Corson",
+      "state": "SD",
+      "pop_total": 3906,
+      "pop_65_plus": 455,
+      "distance_to_hub_miles": 78.5
+    },
+    {
+      "county_fips": "38085",
+      "county_name": "Sioux",
+      "state": "ND",
+      "pop_total": 3896,
+      "pop_65_plus": 315,
+      "distance_to_hub_miles": 49.6
+    },
+    {
+      "county_fips": "38029",
+      "county_name": "Emmons",
+      "state": "ND",
+      "pop_total": 3297,
+      "pop_65_plus": 928,
+      "distance_to_hub_miles": 44.3
+    },
+    {
+      "county_fips": "38051",
+      "county_name": "McIntosh",
+      "state": "ND",
+      "pop_total": 2529,
+      "pop_65_plus": 780,
+      "distance_to_hub_miles": 79.8
+    },
+    {
+      "county_fips": "38043",
+      "county_name": "Kidder",
+      "state": "ND",
+      "pop_total": 2391,
+      "pop_65_plus": 637,
+      "distance_to_hub_miles": 48.7
+    },
+    {
+      "county_fips": "38037",
+      "county_name": "Grant",
+      "state": "ND",
+      "pop_total": 2320,
+      "pop_65_plus": 679,
+      "distance_to_hub_miles": 51.3
+    },
+    {
+      "county_fips": "38001",
+      "county_name": "Adams",
+      "state": "ND",
+      "pop_total": 2190,
+      "pop_65_plus": 606,
+      "distance_to_hub_miles": 96.6
+    },
+    {
+      "county_fips": "38047",
+      "county_name": "Logan",
+      "state": "ND",
+      "pop_total": 1849,
+      "pop_65_plus": 499,
+      "distance_to_hub_miles": 66.4
+    },
+    {
+      "county_fips": "38065",
+      "county_name": "Oliver",
+      "state": "ND",
+      "pop_total": 1832,
+      "pop_65_plus": 458,
+      "distance_to_hub_miles": 34.0
+    },
+    {
+      "county_fips": "46021",
+      "county_name": "Campbell",
+      "state": "SD",
+      "pop_total": 1534,
+      "pop_65_plus": 419,
+      "distance_to_hub_miles": 79.6
+    },
+    {
+      "county_fips": "38083",
+      "county_name": "Sheridan",
+      "state": "ND",
+      "pop_total": 1338,
+      "pop_65_plus": 448,
+      "distance_to_hub_miles": 56.9
+    }
+  ],
+  "summary": {
+    "total_beds": 520,
+    "catchment_pop": 197957,
+    "catchment_pop_65_plus": 36065,
+    "catchment_pct_65_plus": 0.1822,
+    "max_catchment_radius_miles": 114.1,
+    "avg_catchment_distance_miles": 38.5,
+    "num_counties": 17,
+    "hospital_employment": 0,
+    "msa_total_employment": 57308,
+    "hospital_emp_share": 0.0521,
+    "avg_govt_payer_share": 0.5588
+  }
+}

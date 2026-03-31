@@ -1,0 +1,201 @@
+{
+  "cbsa_code": "41740",
+  "cbsa_name": "San Diego-Chula Vista-Carlsbad, CA",
+  "mdi": 0.3428,
+  "bbox": [
+    -118.8,
+    31.62,
+    -115.51,
+    34.2
+  ],
+  "hospitals": [
+    {
+      "facility_id": "050100",
+      "name": "SHARP MEMORIAL HOSPITAL",
+      "beds": 881,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.8002,
+      "lon": -117.1546,
+      "govt_payer_share": 0.245,
+      "medicare_discharges": 5108
+    },
+    {
+      "facility_id": "050077",
+      "name": "SCRIPPS MERCY HOSPITAL",
+      "beds": 700,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.7508,
+      "lon": -117.1609,
+      "govt_payer_share": 0.247,
+      "medicare_discharges": 4359
+    },
+    {
+      "facility_id": "050115",
+      "name": "PALOMAR HEALTH DOWNTOWN CAMPUS",
+      "beds": 679,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.0778,
+      "lon": -117.0331,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 3625
+    },
+    {
+      "facility_id": "050515",
+      "name": "KAISER FOUNDATION HOSPITAL - SAN DIEGO",
+      "beds": 659,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 32.7929,
+      "lon": -117.0957,
+      "govt_payer_share": 0.099,
+      "medicare_discharges": 803
+    },
+    {
+      "facility_id": "050025",
+      "name": "UC SAN DIEGO HEALTH HILLCREST - HILLCREST MED CTR",
+      "beds": 600,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 32.7538,
+      "lon": -117.166,
+      "govt_payer_share": 0.254,
+      "medicare_discharges": 7379
+    },
+    {
+      "facility_id": "050026",
+      "name": "GROSSMONT HOSPITAL",
+      "beds": 536,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.7791,
+      "lon": -117.0082,
+      "govt_payer_share": 0.315,
+      "medicare_discharges": 6015
+    },
+    {
+      "facility_id": "050128",
+      "name": "TRI-CITY MEDICAL CENTER",
+      "beds": 397,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.1996,
+      "lon": -117.2988,
+      "govt_payer_share": 0.274,
+      "medicare_discharges": 1794
+    },
+    {
+      "facility_id": "050324",
+      "name": "SCRIPPS MEMORIAL HOSPITAL LA JOLLA",
+      "beds": 332,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 32.8846,
+      "lon": -117.2224,
+      "govt_payer_share": 0.311,
+      "medicare_discharges": 6409
+    },
+    {
+      "facility_id": "050222",
+      "name": "SHARP CHULA VISTA MEDICAL CENTER",
+      "beds": 306,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.6179,
+      "lon": -117.0229,
+      "govt_payer_share": 0.273,
+      "medicare_discharges": 3208
+    },
+    {
+      "facility_id": "050024",
+      "name": "PARADISE VALLEY HOSPITAL",
+      "beds": 237,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.6691,
+      "lon": -117.0935,
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 990
+    },
+    {
+      "facility_id": "050636",
+      "name": "PALOMAR MEDICAL CENTER POWAY",
+      "beds": 236,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 32.9844,
+      "lon": -117.0135,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 1316
+    },
+    {
+      "facility_id": "050234",
+      "name": "SHARP CORONADO HOSPITAL AND HLTHCR CTR",
+      "beds": 204,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.6988,
+      "lon": -117.2091,
+      "govt_payer_share": 0.37,
+      "medicare_discharges": 745
+    },
+    {
+      "facility_id": "050424",
+      "name": "SCRIPPS GREEN HOSPITAL",
+      "beds": 173,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 32.8546,
+      "lon": -117.2518,
+      "govt_payer_share": 0.323,
+      "medicare_discharges": 2502
+    },
+    {
+      "facility_id": "050855",
+      "name": "KAISER FOUNDATION HOSPITAL - SAN MARCOS",
+      "beds": 168,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.126,
+      "lon": -117.1787,
+      "govt_payer_share": 0.143,
+      "medicare_discharges": 61
+    },
+    {
+      "facility_id": "050503",
+      "name": "SCRIPPS MEMORIAL HOSPITAL - ENCINITAS",
+      "beds": 158,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.0363,
+      "lon": -117.2852,
+      "govt_payer_share": 0.34,
+      "medicare_discharges": 4153
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "06073",
+      "county_name": "San Diego",
+      "state": "CA",
+      "pop_total": 3289701,
+      "pop_65_plus": 481993,
+      "distance_to_hub_miles": 24.2
+    }
+  ],
+  "summary": {
+    "total_beds": 6266,
+    "catchment_pop": 3289701,
+    "catchment_pop_65_plus": 481993,
+    "catchment_pct_65_plus": 0.1465,
+    "max_catchment_radius_miles": 24.2,
+    "avg_catchment_distance_miles": 24.2,
+    "num_counties": 1,
+    "hospital_employment": 48849,
+    "msa_total_employment": 1525913,
+    "hospital_emp_share": 0.0235,
+    "avg_govt_payer_share": 0.3021
+  }
+}

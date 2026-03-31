@@ -1,0 +1,130 @@
+{
+  "cbsa_code": "24500",
+  "cbsa_name": "Great Falls, MT",
+  "mdi": 1.0,
+  "bbox": [
+    -113.57,
+    45.48,
+    -108.99,
+    49.3
+  ],
+  "hospitals": [
+    {
+      "facility_id": "270012",
+      "name": "BENEFIS HOSPITALS INC",
+      "beds": 398,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 47.4921,
+      "lon": -111.2625,
+      "govt_payer_share": 0.697,
+      "medicare_discharges": 2828
+    },
+    {
+      "facility_id": "270086",
+      "name": "GREAT FALLS CLINIC HOSPITAL",
+      "beds": 20,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 47.289,
+      "lon": -111.3005,
+      "govt_payer_share": 0.54,
+      "medicare_discharges": 569
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "30013",
+      "county_name": "Cascade",
+      "state": "MT",
+      "pop_total": 84423,
+      "pop_65_plus": 16052,
+      "distance_to_hub_miles": 13.3
+    },
+    {
+      "county_fips": "30041",
+      "county_name": "Hill",
+      "state": "MT",
+      "pop_total": 16238,
+      "pop_65_plus": 2495,
+      "distance_to_hub_miles": 94.8
+    },
+    {
+      "county_fips": "30027",
+      "county_name": "Fergus",
+      "state": "MT",
+      "pop_total": 11496,
+      "pop_65_plus": 2858,
+      "distance_to_hub_miles": 96.7
+    },
+    {
+      "county_fips": "30005",
+      "county_name": "Blaine",
+      "state": "MT",
+      "pop_total": 7030,
+      "pop_65_plus": 1111,
+      "distance_to_hub_miles": 124.8
+    },
+    {
+      "county_fips": "30099",
+      "county_name": "Teton",
+      "state": "MT",
+      "pop_total": 6238,
+      "pop_65_plus": 1428,
+      "distance_to_hub_miles": 51.4
+    },
+    {
+      "county_fips": "30073",
+      "county_name": "Pondera",
+      "state": "MT",
+      "pop_total": 5987,
+      "pop_65_plus": 1267,
+      "distance_to_hub_miles": 67.6
+    },
+    {
+      "county_fips": "30015",
+      "county_name": "Chouteau",
+      "state": "MT",
+      "pop_total": 5897,
+      "pop_65_plus": 1279,
+      "distance_to_hub_miles": 46.9
+    },
+    {
+      "county_fips": "30101",
+      "county_name": "Toole",
+      "state": "MT",
+      "pop_total": 5018,
+      "pop_65_plus": 886,
+      "distance_to_hub_miles": 82.8
+    },
+    {
+      "county_fips": "30045",
+      "county_name": "Judith Basin",
+      "state": "MT",
+      "pop_total": 2039,
+      "pop_65_plus": 516,
+      "distance_to_hub_miles": 56.0
+    },
+    {
+      "county_fips": "30051",
+      "county_name": "Liberty",
+      "state": "MT",
+      "pop_total": 1993,
+      "pop_65_plus": 447,
+      "distance_to_hub_miles": 74.7
+    }
+  ],
+  "summary": {
+    "total_beds": 418,
+    "catchment_pop": 146359,
+    "catchment_pop_65_plus": 28339,
+    "catchment_pct_65_plus": 0.1936,
+    "max_catchment_radius_miles": 124.8,
+    "avg_catchment_distance_miles": 43.3,
+    "num_counties": 10,
+    "hospital_employment": 0,
+    "msa_total_employment": 36297,
+    "hospital_emp_share": 0.0796,
+    "avg_govt_payer_share": 0.6893
+  }
+}
