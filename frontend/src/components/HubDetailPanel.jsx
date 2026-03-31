@@ -55,7 +55,7 @@ export default function HubDetailPanel({ hubDetail, loading, onClose }) {
       {/* Context sentence */}
       {empShare && (
         <div className="px-3 pb-3">
-          <p className="text-[11px] text-stone-400 italic leading-relaxed">
+          <p className="text-sm text-stone-300 italic leading-relaxed">
             {hubName}'s hospital systems
             {s.hospital_employment ? ` employ ${s.hospital_employment.toLocaleString()} people — ${empShare}` : ''}
             {s.num_counties ? ` and draw patients from a ${s.num_counties}-county catchment area` : ''}
