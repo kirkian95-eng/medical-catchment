@@ -72,28 +72,12 @@
       "distance_to_hub_miles": 22.2
     },
     {
-      "county_fips": "48149",
-      "county_name": "Fayette",
-      "state": "TX",
-      "pop_total": 24564,
-      "pop_65_plus": 6399,
-      "distance_to_hub_miles": 62.3
-    },
-    {
       "county_fips": "48051",
       "county_name": "Burleson",
       "state": "TX",
       "pop_total": 17958,
       "pop_65_plus": 3891,
       "distance_to_hub_miles": 18.9
-    },
-    {
-      "county_fips": "48287",
-      "county_name": "Lee",
-      "state": "TX",
-      "pop_total": 17543,
-      "pop_65_plus": 3597,
-      "distance_to_hub_miles": 43.0
     },
     {
       "county_fips": "48395",
@@ -114,12 +98,12 @@
   ],
   "summary": {
     "total_beds": 492,
-    "catchment_pop": 354523,
-    "catchment_pop_65_plus": 47070,
-    "catchment_pct_65_plus": 0.1328,
-    "max_catchment_radius_miles": 62.3,
-    "avg_catchment_distance_miles": 14.2,
-    "num_counties": 7,
+    "catchment_pop": 312416,
+    "catchment_pop_65_plus": 37074,
+    "catchment_pct_65_plus": 0.1187,
+    "max_catchment_radius_miles": 34.0,
+    "avg_catchment_distance_miles": 8.8,
+    "num_counties": 5,
     "hospital_employment": 5619,
     "msa_total_employment": 125687,
     "hospital_emp_share": 0.0275,

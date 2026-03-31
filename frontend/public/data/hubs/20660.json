@@ -23,6 +23,14 @@
   ],
   "catchment_counties": [
     {
+      "county_fips": "24035",
+      "county_name": "Queen Anne's",
+      "state": "MD",
+      "pop_total": 50316,
+      "pop_65_plus": 9902,
+      "distance_to_hub_miles": 18.5
+    },
+    {
       "county_fips": "24041",
       "county_name": "Talbot",
       "state": "MD",
@@ -41,12 +49,12 @@
   ],
   "summary": {
     "total_beds": 189,
-    "catchment_pop": 70983,
-    "catchment_pop_65_plus": 16825,
-    "catchment_pct_65_plus": 0.237,
-    "max_catchment_radius_miles": 14.9,
-    "avg_catchment_distance_miles": 10.0,
-    "num_counties": 2,
+    "catchment_pop": 121299,
+    "catchment_pop_65_plus": 26727,
+    "catchment_pct_65_plus": 0.2203,
+    "max_catchment_radius_miles": 18.5,
+    "avg_catchment_distance_miles": 13.5,
+    "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 17984,
     "hospital_emp_share": 0.0516,

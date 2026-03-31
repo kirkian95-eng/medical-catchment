@@ -1,0 +1,395 @@
+{
+  "cbsa_code": "38300",
+  "cbsa_name": "Pittsburgh, PA",
+  "mdi": 0.3864,
+  "bbox": [
+    -81.87,
+    38.9,
+    -77.89,
+    42.05
+  ],
+  "hospitals": [
+    {
+      "facility_id": "390164",
+      "name": "UPMC PRESBYTERIAN SHADYSIDE",
+      "beds": 1577,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.4356,
+      "lon": -79.9641,
+      "govt_payer_share": 0.198,
+      "medicare_discharges": 7176
+    },
+    {
+      "facility_id": "390050",
+      "name": "ALLEGHENY GENERAL HOSPITAL",
+      "beds": 524,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.4571,
+      "lon": -79.9946,
+      "govt_payer_share": 0.201,
+      "medicare_discharges": 3966
+    },
+    {
+      "facility_id": "390090",
+      "name": "WEST PENN HOSPITAL",
+      "beds": 500,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.4623,
+      "lon": -79.9462,
+      "govt_payer_share": 0.113,
+      "medicare_discharges": 1096
+    },
+    {
+      "facility_id": "390028",
+      "name": "UPMC MERCY",
+      "beds": 435,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.4428,
+      "lon": -79.9841,
+      "govt_payer_share": 0.169,
+      "medicare_discharges": 1755
+    },
+    {
+      "facility_id": "390265",
+      "name": "JEFFERSON HOSPITAL",
+      "beds": 390,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.3181,
+      "lon": -79.9357,
+      "govt_payer_share": 0.187,
+      "medicare_discharges": 1860
+    },
+    {
+      "facility_id": "390145",
+      "name": "EXCELA HEALTH WESTMORELAND REGIONAL HOSPITAL",
+      "beds": 375,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 40.3011,
+      "lon": -79.5552,
+      "govt_payer_share": 0.162,
+      "medicare_discharges": 1981
+    },
+    {
+      "facility_id": "390114",
+      "name": "MAGEE WOMENS HOSPITAL OF UPMC HEALTH SYSTEM",
+      "beds": 363,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 40.4373,
+      "lon": -79.96,
+      "govt_payer_share": 0.077,
+      "medicare_discharges": 712
+    },
+    {
+      "facility_id": "390036",
+      "name": "HERITAGE VALLEY BEAVER",
+      "beds": 361,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.6979,
+      "lon": -80.3653,
+      "govt_payer_share": 0.152,
+      "medicare_discharges": 1291
+    },
+    {
+      "facility_id": "390267",
+      "name": "FORBES HOSPITAL",
+      "beds": 349,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.427,
+      "lon": -79.7509,
+      "govt_payer_share": 0.211,
+      "medicare_discharges": 2443
+    },
+    {
+      "facility_id": "390107",
+      "name": "UPMC PASSAVANT",
+      "beds": 346,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.5484,
+      "lon": -80.0462,
+      "govt_payer_share": 0.207,
+      "medicare_discharges": 2948
+    },
+    {
+      "facility_id": "390228",
+      "name": "ST CLAIR HOSPITAL",
+      "beds": 328,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.3764,
+      "lon": -80.0677,
+      "govt_payer_share": 0.196,
+      "medicare_discharges": 2385
+    },
+    {
+      "facility_id": "390168",
+      "name": "INDEPENDENCE HEALTH SYSTEM BUTLER MEMORIAL HOSPITA",
+      "beds": 294,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.8642,
+      "lon": -79.8829,
+      "govt_payer_share": 0.169,
+      "medicare_discharges": 1420
+    },
+    {
+      "facility_id": "390042",
+      "name": "WASHINGTON HOSPITAL, THE",
+      "beds": 260,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.1831,
+      "lon": -80.2477,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 1480
+    },
+    {
+      "facility_id": "390102",
+      "name": "UPMC ST MARGARET",
+      "beds": 250,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.5014,
+      "lon": -79.9127,
+      "govt_payer_share": 0.209,
+      "medicare_discharges": 1493
+    },
+    {
+      "facility_id": "390032",
+      "name": "ALLEGHENY VALLEY HOSPITAL",
+      "beds": 228,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.6442,
+      "lon": -79.7254,
+      "govt_payer_share": 0.219,
+      "medicare_discharges": 553
+    },
+    {
+      "facility_id": "390147",
+      "name": "PENN HIGHLANDS MON VALLEY",
+      "beds": 210,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.1912,
+      "lon": -79.9225,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 700
+    },
+    {
+      "facility_id": "390217",
+      "name": "EXCELA HEALTH - FRICK HOSPITAL",
+      "beds": 210,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 40.161,
+      "lon": -79.5098,
+      "govt_payer_share": 0.215,
+      "medicare_discharges": 437
+    },
+    {
+      "facility_id": "390002",
+      "name": "UPMC MCKEESPORT HOSPITAL",
+      "beds": 198,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.3398,
+      "lon": -79.8428,
+      "govt_payer_share": 0.124,
+      "medicare_discharges": 467
+    },
+    {
+      "facility_id": "390041",
+      "name": "UNIONTOWN HOSPITAL",
+      "beds": 190,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9007,
+      "lon": -79.7479,
+      "govt_payer_share": 0.222,
+      "medicare_discharges": 1450
+    },
+    {
+      "facility_id": "390037",
+      "name": "HERITAGE VALLEY SEWICKLEY",
+      "beds": 186,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.5681,
+      "lon": -80.1468,
+      "govt_payer_share": 0.167,
+      "medicare_discharges": 862
+    },
+    {
+      "facility_id": "390016",
+      "name": "UPMC JAMESON",
+      "beds": 175,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 41.054,
+      "lon": -80.3394,
+      "govt_payer_share": 0.205,
+      "medicare_discharges": 1071
+    },
+    {
+      "facility_id": "390219",
+      "name": "EXCELA HEALTH LATROBE HOSPITAL",
+      "beds": 170,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.2772,
+      "lon": -79.3929,
+      "govt_payer_share": 0.162,
+      "medicare_discharges": 1014
+    },
+    {
+      "facility_id": "390328",
+      "name": "UPMC EAST",
+      "beds": 155,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.4282,
+      "lon": -79.7611,
+      "govt_payer_share": 0.184,
+      "medicare_discharges": 1415
+    },
+    {
+      "facility_id": "390163",
+      "name": "ACMH HOSPITAL",
+      "beds": 154,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.8085,
+      "lon": -79.5603,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 455
+    },
+    {
+      "facility_id": "390160",
+      "name": "CANONSBURG GENERAL HOSPITAL",
+      "beds": 104,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.2763,
+      "lon": -80.1717,
+      "govt_payer_share": 0.266,
+      "medicare_discharges": 343
+    },
+    {
+      "facility_id": "390334",
+      "name": "AHN WEXFORD HOSPITAL",
+      "beds": 100,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.6318,
+      "lon": -80.0597,
+      "govt_payer_share": 0.289,
+      "medicare_discharges": 1259
+    },
+    {
+      "facility_id": "390184",
+      "name": "PENN HIGHLANDS CONNELLSVILLE",
+      "beds": 61,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.0297,
+      "lon": -79.5488,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 121
+    },
+    {
+      "facility_id": "390323",
+      "name": "ADVANCED SURGICAL HOSPITAL",
+      "beds": 14,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 40.1643,
+      "lon": -80.2524,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 234
+    },
+    {
+      "facility_id": "390333",
+      "name": "AHN EMERUS WESTMORELAND, LLC",
+      "beds": 10,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.3133,
+      "lon": -79.5364,
+      "govt_payer_share": 0.124,
+      "medicare_discharges": 55
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42003",
+      "county_name": "Allegheny",
+      "state": "PA",
+      "pop_total": 1245310,
+      "pop_65_plus": 242474,
+      "distance_to_hub_miles": 3.2
+    },
+    {
+      "county_fips": "42129",
+      "county_name": "Westmoreland",
+      "state": "PA",
+      "pop_total": 354414,
+      "pop_65_plus": 82872,
+      "distance_to_hub_miles": 26.1
+    },
+    {
+      "county_fips": "42125",
+      "county_name": "Washington",
+      "state": "PA",
+      "pop_total": 209631,
+      "pop_65_plus": 44435,
+      "distance_to_hub_miles": 24.4
+    },
+    {
+      "county_fips": "42019",
+      "county_name": "Butler",
+      "state": "PA",
+      "pop_total": 194562,
+      "pop_65_plus": 38240,
+      "distance_to_hub_miles": 32.2
+    },
+    {
+      "county_fips": "42007",
+      "county_name": "Beaver",
+      "state": "PA",
+      "pop_total": 167629,
+      "pop_65_plus": 36827,
+      "distance_to_hub_miles": 27.5
+    },
+    {
+      "county_fips": "42005",
+      "county_name": "Armstrong",
+      "state": "PA",
+      "pop_total": 65538,
+      "pop_65_plus": 14993,
+      "distance_to_hub_miles": 35.2
+    }
+  ],
+  "summary": {
+    "total_beds": 8517,
+    "catchment_pop": 2237084,
+    "catchment_pop_65_plus": 459841,
+    "catchment_pct_65_plus": 0.2056,
+    "max_catchment_radius_miles": 35.2,
+    "avg_catchment_distance_miles": 14.1,
+    "num_counties": 6,
+    "hospital_employment": 51416,
+    "msa_total_employment": 1095414,
+    "hospital_emp_share": 0.0354,
+    "avg_govt_payer_share": 0.2158
+  }
+}

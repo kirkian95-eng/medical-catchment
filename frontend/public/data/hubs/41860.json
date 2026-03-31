@@ -1,0 +1,456 @@
+{
+  "cbsa_code": "41860",
+  "cbsa_name": "San Francisco-Oakland-Fremont, CA",
+  "mdi": 0.3363,
+  "bbox": [
+    -124.06,
+    36.48,
+    -120.28,
+    39.12
+  ],
+  "hospitals": [
+    {
+      "facility_id": "050454",
+      "name": "UCSF MEDICAL CENTER",
+      "beds": 1019,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 37.7636,
+      "lon": -122.4577,
+      "govt_payer_share": 0.37,
+      "medicare_discharges": 9161
+    },
+    {
+      "facility_id": "050320",
+      "name": "HIGHLAND HOSPITAL",
+      "beds": 613,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 37.7995,
+      "lon": -122.2331,
+      "govt_payer_share": 0.374,
+      "medicare_discharges": 2303
+    },
+    {
+      "facility_id": "050047",
+      "name": "CALIFORNIA PACIFIC MEDICAL CENTER- VAN NESS CAMPUS",
+      "beds": 608,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.7861,
+      "lon": -122.4217,
+      "govt_payer_share": 0.275,
+      "medicare_discharges": 3615
+    },
+    {
+      "facility_id": "050043",
+      "name": "ALTA BATES SUMMIT MEDICAL CENTER",
+      "beds": 569,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.8348,
+      "lon": -122.2642,
+      "govt_payer_share": 0.421,
+      "medicare_discharges": 4049
+    },
+    {
+      "facility_id": "050305",
+      "name": "ALTA BATES SUMMIT MEDICAL CENTER - ALTA BATES CAMP",
+      "beds": 555,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.8552,
+      "lon": -122.2668,
+      "govt_payer_share": 0.363,
+      "medicare_discharges": 2073
+    },
+    {
+      "facility_id": "050075",
+      "name": "KAISER FOUNDATION HOSPITAL - OAKLAND/RICHMOND",
+      "beds": 396,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.8238,
+      "lon": -122.2574,
+      "govt_payer_share": 0.181,
+      "medicare_discharges": 1297
+    },
+    {
+      "facility_id": "050228",
+      "name": "ZUCKERBERG SAN FRANCISCO GENERAL HOSP & TRAUMA CTR",
+      "beds": 367,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 37.7554,
+      "lon": -122.4064,
+      "govt_payer_share": 0.321,
+      "medicare_discharges": 2659
+    },
+    {
+      "facility_id": "050072",
+      "name": "KAISER FOUNDATION HOSPITAL - WALNUT CREEK",
+      "beds": 362,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.8922,
+      "lon": -122.0582,
+      "govt_payer_share": 0.044,
+      "medicare_discharges": 235
+    },
+    {
+      "facility_id": "050360",
+      "name": "MARINHEALTH MEDICAL CENTER",
+      "beds": 325,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 37.9488,
+      "lon": -122.5361,
+      "govt_payer_share": 0.411,
+      "medicare_discharges": 3662
+    },
+    {
+      "facility_id": "050496",
+      "name": "JOHN MUIR MEDICAL CENTER - CONCORD CAMPUS",
+      "beds": 303,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.993,
+      "lon": -122.0353,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 4263
+    },
+    {
+      "facility_id": "050007",
+      "name": "PENINSULA MEDICAL CENTER",
+      "beds": 301,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.5932,
+      "lon": -122.3845,
+      "govt_payer_share": 0.348,
+      "medicare_discharges": 3553
+    },
+    {
+      "facility_id": "050180",
+      "name": "JOHN MUIR MEDICAL CENTER - WALNUT CREEK CAMPUS",
+      "beds": 296,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 37.9141,
+      "lon": -122.0423,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 6246
+    },
+    {
+      "facility_id": "050152",
+      "name": "UCSF HEALTH SAINT FRANCIS HOSPITAL",
+      "beds": 288,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.7945,
+      "lon": -122.4223,
+      "govt_payer_share": 0.443,
+      "medicare_discharges": 609
+    },
+    {
+      "facility_id": "050289",
+      "name": "AHMC SETON MEDICAL CENTER",
+      "beds": 279,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 37.6813,
+      "lon": -122.4809,
+      "govt_payer_share": 0.234,
+      "medicare_discharges": 765
+    },
+    {
+      "facility_id": "050457",
+      "name": "UCSF HEALTH ST. MARY'S HOSPITAL",
+      "beds": 275,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.7701,
+      "lon": -122.4443,
+      "govt_payer_share": 0.458,
+      "medicare_discharges": 1558
+    },
+    {
+      "facility_id": "050195",
+      "name": "WASHINGTON HOSPITAL",
+      "beds": 265,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 37.5571,
+      "lon": -121.9815,
+      "govt_payer_share": 0.399,
+      "medicare_discharges": 3771
+    },
+    {
+      "facility_id": "050076",
+      "name": "KAISER FOUNDATION HOSPITAL - SAN FRANCISCO",
+      "beds": 239,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.7827,
+      "lon": -122.4432,
+      "govt_payer_share": 0.032,
+      "medicare_discharges": 282
+    },
+    {
+      "facility_id": "050197",
+      "name": "SEQUOIA HOSPITAL",
+      "beds": 208,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.482,
+      "lon": -122.2543,
+      "govt_payer_share": 0.416,
+      "medicare_discharges": 1741
+    },
+    {
+      "facility_id": "050512",
+      "name": "KAISER FOUNDATION HOSPITAL - FREMONT",
+      "beds": 193,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.5014,
+      "lon": -121.9568,
+      "govt_payer_share": 0.043,
+      "medicare_discharges": 137
+    },
+    {
+      "facility_id": "050283",
+      "name": "STANFORD HEALTH CARE TRI-VALLEY",
+      "beds": 175,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.6872,
+      "lon": -121.8887,
+      "govt_payer_share": 0.405,
+      "medicare_discharges": 2587
+    },
+    {
+      "facility_id": "050276",
+      "name": "CONTRA COSTA REGIONAL MEDICAL CENTER",
+      "beds": 164,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 38.0063,
+      "lon": -122.131,
+      "govt_payer_share": 0.17,
+      "medicare_discharges": 624
+    },
+    {
+      "facility_id": "050488",
+      "name": "EDEN MEDICAL CENTER",
+      "beds": 155,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 37.6975,
+      "lon": -122.0872,
+      "govt_payer_share": 0.378,
+      "medicare_discharges": 2554
+    },
+    {
+      "facility_id": "050008",
+      "name": "CALIFORNIA PACIFIC MEDICAL CTR-DAVIES CAMPUS HOSP",
+      "beds": 153,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 37.7701,
+      "lon": -122.4443,
+      "govt_payer_share": 0.35,
+      "medicare_discharges": 1094
+    },
+    {
+      "facility_id": "050541",
+      "name": "KAISER FOUNDATION HOSPITAL - REDWOOD CITY",
+      "beds": 153,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.4895,
+      "lon": -122.2232,
+      "govt_payer_share": 0.063,
+      "medicare_discharges": 369
+    },
+    {
+      "facility_id": "050760",
+      "name": "KAISER FOUNDATION HOSPITAL - ANTIOCH",
+      "beds": 150,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.9519,
+      "lon": -121.777,
+      "govt_payer_share": 0.134,
+      "medicare_discharges": 415
+    },
+    {
+      "facility_id": "050211",
+      "name": "ALAMEDA HOSPITAL",
+      "beds": 145,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 37.7747,
+      "lon": -122.2781,
+      "govt_payer_share": 0.408,
+      "medicare_discharges": 1020
+    },
+    {
+      "facility_id": "050002",
+      "name": "ST ROSE HOSPITAL",
+      "beds": 129,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 37.6298,
+      "lon": -122.1242,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 957
+    },
+    {
+      "facility_id": "050689",
+      "name": "SAN RAMON REGIONAL MEDICAL CENTER",
+      "beds": 123,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 37.7758,
+      "lon": -121.9582,
+      "govt_payer_share": 0.473,
+      "medicare_discharges": 1335
+    },
+    {
+      "facility_id": "050055",
+      "name": "CALIFORNIA PACIFIC MEDICAL CENTER - MISSION BERNAL",
+      "beds": 120,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 37.75,
+      "lon": -122.4152,
+      "govt_payer_share": 0.353,
+      "medicare_discharges": 1511
+    },
+    {
+      "facility_id": "050070",
+      "name": "KAISER FOUNDATION HOSPITAL - SOUTH SAN FRANCISCO",
+      "beds": 120,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.6552,
+      "lon": -122.4184,
+      "govt_payer_share": 0.099,
+      "medicare_discharges": 456
+    },
+    {
+      "facility_id": "050510",
+      "name": "KAISER FOUNDATION HOSPITAL",
+      "beds": 120,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.0221,
+      "lon": -122.5588,
+      "govt_payer_share": 0.041,
+      "medicare_discharges": 143
+    },
+    {
+      "facility_id": "050523",
+      "name": "SUTTER DELTA MEDICAL CENTER",
+      "beds": 111,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.9829,
+      "lon": -121.8015,
+      "govt_payer_share": 0.376,
+      "medicare_discharges": 1596
+    },
+    {
+      "facility_id": "050777",
+      "name": "KAISER FOUNDATION HOSPITAL - SAN LEANDRO",
+      "beds": 108,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.7057,
+      "lon": -122.1687,
+      "govt_payer_share": 0.15,
+      "medicare_discharges": 294
+    },
+    {
+      "facility_id": "050113",
+      "name": "SAN MATEO MEDICAL CENTER",
+      "beds": 103,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 37.5384,
+      "lon": -122.3054,
+      "govt_payer_share": 0.183,
+      "medicare_discharges": 195
+    },
+    {
+      "facility_id": "050131",
+      "name": "NOVATO COMMUNITY HOSPITAL",
+      "beds": 75,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.1227,
+      "lon": -122.5531,
+      "govt_payer_share": 0.58,
+      "medicare_discharges": 959
+    },
+    {
+      "facility_id": "050407",
+      "name": "CHINESE HOSPITAL",
+      "beds": 65,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 37.802,
+      "lon": -122.411,
+      "govt_payer_share": 0.144,
+      "medicare_discharges": 388
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "06001",
+      "county_name": "Alameda",
+      "state": "CA",
+      "pop_total": 1663823,
+      "pop_65_plus": 243239,
+      "distance_to_hub_miles": 21.7
+    },
+    {
+      "county_fips": "06013",
+      "county_name": "Contra Costa",
+      "state": "CA",
+      "pop_total": 1162648,
+      "pop_65_plus": 190307,
+      "distance_to_hub_miles": 20.3
+    },
+    {
+      "county_fips": "06075",
+      "county_name": "San Francisco",
+      "state": "CA",
+      "pop_total": 851036,
+      "pop_65_plus": 142119,
+      "distance_to_hub_miles": 22.5
+    },
+    {
+      "county_fips": "06041",
+      "county_name": "Marin",
+      "state": "CA",
+      "pop_total": 260485,
+      "pop_65_plus": 60391,
+      "distance_to_hub_miles": 31.9
+    }
+  ],
+  "summary": {
+    "total_beds": 9630,
+    "catchment_pop": 3937992,
+    "catchment_pop_65_plus": 636056,
+    "catchment_pct_65_plus": 0.1615,
+    "max_catchment_radius_miles": 31.9,
+    "avg_catchment_distance_miles": 22.1,
+    "num_counties": 4,
+    "hospital_employment": 76613,
+    "msa_total_employment": 2417733,
+    "hospital_emp_share": 0.0216,
+    "avg_govt_payer_share": 0.3291
+  }
+}

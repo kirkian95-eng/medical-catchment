@@ -1,0 +1,622 @@
+{
+  "cbsa_code": "37980",
+  "cbsa_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+  "mdi": 0.4479,
+  "bbox": [
+    -77.33,
+    38.56,
+    -73.04,
+    41.46
+  ],
+  "hospitals": [
+    {
+      "facility_id": "080001",
+      "name": "CHRISTIANA HOSPITAL",
+      "beds": 1196,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.5645,
+      "lon": -75.597,
+      "govt_payer_share": 0.59,
+      "medicare_discharges": 17173
+    },
+    {
+      "facility_id": "390174",
+      "name": "THOMAS JEFFERSON UNIVERSITY HOSPITAL",
+      "beds": 925,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9496,
+      "lon": -75.1586,
+      "govt_payer_share": 0.283,
+      "medicare_discharges": 7809
+    },
+    {
+      "facility_id": "390027",
+      "name": "TEMPLE UNIVERSITY HOSPITAL",
+      "beds": 891,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.0054,
+      "lon": -75.152,
+      "govt_payer_share": 0.22,
+      "medicare_discharges": 5028
+    },
+    {
+      "facility_id": "390142",
+      "name": "JEFFERSON EINSTEIN PHILADELPHIA HOSPITAL",
+      "beds": 783,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 40.037,
+      "lon": -75.1445,
+      "govt_payer_share": 0.215,
+      "medicare_discharges": 2448
+    },
+    {
+      "facility_id": "390111",
+      "name": "HOSPITAL OF UNIV OF PENNSYLVANIA",
+      "beds": 782,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9504,
+      "lon": -75.1926,
+      "govt_payer_share": 0.263,
+      "medicare_discharges": 8371
+    },
+    {
+      "facility_id": "390180",
+      "name": "CROZER CHESTER MEDICAL CENTER",
+      "beds": 672,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.8454,
+      "lon": -75.3748,
+      "govt_payer_share": 0.249,
+      "medicare_discharges": 2193
+    },
+    {
+      "facility_id": "390231",
+      "name": "JEFFERSON ABINGTON HOSPITAL",
+      "beds": 667,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.1182,
+      "lon": -75.1199,
+      "govt_payer_share": 0.351,
+      "medicare_discharges": 9175
+    },
+    {
+      "facility_id": "310014",
+      "name": "COOPER UNIVERSITY HOSPITAL",
+      "beds": 663,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.941,
+      "lon": -75.1155,
+      "govt_payer_share": 0.254,
+      "medicare_discharges": 6177
+    },
+    {
+      "facility_id": "310086",
+      "name": "JEFFERSON STRATFORD HOSPITAL",
+      "beds": 596,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.8298,
+      "lon": -75.008,
+      "govt_payer_share": 0.381,
+      "medicare_discharges": 8255
+    },
+    {
+      "facility_id": "390226",
+      "name": "PENNSYLVANIA HOSPITAL",
+      "beds": 475,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9456,
+      "lon": -75.1548,
+      "govt_payer_share": 0.223,
+      "medicare_discharges": 3005
+    },
+    {
+      "facility_id": "390115",
+      "name": "JEFFERSON HEALTH- NORTHEAST",
+      "beds": 464,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.0694,
+      "lon": -75.0002,
+      "govt_payer_share": 0.291,
+      "medicare_discharges": 5444
+    },
+    {
+      "facility_id": "310022",
+      "name": "WEST JERSEY HOSPITAL",
+      "beds": 402,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.8438,
+      "lon": -74.9277,
+      "govt_payer_share": 0.318,
+      "medicare_discharges": 8590
+    },
+    {
+      "facility_id": "080003",
+      "name": "ST FRANCIS HOSPITAL",
+      "beds": 395,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.7439,
+      "lon": -75.5822,
+      "govt_payer_share": 0.271,
+      "medicare_discharges": 753
+    },
+    {
+      "facility_id": "310057",
+      "name": "VIRTUA MOUNT HOLLY HOSPITAL",
+      "beds": 383,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9858,
+      "lon": -74.795,
+      "govt_payer_share": 0.337,
+      "medicare_discharges": 3591
+    },
+    {
+      "facility_id": "390258",
+      "name": "ST MARY MEDICAL CENTER",
+      "beds": 373,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.1742,
+      "lon": -74.9128,
+      "govt_payer_share": 0.397,
+      "medicare_discharges": 5462
+    },
+    {
+      "facility_id": "390195",
+      "name": "MAIN LINE HOSPITAL LANKENAU",
+      "beds": 370,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9904,
+      "lon": -75.2648,
+      "govt_payer_share": 0.311,
+      "medicare_discharges": 5531
+    },
+    {
+      "facility_id": "310029",
+      "name": "VIRTUA OUR LADY OF LOURDES HOSPITAL",
+      "beds": 340,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - State",
+      "lat": 39.9271,
+      "lon": -75.0956,
+      "govt_payer_share": 0.35,
+      "medicare_discharges": 3390
+    },
+    {
+      "facility_id": "390179",
+      "name": "CHESTER COUNTY HOSPITAL",
+      "beds": 319,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9704,
+      "lon": -75.6014,
+      "govt_payer_share": 0.377,
+      "medicare_discharges": 5908
+    },
+    {
+      "facility_id": "390223",
+      "name": "PENN PRESBYTERIAN MEDICAL CENTER",
+      "beds": 305,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.9585,
+      "lon": -75.1989,
+      "govt_payer_share": 0.26,
+      "medicare_discharges": 3864
+    },
+    {
+      "facility_id": "390139",
+      "name": "BRYN MAWR HOSPITAL",
+      "beds": 284,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.0186,
+      "lon": -75.3205,
+      "govt_payer_share": 0.358,
+      "medicare_discharges": 4700
+    },
+    {
+      "facility_id": "390097",
+      "name": "HOLY REDEEMER HOSPITAL AND MEDICAL CENTER",
+      "beds": 268,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 40.1083,
+      "lon": -75.0825,
+      "govt_payer_share": 0.332,
+      "medicare_discharges": 2522
+    },
+    {
+      "facility_id": "390057",
+      "name": "ST LUKE'S HOSPITAL - GRAND VIEW CAMPUS",
+      "beds": 250,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 40.3663,
+      "lon": -75.3259,
+      "govt_payer_share": 0.396,
+      "medicare_discharges": 3034
+    },
+    {
+      "facility_id": "390203",
+      "name": "DOYLESTOWN HOSPITAL",
+      "beds": 245,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.3076,
+      "lon": -75.147,
+      "govt_payer_share": 0.409,
+      "medicare_discharges": 5337
+    },
+    {
+      "facility_id": "390153",
+      "name": "PAOLI HOSPITAL",
+      "beds": 231,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.0422,
+      "lon": -75.4997,
+      "govt_payer_share": 0.384,
+      "medicare_discharges": 5511
+    },
+    {
+      "facility_id": "310061",
+      "name": "VIRTUA WILLINGBORO HOSPITAL",
+      "beds": 221,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.0279,
+      "lon": -74.887,
+      "govt_payer_share": 0.351,
+      "medicare_discharges": 1193
+    },
+    {
+      "facility_id": "390123",
+      "name": "POTTSTOWN HOSPITAL",
+      "beds": 219,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.2589,
+      "lon": -75.6159,
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 2140
+    },
+    {
+      "facility_id": "390222",
+      "name": "RIDDLE MEMORIAL HOSPITAL",
+      "beds": 212,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9142,
+      "lon": -75.4301,
+      "govt_payer_share": 0.376,
+      "medicare_discharges": 3780
+    },
+    {
+      "facility_id": "390204",
+      "name": "NAZARETH HOSPITAL",
+      "beds": 203,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.0616,
+      "lon": -75.0464,
+      "govt_payer_share": 0.343,
+      "medicare_discharges": 2135
+    },
+    {
+      "facility_id": "390329",
+      "name": "JEFFERSON EINSTEIN MONTGOMERY HOSPITAL",
+      "beds": 195,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.1505,
+      "lon": -75.3413,
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 3078
+    },
+    {
+      "facility_id": "390156",
+      "name": "MERCY CATHOLIC MEDICAL CENTER- MERCY FITZGERALD",
+      "beds": 183,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9172,
+      "lon": -75.2671,
+      "govt_payer_share": 0.285,
+      "medicare_discharges": 1440
+    },
+    {
+      "facility_id": "210032",
+      "name": "UNION HOSPITAL OF CECIL COUNTY",
+      "beds": 166,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.6086,
+      "lon": -75.831,
+      "govt_payer_share": 0.529,
+      "medicare_discharges": 3858
+    },
+    {
+      "facility_id": "310031",
+      "name": "DEBORAH HEART AND LUNG CENTER",
+      "beds": 161,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9315,
+      "lon": -74.5437,
+      "govt_payer_share": 0.37,
+      "medicare_discharges": 1318
+    },
+    {
+      "facility_id": "390070",
+      "name": "LOWER BUCKS HOSPITAL",
+      "beds": 150,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.1164,
+      "lon": -74.8571,
+      "govt_payer_share": 0.248,
+      "medicare_discharges": 549
+    },
+    {
+      "facility_id": "390026",
+      "name": "TEMPLE HEALTH - CHESTNUT HILL HOSPITAL",
+      "beds": 148,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.0739,
+      "lon": -75.2112,
+      "govt_payer_share": 0.365,
+      "medicare_discharges": 1756
+    },
+    {
+      "facility_id": "390127",
+      "name": "PHOENIXVILLE HOSPITAL",
+      "beds": 144,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.124,
+      "lon": -75.514,
+      "govt_payer_share": 0.32,
+      "medicare_discharges": 2136
+    },
+    {
+      "facility_id": "390012",
+      "name": "JEFFERSON LANSDALE HOSPITAL",
+      "beds": 140,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.2307,
+      "lon": -75.3036,
+      "govt_payer_share": 0.418,
+      "medicare_discharges": 2133
+    },
+    {
+      "facility_id": "390304",
+      "name": "ROXBOROUGH MEMORIAL HOSPITAL",
+      "beds": 137,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.0495,
+      "lon": -75.2303,
+      "govt_payer_share": 0.225,
+      "medicare_discharges": 506
+    },
+    {
+      "facility_id": "390116",
+      "name": "SUBURBAN COMMUNITY HOSPITAL",
+      "beds": 130,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.1302,
+      "lon": -75.3316,
+      "govt_payer_share": 0.322,
+      "medicare_discharges": 496
+    },
+    {
+      "facility_id": "390035",
+      "name": "ST LUKE'S HOSPITAL - UPPER BUCKS CAMPUS",
+      "beds": 127,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.4592,
+      "lon": -75.3474,
+      "govt_payer_share": 0.317,
+      "medicare_discharges": 1687
+    },
+    {
+      "facility_id": "310069",
+      "name": "INSPIRA MEDICAL CENTER MULLICA HILL",
+      "beds": 91,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.5873,
+      "lon": -75.18,
+      "govt_payer_share": 0.358,
+      "medicare_discharges": 4340
+    },
+    {
+      "facility_id": "390272",
+      "name": "VALLEY FORGE MEDICAL CENTER",
+      "beds": 86,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.1485,
+      "lon": -75.3791,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 144
+    },
+    {
+      "facility_id": "390278",
+      "name": "EAGLEVILLE HOSPITAL",
+      "beds": 83,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.1485,
+      "lon": -75.3791,
+      "govt_payer_share": 0.048,
+      "medicare_discharges": 52
+    },
+    {
+      "facility_id": "390025",
+      "name": "KENSINGTON HOSPITAL",
+      "beds": 31,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 39.9777,
+      "lon": -75.1457,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 0
+    },
+    {
+      "facility_id": "390322",
+      "name": "ROTHMAN ORTHOPAEDIC SPECIALTY HOSPITAL",
+      "beds": 24,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 40.0997,
+      "lon": -74.9378,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 273
+    },
+    {
+      "facility_id": "390324",
+      "name": "PHYSICIANS CARE SURGICAL HOSPITAL",
+      "beds": 12,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 40.2076,
+      "lon": -75.5321,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 87
+    },
+    {
+      "facility_id": "390331",
+      "name": "WILLS EYE HOSPITAL",
+      "beds": 4,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9518,
+      "lon": -75.1587,
+      "govt_payer_share": 0.05,
+      "medicare_discharges": 12
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "42101",
+      "county_name": "Philadelphia",
+      "state": "PA",
+      "pop_total": 1593208,
+      "pop_65_plus": 223219,
+      "distance_to_hub_miles": 5.4
+    },
+    {
+      "county_fips": "42091",
+      "county_name": "Montgomery",
+      "state": "PA",
+      "pop_total": 856399,
+      "pop_65_plus": 155467,
+      "distance_to_hub_miles": 18.8
+    },
+    {
+      "county_fips": "42017",
+      "county_name": "Bucks",
+      "state": "PA",
+      "pop_total": 645163,
+      "pop_65_plus": 125555,
+      "distance_to_hub_miles": 26.4
+    },
+    {
+      "county_fips": "34029",
+      "county_name": "Ocean",
+      "state": "NJ",
+      "pop_total": 638691,
+      "pop_65_plus": 143400,
+      "distance_to_hub_miles": 51.7
+    },
+    {
+      "county_fips": "42045",
+      "county_name": "Delaware",
+      "state": "PA",
+      "pop_total": 575312,
+      "pop_65_plus": 96358,
+      "distance_to_hub_miles": 10.2
+    },
+    {
+      "county_fips": "10003",
+      "county_name": "New Castle",
+      "state": "DE",
+      "pop_total": 570567,
+      "pop_65_plus": 92683,
+      "distance_to_hub_miles": 34.9
+    },
+    {
+      "county_fips": "42029",
+      "county_name": "Chester",
+      "state": "PA",
+      "pop_total": 536474,
+      "pop_65_plus": 91051,
+      "distance_to_hub_miles": 28.1
+    },
+    {
+      "county_fips": "34007",
+      "county_name": "Camden",
+      "state": "NJ",
+      "pop_total": 522581,
+      "pop_65_plus": 83495,
+      "distance_to_hub_miles": 17.6
+    },
+    {
+      "county_fips": "34005",
+      "county_name": "Burlington",
+      "state": "NJ",
+      "pop_total": 461853,
+      "pop_65_plus": 81197,
+      "distance_to_hub_miles": 29.8
+    },
+    {
+      "county_fips": "34015",
+      "county_name": "Gloucester",
+      "state": "NJ",
+      "pop_total": 302621,
+      "pop_65_plus": 48955,
+      "distance_to_hub_miles": 17.6
+    },
+    {
+      "county_fips": "34033",
+      "county_name": "Salem",
+      "state": "NJ",
+      "pop_total": 64840,
+      "pop_65_plus": 12196,
+      "distance_to_hub_miles": 27.8
+    }
+  ],
+  "summary": {
+    "total_beds": 15146,
+    "catchment_pop": 6767709,
+    "catchment_pop_65_plus": 1153576,
+    "catchment_pct_65_plus": 0.1705,
+    "max_catchment_radius_miles": 51.7,
+    "avg_catchment_distance_miles": 21.5,
+    "num_counties": 11,
+    "hospital_employment": 140760,
+    "msa_total_employment": 2713946,
+    "hospital_emp_share": 0.0352,
+    "avg_govt_payer_share": 0.3307
+  }
+}

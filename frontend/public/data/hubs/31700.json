@@ -73,16 +73,24 @@
       "pop_total": 422733,
       "pop_65_plus": 68925,
       "distance_to_hub_miles": 12.4
+    },
+    {
+      "county_fips": "33015",
+      "county_name": "Rockingham",
+      "state": "NH",
+      "pop_total": 315169,
+      "pop_65_plus": 59533,
+      "distance_to_hub_miles": 20.3
     }
   ],
   "summary": {
     "total_beds": 1047,
-    "catchment_pop": 422733,
-    "catchment_pop_65_plus": 68925,
-    "catchment_pct_65_plus": 0.163,
-    "max_catchment_radius_miles": 12.4,
-    "avg_catchment_distance_miles": 12.4,
-    "num_counties": 1,
+    "catchment_pop": 737902,
+    "catchment_pop_65_plus": 128458,
+    "catchment_pct_65_plus": 0.1741,
+    "max_catchment_radius_miles": 20.3,
+    "avg_catchment_distance_miles": 15.8,
+    "num_counties": 2,
     "hospital_employment": 10277,
     "msa_total_employment": 201952,
     "hospital_emp_share": 0.0338,

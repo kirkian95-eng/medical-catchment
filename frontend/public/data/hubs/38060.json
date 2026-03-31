@@ -1,0 +1,503 @@
+{
+  "cbsa_code": "38060",
+  "cbsa_name": "Phoenix-Mesa-Chandler, AZ",
+  "mdi": 0.4083,
+  "bbox": [
+    -114.96,
+    31.22,
+    -109.47,
+    35.56
+  ],
+  "hospitals": [
+    {
+      "facility_id": "030002",
+      "name": "BANNER - UNIVERSITY MEDICAL CENTER PHOENIX",
+      "beds": 766,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 33.4656,
+      "lon": -112.0591,
+      "govt_payer_share": 0.548,
+      "medicare_discharges": 3554
+    },
+    {
+      "facility_id": "030022",
+      "name": "VALLEYWISE HEALTH MEDICAL CENTER",
+      "beds": 758,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 33.4585,
+      "lon": -112.0255,
+      "govt_payer_share": 0.376,
+      "medicare_discharges": 556
+    },
+    {
+      "facility_id": "030065",
+      "name": "BANNER DESERT MEDICAL CENTER",
+      "beds": 595,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.3886,
+      "lon": -111.8748,
+      "govt_payer_share": 0.507,
+      "medicare_discharges": 4488
+    },
+    {
+      "facility_id": "030024",
+      "name": "ST JOSEPHS HOSPITAL AND MEDICAL CENTER",
+      "beds": 586,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 33.4804,
+      "lon": -112.0788,
+      "govt_payer_share": 0.357,
+      "medicare_discharges": 4565
+    },
+    {
+      "facility_id": "030089",
+      "name": "BANNER THUNDERBIRD MEDICAL CENTER",
+      "beds": 561,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.6108,
+      "lon": -112.178,
+      "govt_payer_share": 0.504,
+      "medicare_discharges": 3484
+    },
+    {
+      "facility_id": "030061",
+      "name": "BANNER BOSWELL MEDICAL CENTER",
+      "beds": 434,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 33.6058,
+      "lon": -112.2841,
+      "govt_payer_share": 0.415,
+      "medicare_discharges": 4701
+    },
+    {
+      "facility_id": "030036",
+      "name": "CHANDLER REGIONAL MEDICAL CENTER",
+      "beds": 429,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.2986,
+      "lon": -111.8751,
+      "govt_payer_share": 0.231,
+      "medicare_discharges": 6809
+    },
+    {
+      "facility_id": "030087",
+      "name": "HONORHEALTH SCOTTSDALE SHEA MEDICAL CENTER",
+      "beds": 425,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.5825,
+      "lon": -111.8853,
+      "govt_payer_share": 0.494,
+      "medicare_discharges": 6179
+    },
+    {
+      "facility_id": "030093",
+      "name": "BANNER DEL E. WEBB MEDICAL CENTER",
+      "beds": 394,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.6584,
+      "lon": -112.3718,
+      "govt_payer_share": 0.471,
+      "medicare_discharges": 5037
+    },
+    {
+      "facility_id": "030088",
+      "name": "BANNER BAYWOOD MEDICAL CENTER",
+      "beds": 359,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.3974,
+      "lon": -111.7165,
+      "govt_payer_share": 0.412,
+      "medicare_discharges": 3430
+    },
+    {
+      "facility_id": "030038",
+      "name": "HONORHEALTH SCOTTSDALE OSBORN MEDICAL CENTER",
+      "beds": 341,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.4945,
+      "lon": -111.9207,
+      "govt_payer_share": 0.502,
+      "medicare_discharges": 4474
+    },
+    {
+      "facility_id": "030115",
+      "name": "BANNER ESTRELLA MEDICAL CENTER",
+      "beds": 317,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.4796,
+      "lon": -112.2585,
+      "govt_payer_share": 0.509,
+      "medicare_discharges": 1927
+    },
+    {
+      "facility_id": "030103",
+      "name": "MAYO CLINIC HOSPITAL",
+      "beds": 280,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.681,
+      "lon": -111.9449,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 9549
+    },
+    {
+      "facility_id": "030014",
+      "name": "HONOR HEALTH JOHN C. LINCOLN MEDICAL CENTER",
+      "beds": 262,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.5661,
+      "lon": -112.0556,
+      "govt_payer_share": 0.484,
+      "medicare_discharges": 2848
+    },
+    {
+      "facility_id": "030037",
+      "name": "HONORHEALTH TEMPE MEDICAL CENTER",
+      "beds": 219,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.4652,
+      "lon": -112.0488,
+      "govt_payer_share": 0.176,
+      "medicare_discharges": 164
+    },
+    {
+      "facility_id": "030094",
+      "name": "ABRAZO ARROWHEAD HOSPITAL",
+      "beds": 217,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.6544,
+      "lon": -112.2031,
+      "govt_payer_share": 0.242,
+      "medicare_discharges": 2926
+    },
+    {
+      "facility_id": "030030",
+      "name": "ABRAZO CENTRAL CAMPUS",
+      "beds": 206,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 33.5086,
+      "lon": -112.1021,
+      "govt_payer_share": 0.167,
+      "medicare_discharges": 597
+    },
+    {
+      "facility_id": "030092",
+      "name": "HONORHEALTH DEER VALLEY MEDICAL CENTER",
+      "beds": 204,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.6775,
+      "lon": -112.1023,
+      "govt_payer_share": 0.44,
+      "medicare_discharges": 3264
+    },
+    {
+      "facility_id": "030110",
+      "name": "ABRAZO WEST CAMPUS",
+      "beds": 200,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.4643,
+      "lon": -112.352,
+      "govt_payer_share": 0.289,
+      "medicare_discharges": 2430
+    },
+    {
+      "facility_id": "030119",
+      "name": "MERCY GILBERT MEDICAL CENTER",
+      "beds": 197,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 33.2862,
+      "lon": -111.7553,
+      "govt_payer_share": 0.338,
+      "medicare_discharges": 3916
+    },
+    {
+      "facility_id": "030078",
+      "name": "PHOENIX INDIAN MEDICAL CENTER",
+      "beds": 179,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Federal",
+      "lat": 33.5102,
+      "lon": -112.0317,
+      "govt_payer_share": 0.699,
+      "medicare_discharges": 153
+    },
+    {
+      "facility_id": "030121",
+      "name": "HONORHEALTH MOUNTAIN VISTA MEDICAL CENTER",
+      "beds": 178,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.3913,
+      "lon": -111.6112,
+      "govt_payer_share": 0.215,
+      "medicare_discharges": 1020
+    },
+    {
+      "facility_id": "030122",
+      "name": "BANNER GATEWAY MEDICAL CENTER",
+      "beds": 177,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 33.3841,
+      "lon": -111.7194,
+      "govt_payer_share": 0.442,
+      "medicare_discharges": 1797
+    },
+    {
+      "facility_id": "030016",
+      "name": "BANNER CASA GRANDE MEDICAL CENTER",
+      "beds": 141,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 32.8797,
+      "lon": -111.7079,
+      "govt_payer_share": 0.499,
+      "medicare_discharges": 1125
+    },
+    {
+      "facility_id": "030083",
+      "name": "ABRAZO SCOTTSDALE CAMPUS",
+      "beds": 136,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.6259,
+      "lon": -112.0025,
+      "govt_payer_share": 0.272,
+      "medicare_discharges": 956
+    },
+    {
+      "facility_id": "030123",
+      "name": "HONORHEALTH SCOTTSDALE THOMPSON PEAK MED CTR",
+      "beds": 120,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.6682,
+      "lon": -111.8225,
+      "govt_payer_share": 0.574,
+      "medicare_discharges": 3226
+    },
+    {
+      "facility_id": "030105",
+      "name": "BANNER HEART HOSPITAL",
+      "beds": 111,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.3974,
+      "lon": -111.7165,
+      "govt_payer_share": 0.365,
+      "medicare_discharges": 1495
+    },
+    {
+      "facility_id": "030147",
+      "name": "BANNER OCOTILLO MEDICAL CENTER",
+      "beds": 94,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.2789,
+      "lon": -111.861,
+      "govt_payer_share": 0.462,
+      "medicare_discharges": 641
+    },
+    {
+      "facility_id": "030146",
+      "name": "HONORHEALTH SONORAN CROSSING MEDICAL CENTER",
+      "beds": 70,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.7934,
+      "lon": -112.1188,
+      "govt_payer_share": 0.454,
+      "medicare_discharges": 870
+    },
+    {
+      "facility_id": "030130",
+      "name": "BANNER IRONWOOD MEDICAL CENTER",
+      "beds": 53,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.206,
+      "lon": -111.5497,
+      "govt_payer_share": 0.417,
+      "medicare_discharges": 760
+    },
+    {
+      "facility_id": "030139",
+      "name": "DIGNITY HEALTH ARIZONA GENERAL HOSPITAL",
+      "beds": 50,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.3206,
+      "lon": -111.6308,
+      "govt_payer_share": 0.394,
+      "medicare_discharges": 621
+    },
+    {
+      "facility_id": "030138",
+      "name": "CITY OF HOPE CANCER CENTER PHOENIX",
+      "beds": 38,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.373,
+      "lon": -112.4108,
+      "govt_payer_share": 0.316,
+      "medicare_discharges": 158
+    },
+    {
+      "facility_id": "030108",
+      "name": "THE CORE INSTITUTE SPECIALTY HOSP",
+      "beds": 32,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 33.5086,
+      "lon": -112.1021,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 228
+    },
+    {
+      "facility_id": "030112",
+      "name": "ARIZONA ORTHOPEDIC AND SURGICAL SPECIALTY HOSPITAL",
+      "beds": 24,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.4639,
+      "lon": -111.9878,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 148
+    },
+    {
+      "facility_id": "030107",
+      "name": "ARIZONA SPINE AND JOINT HOSPITAL",
+      "beds": 23,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 33.3974,
+      "lon": -111.7165,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 406
+    },
+    {
+      "facility_id": "030134",
+      "name": "BANNER GOLDFIELD MEDICAL CENTER",
+      "beds": 20,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 33.3869,
+      "lon": -111.5617,
+      "govt_payer_share": 0.428,
+      "medicare_discharges": 181
+    },
+    {
+      "facility_id": "031300",
+      "name": "WICKENBURG COMMUNITY HOSPITAL",
+      "beds": 19,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 33.9036,
+      "lon": -112.8757,
+      "govt_payer_share": 0.551,
+      "medicare_discharges": 102
+    },
+    {
+      "facility_id": "030136",
+      "name": "DIGNITY HEALTH - ARIZONA GENERAL HOSPITAL",
+      "beds": 16,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.2409,
+      "lon": -112.1427,
+      "govt_payer_share": 0.421,
+      "medicare_discharges": 51
+    },
+    {
+      "facility_id": "031308",
+      "name": "HUHU KAM MEMORIAL HOSPITAL",
+      "beds": 15,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Federal",
+      "lat": 33.0978,
+      "lon": -111.7248,
+      "govt_payer_share": 0.78,
+      "medicare_discharges": 58
+    },
+    {
+      "facility_id": "030153",
+      "name": "EAST VALLEY ER & HOSPITAL",
+      "beds": 14,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.3053,
+      "lon": -111.7365,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 18
+    },
+    {
+      "facility_id": "030152",
+      "name": "EXCEPTIONAL COMMUNITY HOSPITAL - MARICOPA",
+      "beds": 9,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 32.9239,
+      "lon": -112.2067,
+      "govt_payer_share": 0.222,
+      "medicare_discharges": 9
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "04013",
+      "county_name": "Maricopa",
+      "state": "AZ",
+      "pop_total": 4430871,
+      "pop_65_plus": 692770,
+      "distance_to_hub_miles": 29.1
+    },
+    {
+      "county_fips": "04021",
+      "county_name": "Pinal",
+      "state": "AZ",
+      "pop_total": 433338,
+      "pop_65_plus": 89957,
+      "distance_to_hub_miles": 55.9
+    },
+    {
+      "county_fips": "04012",
+      "county_name": "La Paz",
+      "state": "AZ",
+      "pop_total": 16681,
+      "pop_65_plus": 6748,
+      "distance_to_hub_miles": 114.4
+    }
+  ],
+  "summary": {
+    "total_beds": 9269,
+    "catchment_pop": 4880890,
+    "catchment_pop_65_plus": 789475,
+    "catchment_pct_65_plus": 0.1617,
+    "max_catchment_radius_miles": 114.4,
+    "avg_catchment_distance_miles": 31.8,
+    "num_counties": 3,
+    "hospital_employment": 73709,
+    "msa_total_employment": 2307582,
+    "hospital_emp_share": 0.0231,
+    "avg_govt_payer_share": 0.4262
+  }
+}

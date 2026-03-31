@@ -1,0 +1,453 @@
+{
+  "cbsa_code": "19820",
+  "cbsa_name": "Detroit-Warren-Dearborn, MI",
+  "mdi": 0.399,
+  "bbox": [
+    -85.42,
+    41.07,
+    -80.93,
+    44.11
+  ],
+  "hospitals": [
+    {
+      "facility_id": "230130",
+      "name": "BEAUMONT HOSPITAL ROYAL OAK",
+      "beds": 1031,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.5176,
+      "lon": -83.1919,
+      "govt_payer_share": 0.281,
+      "medicare_discharges": 11298
+    },
+    {
+      "facility_id": "230024",
+      "name": "SINAI-GRACE HOSPITAL",
+      "beds": 991,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.42,
+      "lon": -83.1819,
+      "govt_payer_share": 0.215,
+      "medicare_discharges": 1677
+    },
+    {
+      "facility_id": "230053",
+      "name": "HENRY FORD HEALTH HOSPITAL",
+      "beds": 903,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3674,
+      "lon": -83.0816,
+      "govt_payer_share": 0.218,
+      "medicare_discharges": 5095
+    },
+    {
+      "facility_id": "230104",
+      "name": "HARPER UNIVERSITY HOSPITAL",
+      "beds": 712,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.3506,
+      "lon": -83.0573,
+      "govt_payer_share": 0.241,
+      "medicare_discharges": 1004
+    },
+    {
+      "facility_id": "230165",
+      "name": "HENRY FORD HEALTH ST JOHN HOSPITAL",
+      "beds": 625,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 42.4191,
+      "lon": -82.915,
+      "govt_payer_share": 0.213,
+      "medicare_discharges": 4030
+    },
+    {
+      "facility_id": "230020",
+      "name": "BEAUMONT HOSPITAL - DEARBORN",
+      "beds": 623,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.2924,
+      "lon": -83.2135,
+      "govt_payer_share": 0.242,
+      "medicare_discharges": 4287
+    },
+    {
+      "facility_id": "230019",
+      "name": "ASCENSION PROVIDENCE HOSPITAL, SOUTHFIELD AND NOVI",
+      "beds": 434,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 42.4591,
+      "lon": -83.2055,
+      "govt_payer_share": 0.248,
+      "medicare_discharges": 6570
+    },
+    {
+      "facility_id": "230029",
+      "name": "TRINITY HEALTH OAKLAND HOSPITAL",
+      "beds": 395,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.6148,
+      "lon": -83.2752,
+      "govt_payer_share": 0.294,
+      "medicare_discharges": 4023
+    },
+    {
+      "facility_id": "230047",
+      "name": "HENRY FORD MACOMB HOSPITAL",
+      "beds": 361,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.6128,
+      "lon": -82.9635,
+      "govt_payer_share": 0.316,
+      "medicare_discharges": 4904
+    },
+    {
+      "facility_id": "230195",
+      "name": "Henry Ford Health Warren Hospital",
+      "beds": 348,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.5159,
+      "lon": -83.0165,
+      "govt_payer_share": 0.263,
+      "medicare_discharges": 3957
+    },
+    {
+      "facility_id": "230146",
+      "name": "WYANDOTTE HOSPITAL AND MEDICAL CENTER",
+      "beds": 345,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.2103,
+      "lon": -83.1488,
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 2783
+    },
+    {
+      "facility_id": "230244",
+      "name": "GARDEN CITY HOSPITAL",
+      "beds": 323,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3244,
+      "lon": -83.3412,
+      "govt_payer_share": 0.276,
+      "medicare_discharges": 1484
+    },
+    {
+      "facility_id": "230273",
+      "name": "DETROIT RECEIVING HOSPITAL",
+      "beds": 320,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.347,
+      "lon": -83.06,
+      "govt_payer_share": 0.226,
+      "medicare_discharges": 1374
+    },
+    {
+      "facility_id": "230089",
+      "name": "BEAUMONT HOSPITAL - GROSSE POINTE",
+      "beds": 311,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.383,
+      "lon": -82.9144,
+      "govt_payer_share": 0.262,
+      "medicare_discharges": 2445
+    },
+    {
+      "facility_id": "230207",
+      "name": "MCLAREN OAKLAND",
+      "beds": 308,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.6444,
+      "lon": -83.2746,
+      "govt_payer_share": 0.235,
+      "medicare_discharges": 746
+    },
+    {
+      "facility_id": "230151",
+      "name": "BEAUMONT HOSPITAL - FARMINGTON HILLS",
+      "beds": 305,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.4438,
+      "lon": -83.3248,
+      "govt_payer_share": 0.296,
+      "medicare_discharges": 2806
+    },
+    {
+      "facility_id": "230254",
+      "name": "ASCENSION PROVIDENCE ROCHESTER HOSPITAL",
+      "beds": 290,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.6816,
+      "lon": -83.1508,
+      "govt_payer_share": 0.307,
+      "medicare_discharges": 2494
+    },
+    {
+      "facility_id": "230227",
+      "name": "MCLAREN MACOMB",
+      "beds": 288,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.5865,
+      "lon": -82.8949,
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 2818
+    },
+    {
+      "facility_id": "230002",
+      "name": "ST JOE MERCY HOSPITAL SYSTEM LIVONIA",
+      "beds": 273,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.3965,
+      "lon": -83.4051,
+      "govt_payer_share": 0.317,
+      "medicare_discharges": 4360
+    },
+    {
+      "facility_id": "230142",
+      "name": "COREWELL HEALTH WAYNE HOSPITAL",
+      "beds": 259,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.2742,
+      "lon": -83.3655,
+      "govt_payer_share": 0.275,
+      "medicare_discharges": 1264
+    },
+    {
+      "facility_id": "230269",
+      "name": "BEAUMONT HOSPITAL, TROY",
+      "beds": 254,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.6185,
+      "lon": -83.0911,
+      "govt_payer_share": 0.332,
+      "medicare_discharges": 10205
+    },
+    {
+      "facility_id": "230176",
+      "name": "COREWELL HEALTH TRENTON HOSPITAL",
+      "beds": 195,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.1165,
+      "lon": -83.2113,
+      "govt_payer_share": 0.282,
+      "medicare_discharges": 2517
+    },
+    {
+      "facility_id": "230302",
+      "name": "HENRY FORD HEALTH WEST BLOOMFIELD HOSPITAL",
+      "beds": 191,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.5415,
+      "lon": -83.4067,
+      "govt_payer_share": 0.296,
+      "medicare_discharges": 3446
+    },
+    {
+      "facility_id": "230193",
+      "name": "MCLAREN LAPEER REGION",
+      "beds": 183,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 43.0618,
+      "lon": -83.3194,
+      "govt_payer_share": 0.311,
+      "medicare_discharges": 1444
+    },
+    {
+      "facility_id": "230216",
+      "name": "MCLAREN PORT HURON",
+      "beds": 163,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.9871,
+      "lon": -82.4283,
+      "govt_payer_share": 0.297,
+      "medicare_discharges": 2260
+    },
+    {
+      "facility_id": "230270",
+      "name": "BEAUMONT HOSPITAL - TAYLOR",
+      "beds": 163,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.2253,
+      "lon": -83.2677,
+      "govt_payer_share": 0.29,
+      "medicare_discharges": 1466
+    },
+    {
+      "facility_id": "230277",
+      "name": "HURON VALLEY-SINAI HOSPITAL",
+      "beds": 153,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.5942,
+      "lon": -83.5006,
+      "govt_payer_share": 0.291,
+      "medicare_discharges": 1372
+    },
+    {
+      "facility_id": "230069",
+      "name": "TRINITY HEALTH LIVINGSTON HOSPITAL",
+      "beds": 136,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 42.5756,
+      "lon": -83.9234,
+      "govt_payer_share": 0.373,
+      "medicare_discharges": 1088
+    },
+    {
+      "facility_id": "230297",
+      "name": "KARMANOS CANCER CENTER",
+      "beds": 123,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.347,
+      "lon": -83.06,
+      "govt_payer_share": 0.207,
+      "medicare_discharges": 459
+    },
+    {
+      "facility_id": "230031",
+      "name": "LAKE HURON MEDICAL CENTER",
+      "beds": 119,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 42.9836,
+      "lon": -82.4583,
+      "govt_payer_share": 0.301,
+      "medicare_discharges": 831
+    },
+    {
+      "facility_id": "230241",
+      "name": "ASCENSION RIVER DISTRICT HOSPITAL",
+      "beds": 68,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 42.7704,
+      "lon": -82.529,
+      "govt_payer_share": 0.301,
+      "medicare_discharges": 100
+    },
+    {
+      "facility_id": "230279",
+      "name": "HENRY FORD HEALTH BRIGHTON CENTER FOR RECOVERY",
+      "beds": 63,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.5059,
+      "lon": -83.7812,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 238
+    },
+    {
+      "facility_id": "230301",
+      "name": "SURGEONS CHOICE MEDICAL CENTER",
+      "beds": 45,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 42.4618,
+      "lon": -83.2299,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 230
+    },
+    {
+      "facility_id": "230071",
+      "name": "STRAITH HOSPITAL FOR SPECIAL SURGERY",
+      "beds": 34,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.4593,
+      "lon": -83.2932,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 241
+    },
+    {
+      "facility_id": "230264",
+      "name": "SOUTHEAST MICHIGAN SURGICAL HOSPITAL LLC",
+      "beds": 20,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 42.4681,
+      "lon": -83.0582,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 30
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "26163",
+      "county_name": "Wayne",
+      "state": "MI",
+      "pop_total": 1781641,
+      "pop_65_plus": 281455,
+      "distance_to_hub_miles": 13.7
+    },
+    {
+      "county_fips": "26125",
+      "county_name": "Oakland",
+      "state": "MI",
+      "pop_total": 1272264,
+      "pop_65_plus": 222540,
+      "distance_to_hub_miles": 18.3
+    },
+    {
+      "county_fips": "26099",
+      "county_name": "Macomb",
+      "state": "MI",
+      "pop_total": 878453,
+      "pop_65_plus": 153699,
+      "distance_to_hub_miles": 18.9
+    },
+    {
+      "county_fips": "26147",
+      "county_name": "St. Clair",
+      "state": "MI",
+      "pop_total": 160257,
+      "pop_65_plus": 31019,
+      "distance_to_hub_miles": 40.5
+    },
+    {
+      "county_fips": "26151",
+      "county_name": "Sanilac",
+      "state": "MI",
+      "pop_total": 40759,
+      "pop_65_plus": 9089,
+      "distance_to_hub_miles": 72.3
+    }
+  ],
+  "summary": {
+    "total_beds": 11355,
+    "catchment_pop": 4133374,
+    "catchment_pop_65_plus": 697802,
+    "catchment_pct_65_plus": 0.1688,
+    "max_catchment_radius_miles": 72.3,
+    "avg_catchment_distance_miles": 17.8,
+    "num_counties": 5,
+    "hospital_employment": 95816,
+    "msa_total_employment": 1913371,
+    "hospital_emp_share": 0.0318,
+    "avg_govt_payer_share": 0.268
+  }
+}

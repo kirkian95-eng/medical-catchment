@@ -23,14 +23,6 @@
   ],
   "catchment_counties": [
     {
-      "county_fips": "17099",
-      "county_name": "LaSalle",
-      "state": "IL",
-      "pop_total": 109495,
-      "pop_65_plus": 20944,
-      "distance_to_hub_miles": 34.6
-    },
-    {
       "county_fips": "17105",
       "county_name": "Livingston",
       "state": "IL",
@@ -41,12 +33,12 @@
   ],
   "summary": {
     "total_beds": 81,
-    "catchment_pop": 145266,
-    "catchment_pop_65_plus": 28023,
-    "catchment_pct_65_plus": 0.1929,
-    "max_catchment_radius_miles": 34.6,
-    "avg_catchment_distance_miles": 27.0,
-    "num_counties": 2,
+    "catchment_pop": 35771,
+    "catchment_pop_65_plus": 7079,
+    "catchment_pct_65_plus": 0.1979,
+    "max_catchment_radius_miles": 3.6,
+    "avg_catchment_distance_miles": 3.6,
+    "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 13770,
     "hospital_emp_share": 0.0163,

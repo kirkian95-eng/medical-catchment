@@ -1,0 +1,519 @@
+{
+  "cbsa_code": "41180",
+  "cbsa_name": "St. Louis, MO-IL",
+  "mdi": 0.4398,
+  "bbox": [
+    -92.67,
+    37.2,
+    -87.93,
+    40.28
+  ],
+  "hospitals": [
+    {
+      "facility_id": "260032",
+      "name": "BARNES JEWISH HOSPITAL",
+      "beds": 1737,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 38.6364,
+      "lon": -90.2638,
+      "govt_payer_share": 0.316,
+      "medicare_discharges": 11231
+    },
+    {
+      "facility_id": "260020",
+      "name": "MERCY HOSPITAL ST LOUIS",
+      "beds": 859,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.6446,
+      "lon": -90.4436,
+      "govt_payer_share": 0.233,
+      "medicare_discharges": 7104
+    },
+    {
+      "facility_id": "260077",
+      "name": "MERCY HOSPITAL SOUTH",
+      "beds": 767,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.5097,
+      "lon": -90.3779,
+      "govt_payer_share": 0.296,
+      "medicare_discharges": 6323
+    },
+    {
+      "facility_id": "260091",
+      "name": "SSM HEALTH ST MARY'S HOSPITAL - ST LOUIS",
+      "beds": 690,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.6308,
+      "lon": -90.3304,
+      "govt_payer_share": 0.19,
+      "medicare_discharges": 1964
+    },
+    {
+      "facility_id": "260104",
+      "name": "SSM HEALTH DEPAUL HOSPITAL ST LOUIS",
+      "beds": 538,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 38.7499,
+      "lon": -90.4306,
+      "govt_payer_share": 0.322,
+      "medicare_discharges": 3066
+    },
+    {
+      "facility_id": "260108",
+      "name": "MISSOURI BAPTIST MEDICAL CENTER",
+      "beds": 494,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.6343,
+      "lon": -90.4436,
+      "govt_payer_share": 0.316,
+      "medicare_discharges": 5974
+    },
+    {
+      "facility_id": "260179",
+      "name": "ST LUKES HOSPITAL",
+      "beds": 493,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.6574,
+      "lon": -90.5068,
+      "govt_payer_share": 0.369,
+      "medicare_discharges": 5036
+    },
+    {
+      "facility_id": "260180",
+      "name": "CHRISTIAN HOSPITAL NORTHEAST",
+      "beds": 475,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.7448,
+      "lon": -90.2599,
+      "govt_payer_share": 0.342,
+      "medicare_discharges": 2557
+    },
+    {
+      "facility_id": "260105",
+      "name": "SSM HEALTH SAINT LOUIS UNIVERSITY HOSPITAL",
+      "beds": 438,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 38.6111,
+      "lon": -90.2141,
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 2895
+    },
+    {
+      "facility_id": "140125",
+      "name": "GATEWAY REGIONAL MEDICAL CENTER",
+      "beds": 406,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 38.7149,
+      "lon": -90.0989,
+      "govt_payer_share": 0.158,
+      "medicare_discharges": 342
+    },
+    {
+      "facility_id": "260005",
+      "name": "SSM ST JOSEPH HEALTH CENTER",
+      "beds": 362,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.858,
+      "lon": -90.4633,
+      "govt_payer_share": 0.253,
+      "medicare_discharges": 1684
+    },
+    {
+      "facility_id": "140185",
+      "name": "MEMORIAL HOSPITAL",
+      "beds": 341,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.5488,
+      "lon": -90.0205,
+      "govt_payer_share": 0.326,
+      "medicare_discharges": 4314
+    },
+    {
+      "facility_id": "140052",
+      "name": "OSF SAINT ANTHONY'S HEALTH CENTER",
+      "beds": 296,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 38.9392,
+      "lon": -90.1349,
+      "govt_payer_share": 0.346,
+      "medicare_discharges": 749
+    },
+    {
+      "facility_id": "140187",
+      "name": "HSHS ST ELIZABETH'S HOSPITAL",
+      "beds": 260,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 38.6,
+      "lon": -89.9154,
+      "govt_payer_share": 0.335,
+      "medicare_discharges": 3055
+    },
+    {
+      "facility_id": "260023",
+      "name": "MERCY HOSPITAL JEFFERSON",
+      "beds": 240,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.2294,
+      "lon": -90.3833,
+      "govt_payer_share": 0.351,
+      "medicare_discharges": 2348
+    },
+    {
+      "facility_id": "140002",
+      "name": "ALTON MEMORIAL HOSPITAL",
+      "beds": 222,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.8987,
+      "lon": -90.1591,
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 1859
+    },
+    {
+      "facility_id": "260052",
+      "name": "MERCY HOSPITAL WASHINGTON",
+      "beds": 185,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.5519,
+      "lon": -91.0013,
+      "govt_payer_share": 0.262,
+      "medicare_discharges": 1316
+    },
+    {
+      "facility_id": "260081",
+      "name": "SSM ST CLARE HEALTH CENTER",
+      "beds": 180,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.5231,
+      "lon": -90.4733,
+      "govt_payer_share": 0.288,
+      "medicare_discharges": 2302
+    },
+    {
+      "facility_id": "140289",
+      "name": "ANDERSON HOSPITAL",
+      "beds": 151,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.7379,
+      "lon": -89.9422,
+      "govt_payer_share": 0.323,
+      "medicare_discharges": 1686
+    },
+    {
+      "facility_id": "260176",
+      "name": "ST LUKE'S DES PERES HOSPITAL",
+      "beds": 143,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 38.5794,
+      "lon": -90.4209,
+      "govt_payer_share": 0.295,
+      "medicare_discharges": 497
+    },
+    {
+      "facility_id": "260162",
+      "name": "BARNES-JEWISH WEST COUNTY HOSPITAL",
+      "beds": 113,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.658,
+      "lon": -90.4554,
+      "govt_payer_share": 0.354,
+      "medicare_discharges": 978
+    },
+    {
+      "facility_id": "260191",
+      "name": "BARNES-JEWISH ST PETERS HOSPITAL",
+      "beds": 111,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 38.8007,
+      "lon": -90.6121,
+      "govt_payer_share": 0.343,
+      "medicare_discharges": 1937
+    },
+    {
+      "facility_id": "140077",
+      "name": "TOUCHETTE REGIONAL HOSPITAL INC",
+      "beds": 109,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.5829,
+      "lon": -90.1254,
+      "govt_payer_share": 0.112,
+      "medicare_discharges": 81
+    },
+    {
+      "facility_id": "260200",
+      "name": "SSM ST JOSEPH HOSPITAL WEST",
+      "beds": 100,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 38.8032,
+      "lon": -90.7758,
+      "govt_payer_share": 0.266,
+      "medicare_discharges": 2443
+    },
+    {
+      "facility_id": "140145",
+      "name": "ST JOSEPHS HOSPITAL",
+      "beds": 96,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 38.6254,
+      "lon": -89.5248,
+      "govt_payer_share": 0.33,
+      "medicare_discharges": 379
+    },
+    {
+      "facility_id": "260219",
+      "name": "PROGRESS WEST HOSPITAL",
+      "beds": 76,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.7154,
+      "lon": -90.6967,
+      "govt_payer_share": 0.259,
+      "medicare_discharges": 875
+    },
+    {
+      "facility_id": "140059",
+      "name": "JERSEY COMMUNITY HOSPITAL",
+      "beds": 67,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 39.1128,
+      "lon": -90.3195,
+      "govt_payer_share": 0.515,
+      "medicare_discharges": 319
+    },
+    {
+      "facility_id": "140137",
+      "name": "HSHS HOLY FAMILY HOSPITAL INC",
+      "beds": 60,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 38.8904,
+      "lon": -89.4276,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 136
+    },
+    {
+      "facility_id": "261337",
+      "name": "MISSOURI BAPTIST SULLIVAN HOSPITAL",
+      "beds": 50,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 38.1955,
+      "lon": -91.1694,
+      "govt_payer_share": 0.299,
+      "medicare_discharges": 335
+    },
+    {
+      "facility_id": "141306",
+      "name": "COMMUNITY HOSPITAL OF STAUNTON",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.0147,
+      "lon": -89.7985,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 51
+    },
+    {
+      "facility_id": "141336",
+      "name": "ST JOSEPH'S HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 38.7553,
+      "lon": -89.6673,
+      "govt_payer_share": 0.466,
+      "medicare_discharges": 364
+    },
+    {
+      "facility_id": "141347",
+      "name": "CARLINVILLE AREA HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.2846,
+      "lon": -89.8836,
+      "govt_payer_share": 0.591,
+      "medicare_discharges": 172
+    },
+    {
+      "facility_id": "261319",
+      "name": "MERCY HOSPITAL LINCOLN",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Local",
+      "lat": 39.001,
+      "lon": -90.9956,
+      "govt_payer_share": 0.24,
+      "medicare_discharges": 167
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "29189",
+      "county_name": "St. Louis",
+      "state": "MO",
+      "pop_total": 999703,
+      "pop_65_plus": 184287,
+      "distance_to_hub_miles": 6.9
+    },
+    {
+      "county_fips": "29183",
+      "county_name": "St. Charles",
+      "state": "MO",
+      "pop_total": 406262,
+      "pop_65_plus": 65171,
+      "distance_to_hub_miles": 21.0
+    },
+    {
+      "county_fips": "29510",
+      "county_name": "St. Louis",
+      "state": "MO",
+      "pop_total": 298018,
+      "pop_65_plus": 43123,
+      "distance_to_hub_miles": 4.1
+    },
+    {
+      "county_fips": "17119",
+      "county_name": "Madison",
+      "state": "IL",
+      "pop_total": 265512,
+      "pop_65_plus": 46996,
+      "distance_to_hub_miles": 25.2
+    },
+    {
+      "county_fips": "17163",
+      "county_name": "St. Clair",
+      "state": "IL",
+      "pop_total": 256791,
+      "pop_65_plus": 42018,
+      "distance_to_hub_miles": 24.7
+    },
+    {
+      "county_fips": "29099",
+      "county_name": "Jefferson",
+      "state": "MO",
+      "pop_total": 226984,
+      "pop_65_plus": 35641,
+      "distance_to_hub_miles": 29.8
+    },
+    {
+      "county_fips": "29071",
+      "county_name": "Franklin",
+      "state": "MO",
+      "pop_total": 104858,
+      "pop_65_plus": 19098,
+      "distance_to_hub_miles": 44.3
+    },
+    {
+      "county_fips": "29113",
+      "county_name": "Lincoln",
+      "state": "MO",
+      "pop_total": 60172,
+      "pop_65_plus": 8403,
+      "distance_to_hub_miles": 44.3
+    },
+    {
+      "county_fips": "17117",
+      "county_name": "Macoupin",
+      "state": "IL",
+      "pop_total": 44907,
+      "pop_65_plus": 9288,
+      "distance_to_hub_miles": 46.8
+    },
+    {
+      "county_fips": "29219",
+      "county_name": "Warren",
+      "state": "MO",
+      "pop_total": 35729,
+      "pop_65_plus": 6292,
+      "distance_to_hub_miles": 46.0
+    },
+    {
+      "county_fips": "17133",
+      "county_name": "Monroe",
+      "state": "IL",
+      "pop_total": 34905,
+      "pop_65_plus": 6423,
+      "distance_to_hub_miles": 27.3
+    },
+    {
+      "county_fips": "17157",
+      "county_name": "Randolph",
+      "state": "IL",
+      "pop_total": 30413,
+      "pop_65_plus": 6212,
+      "distance_to_hub_miles": 49.6
+    },
+    {
+      "county_fips": "17083",
+      "county_name": "Jersey",
+      "state": "IL",
+      "pop_total": 21462,
+      "pop_65_plus": 4276,
+      "distance_to_hub_miles": 29.7
+    },
+    {
+      "county_fips": "17005",
+      "county_name": "Bond",
+      "state": "IL",
+      "pop_total": 16750,
+      "pop_65_plus": 3026,
+      "distance_to_hub_miles": 50.1
+    },
+    {
+      "county_fips": "17061",
+      "county_name": "Greene",
+      "state": "IL",
+      "pop_total": 12015,
+      "pop_65_plus": 2402,
+      "distance_to_hub_miles": 48.5
+    },
+    {
+      "county_fips": "17013",
+      "county_name": "Calhoun",
+      "state": "IL",
+      "pop_total": 4472,
+      "pop_65_plus": 1080,
+      "distance_to_hub_miles": 40.0
+    }
+  ],
+  "summary": {
+    "total_beds": 10159,
+    "catchment_pop": 2818953,
+    "catchment_pop_65_plus": 483736,
+    "catchment_pct_65_plus": 0.1716,
+    "max_catchment_radius_miles": 50.1,
+    "avg_catchment_distance_miles": 18.5,
+    "num_counties": 16,
+    "hospital_employment": 72999,
+    "msa_total_employment": 1307070,
+    "hospital_emp_share": 0.0326,
+    "avg_govt_payer_share": 0.2954
+  }
+}

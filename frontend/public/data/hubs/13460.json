@@ -4,9 +4,9 @@
   "mdi": 0.4534,
   "bbox": [
     -122.77,
-    43.05,
+    43.06,
     -119.02,
-    45.66
+    45.64
   ],
   "hospitals": [
     {
@@ -53,14 +53,6 @@
       "distance_to_hub_miles": 16.0
     },
     {
-      "county_fips": "41065",
-      "county_name": "Wasco",
-      "state": "OR",
-      "pop_total": 26639,
-      "pop_65_plus": 5501,
-      "distance_to_hub_miles": 70.4
-    },
-    {
       "county_fips": "41013",
       "county_name": "Crook",
       "state": "OR",
@@ -87,12 +79,12 @@
   ],
   "summary": {
     "total_beds": 302,
-    "catchment_pop": 277044,
-    "catchment_pop_65_plus": 57784,
-    "catchment_pct_65_plus": 0.2086,
-    "max_catchment_radius_miles": 70.4,
-    "avg_catchment_distance_miles": 25.2,
-    "num_counties": 5,
+    "catchment_pop": 250405,
+    "catchment_pop_65_plus": 52283,
+    "catchment_pct_65_plus": 0.2088,
+    "max_catchment_radius_miles": 69.1,
+    "avg_catchment_distance_miles": 20.4,
+    "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 106535,
     "hospital_emp_share": 0.0227,

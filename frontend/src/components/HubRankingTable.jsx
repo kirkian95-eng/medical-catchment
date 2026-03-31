@@ -3,12 +3,13 @@ import { FixedSizeList as List } from 'react-window';
 import { formatMdi, formatPop } from '../utils/colorScale';
 
 const POP_BANDS = [
-  { label: 'All', min: 0, max: Infinity },
-  { label: 'Under 100K', min: 0, max: 100_000 },
-  { label: '100K–250K', min: 100_000, max: 250_000 },
-  { label: '250K–500K', min: 250_000, max: 500_000 },
-  { label: '500K–1M', min: 500_000, max: 1_000_000 },
-  { label: '1M–2M', min: 1_000_000, max: 2_000_000 },
+  { label: 'Focus Hubs (<2M)', filter: (r) => r.is_focus_hub },
+  { label: 'All MSAs', filter: () => true },
+  { label: 'Large Metros (2M+)', filter: (r) => !r.is_focus_hub },
+  { label: 'Under 100K', filter: (r) => r.pop_msa < 100_000 },
+  { label: '100K–500K', filter: (r) => r.pop_msa >= 100_000 && r.pop_msa < 500_000 },
+  { label: '500K–2M', filter: (r) => r.pop_msa >= 500_000 && r.pop_msa < 2_000_000 },
+  { label: '2M+', filter: (r) => r.pop_msa >= 2_000_000 },
 ];
 
 const SORT_OPTIONS = [
@@ -38,13 +39,9 @@ export default function HubRankingTable({ rankings, loading, selectedHub, onSele
       );
     }
 
-    // Pop band filter
+    // Pop/type filter
     const band = POP_BANDS[popBand];
-    if (band.max < Infinity || band.min > 0) {
-      items = items.filter(
-        (r) => r.pop_msa >= band.min && r.pop_msa < band.max
-      );
-    }
+    items = items.filter(band.filter);
 
     // Sort
     const opt = SORT_OPTIONS.find((o) => o.key === sortKey) || SORT_OPTIONS[0];

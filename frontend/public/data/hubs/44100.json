@@ -72,24 +72,16 @@
       "pop_total": 12284,
       "pop_65_plus": 2451,
       "distance_to_hub_miles": 17.2
-    },
-    {
-      "county_fips": "17061",
-      "county_name": "Greene",
-      "state": "IL",
-      "pop_total": 12015,
-      "pop_65_plus": 2402,
-      "distance_to_hub_miles": 50.3
     }
   ],
   "summary": {
     "total_beds": 1293,
-    "catchment_pop": 289755,
-    "catchment_pop_65_plus": 54728,
-    "catchment_pct_65_plus": 0.1889,
-    "max_catchment_radius_miles": 50.3,
-    "avg_catchment_distance_miles": 13.3,
-    "num_counties": 6,
+    "catchment_pop": 277740,
+    "catchment_pop_65_plus": 52326,
+    "catchment_pct_65_plus": 0.1884,
+    "max_catchment_radius_miles": 40.9,
+    "avg_catchment_distance_miles": 11.7,
+    "num_counties": 5,
     "hospital_employment": 6897,
     "msa_total_employment": 128309,
     "hospital_emp_share": 0.039,

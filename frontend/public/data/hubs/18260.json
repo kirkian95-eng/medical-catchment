@@ -69,6 +69,14 @@
       "distance_to_hub_miles": 13.9
     },
     {
+      "county_fips": "47159",
+      "county_name": "Smith",
+      "state": "TN",
+      "pop_total": 20034,
+      "pop_65_plus": 3291,
+      "distance_to_hub_miles": 28.3
+    },
+    {
       "county_fips": "47049",
       "county_name": "Fentress",
       "state": "TN",
@@ -111,12 +119,12 @@
   ],
   "summary": {
     "total_beds": 439,
-    "catchment_pop": 182454,
-    "catchment_pop_65_plus": 35151,
-    "catchment_pct_65_plus": 0.1927,
+    "catchment_pop": 202488,
+    "catchment_pop_65_plus": 38442,
+    "catchment_pct_65_plus": 0.1898,
     "max_catchment_radius_miles": 40.7,
-    "avg_catchment_distance_miles": 14.8,
-    "num_counties": 8,
+    "avg_catchment_distance_miles": 16.1,
+    "num_counties": 9,
     "hospital_employment": 2364,
     "msa_total_employment": 52173,
     "hospital_emp_share": 0.0415,

@@ -40,16 +40,24 @@
       "pop_total": 83452,
       "pop_65_plus": 16188,
       "distance_to_hub_miles": 1.8
+    },
+    {
+      "county_fips": "18159",
+      "county_name": "Tipton",
+      "state": "IN",
+      "pop_total": 15328,
+      "pop_65_plus": 3279,
+      "distance_to_hub_miles": 11.7
     }
   ],
   "summary": {
     "total_beds": 329,
-    "catchment_pop": 83452,
-    "catchment_pop_65_plus": 16188,
-    "catchment_pct_65_plus": 0.194,
-    "max_catchment_radius_miles": 1.8,
-    "avg_catchment_distance_miles": 1.8,
-    "num_counties": 1,
+    "catchment_pop": 98780,
+    "catchment_pop_65_plus": 19467,
+    "catchment_pct_65_plus": 0.1971,
+    "max_catchment_radius_miles": 11.7,
+    "avg_catchment_distance_miles": 3.3,
+    "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 35015,
     "hospital_emp_share": 0.03,

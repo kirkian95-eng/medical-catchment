@@ -56,12 +56,28 @@
   ],
   "catchment_counties": [
     {
+      "county_fips": "37097",
+      "county_name": "Iredell",
+      "state": "NC",
+      "pop_total": 187839,
+      "pop_65_plus": 30690,
+      "distance_to_hub_miles": 30.6
+    },
+    {
       "county_fips": "37035",
       "county_name": "Catawba",
       "state": "NC",
       "pop_total": 161011,
       "pop_65_plus": 29425,
       "distance_to_hub_miles": 13.1
+    },
+    {
+      "county_fips": "37109",
+      "county_name": "Lincoln",
+      "state": "NC",
+      "pop_total": 87933,
+      "pop_65_plus": 16371,
+      "distance_to_hub_miles": 21.8
     },
     {
       "county_fips": "37023",
@@ -90,12 +106,12 @@
   ],
   "summary": {
     "total_beds": 910,
-    "catchment_pop": 366031,
-    "catchment_pop_65_plus": 71992,
-    "catchment_pct_65_plus": 0.1967,
-    "max_catchment_radius_miles": 17.5,
-    "avg_catchment_distance_miles": 14.8,
-    "num_counties": 4,
+    "catchment_pop": 641803,
+    "catchment_pop_65_plus": 119053,
+    "catchment_pct_65_plus": 0.1855,
+    "max_catchment_radius_miles": 30.6,
+    "avg_catchment_distance_miles": 20.4,
+    "num_counties": 6,
     "hospital_employment": 3596,
     "msa_total_employment": 144990,
     "hospital_emp_share": 0.0312,

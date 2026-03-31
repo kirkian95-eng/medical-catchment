@@ -31,6 +31,14 @@
       "distance_to_hub_miles": 6.1
     },
     {
+      "county_fips": "39073",
+      "county_name": "Hocking",
+      "state": "OH",
+      "pop_total": 28104,
+      "pop_65_plus": 5376,
+      "distance_to_hub_miles": 27.1
+    },
+    {
       "county_fips": "39131",
       "county_name": "Pike",
       "state": "OH",
@@ -41,12 +49,12 @@
   ],
   "summary": {
     "total_beds": 261,
-    "catchment_pop": 104108,
-    "catchment_pop_65_plus": 18073,
-    "catchment_pct_65_plus": 0.1736,
-    "max_catchment_radius_miles": 22.6,
-    "avg_catchment_distance_miles": 10.4,
-    "num_counties": 2,
+    "catchment_pop": 132212,
+    "catchment_pop_65_plus": 23449,
+    "catchment_pct_65_plus": 0.1774,
+    "max_catchment_radius_miles": 27.1,
+    "avg_catchment_distance_miles": 14.0,
+    "num_counties": 3,
     "hospital_employment": 1487,
     "msa_total_employment": 29881,
     "hospital_emp_share": 0.0563,

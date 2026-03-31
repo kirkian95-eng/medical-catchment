@@ -1,0 +1,360 @@
+{
+  "cbsa_code": "45300",
+  "cbsa_name": "Tampa-St. Petersburg-Clearwater, FL",
+  "mdi": 0.3627,
+  "bbox": [
+    -84.3,
+    26.72,
+    -80.64,
+    29.54
+  ],
+  "hospitals": [
+    {
+      "facility_id": "100075",
+      "name": "ST JOSEPHS HOSPITAL",
+      "beds": 1367,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 27.9634,
+      "lon": -82.5023,
+      "govt_payer_share": 0.297,
+      "medicare_discharges": 9950
+    },
+    {
+      "facility_id": "100128",
+      "name": "TAMPA GENERAL HOSPITAL",
+      "beds": 1096,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 27.9325,
+      "lon": -82.4568,
+      "govt_payer_share": 0.235,
+      "medicare_discharges": 8641
+    },
+    {
+      "facility_id": "100127",
+      "name": "MORTON PLANT HOSPITAL",
+      "beds": 687,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 27.9519,
+      "lon": -82.804,
+      "govt_payer_share": 0.369,
+      "medicare_discharges": 7228
+    },
+    {
+      "facility_id": "100173",
+      "name": "ADVENTHEALTH TAMPA",
+      "beds": 626,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.0693,
+      "lon": -82.4229,
+      "govt_payer_share": 0.271,
+      "medicare_discharges": 4496
+    },
+    {
+      "facility_id": "100043",
+      "name": "MEASE DUNEDIN HOSPITAL",
+      "beds": 507,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.0363,
+      "lon": -82.7914,
+      "govt_payer_share": 0.349,
+      "medicare_discharges": 1389
+    },
+    {
+      "facility_id": "100243",
+      "name": "HCA FLORIDA BRANDON HOSPITAL",
+      "beds": 479,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 27.9338,
+      "lon": -82.2883,
+      "govt_payer_share": 0.215,
+      "medicare_discharges": 3586
+    },
+    {
+      "facility_id": "100248",
+      "name": "HCA FLORIDA LARGO HOSPITAL",
+      "beds": 452,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 27.9151,
+      "lon": -82.804,
+      "govt_payer_share": 0.316,
+      "medicare_discharges": 2799
+    },
+    {
+      "facility_id": "100067",
+      "name": "ST ANTHONYS HOSPITAL",
+      "beds": 448,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 27.734,
+      "lon": -82.6403,
+      "govt_payer_share": 0.394,
+      "medicare_discharges": 4963
+    },
+    {
+      "facility_id": "100032",
+      "name": "ORLANDO HEALTH BAYFRONT HOSPITAL",
+      "beds": 416,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 27.7635,
+      "lon": -82.6418,
+      "govt_payer_share": 0.213,
+      "medicare_discharges": 2405
+    },
+    {
+      "facility_id": "100256",
+      "name": "HCA FLORIDA BAYONET POINT HOSPITAL",
+      "beds": 392,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 28.3859,
+      "lon": -82.6656,
+      "govt_payer_share": 0.237,
+      "medicare_discharges": 3381
+    },
+    {
+      "facility_id": "100206",
+      "name": "HCA FLORIDA SOUTH TAMPA HOSPITAL",
+      "beds": 374,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 27.9426,
+      "lon": -82.515,
+      "govt_payer_share": 0.25,
+      "medicare_discharges": 1320
+    },
+    {
+      "facility_id": "100264",
+      "name": "HCA FLORIDA OAK HILL HOSPITAL",
+      "beds": 350,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 28.533,
+      "lon": -82.5368,
+      "govt_payer_share": 0.267,
+      "medicare_discharges": 4663
+    },
+    {
+      "facility_id": "100191",
+      "name": "HCA FLORIDA TRINITY HOSPITAL",
+      "beds": 340,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 28.203,
+      "lon": -82.6654,
+      "govt_payer_share": 0.209,
+      "medicare_discharges": 2580
+    },
+    {
+      "facility_id": "100126",
+      "name": "HCA FLORIDA PASADENA HOSPITAL A PART OF HCA FLORID",
+      "beds": 307,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 27.7435,
+      "lon": -82.7244,
+      "govt_payer_share": 0.376,
+      "medicare_discharges": 1299
+    },
+    {
+      "facility_id": "100265",
+      "name": "MEASE COUNTRYSIDE HOSPITAL",
+      "beds": 300,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.0404,
+      "lon": -82.7091,
+      "govt_payer_share": 0.352,
+      "medicare_discharges": 5090
+    },
+    {
+      "facility_id": "100238",
+      "name": "HCA FLORIDA NORTHSIDE HOSPITAL",
+      "beds": 288,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 27.8168,
+      "lon": -82.7316,
+      "govt_payer_share": 0.29,
+      "medicare_discharges": 2407
+    },
+    {
+      "facility_id": "100071",
+      "name": "TAMPA GENERAL HOSPITAL BROOKSVILLE",
+      "beds": 244,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 28.541,
+      "lon": -82.4427,
+      "govt_payer_share": 0.243,
+      "medicare_discharges": 2052
+    },
+    {
+      "facility_id": "100063",
+      "name": "MORTON PLANT NORTH BAY HOSPITAL",
+      "beds": 222,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.2406,
+      "lon": -82.7444,
+      "govt_payer_share": 0.296,
+      "medicare_discharges": 1940
+    },
+    {
+      "facility_id": "100180",
+      "name": "HCA FLORIDA ST PETERSBURG HOSPITAL",
+      "beds": 215,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 27.8063,
+      "lon": -82.7276,
+      "govt_payer_share": 0.24,
+      "medicare_discharges": 785
+    },
+    {
+      "facility_id": "100319",
+      "name": "ADVENTHEALTH WESLEY CHAPEL",
+      "beds": 169,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.1948,
+      "lon": -82.3533,
+      "govt_payer_share": 0.257,
+      "medicare_discharges": 2553
+    },
+    {
+      "facility_id": "100055",
+      "name": "ADVENTHEALTH NORTH PINELLAS",
+      "beds": 168,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 28.1495,
+      "lon": -82.7618,
+      "govt_payer_share": 0.258,
+      "medicare_discharges": 1453
+    },
+    {
+      "facility_id": "100132",
+      "name": "SOUTH FLORIDA BAPTIST HOSPITAL",
+      "beds": 146,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 28.0161,
+      "lon": -82.1381,
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 1089
+    },
+    {
+      "facility_id": "100046",
+      "name": "Adventhealth Zephyrhills",
+      "beds": 139,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 28.2598,
+      "lon": -82.1881,
+      "govt_payer_share": 0.234,
+      "medicare_discharges": 2356
+    },
+    {
+      "facility_id": "100211",
+      "name": "ADVENTHEALTH DADE CITY",
+      "beds": 122,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 28.3308,
+      "lon": -82.1833,
+      "govt_payer_share": 0.228,
+      "medicare_discharges": 945
+    },
+    {
+      "facility_id": "100069",
+      "name": "AdventHealth Carrollwood",
+      "beds": 119,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 28.0047,
+      "lon": -82.5061,
+      "govt_payer_share": 0.187,
+      "medicare_discharges": 1148
+    },
+    {
+      "facility_id": "100259",
+      "name": "HCA FLORIDA SOUTH SHORE HOSPITAL",
+      "beds": 112,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 27.7202,
+      "lon": -82.3618,
+      "govt_payer_share": 0.347,
+      "medicare_discharges": 2123
+    },
+    {
+      "facility_id": "100362",
+      "name": "BAYCARE HOSPITAL WESLEY CHAPEL",
+      "beds": 86,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 28.2483,
+      "lon": -82.3709,
+      "govt_payer_share": 0.347,
+      "medicare_discharges": 272
+    },
+    {
+      "facility_id": "100364",
+      "name": "ADVENTHEALTH RIVERVIEW",
+      "beds": 82,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 27.8611,
+      "lon": -82.3551,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "12057",
+      "county_name": "Hillsborough",
+      "state": "FL",
+      "pop_total": 1468560,
+      "pop_65_plus": 214615,
+      "distance_to_hub_miles": 14.7
+    },
+    {
+      "county_fips": "12103",
+      "county_name": "Pinellas",
+      "state": "FL",
+      "pop_total": 959918,
+      "pop_65_plus": 245332,
+      "distance_to_hub_miles": 16.0
+    },
+    {
+      "county_fips": "12101",
+      "county_name": "Pasco",
+      "state": "FL",
+      "pop_total": 569211,
+      "pop_65_plus": 126195,
+      "distance_to_hub_miles": 20.5
+    }
+  ],
+  "summary": {
+    "total_beds": 10253,
+    "catchment_pop": 2997689,
+    "catchment_pop_65_plus": 586142,
+    "catchment_pct_65_plus": 0.1955,
+    "max_catchment_radius_miles": 20.5,
+    "avg_catchment_distance_miles": 16.2,
+    "num_counties": 3,
+    "hospital_employment": 69866,
+    "msa_total_employment": 1423464,
+    "hospital_emp_share": 0.0265,
+    "avg_govt_payer_share": 0.2865
+  }
+}

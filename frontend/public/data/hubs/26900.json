@@ -1,0 +1,386 @@
+{
+  "cbsa_code": "26900",
+  "cbsa_name": "Indianapolis-Carmel-Greenwood, IN",
+  "mdi": 0.4283,
+  "bbox": [
+    -88.01,
+    38.48,
+    -84.18,
+    41.3
+  ],
+  "hospitals": [
+    {
+      "facility_id": "150056",
+      "name": "INDIANA UNIVERSITY HEALTH",
+      "beds": 1733,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.791,
+      "lon": -86.1649,
+      "govt_payer_share": 0.25,
+      "medicare_discharges": 7538
+    },
+    {
+      "facility_id": "150084",
+      "name": "ASCENSION ST VINCENT HOSPITAL",
+      "beds": 779,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 39.9121,
+      "lon": -86.1951,
+      "govt_payer_share": 0.262,
+      "medicare_discharges": 5944
+    },
+    {
+      "facility_id": "150162",
+      "name": "FRANCISCAN HEALTH INDIANAPOLIS",
+      "beds": 423,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 39.6468,
+      "lon": -86.0825,
+      "govt_payer_share": 0.282,
+      "medicare_discharges": 5746
+    },
+    {
+      "facility_id": "150024",
+      "name": "ESKENAZI HEALTH",
+      "beds": 343,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 39.7775,
+      "lon": -86.1827,
+      "govt_payer_share": 0.372,
+      "medicare_discharges": 1253
+    },
+    {
+      "facility_id": "150169",
+      "name": "COMMUNITY HOSPITAL NORTH",
+      "beds": 298,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9001,
+      "lon": -86.0431,
+      "govt_payer_share": 0.267,
+      "medicare_discharges": 3297
+    },
+    {
+      "facility_id": "150074",
+      "name": "COMMUNITY HOSPITAL EAST",
+      "beds": 263,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.7875,
+      "lon": -86.0739,
+      "govt_payer_share": 0.232,
+      "medicare_discharges": 3244
+    },
+    {
+      "facility_id": "150088",
+      "name": "ASCENSION ST VINCENT ANDERSON",
+      "beds": 195,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.0963,
+      "lon": -85.6806,
+      "govt_payer_share": 0.249,
+      "medicare_discharges": 847
+    },
+    {
+      "facility_id": "150059",
+      "name": "RIVERVIEW HEALTH",
+      "beds": 162,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 40.0469,
+      "lon": -86.023,
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 881
+    },
+    {
+      "facility_id": "150005",
+      "name": "HENDRICKS REGIONAL HEALTH",
+      "beds": 160,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 39.759,
+      "lon": -86.5097,
+      "govt_payer_share": 0.294,
+      "medicare_discharges": 1553
+    },
+    {
+      "facility_id": "150161",
+      "name": "INDIANA UNIVERSITY HEALTH NORTH HOSPITAL",
+      "beds": 149,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9588,
+      "lon": -86.1581,
+      "govt_payer_share": 0.271,
+      "medicare_discharges": 1808
+    },
+    {
+      "facility_id": "150113",
+      "name": "COMMUNITY HOSPITAL OF ANDERSON AND MADISON COUNTY",
+      "beds": 137,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 40.1293,
+      "lon": -85.6917,
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 1325
+    },
+    {
+      "facility_id": "150128",
+      "name": "COMMUNITY HOSPITAL SOUTH, INC.",
+      "beds": 127,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.6355,
+      "lon": -86.1369,
+      "govt_payer_share": 0.318,
+      "medicare_discharges": 2246
+    },
+    {
+      "facility_id": "150158",
+      "name": "IU HEALTH WEST HOSPITAL",
+      "beds": 127,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 39.7792,
+      "lon": -86.3435,
+      "govt_payer_share": 0.345,
+      "medicare_discharges": 2239
+    },
+    {
+      "facility_id": "150001",
+      "name": "JOHNSON MEMORIAL HOSPITAL",
+      "beds": 125,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 39.4811,
+      "lon": -86.0779,
+      "govt_payer_share": 0.289,
+      "medicare_discharges": 505
+    },
+    {
+      "facility_id": "150153",
+      "name": "ST VINCENT HEART CENTER",
+      "beds": 107,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 39.9345,
+      "lon": -86.1619,
+      "govt_payer_share": 0.337,
+      "medicare_discharges": 1410
+    },
+    {
+      "facility_id": "150157",
+      "name": "ASCENSION ST VINCENT CARMEL",
+      "beds": 107,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9843,
+      "lon": -86.1438,
+      "govt_payer_share": 0.231,
+      "medicare_discharges": 1016
+    },
+    {
+      "facility_id": "150179",
+      "name": "FAIRBANKS",
+      "beds": 86,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9084,
+      "lon": -86.0131,
+      "govt_payer_share": 0.047,
+      "medicare_discharges": 74
+    },
+    {
+      "facility_id": "150057",
+      "name": "FRANCISCAN HEALTH MOORESVILLE",
+      "beds": 82,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 39.6093,
+      "lon": -86.3552,
+      "govt_payer_share": 0.304,
+      "medicare_discharges": 727
+    },
+    {
+      "facility_id": "150037",
+      "name": "HANCOCK REGIONAL HOSPITAL",
+      "beds": 69,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 39.7943,
+      "lon": -85.7695,
+      "govt_payer_share": 0.265,
+      "medicare_discharges": 734
+    },
+    {
+      "facility_id": "150104",
+      "name": "WITHAM HEALTH SERVICES",
+      "beds": 52,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 40.0772,
+      "lon": -86.4735,
+      "govt_payer_share": 0.285,
+      "medicare_discharges": 669
+    },
+    {
+      "facility_id": "150097",
+      "name": "MAJOR HOSPITAL",
+      "beds": 51,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 39.5595,
+      "lon": -85.7841,
+      "govt_payer_share": 0.358,
+      "medicare_discharges": 715
+    },
+    {
+      "facility_id": "150181",
+      "name": "ASCENSION ST VINCENT FISHERS",
+      "beds": 46,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 39.9904,
+      "lon": -85.919,
+      "govt_payer_share": 0.219,
+      "medicare_discharges": 202
+    },
+    {
+      "facility_id": "150160",
+      "name": "ORTHOINDY HOSPITAL",
+      "beds": 38,
+      "type": "Acute Care Hospitals",
+      "ownership": "Physician",
+      "lat": 39.8929,
+      "lon": -86.2981,
+      "govt_payer_share": 0.33,
+      "medicare_discharges": 510
+    },
+    {
+      "facility_id": "151308",
+      "name": "ASCENSION ST VINCENT MERCY",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 40.2969,
+      "lon": -85.8329,
+      "govt_payer_share": 0.254,
+      "medicare_discharges": 38
+    },
+    {
+      "facility_id": "151311",
+      "name": "INDIANA UNIVERSITY HEALTH TIPTON HOSPITAL INC",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 40.2853,
+      "lon": -86.0688,
+      "govt_payer_share": 0.56,
+      "medicare_discharges": 239
+    },
+    {
+      "facility_id": "150193",
+      "name": "FRANCISCAN HEALTH ORTHOPEDIC HOSPITAL CARMEL",
+      "beds": 23,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 39.9666,
+      "lon": -86.1751,
+      "govt_payer_share": 0.42,
+      "medicare_discharges": 123
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "18097",
+      "county_name": "Marion",
+      "state": "IN",
+      "pop_total": 971737,
+      "pop_65_plus": 124771,
+      "distance_to_hub_miles": 3.7
+    },
+    {
+      "county_fips": "18057",
+      "county_name": "Hamilton",
+      "state": "IN",
+      "pop_total": 349527,
+      "pop_65_plus": 45776,
+      "distance_to_hub_miles": 17.0
+    },
+    {
+      "county_fips": "18063",
+      "county_name": "Hendricks",
+      "state": "IN",
+      "pop_total": 175639,
+      "pop_65_plus": 25266,
+      "distance_to_hub_miles": 20.9
+    },
+    {
+      "county_fips": "18081",
+      "county_name": "Johnson",
+      "state": "IN",
+      "pop_total": 161952,
+      "pop_65_plus": 24705,
+      "distance_to_hub_miles": 23.7
+    },
+    {
+      "county_fips": "18059",
+      "county_name": "Hancock",
+      "state": "IN",
+      "pop_total": 80170,
+      "pop_65_plus": 13701,
+      "distance_to_hub_miles": 18.6
+    },
+    {
+      "county_fips": "18109",
+      "county_name": "Morgan",
+      "state": "IN",
+      "pop_total": 71757,
+      "pop_65_plus": 12413,
+      "distance_to_hub_miles": 29.7
+    },
+    {
+      "county_fips": "18011",
+      "county_name": "Boone",
+      "state": "IN",
+      "pop_total": 71235,
+      "pop_65_plus": 10035,
+      "distance_to_hub_miles": 23.7
+    },
+    {
+      "county_fips": "18145",
+      "county_name": "Shelby",
+      "state": "IN",
+      "pop_total": 44940,
+      "pop_65_plus": 7901,
+      "distance_to_hub_miles": 27.8
+    },
+    {
+      "county_fips": "18139",
+      "county_name": "Rush",
+      "state": "IN",
+      "pop_total": 16716,
+      "pop_65_plus": 3101,
+      "distance_to_hub_miles": 38.0
+    }
+  ],
+  "summary": {
+    "total_beds": 5732,
+    "catchment_pop": 1943673,
+    "catchment_pop_65_plus": 267669,
+    "catchment_pct_65_plus": 0.1377,
+    "max_catchment_radius_miles": 38.0,
+    "avg_catchment_distance_miles": 12.5,
+    "num_counties": 9,
+    "hospital_employment": 57184,
+    "msa_total_employment": 1075989,
+    "hospital_emp_share": 0.033,
+    "avg_govt_payer_share": 0.2723
+  }
+}

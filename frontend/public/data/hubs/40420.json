@@ -45,12 +45,28 @@
   ],
   "catchment_counties": [
     {
+      "county_fips": "17111",
+      "county_name": "McHenry",
+      "state": "IL",
+      "pop_total": 311133,
+      "pop_65_plus": 48285,
+      "distance_to_hub_miles": 31.5
+    },
+    {
       "county_fips": "17201",
       "county_name": "Winnebago",
       "state": "IL",
       "pop_total": 284591,
       "pop_65_plus": 51253,
       "distance_to_hub_miles": 6.2
+    },
+    {
+      "county_fips": "17037",
+      "county_name": "DeKalb",
+      "state": "IL",
+      "pop_total": 100686,
+      "pop_65_plus": 13559,
+      "distance_to_hub_miles": 30.7
     },
     {
       "county_fips": "17007",
@@ -71,12 +87,12 @@
   ],
   "summary": {
     "total_beds": 1082,
-    "catchment_pop": 389722,
-    "catchment_pop_65_plus": 69906,
-    "catchment_pct_65_plus": 0.1794,
-    "max_catchment_radius_miles": 20.9,
-    "avg_catchment_distance_miles": 9.1,
-    "num_counties": 3,
+    "catchment_pop": 801541,
+    "catchment_pop_65_plus": 131750,
+    "catchment_pct_65_plus": 0.1644,
+    "max_catchment_radius_miles": 31.5,
+    "avg_catchment_distance_miles": 20.5,
+    "num_counties": 5,
     "hospital_employment": 8949,
     "msa_total_employment": 125284,
     "hospital_emp_share": 0.0374,

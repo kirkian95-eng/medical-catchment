@@ -221,8 +221,12 @@ def compute_mdi(msa):
     msa = msa[msa['pop_msa'].notna() & (msa['pop_msa'] >= MIN_MSA_POP)].copy()
     print(f'After min pop ({MIN_MSA_POP:,}): {len(msa)}')
 
-    msa = msa[msa['pop_msa'] <= MAX_MSA_POP].copy()
-    print(f'After max pop ({MAX_MSA_POP:,}): {len(msa)}')
+    # No max pop filter — include all MSAs on the map.
+    # Flag "focus hubs" (< 2M) for ranking normalization and default table filter.
+    msa['is_focus_hub'] = msa['pop_msa'] <= MAX_MSA_POP
+    focus_count = msa['is_focus_hub'].sum()
+    metro_count = len(msa) - focus_count
+    print(f'Focus hubs (pop <= {MAX_MSA_POP:,}): {focus_count}, Large metros: {metro_count}')
 
     msa = msa[msa['total_beds'] >= MIN_BEDS].copy()
     print(f'After min beds ({MIN_BEDS}): {len(msa)}')
@@ -234,22 +238,27 @@ def compute_mdi(msa):
         print('ERROR: No qualifying MSAs')
         return msa
 
+    # Compute normalization percentiles from FOCUS HUBS ONLY
+    # so large diversified metros don't compress the scale
+    focus = msa[msa['is_focus_hub']]
+
     # Component A: Hospital Employment Intensity
     a_raw = msa['hospital_emp_share']
-    a_min = a_raw.min()
-    a_95 = a_raw.quantile(0.95)
+    a_min = focus['hospital_emp_share'].min()
+    a_95 = focus['hospital_emp_share'].quantile(0.95)
     msa['component_a'] = ((a_raw - a_min) / (a_95 - a_min)).clip(0, 1)
 
     # Component B: Government Payer Intensity
     b_raw = msa['govt_payer_share']
-    b_min = b_raw.min()
-    b_95 = b_raw.quantile(0.95)
+    b_min = focus['govt_payer_share'].min()
+    b_95 = focus['govt_payer_share'].quantile(0.95)
     msa['component_b'] = ((b_raw - b_min) / (b_95 - b_min)).clip(0, 1)
 
     # Component C: Hospital Payroll Dominance
     c_raw = msa['hospital_payroll_share'].fillna(msa['hospital_emp_share'])
-    c_min = c_raw.min()
-    c_95 = c_raw.quantile(0.95)
+    c_focus = focus['hospital_payroll_share'].fillna(focus['hospital_emp_share'])
+    c_min = c_focus.min()
+    c_95 = c_focus.quantile(0.95)
     msa['component_c'] = ((c_raw - c_min) / (c_95 - c_min)).clip(0, 1)
 
     # Composite MDI
@@ -291,6 +300,7 @@ def build_rankings_json(msa):
             'avg_hospital_wage_weekly': round(row.get('avg_hospital_wage', 0), 0) if pd.notna(row.get('avg_hospital_wage')) else None,
             'hub_lat': round(row.get('hub_lat', 0), 4),
             'hub_lon': round(row.get('hub_lon', 0), 4),
+            'is_focus_hub': bool(row.get('is_focus_hub', True)),
         })
 
     with open(OUTPUT_FILE, 'w') as f:

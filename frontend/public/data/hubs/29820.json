@@ -1,0 +1,250 @@
+{
+  "cbsa_code": "29820",
+  "cbsa_name": "Las Vegas-Henderson-North Las Vegas, NV",
+  "mdi": 0.3181,
+  "bbox": [
+    -118.03,
+    33.81,
+    -111.38,
+    38.98
+  ],
+  "hospitals": [
+    {
+      "facility_id": "290003",
+      "name": "SUNRISE HOSPITAL AND MEDICAL CENTER",
+      "beds": 834,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.1316,
+      "lon": -115.1699,
+      "govt_payer_share": 0.287,
+      "medicare_discharges": 5802
+    },
+    {
+      "facility_id": "290046",
+      "name": "SPRING VALLEY HOSPITAL MEDICAL CENTER",
+      "beds": 572,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.0896,
+      "lon": -115.2428,
+      "govt_payer_share": 0.274,
+      "medicare_discharges": 2869
+    },
+    {
+      "facility_id": "290007",
+      "name": "UNIVERSITY MEDICAL CENTER",
+      "beds": 541,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 36.1586,
+      "lon": -115.1671,
+      "govt_payer_share": 0.327,
+      "medicare_discharges": 2746
+    },
+    {
+      "facility_id": "290041",
+      "name": "SUMMERLIN HOSPITAL MEDICAL CENTER",
+      "beds": 485,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.1792,
+      "lon": -115.3167,
+      "govt_payer_share": 0.241,
+      "medicare_discharges": 3252
+    },
+    {
+      "facility_id": "290039",
+      "name": "MOUNTAINVIEW HOSPITAL",
+      "beds": 407,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.2159,
+      "lon": -115.2508,
+      "govt_payer_share": 0.324,
+      "medicare_discharges": 5840
+    },
+    {
+      "facility_id": "290054",
+      "name": "CENTENNIAL HILLS HOSPITAL MEDICAL CENTER",
+      "beds": 339,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.2867,
+      "lon": -115.2877,
+      "govt_payer_share": 0.262,
+      "medicare_discharges": 3048
+    },
+    {
+      "facility_id": "290045",
+      "name": "SAINT ROSE DOMINICAN HOSPITALS - SIENA CAMPUS",
+      "beds": 326,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.0002,
+      "lon": -115.1237,
+      "govt_payer_share": 0.324,
+      "medicare_discharges": 4883
+    },
+    {
+      "facility_id": "290021",
+      "name": "VALLEY HOSPITAL MEDICAL CENTER",
+      "beds": 320,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.1821,
+      "lon": -115.1625,
+      "govt_payer_share": 0.337,
+      "medicare_discharges": 2597
+    },
+    {
+      "facility_id": "290047",
+      "name": "SOUTHERN HILLS HOSPITAL AND MEDICAL CENTER",
+      "beds": 246,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.0703,
+      "lon": -115.2963,
+      "govt_payer_share": 0.25,
+      "medicare_discharges": 2780
+    },
+    {
+      "facility_id": "290005",
+      "name": "NORTH VISTA HOSPITAL",
+      "beds": 177,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.2123,
+      "lon": -115.1231,
+      "govt_payer_share": 0.553,
+      "medicare_discharges": 1298
+    },
+    {
+      "facility_id": "290057",
+      "name": "HENDERSON HOSPITAL",
+      "beds": 166,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.071,
+      "lon": -115.0254,
+      "govt_payer_share": 0.253,
+      "medicare_discharges": 3311
+    },
+    {
+      "facility_id": "290062",
+      "name": "WEST HENDERSON HOSPITAL",
+      "beds": 150,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 35.9799,
+      "lon": -115.1079,
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 0
+    },
+    {
+      "facility_id": "290053",
+      "name": "SAINT ROSE DOMINICAN HOSPITALS - SAN MARTIN CAMPUS",
+      "beds": 147,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.0602,
+      "lon": -115.2623,
+      "govt_payer_share": 0.332,
+      "medicare_discharges": 1493
+    },
+    {
+      "facility_id": "290012",
+      "name": "SAINT ROSE DOMINICAN HOSPITALS - ROSE DE LIMA",
+      "beds": 130,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 36.0389,
+      "lon": -114.9283,
+      "govt_payer_share": 0.456,
+      "medicare_discharges": 40
+    },
+    {
+      "facility_id": "290042",
+      "name": "HARMON HOSPITAL",
+      "beds": 116,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.0845,
+      "lon": -115.1461,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 0
+    },
+    {
+      "facility_id": "291309",
+      "name": "BOULDER CITY HOSPITAL",
+      "beds": 67,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 35.9996,
+      "lon": -114.852,
+      "govt_payer_share": 0.566,
+      "medicare_discharges": 69
+    },
+    {
+      "facility_id": "290058",
+      "name": "SAINT ROSE DOMINICAN HOSPITALS - NORTH LAS VEGAS",
+      "beds": 32,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.2585,
+      "lon": -115.1707,
+      "govt_payer_share": 0.263,
+      "medicare_discharges": 107
+    },
+    {
+      "facility_id": "291307",
+      "name": "MESA VIEW REGIONAL HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Proprietary",
+      "lat": 36.8145,
+      "lon": -114.0933,
+      "govt_payer_share": 0.445,
+      "medicare_discharges": 433
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "32003",
+      "county_name": "Clark",
+      "state": "NV",
+      "pop_total": 2265926,
+      "pop_65_plus": 343754,
+      "distance_to_hub_miles": 11.0
+    },
+    {
+      "county_fips": "32023",
+      "county_name": "Nye",
+      "state": "NV",
+      "pop_total": 51698,
+      "pop_65_plus": 15809,
+      "distance_to_hub_miles": 149.4
+    },
+    {
+      "county_fips": "32017",
+      "county_name": "Lincoln",
+      "state": "NV",
+      "pop_total": 4507,
+      "pop_65_plus": 746,
+      "distance_to_hub_miles": 105.5
+    }
+  ],
+  "summary": {
+    "total_beds": 5080,
+    "catchment_pop": 2322131,
+    "catchment_pop_65_plus": 360309,
+    "catchment_pct_65_plus": 0.1552,
+    "max_catchment_radius_miles": 149.4,
+    "avg_catchment_distance_miles": 14.3,
+    "num_counties": 3,
+    "hospital_employment": 32143,
+    "msa_total_employment": 1098202,
+    "hospital_emp_share": 0.019,
+    "avg_govt_payer_share": 0.3229
+  }
+}

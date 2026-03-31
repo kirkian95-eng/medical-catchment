@@ -45,6 +45,14 @@
   ],
   "catchment_counties": [
     {
+      "county_fips": "24021",
+      "county_name": "Frederick",
+      "state": "MD",
+      "pop_total": 273829,
+      "pop_65_plus": 40796,
+      "distance_to_hub_miles": 24.4
+    },
+    {
       "county_fips": "24043",
       "county_name": "Washington",
       "state": "MD",
@@ -61,6 +69,14 @@
       "distance_to_hub_miles": 11.6
     },
     {
+      "county_fips": "54037",
+      "county_name": "Jefferson",
+      "state": "WV",
+      "pop_total": 58043,
+      "pop_65_plus": 9673,
+      "distance_to_hub_miles": 17.0
+    },
+    {
       "county_fips": "54065",
       "county_name": "Morgan",
       "state": "WV",
@@ -71,12 +87,12 @@
   ],
   "summary": {
     "total_beds": 537,
-    "catchment_pop": 295165,
-    "catchment_pop_65_plus": 50001,
-    "catchment_pct_65_plus": 0.1694,
-    "max_catchment_radius_miles": 22.1,
-    "avg_catchment_distance_miles": 8.1,
-    "num_counties": 3,
+    "catchment_pop": 627037,
+    "catchment_pop_65_plus": 100470,
+    "catchment_pct_65_plus": 0.1602,
+    "max_catchment_radius_miles": 24.4,
+    "avg_catchment_distance_miles": 16.1,
+    "num_counties": 5,
     "hospital_employment": 2081,
     "msa_total_employment": 102872,
     "hospital_emp_share": 0.0313,

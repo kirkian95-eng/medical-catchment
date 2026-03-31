@@ -3,10 +3,10 @@
   "cbsa_name": "Laredo, TX",
   "mdi": 0.2791,
   "bbox": [
-    -101.17,
-    26.18,
-    -97.78,
-    28.96
+    -100.98,
+    26.53,
+    -97.98,
+    28.61
   ],
   "hospitals": [
     {
@@ -42,14 +42,6 @@
       "distance_to_hub_miles": 16.6
     },
     {
-      "county_fips": "48163",
-      "county_name": "Frio",
-      "state": "TX",
-      "pop_total": 18151,
-      "pop_65_plus": 2290,
-      "distance_to_hub_miles": 93.2
-    },
-    {
       "county_fips": "48505",
       "county_name": "Zapata",
       "state": "TX",
@@ -76,12 +68,12 @@
   ],
   "summary": {
     "total_beds": 509,
-    "catchment_pop": 314966,
-    "catchment_pop_65_plus": 32820,
-    "catchment_pct_65_plus": 0.1042,
-    "max_catchment_radius_miles": 93.2,
-    "avg_catchment_distance_miles": 24.4,
-    "num_counties": 5,
+    "catchment_pop": 296815,
+    "catchment_pop_65_plus": 30530,
+    "catchment_pct_65_plus": 0.1029,
+    "max_catchment_radius_miles": 62.1,
+    "avg_catchment_distance_miles": 20.2,
+    "num_counties": 4,
     "hospital_employment": 2183,
     "msa_total_employment": 105387,
     "hospital_emp_share": 0.0181,

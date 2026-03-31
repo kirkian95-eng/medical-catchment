@@ -1,0 +1,448 @@
+{
+  "cbsa_code": "33460",
+  "cbsa_name": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "mdi": 0.3543,
+  "bbox": [
+    -95.41,
+    43.44,
+    -90.87,
+    47.1
+  ],
+  "hospitals": [
+    {
+      "facility_id": "240080",
+      "name": "M HEALTH FAIRVIEW UNIVERSITY OF MN MEDICAL CENTER",
+      "beds": 1700,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.9661,
+      "lon": -93.2373,
+      "govt_payer_share": 0.235,
+      "medicare_discharges": 4121
+    },
+    {
+      "facility_id": "240057",
+      "name": "ABBOTT NORTHWESTERN HOSPITAL",
+      "beds": 996,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.952,
+      "lon": -93.262,
+      "govt_payer_share": 0.303,
+      "medicare_discharges": 6769
+    },
+    {
+      "facility_id": "240004",
+      "name": "HENNEPIN COUNTY MEDICAL CENTER",
+      "beds": 894,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 44.9728,
+      "lon": -93.2629,
+      "govt_payer_share": 0.281,
+      "medicare_discharges": 1897
+    },
+    {
+      "facility_id": "240038",
+      "name": "ALLINA UNITED HOSPITAL",
+      "beds": 603,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.9418,
+      "lon": -93.1085,
+      "govt_payer_share": 0.308,
+      "medicare_discharges": 4827
+    },
+    {
+      "facility_id": "240115",
+      "name": "MERCY HOSPITAL",
+      "beds": 573,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.1849,
+      "lon": -93.3713,
+      "govt_payer_share": 0.276,
+      "medicare_discharges": 5297
+    },
+    {
+      "facility_id": "240106",
+      "name": "REGIONS HOSPITAL",
+      "beds": 554,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.9552,
+      "lon": -93.0961,
+      "govt_payer_share": 0.359,
+      "medicare_discharges": 5422
+    },
+    {
+      "facility_id": "240001",
+      "name": "NORTH MEMORIAL HEALTH HOSPITAL",
+      "beds": 518,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.0143,
+      "lon": -93.321,
+      "govt_payer_share": 0.295,
+      "medicare_discharges": 3661
+    },
+    {
+      "facility_id": "240053",
+      "name": "PARK NICOLLET METHODIST HOSPITAL",
+      "beds": 426,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.9284,
+      "lon": -93.3634,
+      "govt_payer_share": 0.345,
+      "medicare_discharges": 5614
+    },
+    {
+      "facility_id": "240078",
+      "name": "M HEALTH FAIRVIEW SOUTHDALE HOSPITAL",
+      "beds": 390,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.8857,
+      "lon": -93.3287,
+      "govt_payer_share": 0.265,
+      "medicare_discharges": 3837
+    },
+    {
+      "facility_id": "240210",
+      "name": "M HEALTH FAIRVIEW ST JOHN'S HOSPITAL",
+      "beds": 184,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.0166,
+      "lon": -93.0267,
+      "govt_payer_share": 0.246,
+      "medicare_discharges": 2197
+    },
+    {
+      "facility_id": "240207",
+      "name": "M HEALTH FAIRVIEW RIDGES HOSPITAL",
+      "beds": 150,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 44.7501,
+      "lon": -93.2742,
+      "govt_payer_share": 0.25,
+      "medicare_discharges": 2122
+    },
+    {
+      "facility_id": "240056",
+      "name": "RIDGEVIEW MEDICAL CENTER",
+      "beds": 109,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.8434,
+      "lon": -93.7909,
+      "govt_payer_share": 0.375,
+      "medicare_discharges": 1633
+    },
+    {
+      "facility_id": "240066",
+      "name": "LAKEVIEW MEMORIAL HOSPITAL",
+      "beds": 97,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 45.0481,
+      "lon": -92.8182,
+      "govt_payer_share": 0.355,
+      "medicare_discharges": 1207
+    },
+    {
+      "facility_id": "240104",
+      "name": "ST FRANCIS REGIONAL MEDICAL CENTER",
+      "beds": 93,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 44.7702,
+      "lon": -93.5049,
+      "govt_payer_share": 0.3,
+      "medicare_discharges": 1061
+    },
+    {
+      "facility_id": "240214",
+      "name": "MAPLE GROVE HOSPITAL",
+      "beds": 90,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.1332,
+      "lon": -93.4794,
+      "govt_payer_share": 0.168,
+      "medicare_discharges": 1080
+    },
+    {
+      "facility_id": "240020",
+      "name": "CAMBRIDGE MEDICAL CENTER",
+      "beds": 86,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.5695,
+      "lon": -93.2766,
+      "govt_payer_share": 0.302,
+      "medicare_discharges": 447
+    },
+    {
+      "facility_id": "240213",
+      "name": "M HEALTH FAIRVIEW WOODWINDS HOSPITAL",
+      "beds": 86,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.9191,
+      "lon": -92.9797,
+      "govt_payer_share": 0.246,
+      "medicare_discharges": 1231
+    },
+    {
+      "facility_id": "240076",
+      "name": "BUFFALO HOSPITAL",
+      "beds": 65,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 45.1933,
+      "lon": -93.8707,
+      "govt_payer_share": 0.272,
+      "medicare_discharges": 433
+    },
+    {
+      "facility_id": "240050",
+      "name": "FAIRVIEW LAKES HEALTH SERVICES",
+      "beds": 61,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.322,
+      "lon": -92.9994,
+      "govt_payer_share": 0.265,
+      "medicare_discharges": 543
+    },
+    {
+      "facility_id": "240141",
+      "name": "FAIRVIEW NORTHLAND REGIONAL HOSPITAL",
+      "beds": 54,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 45.5589,
+      "lon": -93.5891,
+      "govt_payer_share": 0.342,
+      "medicare_discharges": 339
+    },
+    {
+      "facility_id": "241362",
+      "name": "CENTRACARE HEALTH - MONTICELLO",
+      "beds": 39,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.3001,
+      "lon": -93.7792,
+      "govt_payer_share": 0.306,
+      "medicare_discharges": 162
+    },
+    {
+      "facility_id": "241356",
+      "name": "MILLE LACS HEALTH SYSTEM",
+      "beds": 31,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 46.0996,
+      "lon": -93.6653,
+      "govt_payer_share": 0.507,
+      "medicare_discharges": 138
+    },
+    {
+      "facility_id": "241361",
+      "name": "MAYO CLINIC HEALTH SYSTEM NEW PRAGUE",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.535,
+      "lon": -93.5794,
+      "govt_payer_share": 0.564,
+      "medicare_discharges": 321
+    },
+    {
+      "facility_id": "521335",
+      "name": "HUDSON HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.9627,
+      "lon": -92.7121,
+      "govt_payer_share": 0.498,
+      "medicare_discharges": 400
+    },
+    {
+      "facility_id": "521345",
+      "name": "WESTFIELDS HOSPITAL AND CLINIC",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 45.1179,
+      "lon": -92.5533,
+      "govt_payer_share": 0.599,
+      "medicare_discharges": 457
+    },
+    {
+      "facility_id": "521347",
+      "name": "WESTERN WISCONSIN HEALTH",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.9596,
+      "lon": -92.3719,
+      "govt_payer_share": 0.419,
+      "medicare_discharges": 210
+    },
+    {
+      "facility_id": "521349",
+      "name": "RIVER FALLS AREA HOSPITAL",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.8469,
+      "lon": -92.6111,
+      "govt_payer_share": 0.628,
+      "medicare_discharges": 227
+    },
+    {
+      "facility_id": "241375",
+      "name": "MINNESOTA VALLEY HEALTH CENTER  INC",
+      "beds": 15,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 44.4419,
+      "lon": -93.914,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 36
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "27053",
+      "county_name": "Hennepin",
+      "state": "MN",
+      "pop_total": 1270787,
+      "pop_65_plus": 187519,
+      "distance_to_hub_miles": 10.9
+    },
+    {
+      "county_fips": "27123",
+      "county_name": "Ramsey",
+      "state": "MN",
+      "pop_total": 547202,
+      "pop_65_plus": 82506,
+      "distance_to_hub_miles": 7.8
+    },
+    {
+      "county_fips": "27037",
+      "county_name": "Dakota",
+      "state": "MN",
+      "pop_total": 439179,
+      "pop_65_plus": 65838,
+      "distance_to_hub_miles": 23.9
+    },
+    {
+      "county_fips": "27003",
+      "county_name": "Anoka",
+      "state": "MN",
+      "pop_total": 363985,
+      "pop_65_plus": 53293,
+      "distance_to_hub_miles": 19.5
+    },
+    {
+      "county_fips": "27163",
+      "county_name": "Washington",
+      "state": "MN",
+      "pop_total": 268651,
+      "pop_65_plus": 42328,
+      "distance_to_hub_miles": 18.4
+    },
+    {
+      "county_fips": "27139",
+      "county_name": "Scott",
+      "state": "MN",
+      "pop_total": 151347,
+      "pop_65_plus": 17921,
+      "distance_to_hub_miles": 27.4
+    },
+    {
+      "county_fips": "27171",
+      "county_name": "Wright",
+      "state": "MN",
+      "pop_total": 142543,
+      "pop_65_plus": 18550,
+      "distance_to_hub_miles": 36.8
+    },
+    {
+      "county_fips": "27019",
+      "county_name": "Carver",
+      "state": "MN",
+      "pop_total": 107216,
+      "pop_65_plus": 14153,
+      "distance_to_hub_miles": 29.3
+    },
+    {
+      "county_fips": "55109",
+      "county_name": "St. Croix",
+      "state": "WI",
+      "pop_total": 93752,
+      "pop_65_plus": 13982,
+      "distance_to_hub_miles": 39.3
+    },
+    {
+      "county_fips": "27025",
+      "county_name": "Chisago",
+      "state": "MN",
+      "pop_total": 56927,
+      "pop_65_plus": 9094,
+      "distance_to_hub_miles": 39.1
+    },
+    {
+      "county_fips": "55095",
+      "county_name": "Polk",
+      "state": "WI",
+      "pop_total": 45128,
+      "pop_65_plus": 9708,
+      "distance_to_hub_miles": 51.2
+    },
+    {
+      "county_fips": "27059",
+      "county_name": "Isanti",
+      "state": "MN",
+      "pop_total": 41257,
+      "pop_65_plus": 6869,
+      "distance_to_hub_miles": 39.5
+    },
+    {
+      "county_fips": "27085",
+      "county_name": "McLeod",
+      "state": "MN",
+      "pop_total": 36727,
+      "pop_65_plus": 7140,
+      "distance_to_hub_miles": 51.2
+    },
+    {
+      "county_fips": "27065",
+      "county_name": "Kanabec",
+      "state": "MN",
+      "pop_total": 16145,
+      "pop_65_plus": 3435,
+      "distance_to_hub_miles": 65.9
+    }
+  ],
+  "summary": {
+    "total_beds": 7939,
+    "catchment_pop": 3580846,
+    "catchment_pop_65_plus": 532336,
+    "catchment_pct_65_plus": 0.1487,
+    "max_catchment_radius_miles": 65.9,
+    "avg_catchment_distance_miles": 18.4,
+    "num_counties": 14,
+    "hospital_employment": 58209,
+    "msa_total_employment": 1894798,
+    "hospital_emp_share": 0.0234,
+    "avg_govt_payer_share": 0.2901
+  }
+}

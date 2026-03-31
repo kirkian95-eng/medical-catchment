@@ -59,16 +59,24 @@
       "pop_total": 201749,
       "pop_65_plus": 44110,
       "distance_to_hub_miles": 16.1
+    },
+    {
+      "county_fips": "42073",
+      "county_name": "Lawrence",
+      "state": "PA",
+      "pop_total": 85907,
+      "pop_65_plus": 19351,
+      "distance_to_hub_miles": 20.6
     }
   ],
   "summary": {
     "total_beds": 561,
-    "catchment_pop": 429728,
-    "catchment_pop_65_plus": 93376,
-    "catchment_pct_65_plus": 0.2173,
-    "max_catchment_radius_miles": 16.1,
-    "avg_catchment_distance_miles": 10.8,
-    "num_counties": 2,
+    "catchment_pop": 515635,
+    "catchment_pop_65_plus": 112727,
+    "catchment_pct_65_plus": 0.2186,
+    "max_catchment_radius_miles": 20.6,
+    "avg_catchment_distance_miles": 12.5,
+    "num_counties": 3,
     "hospital_employment": 6927,
     "msa_total_employment": 158141,
     "hospital_emp_share": 0.0162,

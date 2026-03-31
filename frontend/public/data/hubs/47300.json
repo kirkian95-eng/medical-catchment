@@ -3,10 +3,10 @@
   "cbsa_name": "Visalia, CA",
   "mdi": 0.5425,
   "bbox": [
-    -122.97,
-    33.17,
-    -115.4,
-    39.22
+    -121.19,
+    34.58,
+    -117.17,
+    37.81
   ],
   "hospitals": [
     {
@@ -64,14 +64,6 @@
       "distance_to_hub_miles": 22.6
     },
     {
-      "county_fips": "32023",
-      "county_name": "Nye",
-      "state": "NV",
-      "pop_total": 51698,
-      "pop_65_plus": 15809,
-      "distance_to_hub_miles": 199.5
-    },
-    {
       "county_fips": "06027",
       "county_name": "Inyo",
       "state": "CA",
@@ -82,12 +74,12 @@
   ],
   "summary": {
     "total_beds": 1938,
-    "catchment_pop": 543973,
-    "catchment_pop_65_plus": 74649,
-    "catchment_pct_65_plus": 0.1372,
-    "max_catchment_radius_miles": 199.5,
-    "avg_catchment_distance_miles": 42.2,
-    "num_counties": 3,
+    "catchment_pop": 492275,
+    "catchment_pop_65_plus": 58840,
+    "catchment_pct_65_plus": 0.1195,
+    "max_catchment_radius_miles": 102.1,
+    "avg_catchment_distance_miles": 25.6,
+    "num_counties": 2,
     "hospital_employment": 6873,
     "msa_total_employment": 174904,
     "hospital_emp_share": 0.0268,

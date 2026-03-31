@@ -1,0 +1,418 @@
+{
+  "cbsa_code": "40140",
+  "cbsa_name": "Riverside-San Bernardino-Ontario, CA",
+  "mdi": 0.388,
+  "bbox": [
+    -119.2,
+    32.32,
+    -113.08,
+    36.08
+  ],
+  "hospitals": [
+    {
+      "facility_id": "050327",
+      "name": "LOMA LINDA UNIVERSITY MEDICAL CENTER",
+      "beds": 533,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.0508,
+      "lon": -117.2502,
+      "govt_payer_share": 0.219,
+      "medicare_discharges": 4352
+    },
+    {
+      "facility_id": "050022",
+      "name": "RIVERSIDE COMMUNITY HOSPITAL",
+      "beds": 517,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.9763,
+      "lon": -117.3784,
+      "govt_payer_share": 0.272,
+      "medicare_discharges": 3879
+    },
+    {
+      "facility_id": "050245",
+      "name": "ARROWHEAD REGIONAL MEDICAL CENTER",
+      "beds": 456,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 34.0755,
+      "lon": -117.3528,
+      "govt_payer_share": 0.211,
+      "medicare_discharges": 1490
+    },
+    {
+      "facility_id": "050292",
+      "name": "RIVERSIDE UNIVERSITY HEALTH SYSTEM-MEDICAL CENTER",
+      "beds": 439,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Local",
+      "lat": 33.9102,
+      "lon": -117.1958,
+      "govt_payer_share": 0.237,
+      "medicare_discharges": 2310
+    },
+    {
+      "facility_id": "050140",
+      "name": "KAISER FOUNDATION HOSPITAL FONTANA/ONTARIO",
+      "beds": 438,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.0728,
+      "lon": -117.4356,
+      "govt_payer_share": 0.121,
+      "medicare_discharges": 828
+    },
+    {
+      "facility_id": "050390",
+      "name": "HEMET GLOBAL MEDICAL CENTER",
+      "beds": 433,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.7512,
+      "lon": -116.9605,
+      "govt_payer_share": 0.275,
+      "medicare_discharges": 1427
+    },
+    {
+      "facility_id": "050243",
+      "name": "DESERT REGIONAL MEDICAL CENTER",
+      "beds": 385,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.8384,
+      "lon": -116.5455,
+      "govt_payer_share": 0.294,
+      "medicare_discharges": 2805
+    },
+    {
+      "facility_id": "050099",
+      "name": "SAN ANTONIO REGIONAL HOSPITAL",
+      "beds": 363,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 34.1003,
+      "lon": -117.6388,
+      "govt_payer_share": 0.263,
+      "medicare_discharges": 3153
+    },
+    {
+      "facility_id": "050089",
+      "name": "COMMUNITY HOSPITAL OF SAN BERNARDINO",
+      "beds": 347,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.1313,
+      "lon": -117.3225,
+      "govt_payer_share": 0.243,
+      "medicare_discharges": 407
+    },
+    {
+      "facility_id": "050778",
+      "name": "LOMA LINDA UNIVERSITY CHILDREN'S HOSPITAL",
+      "beds": 343,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Church",
+      "lat": 34.0508,
+      "lon": -117.2502,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 17
+    },
+    {
+      "facility_id": "050129",
+      "name": "ST BERNARDINE MEDICAL CENTER",
+      "beds": 291,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.135,
+      "lon": -117.2787,
+      "govt_payer_share": 0.247,
+      "medicare_discharges": 1933
+    },
+    {
+      "facility_id": "050573",
+      "name": "EISENHOWER MEDICAL CENTER",
+      "beds": 289,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.7686,
+      "lon": -116.4081,
+      "govt_payer_share": 0.403,
+      "medicare_discharges": 8148
+    },
+    {
+      "facility_id": "050329",
+      "name": "CORONA REGIONAL MEDICAL CENTER",
+      "beds": 240,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.8728,
+      "lon": -117.5669,
+      "govt_payer_share": 0.237,
+      "medicare_discharges": 1385
+    },
+    {
+      "facility_id": "050701",
+      "name": "SOUTHWEST HEALTHCARE RANCHO SPRINGS HOSPITAL",
+      "beds": 240,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.5579,
+      "lon": -117.1844,
+      "govt_payer_share": 0.178,
+      "medicare_discharges": 2024
+    },
+    {
+      "facility_id": "050272",
+      "name": "REDLANDS COMMUNITY HOSPITAL",
+      "beds": 229,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.0431,
+      "lon": -117.2112,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 1310
+    },
+    {
+      "facility_id": "050686",
+      "name": "KAISER FOUNDATION HOSPITAL, RIVERSIDE",
+      "beds": 226,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.9069,
+      "lon": -117.47,
+      "govt_payer_share": 0.137,
+      "medicare_discharges": 277
+    },
+    {
+      "facility_id": "050300",
+      "name": "PROVIDENCE ST MARY MEDICAL CENTER",
+      "beds": 212,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.5419,
+      "lon": -117.2656,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 2070
+    },
+    {
+      "facility_id": "050102",
+      "name": "PARKVIEW COMMUNITY HOSPITAL MEDICAL CENTER",
+      "beds": 193,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.9258,
+      "lon": -117.44,
+      "govt_payer_share": 0.426,
+      "medicare_discharges": 1427
+    },
+    {
+      "facility_id": "050534",
+      "name": "JOHN F KENNEDY MEMORIAL HOSPITAL",
+      "beds": 156,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.7059,
+      "lon": -116.234,
+      "govt_payer_share": 0.237,
+      "medicare_discharges": 791
+    },
+    {
+      "facility_id": "050709",
+      "name": "DESERT VALLEY HOSPITAL",
+      "beds": 148,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.471,
+      "lon": -117.2959,
+      "govt_payer_share": 0.32,
+      "medicare_discharges": 1775
+    },
+    {
+      "facility_id": "050775",
+      "name": "TEMECULA VALLEY HOSPITAL",
+      "beds": 140,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.5109,
+      "lon": -117.0215,
+      "govt_payer_share": 0.282,
+      "medicare_discharges": 2076
+    },
+    {
+      "facility_id": "050586",
+      "name": "CHINO VALLEY MEDICAL CENTER",
+      "beds": 112,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.0051,
+      "lon": -117.6825,
+      "govt_payer_share": 0.326,
+      "medicare_discharges": 705
+    },
+    {
+      "facility_id": "050758",
+      "name": "MONTCLAIR HOSPITAL MEDICAL CENTER",
+      "beds": 106,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.0721,
+      "lon": -117.6983,
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 518
+    },
+    {
+      "facility_id": "050770",
+      "name": "LOMA LINDA UNIVERSITY MEDICAL CENTER-MURRIETA",
+      "beds": 106,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 33.6136,
+      "lon": -117.1699,
+      "govt_payer_share": 0.239,
+      "medicare_discharges": 2115
+    },
+    {
+      "facility_id": "050517",
+      "name": "VICTOR VALLEY GLOBAL MEDICAL CENTER",
+      "beds": 101,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.5282,
+      "lon": -117.2926,
+      "govt_payer_share": 0.263,
+      "medicare_discharges": 638
+    },
+    {
+      "facility_id": "050765",
+      "name": "KAISER FOUNDATION HOSPITAL-MORENO VALLEY",
+      "beds": 101,
+      "type": "Acute Care Hospitals",
+      "ownership": "Voluntary non-profit - Other",
+      "lat": 33.8955,
+      "lon": -117.1911,
+      "govt_payer_share": 0.107,
+      "medicare_discharges": 145
+    },
+    {
+      "facility_id": "050684",
+      "name": "MENIFEE GLOBAL MEDICAL CENTER",
+      "beds": 84,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 33.7422,
+      "lon": -117.1672,
+      "govt_payer_share": 0.67,
+      "medicare_discharges": 332
+    },
+    {
+      "facility_id": "050054",
+      "name": "SAN GORGONIO MEMORIAL HOSPITAL",
+      "beds": 79,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.9325,
+      "lon": -116.9468,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 398
+    },
+    {
+      "facility_id": "050279",
+      "name": "HI-DESERT MEDICAL CENTER",
+      "beds": 59,
+      "type": "Acute Care Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 34.1311,
+      "lon": -116.2766,
+      "govt_payer_share": 0.268,
+      "medicare_discharges": 378
+    },
+    {
+      "facility_id": "050298",
+      "name": "BARSTOW COMMUNITY HOSPITAL",
+      "beds": 56,
+      "type": "Acute Care Hospitals",
+      "ownership": "Proprietary",
+      "lat": 34.8932,
+      "lon": -117.0175,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 301
+    },
+    {
+      "facility_id": "051339",
+      "name": "PALO VERDE HOSPITAL",
+      "beds": 51,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 33.7173,
+      "lon": -114.6601,
+      "govt_payer_share": 0.68,
+      "medicare_discharges": 0
+    },
+    {
+      "facility_id": "051335",
+      "name": "BEAR VALLEY COMMUNITY HOSPITAL",
+      "beds": 30,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 34.2171,
+      "lon": -116.9416,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 27
+    },
+    {
+      "facility_id": "051323",
+      "name": "COLORADO RIVER MEDICAL CENTER",
+      "beds": 25,
+      "type": "Critical Access Hospitals",
+      "ownership": "Voluntary non-profit - Private",
+      "lat": 34.7111,
+      "lon": -114.582,
+      "govt_payer_share": 0.327,
+      "medicare_discharges": 80
+    },
+    {
+      "facility_id": "051312",
+      "name": "MOUNTAINS COMMUNITY HOSPITAL",
+      "beds": 17,
+      "type": "Critical Access Hospitals",
+      "ownership": "Government - Hospital District or Authority",
+      "lat": 34.2677,
+      "lon": -117.1867,
+      "govt_payer_share": NaN,
+      "medicare_discharges": 60
+    }
+  ],
+  "catchment_counties": [
+    {
+      "county_fips": "06065",
+      "county_name": "Riverside",
+      "state": "CA",
+      "pop_total": 2429487,
+      "pop_65_plus": 359162,
+      "distance_to_hub_miles": 69.8
+    },
+    {
+      "county_fips": "06071",
+      "county_name": "San Bernardino",
+      "state": "CA",
+      "pop_total": 2180563,
+      "pop_65_plus": 259927,
+      "distance_to_hub_miles": 81.9
+    }
+  ],
+  "summary": {
+    "total_beds": 7545,
+    "catchment_pop": 4610050,
+    "catchment_pop_65_plus": 619089,
+    "catchment_pct_65_plus": 0.1343,
+    "max_catchment_radius_miles": 81.9,
+    "avg_catchment_distance_miles": 75.5,
+    "num_counties": 2,
+    "hospital_employment": 62741,
+    "msa_total_employment": 1659428,
+    "hospital_emp_share": 0.0261,
+    "avg_govt_payer_share": 0.3018
+  }
+}
