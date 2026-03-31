@@ -40,19 +40,20 @@ export default function App() {
 
       {/* Main content */}
       <div className="flex flex-1 overflow-hidden">
-        {/* Left sidebar */}
+        {/* Left sidebar — show either ranking table OR hub detail, not both */}
         <div className="w-[400px] flex-shrink-0 bg-sidebar text-white flex flex-col overflow-hidden">
-          <HubRankingTable
-            rankings={rankings}
-            loading={loading}
-            selectedHub={selectedHub}
-            onSelect={selectHub}
-          />
-          {selectedHub && (
+          {selectedHub ? (
             <HubDetailPanel
               hubDetail={hubDetail}
               loading={hubDetailLoading}
               onClose={deselectHub}
+            />
+          ) : (
+            <HubRankingTable
+              rankings={rankings}
+              loading={loading}
+              selectedHub={selectedHub}
+              onSelect={selectHub}
             />
           )}
         </div>
