@@ -99,81 +99,91 @@ def compute_msa_metrics(hosp, employment, population):
     cbsa_hospitals['hub_lat'] = cbsa_hospitals['cbsa_code'].map(largest_lat)
     cbsa_hospitals['hub_lon'] = cbsa_hospitals['cbsa_code'].map(largest_lon)
 
-    # Aggregate employment by CBSA
+    # Aggregate employment by CBSA — use cost report FTEs as PRIMARY source
+    # (bypasses BLS suppression entirely), fall back to BLS where cost report is missing
+    fte_by_cbsa = hosp_with_cbsa.groupby('cbsa_code').agg(
+        fte_from_cost_reports=('fte_employees', 'sum'),
+        fte_count=('fte_employees', lambda x: x.notna().sum()),
+        hospital_count=('facility_id', 'nunique'),
+    ).reset_index()
+
+    # Also get cost-report-based payroll
+    salary_by_cbsa = hosp_with_cbsa.groupby('cbsa_code')['total_salaries'].sum().to_dict()
+
     emp_by_cbsa = employment.groupby('cbsa_code').agg(
         total_employment=('total_employment', 'sum'),
-        hospital_employment=('hospital_employment', 'sum'),
+        hospital_employment_bls=('hospital_employment', 'sum'),
         healthcare_employment=('healthcare_employment', 'sum'),
     ).reset_index()
 
-    # Handle suppressed hospital employment data
-    # Strategy: use bed count × FTE ratio for CBSAs where NAICS 622 is suppressed
-    # but the hospital clearly exists (we know beds from POS data)
+    emp_by_cbsa = emp_by_cbsa.merge(fte_by_cbsa, on='cbsa_code', how='left')
     beds_by_cbsa = hosp_with_cbsa.groupby('cbsa_code')['beds'].sum().to_dict()
 
-    # Compute national hospital-to-healthcare ratio from non-suppressed data
-    valid = emp_by_cbsa[(emp_by_cbsa['hospital_employment'] > 0) & (emp_by_cbsa['healthcare_employment'] > 0)]
-    national_hosp_to_hc_ratio = (valid['hospital_employment'].sum() / valid['healthcare_employment'].sum()) if len(valid) > 0 else 0.35
-
+    # Choose best hospital employment source per CBSA
+    cr_used = 0
+    bls_used = 0
     estimated_count = 0
     for idx in emp_by_cbsa.index:
         cbsa = emp_by_cbsa.at[idx, 'cbsa_code']
-        hosp_emp = emp_by_cbsa.at[idx, 'hospital_employment']
-        hc_emp = emp_by_cbsa.at[idx, 'healthcare_employment']
+        fte_cr = emp_by_cbsa.at[idx, 'fte_from_cost_reports']
+        fte_count = emp_by_cbsa.at[idx, 'fte_count']
+        hosp_count = emp_by_cbsa.at[idx, 'hospital_count']
+        bls_emp = emp_by_cbsa.at[idx, 'hospital_employment_bls']
         beds = beds_by_cbsa.get(cbsa, 0)
 
-        if pd.isna(hosp_emp) or hosp_emp < beds * 2:  # Likely suppressed if far below beds×2
-            # Method 1: Estimate from beds (most reliable for hospital-dominant towns)
-            # Scale FTE ratio with hospital size: larger systems have more support staff
-            if beds > 0:
-                fte_ratio = BEDS_TO_FTE + min(beds / 500, 3.0)  # 5.0 base + up to 3.0 bonus
-                bed_estimate = beds * fte_ratio
-            else:
-                bed_estimate = 0
+        # Prefer cost report FTE if we have it for most hospitals in the CBSA
+        if pd.notna(fte_cr) and fte_cr > 0 and fte_count >= hosp_count * 0.5:
+            emp_by_cbsa.at[idx, 'hospital_employment'] = fte_cr
+            cr_used += 1
+        elif pd.notna(bls_emp) and bls_emp > beds * 2:
+            # BLS data looks reasonable (not suppressed)
+            emp_by_cbsa.at[idx, 'hospital_employment'] = bls_emp
+            bls_used += 1
+        else:
+            # Both suppressed/missing — estimate from beds
+            emp_by_cbsa.at[idx, 'hospital_employment'] = beds * BEDS_TO_FTE
+            estimated_count += 1
 
-            # Method 2: Estimate from healthcare total
-            hc_estimate = hc_emp * national_hosp_to_hc_ratio if pd.notna(hc_emp) and hc_emp > 0 else 0
-
-            # Use the larger estimate (suppression tends to cause undercounting)
-            estimated = max(bed_estimate, hc_estimate)
-
-            current = hosp_emp if pd.notna(hosp_emp) else 0
-            if estimated > current * 1.5:
-                emp_by_cbsa.at[idx, 'hospital_employment'] = estimated
-                estimated_count += 1
-
-    print(f'Estimated hospital employment for {estimated_count} CBSAs (suppression recovery)')
+    print(f'Hospital employment source: {cr_used} cost report FTE, {bls_used} BLS, {estimated_count} bed-estimated')
 
     emp_by_cbsa['hospital_emp_share'] = (
         emp_by_cbsa['hospital_employment'] / emp_by_cbsa['total_employment'].clip(lower=1)
     )
 
     # Compute payroll share at CBSA level
-    # Use the ESTIMATED hospital employment (after suppression recovery) for payroll
-    # County-level wage data is still valid even when employment is suppressed
+    # Use cost report total_salaries where available; fall back to BLS wage × employment
     emp_with_payroll = employment[['cbsa_code', 'hospital_avg_weekly_wage',
                                    'total_employment', 'total_avg_weekly_wage']].dropna(
         subset=['cbsa_code', 'total_employment']
     )
     payroll_by_cbsa = emp_with_payroll.groupby('cbsa_code').agg(
-        total_payroll_raw=('total_employment', lambda x: (x * emp_with_payroll.loc[x.index, 'total_avg_weekly_wage'].fillna(0)).sum()),
         avg_hospital_wage=('hospital_avg_weekly_wage', 'mean'),
         avg_total_wage=('total_avg_weekly_wage', 'mean'),
     ).reset_index()
 
-    # Compute payroll share using estimated hospital employment and avg hospital wage
-    # For CBSAs where wage data is missing, use national average hospital wage
-    nat_hosp_wage = payroll_by_cbsa['avg_hospital_wage'].dropna().median()
-
     payroll_by_cbsa = payroll_by_cbsa.merge(
         emp_by_cbsa[['cbsa_code', 'hospital_employment', 'total_employment']],
-        on='cbsa_code', how='left', suffixes=('_raw', '')
+        on='cbsa_code', how='left'
     )
-    hosp_wage = payroll_by_cbsa['avg_hospital_wage'].fillna(nat_hosp_wage)
+
+    nat_hosp_wage = payroll_by_cbsa['avg_hospital_wage'].dropna().median()
+
+    # Hospital payroll: prefer cost report salaries, else employment × wage
+    for idx in payroll_by_cbsa.index:
+        cbsa = payroll_by_cbsa.at[idx, 'cbsa_code']
+        cr_salary = salary_by_cbsa.get(cbsa, 0)
+        if pd.notna(cr_salary) and cr_salary > 0:
+            payroll_by_cbsa.at[idx, 'hospital_payroll'] = cr_salary
+        else:
+            emp = payroll_by_cbsa.at[idx, 'hospital_employment'] or 0
+            wage = payroll_by_cbsa.at[idx, 'avg_hospital_wage']
+            wage = wage if pd.notna(wage) else nat_hosp_wage
+            payroll_by_cbsa.at[idx, 'hospital_payroll'] = emp * wage * 52
+
     total_wage = payroll_by_cbsa['avg_total_wage'].fillna(payroll_by_cbsa['avg_total_wage'].median())
+    total_payroll = payroll_by_cbsa['total_employment'].fillna(0) * total_wage * 52
     payroll_by_cbsa['hospital_payroll_share'] = (
-        (payroll_by_cbsa['hospital_employment'] * hosp_wage) /
-        (payroll_by_cbsa['total_employment'] * total_wage).clip(lower=1)
+        payroll_by_cbsa['hospital_payroll'] / total_payroll.clip(lower=1)
     )
 
     # Aggregate population by CBSA

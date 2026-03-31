@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28420",
   "cbsa_name": "Kennewick-Richland, WA",
-  "mdi": 0.5194,
+  "mdi": 0.5032,
   "bbox": [
     -121.26,
     45.18,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.2805,
       "lon": -119.2816,
-      "govt_payer_share": 0.95,
-      "medicare_discharges": 5608
+      "govt_payer_share": 0.392,
+      "medicare_discharges": 5405
     },
     {
       "facility_id": "500053",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 46.1763,
       "lon": -119.1915,
-      "govt_payer_share": 0.542,
-      "medicare_discharges": 1492
+      "govt_payer_share": 0.32,
+      "medicare_discharges": 1453
     },
     {
       "facility_id": "501337",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 46.3778,
       "lon": -118.9517,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.407,
+      "medicare_discharges": 417
     },
     {
       "facility_id": "501312",
@@ -50,8 +50,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 46.209,
       "lon": -119.7634,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 297
     }
   ],
   "catchment_counties": [
@@ -82,7 +82,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 134593,
-    "hospital_emp_share": 0.0342,
-    "avg_govt_payer_share": 0.7839
+    "hospital_emp_share": 0.0336,
+    "avg_govt_payer_share": 0.3728
   }
 }

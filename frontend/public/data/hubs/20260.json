@@ -1,12 +1,12 @@
 {
   "cbsa_code": "20260",
   "cbsa_name": "Duluth, MN-WI",
-  "mdi": 0.8085,
+  "mdi": 0.8656,
   "bbox": [
-    -95.15,
-    44.68,
-    -89.54,
-    49.76
+    -94.84,
+    44.92,
+    -89.84,
+    49.52
   ],
   "hospitals": [
     {
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.7997,
       "lon": -92.0924,
-      "govt_payer_share": 0.499,
-      "medicare_discharges": 5488
+      "govt_payer_share": 0.411,
+      "medicare_discharges": 5454
     },
     {
       "facility_id": "240047",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.7963,
       "lon": -92.0881,
-      "govt_payer_share": 0.441,
-      "medicare_discharges": 3665
+      "govt_payer_share": 0.586,
+      "medicare_discharges": 3584
     },
     {
       "facility_id": "240040",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 47.4111,
       "lon": -92.9319,
-      "govt_payer_share": 0.257,
-      "medicare_discharges": 507
+      "govt_payer_share": 0.342,
+      "medicare_discharges": 502
     },
     {
       "facility_id": "240019",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.7931,
       "lon": -92.0939,
-      "govt_payer_share": 0.333,
-      "medicare_discharges": 718
+      "govt_payer_share": 0.39,
+      "medicare_discharges": 620
     },
     {
       "facility_id": "240084",
@@ -61,8 +61,8 @@
       "ownership": "Government - Local",
       "lat": 47.5307,
       "lon": -92.55,
-      "govt_payer_share": 0.287,
-      "medicare_discharges": 555
+      "govt_payer_share": 0.451,
+      "medicare_discharges": 572
     },
     {
       "facility_id": "241364",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.751,
       "lon": -92.5334,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.53,
+      "medicare_discharges": 269
     },
     {
       "facility_id": "241350",
@@ -83,8 +83,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 46.4412,
       "lon": -92.7747,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.444,
+      "medicare_discharges": 169
     },
     {
       "facility_id": "241318",
@@ -94,8 +94,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.9969,
       "lon": -91.754,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 80
     },
     {
       "facility_id": "241340",
@@ -105,8 +105,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.4707,
       "lon": -92.2673,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.657,
+      "medicare_discharges": 111
     },
     {
       "facility_id": "521329",
@@ -116,8 +116,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.5909,
       "lon": -92.1283,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.679,
+      "medicare_discharges": 191
     },
     {
       "facility_id": "241312",
@@ -127,8 +127,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 47.8405,
       "lon": -92.8572,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.513,
+      "medicare_discharges": 55
     }
   ],
   "catchment_counties": [
@@ -181,14 +181,6 @@
       "distance_to_hub_miles": 82.9
     },
     {
-      "county_fips": "26053",
-      "county_name": "Gogebic",
-      "state": "MI",
-      "pop_total": 14597,
-      "pop_65_plus": 4047,
-      "distance_to_hub_miles": 121.8
-    },
-    {
       "county_fips": "27075",
       "county_name": "Lake",
       "state": "MN",
@@ -215,15 +207,15 @@
   ],
   "summary": {
     "total_beds": 1197,
-    "catchment_pop": 379180,
-    "catchment_pop_65_plus": 80498,
-    "catchment_pct_65_plus": 0.2123,
-    "max_catchment_radius_miles": 121.8,
-    "avg_catchment_distance_miles": 51.6,
-    "num_counties": 10,
+    "catchment_pop": 364583,
+    "catchment_pop_65_plus": 76451,
+    "catchment_pct_65_plus": 0.2097,
+    "max_catchment_radius_miles": 105.0,
+    "avg_catchment_distance_miles": 48.7,
+    "num_counties": 9,
     "hospital_employment": 10116,
     "msa_total_employment": 123612,
-    "hospital_emp_share": 0.0818,
-    "avg_govt_payer_share": 0.4325
+    "hospital_emp_share": 0.0619,
+    "avg_govt_payer_share": 0.4552
   }
 }

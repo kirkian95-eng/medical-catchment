@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15980",
   "cbsa_name": "Cape Coral-Fort Myers, FL",
-  "mdi": 0.5499,
+  "mdi": 0.5065,
   "bbox": [
     -83.45,
     25.54,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 26.6271,
       "lon": -81.8725,
-      "govt_payer_share": 0.327,
-      "medicare_discharges": 8178
+      "govt_payer_share": 0.408,
+      "medicare_discharges": 7646
     },
     {
       "facility_id": "100220",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 26.535,
       "lon": -81.8258,
-      "govt_payer_share": 0.459,
-      "medicare_discharges": 9507
+      "govt_payer_share": 0.392,
+      "medicare_discharges": 8802
     },
     {
       "facility_id": "100244",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 26.6313,
       "lon": -81.9481,
-      "govt_payer_share": 0.451,
-      "medicare_discharges": 4610
+      "govt_payer_share": 0.352,
+      "medicare_discharges": 4553
     },
     {
       "facility_id": "100107",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 26.618,
       "lon": -81.5592,
-      "govt_payer_share": 0.291,
-      "medicare_discharges": 423
+      "govt_payer_share": 0.193,
+      "medicare_discharges": 411
     }
   ],
   "catchment_counties": [
@@ -82,7 +82,7 @@
     "num_counties": 2,
     "hospital_employment": 16475,
     "msa_total_employment": 293572,
-    "hospital_emp_share": 0.0561,
-    "avg_govt_payer_share": 0.3926
+    "hospital_emp_share": 0.0391,
+    "avg_govt_payer_share": 0.3875
   }
 }

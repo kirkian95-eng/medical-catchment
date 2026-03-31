@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20780",
   "cbsa_name": "Edwards, CO",
-  "mdi": 0.1621,
+  "mdi": 0.3383,
   "bbox": [
     -107.88,
     38.64,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 39.6426,
       "lon": -106.3795,
-      "govt_payer_share": 0.211,
-      "medicare_discharges": 447
+      "govt_payer_share": 0.38,
+      "medicare_discharges": 436
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 34875,
-    "hospital_emp_share": 0.0251,
-    "avg_govt_payer_share": 0.2105
+    "hospital_emp_share": 0.018,
+    "avg_govt_payer_share": 0.3803
   }
 }

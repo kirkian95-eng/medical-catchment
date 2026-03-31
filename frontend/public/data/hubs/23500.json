@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23500",
   "cbsa_name": "Gaffney, SC",
-  "mdi": 0.2695,
+  "mdi": 0.239,
   "bbox": [
     -83.09,
     33.97,
@@ -17,19 +17,11 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.9723,
       "lon": -81.5859,
-      "govt_payer_share": 0.19,
-      "medicare_discharges": 324
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 305
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "45091",
-      "county_name": "York",
-      "state": "SC",
-      "pop_total": 282987,
-      "pop_65_plus": 41680,
-      "distance_to_hub_miles": 22.7
-    },
     {
       "county_fips": "45021",
       "county_name": "Cherokee",
@@ -41,15 +33,15 @@
   ],
   "summary": {
     "total_beds": 125,
-    "catchment_pop": 339187,
-    "catchment_pop_65_plus": 51175,
-    "catchment_pct_65_plus": 0.1509,
-    "max_catchment_radius_miles": 22.7,
-    "avg_catchment_distance_miles": 19.9,
-    "num_counties": 2,
+    "catchment_pop": 56200,
+    "catchment_pop_65_plus": 9495,
+    "catchment_pct_65_plus": 0.169,
+    "max_catchment_radius_miles": 5.6,
+    "avg_catchment_distance_miles": 5.6,
+    "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 18952,
-    "hospital_emp_share": 0.0346,
-    "avg_govt_payer_share": 0.1898
+    "hospital_emp_share": 0.0104,
+    "avg_govt_payer_share": 0.2697
   }
 }

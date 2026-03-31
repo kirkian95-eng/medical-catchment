@@ -1,7 +1,7 @@
 {
   "cbsa_code": "12940",
   "cbsa_name": "Baton Rouge, LA",
-  "mdi": 0.5019,
+  "mdi": 0.2262,
   "bbox": [
     -92.98,
     29.11,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.86,
       "lon": -90.7491,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 8
     },
     {
       "facility_id": "191306",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.8583,
       "lon": -91.369,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.293,
+      "medicare_discharges": 5
     },
     {
       "facility_id": "191308",
@@ -39,7 +39,7 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.1061,
       "lon": -91.018,
-      "govt_payer_share": 0.68,
+      "govt_payer_share": NaN,
       "medicare_discharges": 0
     },
     {
@@ -50,8 +50,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.6997,
       "lon": -91.4827,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.327,
+      "medicare_discharges": 29
     }
   ],
   "catchment_counties": [
@@ -98,7 +98,7 @@
     "num_counties": 4,
     "hospital_employment": 200,
     "msa_total_employment": 61417,
-    "hospital_emp_share": 0.032,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0013,
+    "avg_govt_payer_share": 0.4577
   }
 }

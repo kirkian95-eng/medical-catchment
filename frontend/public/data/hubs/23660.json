@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23660",
   "cbsa_name": "Galesburg, IL",
-  "mdi": 0.5713,
+  "mdi": 0.4816,
   "bbox": [
     -91.86,
     39.99,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 40.989,
       "lon": -90.3636,
-      "govt_payer_share": 0.289,
-      "medicare_discharges": 1420
+      "govt_payer_share": 0.398,
+      "medicare_discharges": 1416
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 16611,
-    "hospital_emp_share": 0.0602,
-    "avg_govt_payer_share": 0.2893
+    "hospital_emp_share": 0.0283,
+    "avg_govt_payer_share": 0.3984
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22700",
   "cbsa_name": "Fort Dodge, IA",
-  "mdi": 0.4543,
+  "mdi": 0.4643,
   "bbox": [
     -95.69,
     41.49,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.4941,
       "lon": -94.1891,
-      "govt_payer_share": 0.278,
-      "medicare_discharges": 1196
+      "govt_payer_share": 0.383,
+      "medicare_discharges": 1167
     }
   ],
   "catchment_counties": [
@@ -113,7 +113,7 @@
     "num_counties": 10,
     "hospital_employment": 0,
     "msa_total_employment": 17504,
-    "hospital_emp_share": 0.0532,
-    "avg_govt_payer_share": 0.2775
+    "hospital_emp_share": 0.0297,
+    "avg_govt_payer_share": 0.3829
   }
 }

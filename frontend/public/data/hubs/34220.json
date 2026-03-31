@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34220",
   "cbsa_name": "Moultrie, GA",
-  "mdi": 0.8562,
+  "mdi": 0.8981,
   "bbox": [
     -85.28,
     30.11,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 31.1253,
       "lon": -83.7832,
-      "govt_payer_share": 0.414,
-      "medicare_discharges": 1252
+      "govt_payer_share": 0.299,
+      "medicare_discharges": 1237
     },
     {
       "facility_id": "110209",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 31.1115,
       "lon": -83.6839,
-      "govt_payer_share": 0.472,
-      "medicare_discharges": 778
+      "govt_payer_share": 0.592,
+      "medicare_discharges": 780
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 1518,
     "msa_total_employment": 15480,
-    "hospital_emp_share": 0.0981,
-    "avg_govt_payer_share": 0.438
+    "hospital_emp_share": 0.0931,
+    "avg_govt_payer_share": 0.4193
   }
 }

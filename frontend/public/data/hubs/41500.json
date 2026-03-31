@@ -1,7 +1,7 @@
 {
   "cbsa_code": "41500",
   "cbsa_name": "Salinas, CA",
-  "mdi": 0.2936,
+  "mdi": 0.5061,
   "bbox": [
     -123.41,
     35.2,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.5786,
       "lon": -121.9149,
-      "govt_payer_share": 0.589,
-      "medicare_discharges": 5757
+      "govt_payer_share": 0.519,
+      "medicare_discharges": 5689
     },
     {
       "facility_id": "050334",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 36.6602,
       "lon": -121.6478,
-      "govt_payer_share": 0.479,
-      "medicare_discharges": 4110
+      "govt_payer_share": 0.442,
+      "medicare_discharges": 4000
     },
     {
       "facility_id": "050248",
@@ -39,8 +39,8 @@
       "ownership": "Government - Local",
       "lat": 36.6953,
       "lon": -121.6315,
-      "govt_payer_share": 0.398,
-      "medicare_discharges": 1384
+      "govt_payer_share": 0.275,
+      "medicare_discharges": 1373
     },
     {
       "facility_id": "051336",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 36.1998,
       "lon": -121.0823,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.602,
+      "medicare_discharges": 102
     }
   ],
   "catchment_counties": [
@@ -82,7 +82,7 @@
     "num_counties": 2,
     "hospital_employment": 3130,
     "msa_total_employment": 196972,
-    "hospital_emp_share": 0.0159,
-    "avg_govt_payer_share": 0.5092
+    "hospital_emp_share": 0.0267,
+    "avg_govt_payer_share": 0.4385
   }
 }

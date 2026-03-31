@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19940",
   "cbsa_name": "Dixon, IL",
-  "mdi": 0.3116,
+  "mdi": 0.6581,
   "bbox": [
     -90.98,
     40.84,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.8443,
       "lon": -89.4803,
-      "govt_payer_share": 0.341,
-      "medicare_discharges": 813
+      "govt_payer_share": 0.282,
+      "medicare_discharges": 769
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 12691,
-    "hospital_emp_share": 0.0325,
-    "avg_govt_payer_share": 0.3405
+    "hospital_emp_share": 0.0564,
+    "avg_govt_payer_share": 0.2824
   }
 }

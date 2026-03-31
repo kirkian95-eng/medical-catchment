@@ -1,7 +1,7 @@
 {
   "cbsa_code": "32280",
   "cbsa_name": "Martin, TN",
-  "mdi": 0.1576,
+  "mdi": 0.4348,
   "bbox": [
     -90.37,
     35.34,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 36.336,
       "lon": -88.8668,
-      "govt_payer_share": 0.211,
-      "medicare_discharges": 243
+      "govt_payer_share": NaN,
+      "medicare_discharges": 231
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 233,
     "msa_total_employment": 10800,
-    "hospital_emp_share": 0.0216,
-    "avg_govt_payer_share": 0.2107
+    "hospital_emp_share": 0.0134,
+    "avg_govt_payer_share": 0.6
   }
 }

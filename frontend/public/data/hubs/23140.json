@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23140",
   "cbsa_name": "Frankfort, IN",
-  "mdi": 0.3977,
+  "mdi": 0.3062,
   "bbox": [
     -87.99,
     39.3,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.295,
       "lon": -86.4939,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.489,
+      "medicare_discharges": 96
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 11501,
-    "hospital_emp_share": 0.0184,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0086,
+    "avg_govt_payer_share": 0.4894
   }
 }

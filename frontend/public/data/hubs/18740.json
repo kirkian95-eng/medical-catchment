@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18740",
   "cbsa_name": "Coshocton, OH",
-  "mdi": 0.7221,
+  "mdi": 0.3818,
   "bbox": [
     -83.38,
     39.26,
@@ -17,7 +17,7 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.2638,
       "lon": -81.8809,
-      "govt_payer_share": 0.212,
+      "govt_payer_share": 0.347,
       "medicare_discharges": 337
     }
   ],
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 9786,
-    "hospital_emp_share": 0.0899,
-    "avg_govt_payer_share": 0.2122
+    "hospital_emp_share": 0.0248,
+    "avg_govt_payer_share": 0.3471
   }
 }

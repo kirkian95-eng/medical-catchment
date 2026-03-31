@@ -1,7 +1,7 @@
 {
   "cbsa_code": "10500",
   "cbsa_name": "Albany, GA",
-  "mdi": 0.6478,
+  "mdi": 0.4561,
   "bbox": [
     -85.66,
     30.53,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 31.59,
       "lon": -84.1577,
-      "govt_payer_share": 0.268,
-      "medicare_discharges": 2855
+      "govt_payer_share": 0.222,
+      "medicare_discharges": 2588
     },
     {
       "facility_id": "111328",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 31.5289,
       "lon": -83.8943,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.263,
+      "medicare_discharges": 34
     }
   ],
   "catchment_counties": [
@@ -116,7 +116,7 @@
     "num_counties": 9,
     "hospital_employment": 11,
     "msa_total_employment": 48866,
-    "hospital_emp_share": 0.0786,
-    "avg_govt_payer_share": 0.2822
+    "hospital_emp_share": 0.0383,
+    "avg_govt_payer_share": 0.2234
   }
 }

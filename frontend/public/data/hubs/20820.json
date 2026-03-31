@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20820",
   "cbsa_name": "Effingham, IL",
-  "mdi": 0.3507,
+  "mdi": 0.3857,
   "bbox": [
     -90.05,
     38.13,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 39.1262,
       "lon": -88.5493,
-      "govt_payer_share": 0.29,
-      "medicare_discharges": 1410
+      "govt_payer_share": 0.48,
+      "medicare_discharges": 1368
     }
   ],
   "catchment_counties": [
@@ -65,7 +65,7 @@
     "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 23344,
-    "hospital_emp_share": 0.0381,
-    "avg_govt_payer_share": 0.2902
+    "hospital_emp_share": 0.0135,
+    "avg_govt_payer_share": 0.4804
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22260",
   "cbsa_name": "Fergus Falls, MN",
-  "mdi": 0.2357,
+  "mdi": 0.5763,
   "bbox": [
     -97.59,
     45.28,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.2767,
       "lon": -96.0919,
-      "govt_payer_share": 0.218,
-      "medicare_discharges": 473
+      "govt_payer_share": 0.387,
+      "medicare_discharges": 490
     },
     {
       "facility_id": "241373",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 46.6102,
       "lon": -95.5422,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.337,
+      "medicare_discharges": 201
     }
   ],
   "catchment_counties": [
@@ -76,7 +76,7 @@
     "num_counties": 4,
     "hospital_employment": 597,
     "msa_total_employment": 22705,
-    "hospital_emp_share": 0.0263,
-    "avg_govt_payer_share": 0.3107
+    "hospital_emp_share": 0.0416,
+    "avg_govt_payer_share": 0.3767
   }
 }

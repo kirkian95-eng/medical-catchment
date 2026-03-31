@@ -1,7 +1,7 @@
 {
   "cbsa_code": "30700",
   "cbsa_name": "Lincoln, NE",
-  "mdi": 0.401,
+  "mdi": 0.4126,
   "bbox": [
     -98.59,
     39.73,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.7959,
       "lon": -96.6536,
-      "govt_payer_share": 0.439,
-      "medicare_discharges": 9478
+      "govt_payer_share": 0.344,
+      "medicare_discharges": 9117
     },
     {
       "facility_id": "280020",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.8088,
       "lon": -96.6253,
-      "govt_payer_share": 0.28,
-      "medicare_discharges": 1584
+      "govt_payer_share": 0.309,
+      "medicare_discharges": 1615
     },
     {
       "facility_id": "280128",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.73,
       "lon": -96.5821,
-      "govt_payer_share": 0.332,
-      "medicare_discharges": 1171
+      "govt_payer_share": 0.507,
+      "medicare_discharges": 1093
     },
     {
       "facility_id": "281339",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.9094,
       "lon": -97.0918,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.769,
+      "medicare_discharges": 241
     },
     {
       "facility_id": "280127",
@@ -61,7 +61,7 @@
       "ownership": "Proprietary",
       "lat": 40.7838,
       "lon": -96.6396,
-      "govt_payer_share": 0.146,
+      "govt_payer_share": 0.482,
       "medicare_discharges": 61
     }
   ],
@@ -173,7 +173,7 @@
     "num_counties": 12,
     "hospital_employment": 7122,
     "msa_total_employment": 179408,
-    "hospital_emp_share": 0.0397,
-    "avg_govt_payer_share": 0.3902
+    "hospital_emp_share": 0.0272,
+    "avg_govt_payer_share": 0.3581
   }
 }

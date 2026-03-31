@@ -1,7 +1,7 @@
 {
   "cbsa_code": "29340",
   "cbsa_name": "Lake Charles, LA",
-  "mdi": 0.3469,
+  "mdi": 0.4072,
   "bbox": [
     -94.89,
     29.18,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.2035,
       "lon": -93.1966,
-      "govt_payer_share": 0.294,
-      "medicare_discharges": 2385
+      "govt_payer_share": 0.303,
+      "medicare_discharges": 2320
     },
     {
       "facility_id": "190027",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.2268,
       "lon": -93.2154,
-      "govt_payer_share": 0.31,
-      "medicare_discharges": 2183
+      "govt_payer_share": 0.33,
+      "medicare_discharges": 2029
     },
     {
       "facility_id": "190013",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.231,
       "lon": -93.3675,
-      "govt_payer_share": 0.242,
-      "medicare_discharges": 534
+      "govt_payer_share": 0.521,
+      "medicare_discharges": 532
     },
     {
       "facility_id": "190201",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.1803,
       "lon": -93.2494,
-      "govt_payer_share": 0.178,
-      "medicare_discharges": 135
+      "govt_payer_share": 0.37,
+      "medicare_discharges": 139
     },
     {
       "facility_id": "191307",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 30.426,
       "lon": -93.3913,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.683,
+      "medicare_discharges": 35
     }
   ],
   "catchment_counties": [
@@ -109,7 +109,7 @@
     "num_counties": 4,
     "hospital_employment": 3950,
     "msa_total_employment": 87757,
-    "hospital_emp_share": 0.0444,
-    "avg_govt_payer_share": 0.2928
+    "hospital_emp_share": 0.03,
+    "avg_govt_payer_share": 0.3575
   }
 }

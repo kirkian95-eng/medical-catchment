@@ -1,7 +1,7 @@
 {
   "cbsa_code": "12540",
   "cbsa_name": "Bakersfield-Delano, CA",
-  "mdi": 0.3304,
+  "mdi": 0.3873,
   "bbox": [
     -120.74,
     34.1,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.3906,
       "lon": -119.0069,
-      "govt_payer_share": 0.352,
-      "medicare_discharges": 3115
+      "govt_payer_share": 0.342,
+      "medicare_discharges": 3094
     },
     {
       "facility_id": "050455",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.3834,
       "lon": -119.0189,
-      "govt_payer_share": 0.417,
-      "medicare_discharges": 2729
+      "govt_payer_share": 0.267,
+      "medicare_discharges": 2696
     },
     {
       "facility_id": "050315",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 35.382,
       "lon": -118.9675,
-      "govt_payer_share": 0.344,
-      "medicare_discharges": 1019
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 935
     },
     {
       "facility_id": "050295",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 35.3733,
       "lon": -119.0276,
-      "govt_payer_share": 0.386,
-      "medicare_discharges": 2063
+      "govt_payer_share": 0.294,
+      "medicare_discharges": 2077
     },
     {
       "facility_id": "050608",
@@ -61,7 +61,7 @@
       "ownership": "Proprietary",
       "lat": 35.7615,
       "lon": -119.2394,
-      "govt_payer_share": 0.301,
+      "govt_payer_share": 0.366,
       "medicare_discharges": 370
     },
     {
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.5824,
       "lon": -117.6836,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 537
     },
     {
       "facility_id": "050257",
@@ -83,8 +83,8 @@
       "ownership": "Proprietary",
       "lat": 35.5475,
       "lon": -118.9469,
-      "govt_payer_share": 0.343,
-      "medicare_discharges": 393
+      "govt_payer_share": NaN,
+      "medicare_discharges": 392
     },
     {
       "facility_id": "051314",
@@ -94,8 +94,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 35.6175,
       "lon": -118.4523,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 94
     },
     {
       "facility_id": "051301",
@@ -105,8 +105,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.0987,
       "lon": -118.5167,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.379,
+      "medicare_discharges": 268
     }
   ],
   "catchment_counties": [
@@ -129,7 +129,7 @@
     "num_counties": 1,
     "hospital_employment": 9980,
     "msa_total_employment": 343323,
-    "hospital_emp_share": 0.0291,
-    "avg_govt_payer_share": 0.3892
+    "hospital_emp_share": 0.023,
+    "avg_govt_payer_share": 0.3499
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14300",
   "cbsa_name": "Bonham, TX",
-  "mdi": 0.9371,
+  "mdi": 0.4216,
   "bbox": [
     -97.67,
     32.57,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 33.5719,
       "lon": -96.171,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 80
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 620,
     "msa_total_employment": 8565,
-    "hospital_emp_share": 0.0724,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0131,
+    "avg_govt_payer_share": 0.6
   }
 }

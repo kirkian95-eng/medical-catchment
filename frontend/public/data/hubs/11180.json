@@ -1,7 +1,7 @@
 {
   "cbsa_code": "11180",
   "cbsa_name": "Ames, IA",
-  "mdi": 0.3281,
+  "mdi": 0.5061,
   "bbox": [
     -95.35,
     41.03,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 42.0322,
       "lon": -93.6107,
-      "govt_payer_share": 0.382,
-      "medicare_discharges": 2826
+      "govt_payer_share": 0.537,
+      "medicare_discharges": 2713
     },
     {
       "facility_id": "161333",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 42.0335,
       "lon": -93.4444,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 48
     },
     {
       "facility_id": "161372",
@@ -39,8 +39,8 @@
       "ownership": "Government - Local",
       "lat": 42.0854,
       "lon": -93.8496,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.494,
+      "medicare_discharges": 101
     }
   ],
   "catchment_counties": [
@@ -87,7 +87,7 @@
     "num_counties": 4,
     "hospital_employment": 8,
     "msa_total_employment": 56564,
-    "hospital_emp_share": 0.0264,
-    "avg_govt_payer_share": 0.4373
+    "hospital_emp_share": 0.0272,
+    "avg_govt_payer_share": 0.5386
   }
 }

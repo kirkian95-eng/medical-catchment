@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48260",
   "cbsa_name": "Weirton-Steubenville, WV-OH",
-  "mdi": 0.7412,
+  "mdi": 0.7358,
   "bbox": [
     -82.12,
     39.36,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 40.356,
       "lon": -80.625,
-      "govt_payer_share": 0.218,
-      "medicare_discharges": 1690
+      "govt_payer_share": 0.36,
+      "medicare_discharges": 1742
     },
     {
       "facility_id": "510023",
@@ -28,35 +28,11 @@
       "ownership": "Government - Local",
       "lat": 40.4214,
       "lon": -80.5577,
-      "govt_payer_share": 0.301,
-      "medicare_discharges": 2164
+      "govt_payer_share": 0.39,
+      "medicare_discharges": 2272
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "42003",
-      "county_name": "Allegheny",
-      "state": "PA",
-      "pop_total": 1245310,
-      "pop_65_plus": 242474,
-      "distance_to_hub_miles": 33.3
-    },
-    {
-      "county_fips": "42125",
-      "county_name": "Washington",
-      "state": "PA",
-      "pop_total": 209631,
-      "pop_65_plus": 44435,
-      "distance_to_hub_miles": 22.8
-    },
-    {
-      "county_fips": "42007",
-      "county_name": "Beaver",
-      "state": "PA",
-      "pop_total": 167629,
-      "pop_65_plus": 36827,
-      "distance_to_hub_miles": 25.0
-    },
     {
       "county_fips": "39081",
       "county_name": "Jefferson",
@@ -84,15 +60,15 @@
   ],
   "summary": {
     "total_beds": 757,
-    "catchment_pop": 1739106,
-    "catchment_pop_65_plus": 350444,
-    "catchment_pct_65_plus": 0.2015,
-    "max_catchment_radius_miles": 33.3,
-    "avg_catchment_distance_miles": 29.6,
-    "num_counties": 6,
+    "catchment_pop": 116536,
+    "catchment_pop_65_plus": 26708,
+    "catchment_pct_65_plus": 0.2292,
+    "max_catchment_radius_miles": 10.1,
+    "avg_catchment_distance_miles": 8.6,
+    "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 29668,
-    "hospital_emp_share": 0.1341,
-    "avg_govt_payer_share": 0.2443
+    "hospital_emp_share": 0.0613,
+    "avg_govt_payer_share": 0.369
   }
 }

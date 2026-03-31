@@ -1,7 +1,7 @@
 {
   "cbsa_code": "47700",
   "cbsa_name": "Warsaw, IN",
-  "mdi": 0.2101,
+  "mdi": 0.2186,
   "bbox": [
     -87.33,
     40.25,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 41.2465,
       "lon": -85.8256,
-      "govt_payer_share": 0.301,
-      "medicare_discharges": 715
+      "govt_payer_share": 0.3,
+      "medicare_discharges": 685
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 37174,
-    "hospital_emp_share": 0.0236,
-    "avg_govt_payer_share": 0.3011
+    "hospital_emp_share": 0.0101,
+    "avg_govt_payer_share": 0.2996
   }
 }

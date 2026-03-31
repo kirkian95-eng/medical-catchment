@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16820",
   "cbsa_name": "Charlottesville, VA",
-  "mdi": 0.5279,
+  "mdi": 0.842,
   "bbox": [
     -80.0,
     37.02,
@@ -17,8 +17,8 @@
       "ownership": "Government - State",
       "lat": 38.032,
       "lon": -78.4986,
-      "govt_payer_share": 0.434,
-      "medicare_discharges": 7491
+      "govt_payer_share": 0.298,
+      "medicare_discharges": 7201
     },
     {
       "facility_id": "490077",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.0249,
       "lon": -78.4449,
-      "govt_payer_share": 0.418,
-      "medicare_discharges": 3061
+      "govt_payer_share": 0.381,
+      "medicare_discharges": 2962
     }
   ],
   "catchment_counties": [
@@ -40,14 +40,6 @@
       "pop_total": 112513,
       "pop_65_plus": 22137,
       "distance_to_hub_miles": 3.9
-    },
-    {
-      "county_fips": "51047",
-      "county_name": "Culpeper",
-      "state": "VA",
-      "pop_total": 52822,
-      "pop_65_plus": 8531,
-      "distance_to_hub_miles": 42.7
     },
     {
       "county_fips": "51540",
@@ -108,15 +100,15 @@
   ],
   "summary": {
     "total_beds": 798,
-    "catchment_pop": 365093,
-    "catchment_pop_65_plus": 67487,
-    "catchment_pct_65_plus": 0.1848,
-    "max_catchment_radius_miles": 42.7,
-    "avg_catchment_distance_miles": 18.3,
-    "num_counties": 9,
+    "catchment_pop": 312271,
+    "catchment_pop_65_plus": 58956,
+    "catchment_pct_65_plus": 0.1888,
+    "max_catchment_radius_miles": 31.8,
+    "avg_catchment_distance_miles": 14.2,
+    "num_counties": 8,
     "hospital_employment": 6027,
     "msa_total_employment": 98687,
-    "hospital_emp_share": 0.054,
-    "avg_govt_payer_share": 0.4301
+    "hospital_emp_share": 0.091,
+    "avg_govt_payer_share": 0.3165
   }
 }

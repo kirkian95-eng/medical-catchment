@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18580",
   "cbsa_name": "Corpus Christi, TX",
-  "mdi": 0.3216,
+  "mdi": 0.225,
   "bbox": [
     -98.89,
     26.75,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 27.7775,
       "lon": -97.3939,
-      "govt_payer_share": 0.243,
-      "medicare_discharges": 3816
+      "govt_payer_share": 0.17,
+      "medicare_discharges": 3421
     },
     {
       "facility_id": "450788",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 27.752,
       "lon": -97.3869,
-      "govt_payer_share": 0.248,
-      "medicare_discharges": 3234
+      "govt_payer_share": 0.145,
+      "medicare_discharges": 3048
     }
   ],
   "catchment_counties": [
@@ -76,7 +76,7 @@
     "num_counties": 4,
     "hospital_employment": 7647,
     "msa_total_employment": 160317,
-    "hospital_emp_share": 0.0402,
-    "avg_govt_payer_share": 0.2453
+    "hospital_emp_share": 0.0196,
+    "avg_govt_payer_share": 0.1602
   }
 }

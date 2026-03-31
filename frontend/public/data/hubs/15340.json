@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15340",
   "cbsa_name": "Bucyrus, OH",
-  "mdi": 0.4177,
+  "mdi": 0.7583,
   "bbox": [
     -84.47,
     39.73,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 40.7312,
       "lon": -82.8032,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.308,
+      "medicare_discharges": 384
     },
     {
       "facility_id": "361316",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 40.8184,
       "lon": -82.9717,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.355,
+      "medicare_discharges": 206
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 12664,
-    "hospital_emp_share": 0.0201,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0588,
+    "avg_govt_payer_share": 0.3219
   }
 }

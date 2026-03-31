@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17380",
   "cbsa_name": "Cleveland, MS",
-  "mdi": 0.7515,
+  "mdi": 0.5272,
   "bbox": [
     -92.21,
     32.75,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 33.7476,
       "lon": -90.7083,
-      "govt_payer_share": 0.267,
-      "medicare_discharges": 740
+      "govt_payer_share": 0.449,
+      "medicare_discharges": 751
     }
   ],
   "catchment_counties": [
@@ -57,7 +57,7 @@
     "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 10623,
-    "hospital_emp_share": 0.0828,
-    "avg_govt_payer_share": 0.2671
+    "hospital_emp_share": 0.0314,
+    "avg_govt_payer_share": 0.449
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16020",
   "cbsa_name": "Cape Girardeau, MO-IL",
-  "mdi": 0.7898,
+  "mdi": 0.7686,
   "bbox": [
     -91.07,
     36.3,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.3019,
       "lon": -89.5722,
-      "govt_payer_share": 0.328,
-      "medicare_discharges": 2816
+      "govt_payer_share": 0.396,
+      "medicare_discharges": 2738
     },
     {
       "facility_id": "260110",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.3117,
       "lon": -89.5432,
-      "govt_payer_share": 0.325,
-      "medicare_discharges": 2146
+      "govt_payer_share": 0.411,
+      "medicare_discharges": 2116
     }
   ],
   "catchment_counties": [
@@ -100,7 +100,7 @@
     "num_counties": 7,
     "hospital_employment": 4174,
     "msa_total_employment": 41576,
-    "hospital_emp_share": 0.0944,
-    "avg_govt_payer_share": 0.3262
+    "hospital_emp_share": 0.0959,
+    "avg_govt_payer_share": 0.4035
   }
 }

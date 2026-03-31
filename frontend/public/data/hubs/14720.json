@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14720",
   "cbsa_name": "Breckenridge, CO",
-  "mdi": 0.1852,
+  "mdi": 0.3104,
   "bbox": [
     -107.79,
     38.24,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 39.5711,
       "lon": -106.0942,
-      "govt_payer_share": 0.19,
-      "medicare_discharges": 194
+      "govt_payer_share": 0.399,
+      "medicare_discharges": 99
     },
     {
       "facility_id": "061319",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 39.2422,
       "lon": -106.2879,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.396,
+      "medicare_discharges": 27
     }
   ],
   "catchment_counties": [
@@ -60,7 +60,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 25296,
-    "hospital_emp_share": 0.0138,
-    "avg_govt_payer_share": 0.394
+    "hospital_emp_share": 0.015,
+    "avg_govt_payer_share": 0.3977
   }
 }

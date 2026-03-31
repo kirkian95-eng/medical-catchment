@@ -1,7 +1,7 @@
 {
   "cbsa_code": "47620",
   "cbsa_name": "Warren, PA",
-  "mdi": 0.4284,
+  "mdi": 0.4293,
   "bbox": [
     -80.65,
     40.84,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.8435,
       "lon": -79.1521,
-      "govt_payer_share": 0.305,
-      "medicare_discharges": 604
+      "govt_payer_share": 0.289,
+      "medicare_discharges": 605
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 13056,
-    "hospital_emp_share": 0.0463,
-    "avg_govt_payer_share": 0.3051
+    "hospital_emp_share": 0.0315,
+    "avg_govt_payer_share": 0.2894
   }
 }

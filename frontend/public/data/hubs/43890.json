@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43890",
   "cbsa_name": "Sparta, WI",
-  "mdi": 0.7499,
+  "mdi": 0.4709,
   "bbox": [
     -92.3,
     42.98,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 43.9901,
       "lon": -90.8032,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.642,
+      "medicare_discharges": 33
     },
     {
       "facility_id": "521320",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.985,
       "lon": -90.5054,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.435,
+      "medicare_discharges": 279
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 1152,
     "msa_total_employment": 21341,
-    "hospital_emp_share": 0.054,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.019,
+    "avg_govt_payer_share": 0.5647
   }
 }

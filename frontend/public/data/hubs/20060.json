@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20060",
   "cbsa_name": "Douglas, GA",
-  "mdi": 0.2229,
+  "mdi": 0.527,
   "bbox": [
     -84.36,
     30.51,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 31.5098,
       "lon": -82.8638,
-      "govt_payer_share": 0.303,
-      "medicare_discharges": 678
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 680
     }
   ],
   "catchment_counties": [
@@ -65,7 +65,7 @@
     "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 2149,
-    "hospital_emp_share": 0.0227,
-    "avg_govt_payer_share": 0.3035
+    "hospital_emp_share": 0.0431,
+    "avg_govt_payer_share": 0.2697
   }
 }

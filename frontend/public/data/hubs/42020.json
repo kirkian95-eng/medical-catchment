@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42020",
   "cbsa_name": "San Luis Obispo-Paso Robles, CA",
-  "mdi": 0.3853,
+  "mdi": 0.3227,
   "bbox": [
     -122.22,
     34.28,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 35.291,
       "lon": -120.6652,
-      "govt_payer_share": 0.321,
-      "medicare_discharges": 1298
+      "govt_payer_share": 0.334,
+      "medicare_discharges": 1265
     },
     {
       "facility_id": "050232",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.2776,
       "lon": -120.6493,
-      "govt_payer_share": 0.48,
-      "medicare_discharges": 2367
+      "govt_payer_share": 0.548,
+      "medicare_discharges": 2354
     },
     {
       "facility_id": "050633",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 35.5545,
       "lon": -120.7199,
-      "govt_payer_share": 0.47,
-      "medicare_discharges": 1530
+      "govt_payer_share": 0.462,
+      "medicare_discharges": 1438
     }
   ],
   "catchment_counties": [
@@ -63,7 +63,7 @@
     "num_counties": 1,
     "hospital_employment": 4211,
     "msa_total_employment": 120452,
-    "hospital_emp_share": 0.035,
-    "avg_govt_payer_share": 0.4092
+    "hospital_emp_share": 0.0115,
+    "avg_govt_payer_share": 0.4339
   }
 }

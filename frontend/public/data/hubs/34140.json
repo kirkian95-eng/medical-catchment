@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34140",
   "cbsa_name": "Moscow, ID",
-  "mdi": 0.5661,
+  "mdi": 0.5409,
   "bbox": [
     -118.44,
     45.72,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.7222,
       "lon": -116.9402,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.418,
+      "medicare_discharges": 349
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 14437,
-    "hospital_emp_share": 0.0359,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0335,
+    "avg_govt_payer_share": 0.4185
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48540",
   "cbsa_name": "Wheeling, WV-OH",
-  "mdi": 0.5,
+  "mdi": 0.6661,
   "bbox": [
     -82.67,
     38.95,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 40.0668,
       "lon": -80.696,
-      "govt_payer_share": 0.366,
-      "medicare_discharges": 3170
+      "govt_payer_share": 0.401,
+      "medicare_discharges": 2924
     },
     {
       "facility_id": "360080",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 40.1203,
       "lon": -80.7398,
-      "govt_payer_share": 0.21,
-      "medicare_discharges": 397
+      "govt_payer_share": 0.258,
+      "medicare_discharges": 389
     },
     {
       "facility_id": "510013",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.9467,
       "lon": -80.7541,
-      "govt_payer_share": 0.258,
-      "medicare_discharges": 836
+      "govt_payer_share": 0.279,
+      "medicare_discharges": 816
     },
     {
       "facility_id": "361321",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.9899,
       "lon": -81.1737,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.39,
+      "medicare_discharges": 114
     }
   ],
   "catchment_counties": [
@@ -114,7 +114,7 @@
     "num_counties": 6,
     "hospital_employment": 754,
     "msa_total_employment": 58399,
-    "hospital_emp_share": 0.0624,
-    "avg_govt_payer_share": 0.3134
+    "hospital_emp_share": 0.0591,
+    "avg_govt_payer_share": 0.3352
   }
 }

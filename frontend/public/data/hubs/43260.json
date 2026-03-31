@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43260",
   "cbsa_name": "Sheridan, WY",
-  "mdi": 0.4884,
+  "mdi": 0.7469,
   "bbox": [
     -108.4,
     43.83,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 44.8325,
       "lon": -106.8963,
-      "govt_payer_share": 0.291,
-      "medicare_discharges": 902
+      "govt_payer_share": 0.638,
+      "medicare_discharges": 865
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 699,
     "msa_total_employment": 14096,
-    "hospital_emp_share": 0.0496,
-    "avg_govt_payer_share": 0.2906
+    "hospital_emp_share": 0.0448,
+    "avg_govt_payer_share": 0.6384
   }
 }

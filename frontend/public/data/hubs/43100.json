@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43100",
   "cbsa_name": "Sheboygan, WI",
-  "mdi": 0.1352,
+  "mdi": 0.2433,
   "bbox": [
     -89.25,
     42.76,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.7728,
       "lon": -87.7112,
-      "govt_payer_share": 0.278,
-      "medicare_discharges": 1349
+      "govt_payer_share": 0.282,
+      "medicare_discharges": 1288
     },
     {
       "facility_id": "520044",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.7612,
       "lon": -87.7484,
-      "govt_payer_share": 0.181,
-      "medicare_discharges": 340
+      "govt_payer_share": 0.257,
+      "medicare_discharges": 317
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 1279,
     "msa_total_employment": 60441,
-    "hospital_emp_share": 0.0212,
-    "avg_govt_payer_share": 0.2292
+    "hospital_emp_share": 0.0146,
+    "avg_govt_payer_share": 0.2695
   }
 }

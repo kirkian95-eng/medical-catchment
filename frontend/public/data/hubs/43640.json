@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43640",
   "cbsa_name": "Slidell-Mandeville-Covington, LA",
-  "mdi": 0.211,
+  "mdi": 0.5098,
   "bbox": [
     -91.64,
     29.26,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.2846,
       "lon": -89.7698,
-      "govt_payer_share": 0.277,
-      "medicare_discharges": 2184
+      "govt_payer_share": 0.399,
+      "medicare_discharges": 2104
     },
     {
       "facility_id": "190045",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.4683,
       "lon": -90.1143,
-      "govt_payer_share": 0.334,
-      "medicare_discharges": 2752
+      "govt_payer_share": 0.25,
+      "medicare_discharges": 2781
     },
     {
       "facility_id": "190270",
@@ -39,8 +39,8 @@
       "ownership": "Physician",
       "lat": 30.262,
       "lon": -89.7942,
-      "govt_payer_share": 0.188,
-      "medicare_discharges": 123
+      "govt_payer_share": NaN,
+      "medicare_discharges": 119
     },
     {
       "facility_id": "190267",
@@ -50,8 +50,8 @@
       "ownership": "Physician",
       "lat": 30.4627,
       "lon": -90.1405,
-      "govt_payer_share": 0.203,
-      "medicare_discharges": 157
+      "govt_payer_share": NaN,
+      "medicare_discharges": 152
     },
     {
       "facility_id": "190256",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 30.262,
       "lon": -89.7942,
-      "govt_payer_share": 0.194,
-      "medicare_discharges": 84
+      "govt_payer_share": NaN,
+      "medicare_discharges": 79
     }
   ],
   "catchment_counties": [
@@ -85,7 +85,7 @@
     "num_counties": 1,
     "hospital_employment": 2430,
     "msa_total_employment": 95661,
-    "hospital_emp_share": 0.0254,
-    "avg_govt_payer_share": 0.2921
+    "hospital_emp_share": 0.0405,
+    "avg_govt_payer_share": 0.357
   }
 }

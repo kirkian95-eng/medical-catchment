@@ -1,7 +1,7 @@
 {
   "cbsa_code": "32740",
   "cbsa_name": "Meadville, PA",
-  "mdi": 0.4782,
+  "mdi": 0.8131,
   "bbox": [
     -81.65,
     40.61,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.6416,
       "lon": -80.1463,
-      "govt_payer_share": 0.278,
-      "medicare_discharges": 1401
+      "govt_payer_share": NaN,
+      "medicare_discharges": 1395
     },
     {
       "facility_id": "391314",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.6147,
       "lon": -79.7064,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 213
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 29106,
-    "hospital_emp_share": 0.0501,
-    "avg_govt_payer_share": 0.3219
+    "hospital_emp_share": 0.054,
+    "avg_govt_payer_share": 0.6
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17060",
   "cbsa_name": "Chillicothe, OH",
-  "mdi": 0.5119,
+  "mdi": 0.6003,
   "bbox": [
     -84.47,
     38.4,
@@ -17,19 +17,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.3951,
       "lon": -82.9702,
-      "govt_payer_share": 0.352,
-      "medicare_discharges": 2463
+      "govt_payer_share": 0.281,
+      "medicare_discharges": 2419
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "39045",
-      "county_name": "Fairfield",
-      "state": "OH",
-      "pop_total": 159371,
-      "pop_65_plus": 25835,
-      "distance_to_hub_miles": 30.6
-    },
     {
       "county_fips": "39141",
       "county_name": "Ross",
@@ -37,22 +29,6 @@
       "pop_total": 76957,
       "pop_65_plus": 13233,
       "distance_to_hub_miles": 6.1
-    },
-    {
-      "county_fips": "39129",
-      "county_name": "Pickaway",
-      "state": "OH",
-      "pop_total": 58809,
-      "pop_65_plus": 9347,
-      "distance_to_hub_miles": 17.3
-    },
-    {
-      "county_fips": "39073",
-      "county_name": "Hocking",
-      "state": "OH",
-      "pop_total": 28104,
-      "pop_65_plus": 5376,
-      "distance_to_hub_miles": 27.1
     },
     {
       "county_fips": "39131",
@@ -65,15 +41,15 @@
   ],
   "summary": {
     "total_beds": 261,
-    "catchment_pop": 350392,
-    "catchment_pop_65_plus": 58631,
-    "catchment_pct_65_plus": 0.1673,
-    "max_catchment_radius_miles": 30.6,
-    "avg_catchment_distance_miles": 22.1,
-    "num_counties": 5,
+    "catchment_pop": 104108,
+    "catchment_pop_65_plus": 18073,
+    "catchment_pct_65_plus": 0.1736,
+    "max_catchment_radius_miles": 22.6,
+    "avg_catchment_distance_miles": 10.4,
+    "num_counties": 2,
     "hospital_employment": 1487,
     "msa_total_employment": 29881,
-    "hospital_emp_share": 0.0498,
-    "avg_govt_payer_share": 0.3519
+    "hospital_emp_share": 0.0563,
+    "avg_govt_payer_share": 0.2807
   }
 }

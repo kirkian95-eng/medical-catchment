@@ -1,7 +1,7 @@
 {
   "cbsa_code": "11020",
   "cbsa_name": "Altoona, PA",
-  "mdi": 0.6009,
+  "mdi": 0.4097,
   "bbox": [
     -79.9,
     39.31,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.5212,
       "lon": -78.3983,
-      "govt_payer_share": 0.323,
-      "medicare_discharges": 3052
+      "govt_payer_share": 0.247,
+      "medicare_discharges": 2903
     },
     {
       "facility_id": "390062",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 40.3052,
       "lon": -78.389,
-      "govt_payer_share": 0.263,
-      "medicare_discharges": 438
+      "govt_payer_share": 0.226,
+      "medicare_discharges": 411
     },
     {
       "facility_id": "391307",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.6704,
       "lon": -78.2405,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 66
     }
   ],
   "catchment_counties": [
@@ -63,7 +63,7 @@
     "num_counties": 1,
     "hospital_employment": 3622,
     "msa_total_employment": 57590,
-    "hospital_emp_share": 0.0629,
-    "avg_govt_payer_share": 0.3362
+    "hospital_emp_share": 0.0285,
+    "avg_govt_payer_share": 0.2642
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44780",
   "cbsa_name": "Sturgis, MI",
-  "mdi": 0.1963,
+  "mdi": 0.2735,
   "bbox": [
     -87.15,
     40.93,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 41.9344,
       "lon": -85.6471,
-      "govt_payer_share": 0.22,
-      "medicare_discharges": 217
+      "govt_payer_share": 0.343,
+      "medicare_discharges": 216
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 603,
     "msa_total_employment": 21401,
-    "hospital_emp_share": 0.0282,
-    "avg_govt_payer_share": 0.2198
+    "hospital_emp_share": 0.0118,
+    "avg_govt_payer_share": 0.343
   }
 }

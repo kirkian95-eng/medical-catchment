@@ -1,7 +1,7 @@
 {
   "cbsa_code": "26980",
   "cbsa_name": "Iowa City, IA",
-  "mdi": 0.3211,
+  "mdi": 0.8126,
   "bbox": [
     -93.22,
     40.3,
@@ -17,8 +17,8 @@
       "ownership": "Government - State",
       "lat": 41.6572,
       "lon": -91.5498,
-      "govt_payer_share": 0.326,
-      "medicare_discharges": 7386
+      "govt_payer_share": 0.24,
+      "medicare_discharges": 7136
     },
     {
       "facility_id": "160029",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 41.6636,
       "lon": -91.5279,
-      "govt_payer_share": 0.258,
-      "medicare_discharges": 1559
+      "govt_payer_share": 0.335,
+      "medicare_discharges": 746
     },
     {
       "facility_id": "161344",
@@ -39,8 +39,8 @@
       "ownership": "Government - Local",
       "lat": 41.2988,
       "lon": -91.7156,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 158
     }
   ],
   "catchment_counties": [
@@ -95,7 +95,7 @@
     "num_counties": 5,
     "hospital_employment": 2875,
     "msa_total_employment": 91533,
-    "hospital_emp_share": 0.0314,
-    "avg_govt_payer_share": 0.3209
+    "hospital_emp_share": 0.1172,
+    "avg_govt_payer_share": 0.2625
   }
 }

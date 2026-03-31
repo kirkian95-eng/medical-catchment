@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35380",
   "cbsa_name": "New Orleans-Metairie, LA",
-  "mdi": 0.4959,
+  "mdi": 0.414,
   "bbox": [
     -92.2,
     28.83,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 29.962,
       "lon": -90.1472,
-      "govt_payer_share": 0.308,
-      "medicare_discharges": 6011
+      "govt_payer_share": 0.148,
+      "medicare_discharges": 5736
     },
     {
       "facility_id": "190176",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.0144,
       "lon": -90.1815,
-      "govt_payer_share": 0.304,
-      "medicare_discharges": 4193
+      "govt_payer_share": 0.175,
+      "medicare_discharges": 4038
     },
     {
       "facility_id": "190005",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 29.9561,
       "lon": -90.0773,
-      "govt_payer_share": 0.282,
-      "medicare_discharges": 1027
+      "govt_payer_share": 0.101,
+      "medicare_discharges": 961
     },
     {
       "facility_id": "190046",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 29.9255,
       "lon": -90.0928,
-      "govt_payer_share": 0.256,
-      "medicare_discharges": 1155
+      "govt_payer_share": 0.151,
+      "medicare_discharges": 1096
     },
     {
       "facility_id": "190039",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 29.8939,
       "lon": -90.096,
-      "govt_payer_share": 0.269,
-      "medicare_discharges": 1267
+      "govt_payer_share": 0.136,
+      "medicare_discharges": 1180
     },
     {
       "facility_id": "190274",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.0237,
       "lon": -90.2784,
-      "govt_payer_share": 0.298,
-      "medicare_discharges": 774
+      "govt_payer_share": 0.136,
+      "medicare_discharges": 865
     },
     {
       "facility_id": "190079",
@@ -83,8 +83,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 29.8298,
       "lon": -90.3106,
-      "govt_payer_share": 0.202,
-      "medicare_discharges": 78
+      "govt_payer_share": 0.14,
+      "medicare_discharges": 115
     },
     {
       "facility_id": "190313",
@@ -94,8 +94,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.0284,
       "lon": -89.9742,
-      "govt_payer_share": 0.279,
-      "medicare_discharges": 103
+      "govt_payer_share": 0.23,
+      "medicare_discharges": 102
     },
     {
       "facility_id": "190308",
@@ -105,8 +105,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 29.9562,
       "lon": -89.9644,
-      "govt_payer_share": 0.234,
-      "medicare_discharges": 179
+      "govt_payer_share": 0.135,
+      "medicare_discharges": 181
     },
     {
       "facility_id": "190300",
@@ -116,8 +116,8 @@
       "ownership": "Physician",
       "lat": 29.9364,
       "lon": -90.0699,
-      "govt_payer_share": 0.137,
-      "medicare_discharges": 69
+      "govt_payer_share": NaN,
+      "medicare_discharges": 70
     },
     {
       "facility_id": "191305",
@@ -127,8 +127,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.0519,
       "lon": -90.7033,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 41
     },
     {
       "facility_id": "190302",
@@ -138,8 +138,8 @@
       "ownership": "Physician",
       "lat": 30.0102,
       "lon": -90.1626,
-      "govt_payer_share": 0.53,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 1
     }
   ],
   "catchment_counties": [
@@ -194,7 +194,7 @@
     "num_counties": 5,
     "hospital_employment": 25024,
     "msa_total_employment": 414152,
-    "hospital_emp_share": 0.0571,
-    "avg_govt_payer_share": 0.2917
+    "hospital_emp_share": 0.0444,
+    "avg_govt_payer_share": 0.1585
   }
 }

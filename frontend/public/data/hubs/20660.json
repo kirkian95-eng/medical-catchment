@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20660",
   "cbsa_name": "Easton, MD",
-  "mdi": 0.6567,
+  "mdi": 0.7843,
   "bbox": [
     -77.58,
     37.77,
@@ -17,27 +17,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.7704,
       "lon": -76.076,
-      "govt_payer_share": 0.563,
-      "medicare_discharges": 2980
+      "govt_payer_share": 0.559,
+      "medicare_discharges": 3133
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "24003",
-      "county_name": "Anne Arundel",
-      "state": "MD",
-      "pop_total": 588109,
-      "pop_65_plus": 90442,
-      "distance_to_hub_miles": 30.6
-    },
-    {
-      "county_fips": "24035",
-      "county_name": "Queen Anne's",
-      "state": "MD",
-      "pop_total": 50316,
-      "pop_65_plus": 9902,
-      "distance_to_hub_miles": 18.5
-    },
     {
       "county_fips": "24041",
       "county_name": "Talbot",
@@ -57,15 +41,15 @@
   ],
   "summary": {
     "total_beds": 189,
-    "catchment_pop": 709408,
-    "catchment_pop_65_plus": 117169,
-    "catchment_pct_65_plus": 0.1652,
-    "max_catchment_radius_miles": 30.6,
-    "avg_catchment_distance_miles": 27.7,
-    "num_counties": 4,
+    "catchment_pop": 70983,
+    "catchment_pop_65_plus": 16825,
+    "catchment_pct_65_plus": 0.237,
+    "max_catchment_radius_miles": 14.9,
+    "avg_catchment_distance_miles": 10.0,
+    "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 17984,
-    "hospital_emp_share": 0.0565,
-    "avg_govt_payer_share": 0.5634
+    "hospital_emp_share": 0.0516,
+    "avg_govt_payer_share": 0.5594
   }
 }

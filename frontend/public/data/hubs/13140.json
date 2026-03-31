@@ -1,12 +1,12 @@
 {
   "cbsa_code": "13140",
   "cbsa_name": "Beaumont-Port Arthur, TX",
-  "mdi": 0.2127,
+  "mdi": 0.2923,
   "bbox": [
     -95.69,
-    28.8,
+    28.94,
     -92.49,
-    31.36
+    31.23
   ],
   "hospitals": [
     {
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.0857,
       "lon": -94.1319,
-      "govt_payer_share": 0.279,
-      "medicare_discharges": 3317
+      "govt_payer_share": 0.218,
+      "medicare_discharges": 3199
     },
     {
       "facility_id": "450346",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.0686,
       "lon": -94.1192,
-      "govt_payer_share": 0.258,
-      "medicare_discharges": 2680
+      "govt_payer_share": 0.171,
+      "medicare_discharges": 2713
     },
     {
       "facility_id": "450518",
@@ -39,8 +39,8 @@
       "ownership": "Physician",
       "lat": 29.9351,
       "lon": -93.9864,
-      "govt_payer_share": 0.227,
-      "medicare_discharges": 844
+      "govt_payer_share": 0.292,
+      "medicare_discharges": 855
     },
     {
       "facility_id": "670134",
@@ -50,27 +50,11 @@
       "ownership": "Proprietary",
       "lat": 30.2268,
       "lon": -94.1889,
-      "govt_payer_share": 0.261,
+      "govt_payer_share": NaN,
       "medicare_discharges": 50
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "48201",
-      "county_name": "Harris",
-      "state": "TX",
-      "pop_total": 4726177,
-      "pop_65_plus": 521651,
-      "distance_to_hub_miles": 78.5
-    },
-    {
-      "county_fips": "48167",
-      "county_name": "Galveston",
-      "state": "TX",
-      "pop_total": 350801,
-      "pop_65_plus": 52288,
-      "distance_to_hub_miles": 65.1
-    },
     {
       "county_fips": "48245",
       "county_name": "Jefferson",
@@ -78,14 +62,6 @@
       "pop_total": 254942,
       "pop_65_plus": 38008,
       "distance_to_hub_miles": 14.1
-    },
-    {
-      "county_fips": "48291",
-      "county_name": "Liberty",
-      "state": "TX",
-      "pop_total": 93523,
-      "pop_65_plus": 11765,
-      "distance_to_hub_miles": 43.1
     },
     {
       "county_fips": "48361",
@@ -102,14 +78,6 @@
       "pop_total": 56576,
       "pop_65_plus": 9751,
       "distance_to_hub_miles": 26.0
-    },
-    {
-      "county_fips": "48071",
-      "county_name": "Chambers",
-      "state": "TX",
-      "pop_total": 47037,
-      "pop_65_plus": 5674,
-      "distance_to_hub_miles": 41.7
     },
     {
       "county_fips": "48241",
@@ -130,15 +98,15 @@
   ],
   "summary": {
     "total_beds": 1190,
-    "catchment_pop": 5666811,
-    "catchment_pop_65_plus": 663637,
-    "catchment_pct_65_plus": 0.1171,
-    "max_catchment_radius_miles": 78.5,
-    "avg_catchment_distance_miles": 72.1,
-    "num_counties": 9,
+    "catchment_pop": 449273,
+    "catchment_pop_65_plus": 72259,
+    "catchment_pct_65_plus": 0.1608,
+    "max_catchment_radius_miles": 52.5,
+    "avg_catchment_distance_miles": 19.6,
+    "num_counties": 5,
     "hospital_employment": 4274,
     "msa_total_employment": 131345,
-    "hospital_emp_share": 0.0276,
-    "avg_govt_payer_share": 0.2607
+    "hospital_emp_share": 0.0241,
+    "avg_govt_payer_share": 0.2134
   }
 }

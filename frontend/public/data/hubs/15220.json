@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15220",
   "cbsa_name": "Brownwood, TX",
-  "mdi": 0.6664,
+  "mdi": 0.4019,
   "bbox": [
     -100.49,
     30.68,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 31.6773,
       "lon": -98.9924,
-      "govt_payer_share": 0.24,
-      "medicare_discharges": 998
+      "govt_payer_share": 0.367,
+      "medicare_discharges": 1233
     }
   ],
   "catchment_counties": [
@@ -81,7 +81,7 @@
     "num_counties": 6,
     "hospital_employment": 0,
     "msa_total_employment": 15683,
-    "hospital_emp_share": 0.0748,
-    "avg_govt_payer_share": 0.2404
+    "hospital_emp_share": 0.0213,
+    "avg_govt_payer_share": 0.3671
   }
 }

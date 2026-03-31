@@ -1,7 +1,7 @@
 {
   "cbsa_code": "21540",
   "cbsa_name": "Escanaba, MI",
-  "mdi": 0.549,
+  "mdi": 0.394,
   "bbox": [
     -88.6,
     44.75,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 45.7458,
       "lon": -87.0964,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.322,
+      "medicare_discharges": 376
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 13454,
-    "hospital_emp_share": 0.0342,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0238,
+    "avg_govt_payer_share": 0.3222
   }
 }

@@ -27,16 +27,21 @@ export default function MapView({
 }) {
   const mapRef = useRef(null);
   const [catchmentData, setCatchmentData] = useState(null);
+  const [interstateData, setInterstateData] = useState(null);
   const [hubPointsData, setHubPointsData] = useState(null);
   const [hospitalData, setHospitalData] = useState(null);
   const [hoverInfo, setHoverInfo] = useState(null);
   const [viewState, setViewState] = useState(INITIAL_VIEW);
 
-  // Load catchment polygons on mount
+  // Load catchment polygons and interstates on mount
   useEffect(() => {
     fetch(import.meta.env.BASE_URL + 'data/national_catchments.json')
       .then((r) => r.json())
       .then(setCatchmentData)
+      .catch(() => {});
+    fetch(import.meta.env.BASE_URL + 'data/interstates.geojson')
+      .then((r) => r.json())
+      .then(setInterstateData)
       .catch(() => {});
   }, []);
 
@@ -227,6 +232,21 @@ export default function MapView({
                 0.7, 0.85,
                 1.0, 0.95,
               ],
+            }}
+          />
+        </Source>
+      )}
+
+      {/* Interstate highways (visible in hub detail view for context) */}
+      {interstateData && isSelected && (
+        <Source id="interstates" type="geojson" data={interstateData}>
+          <Layer
+            id="interstate-lines"
+            type="line"
+            paint={{
+              'line-color': '#94a3b8',
+              'line-width': 1.2,
+              'line-opacity': 0.5,
             }}
           />
         </Source>

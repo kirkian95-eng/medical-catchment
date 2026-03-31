@@ -1,7 +1,7 @@
 {
   "cbsa_code": "30460",
   "cbsa_name": "Lexington-Fayette, KY",
-  "mdi": 0.3373,
+  "mdi": 0.6542,
   "bbox": [
     -86.24,
     37.0,
@@ -17,8 +17,8 @@
       "ownership": "Government - State",
       "lat": 38.0322,
       "lon": -84.5075,
-      "govt_payer_share": 0.404,
-      "medicare_discharges": 5946
+      "govt_payer_share": 0.167,
+      "medicare_discharges": 5680
     },
     {
       "facility_id": "180010",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 38.0424,
       "lon": -84.544,
-      "govt_payer_share": 0.322,
-      "medicare_discharges": 3235
+      "govt_payer_share": 0.179,
+      "medicare_discharges": 3190
     },
     {
       "facility_id": "180103",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 38.0192,
       "lon": -84.5137,
-      "govt_payer_share": 0.425,
-      "medicare_discharges": 5016
+      "govt_payer_share": 0.237,
+      "medicare_discharges": 4741
     },
     {
       "facility_id": "180143",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.9988,
       "lon": -84.4419,
-      "govt_payer_share": 0.194,
-      "medicare_discharges": 586
+      "govt_payer_share": 0.201,
+      "medicare_discharges": 533
     },
     {
       "facility_id": "180101",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 38.1844,
       "lon": -84.5616,
-      "govt_payer_share": 0.208,
-      "medicare_discharges": 328
+      "govt_payer_share": 0.174,
+      "medicare_discharges": 325
     },
     {
       "facility_id": "180092",
@@ -72,8 +72,8 @@
       "ownership": "Proprietary",
       "lat": 38.0099,
       "lon": -84.215,
-      "govt_payer_share": 0.317,
-      "medicare_discharges": 736
+      "govt_payer_share": 0.195,
+      "medicare_discharges": 715
     },
     {
       "facility_id": "180046",
@@ -83,8 +83,8 @@
       "ownership": "Proprietary",
       "lat": 38.2026,
       "lon": -84.2099,
-      "govt_payer_share": 0.203,
-      "medicare_discharges": 142
+      "govt_payer_share": 0.104,
+      "medicare_discharges": 128
     },
     {
       "facility_id": "181308",
@@ -94,8 +94,8 @@
       "ownership": "Proprietary",
       "lat": 38.0066,
       "lon": -84.7393,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.291,
+      "medicare_discharges": 40
     }
   ],
   "catchment_counties": [
@@ -140,14 +140,6 @@
       "distance_to_hub_miles": 13.4
     },
     {
-      "county_fips": "21081",
-      "county_name": "Grant",
-      "state": "KY",
-      "pop_total": 25085,
-      "pop_65_plus": 3501,
-      "distance_to_hub_miles": 42.8
-    },
-    {
       "county_fips": "21017",
       "county_name": "Bourbon",
       "state": "KY",
@@ -170,22 +162,6 @@
       "pop_total": 17068,
       "pop_65_plus": 3244,
       "distance_to_hub_miles": 53.0
-    },
-    {
-      "county_fips": "21191",
-      "county_name": "Pendleton",
-      "state": "KY",
-      "pop_total": 14638,
-      "pop_65_plus": 2411,
-      "distance_to_hub_miles": 46.0
-    },
-    {
-      "county_fips": "21023",
-      "county_name": "Bracken",
-      "state": "KY",
-      "pop_total": 8420,
-      "pop_65_plus": 1434,
-      "distance_to_hub_miles": 50.1
     },
     {
       "county_fips": "21181",
@@ -214,15 +190,15 @@
   ],
   "summary": {
     "total_beds": 2074,
-    "catchment_pop": 616361,
-    "catchment_pop_65_plus": 94061,
+    "catchment_pop": 568218,
+    "catchment_pop_65_plus": 86715,
     "catchment_pct_65_plus": 0.1526,
     "max_catchment_radius_miles": 58.5,
-    "avg_catchment_distance_miles": 13.3,
-    "num_counties": 14,
+    "avg_catchment_distance_miles": 10.6,
+    "num_counties": 11,
     "hospital_employment": 9504,
     "msa_total_employment": 262391,
-    "hospital_emp_share": 0.0338,
-    "avg_govt_payer_share": 0.3551
+    "hospital_emp_share": 0.0727,
+    "avg_govt_payer_share": 0.1866
   }
 }

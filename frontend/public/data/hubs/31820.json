@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31820",
   "cbsa_name": "Manitowoc, WI",
-  "mdi": 0.2886,
+  "mdi": 0.2092,
   "bbox": [
     -89.12,
     43.12,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.1243,
       "lon": -87.6194,
-      "govt_payer_share": 0.263,
-      "medicare_discharges": 550
+      "govt_payer_share": 0.309,
+      "medicare_discharges": 549
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 1223,
     "msa_total_employment": 33167,
-    "hospital_emp_share": 0.0369,
-    "avg_govt_payer_share": 0.2629
+    "hospital_emp_share": 0.0079,
+    "avg_govt_payer_share": 0.3094
   }
 }

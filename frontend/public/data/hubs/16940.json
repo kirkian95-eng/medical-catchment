@@ -1,12 +1,12 @@
 {
   "cbsa_code": "16940",
   "cbsa_name": "Cheyenne, WY",
-  "mdi": 0.2776,
+  "mdi": 0.5385,
   "bbox": [
-    -106.67,
-    39.67,
-    -102.97,
-    42.61
+    -106.93,
+    39.45,
+    -102.7,
+    42.83
   ],
   "hospitals": [
     {
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 41.1401,
       "lon": -104.8166,
-      "govt_payer_share": 0.425,
-      "medicare_discharges": 3135
+      "govt_payer_share": 0.481,
+      "medicare_discharges": 2906
     }
   ],
   "catchment_counties": [
@@ -45,6 +45,14 @@
       "pop_total": 12592,
       "pop_65_plus": 2871,
       "distance_to_hub_miles": 69.7
+    },
+    {
+      "county_fips": "31013",
+      "county_name": "Box Butte",
+      "state": "NE",
+      "pop_total": 10778,
+      "pop_65_plus": 2058,
+      "distance_to_hub_miles": 116.4
     },
     {
       "county_fips": "56031",
@@ -81,15 +89,15 @@
   ],
   "summary": {
     "total_beds": 201,
-    "catchment_pop": 166201,
-    "catchment_pop_65_plus": 31021,
-    "catchment_pct_65_plus": 0.1866,
-    "max_catchment_radius_miles": 101.7,
-    "avg_catchment_distance_miles": 37.5,
-    "num_counties": 7,
+    "catchment_pop": 176979,
+    "catchment_pop_65_plus": 33079,
+    "catchment_pct_65_plus": 0.1869,
+    "max_catchment_radius_miles": 116.4,
+    "avg_catchment_distance_miles": 42.3,
+    "num_counties": 8,
     "hospital_employment": 925,
     "msa_total_employment": 47486,
-    "hospital_emp_share": 0.0195,
-    "avg_govt_payer_share": 0.425
+    "hospital_emp_share": 0.0323,
+    "avg_govt_payer_share": 0.4809
   }
 }

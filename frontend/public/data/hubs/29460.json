@@ -1,7 +1,7 @@
 {
   "cbsa_code": "29460",
   "cbsa_name": "Lakeland-Winter Haven, FL",
-  "mdi": 0.3291,
+  "mdi": 0.4265,
   "bbox": [
     -83.45,
     26.88,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 28.0616,
       "lon": -81.9534,
-      "govt_payer_share": 0.362,
-      "medicare_discharges": 9204
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 9037
     },
     {
       "facility_id": "100052",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 28.0276,
       "lon": -81.7267,
-      "govt_payer_share": 0.3,
-      "medicare_discharges": 3459
+      "govt_payer_share": 0.308,
+      "medicare_discharges": 3527
     },
     {
       "facility_id": "100137",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 28.1842,
       "lon": -81.6401,
-      "govt_payer_share": 0.27,
-      "medicare_discharges": 1596
+      "govt_payer_share": 0.184,
+      "medicare_discharges": 1447
     },
     {
       "facility_id": "100099",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 27.9008,
       "lon": -81.5857,
-      "govt_payer_share": 0.263,
-      "medicare_discharges": 685
+      "govt_payer_share": 0.229,
+      "medicare_discharges": 778
     },
     {
       "facility_id": "100121",
@@ -61,27 +61,11 @@
       "ownership": "Proprietary",
       "lat": 27.8832,
       "lon": -81.811,
-      "govt_payer_share": 0.292,
-      "medicare_discharges": 563
+      "govt_payer_share": 0.28,
+      "medicare_discharges": 573
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "12057",
-      "county_name": "Hillsborough",
-      "state": "FL",
-      "pop_total": 1468560,
-      "pop_65_plus": 214615,
-      "distance_to_hub_miles": 35.5
-    },
-    {
-      "county_fips": "12095",
-      "county_name": "Orange",
-      "state": "FL",
-      "pop_total": 1427403,
-      "pop_65_plus": 177634,
-      "distance_to_hub_miles": 43.8
-    },
     {
       "county_fips": "12105",
       "county_name": "Polk",
@@ -89,27 +73,19 @@
       "pop_total": 736229,
       "pop_65_plus": 146515,
       "distance_to_hub_miles": 10.3
-    },
-    {
-      "county_fips": "12101",
-      "county_name": "Pasco",
-      "state": "FL",
-      "pop_total": 569211,
-      "pop_65_plus": 126195,
-      "distance_to_hub_miles": 45.4
     }
   ],
   "summary": {
     "total_beds": 1858,
-    "catchment_pop": 4201403,
-    "catchment_pop_65_plus": 664959,
-    "catchment_pct_65_plus": 0.1583,
-    "max_catchment_radius_miles": 45.4,
-    "avg_catchment_distance_miles": 35.2,
-    "num_counties": 4,
+    "catchment_pop": 736229,
+    "catchment_pop_65_plus": 146515,
+    "catchment_pct_65_plus": 0.199,
+    "max_catchment_radius_miles": 10.3,
+    "avg_catchment_distance_miles": 10.3,
+    "num_counties": 1,
     "hospital_employment": 9592,
     "msa_total_employment": 258740,
-    "hospital_emp_share": 0.0371,
-    "avg_govt_payer_share": 0.3228
+    "hospital_emp_share": 0.0334,
+    "avg_govt_payer_share": 0.2867
   }
 }

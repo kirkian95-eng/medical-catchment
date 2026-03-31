@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28780",
   "cbsa_name": "Kingsville, TX",
-  "mdi": 0.3551,
+  "mdi": 0.1984,
   "bbox": [
     -99.35,
     26.49,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 27.4913,
       "lon": -97.8548,
-      "govt_payer_share": 0.234,
-      "medicare_discharges": 281
+      "govt_payer_share": 0.176,
+      "medicare_discharges": 258
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 11760,
-    "hospital_emp_share": 0.0424,
-    "avg_govt_payer_share": 0.2336
+    "hospital_emp_share": 0.0147,
+    "avg_govt_payer_share": 0.1765
   }
 }

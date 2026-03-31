@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24660",
   "cbsa_name": "Greensboro-High Point, NC",
-  "mdi": 0.3546,
+  "mdi": 0.3007,
   "bbox": [
     -81.51,
     34.71,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.0918,
       "lon": -79.7886,
-      "govt_payer_share": 0.251,
-      "medicare_discharges": 6521
+      "govt_payer_share": 0.187,
+      "medicare_discharges": 6118
     },
     {
       "facility_id": "340004",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.9631,
       "lon": -80.0123,
-      "govt_payer_share": 0.268,
-      "medicare_discharges": 1985
+      "govt_payer_share": 0.203,
+      "medicare_discharges": 1929
     },
     {
       "facility_id": "340123",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.7112,
       "lon": -79.8149,
-      "govt_payer_share": 0.247,
-      "medicare_discharges": 696
+      "govt_payer_share": 0.211,
+      "medicare_discharges": 689
     },
     {
       "facility_id": "340060",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.4934,
       "lon": -79.7398,
-      "govt_payer_share": 0.21,
-      "medicare_discharges": 283
+      "govt_payer_share": 0.243,
+      "medicare_discharges": 273
     }
   ],
   "catchment_counties": [
@@ -90,7 +90,7 @@
     "num_counties": 3,
     "hospital_employment": 4,
     "msa_total_employment": 354145,
-    "hospital_emp_share": 0.0415,
-    "avg_govt_payer_share": 0.2519
+    "hospital_emp_share": 0.0243,
+    "avg_govt_payer_share": 0.1953
   }
 }

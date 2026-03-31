@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34680",
   "cbsa_name": "Murrells Inlet, SC",
-  "mdi": 0.3843,
+  "mdi": 0.4164,
   "bbox": [
     -80.83,
     32.38,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.3811,
       "lon": -79.3298,
-      "govt_payer_share": 0.281,
-      "medicare_discharges": 956
+      "govt_payer_share": 0.274,
+      "medicare_discharges": 961
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 1126,
     "msa_total_employment": 25449,
-    "hospital_emp_share": 0.0442,
-    "avg_govt_payer_share": 0.2809
+    "hospital_emp_share": 0.032,
+    "avg_govt_payer_share": 0.2741
   }
 }

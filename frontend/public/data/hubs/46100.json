@@ -1,7 +1,7 @@
 {
   "cbsa_code": "46100",
   "cbsa_name": "Tullahoma-Manchester, TN",
-  "mdi": 0.2986,
+  "mdi": 0.4129,
   "bbox": [
     -87.73,
     34.38,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 35.3835,
       "lon": -86.2312,
-      "govt_payer_share": 0.32,
-      "medicare_discharges": 1254
+      "govt_payer_share": 0.402,
+      "medicare_discharges": 1397
     },
     {
       "facility_id": "440007",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.5093,
       "lon": -86.0793,
-      "govt_payer_share": 0.245,
-      "medicare_discharges": 228
+      "govt_payer_share": NaN,
+      "medicare_discharges": 225
     }
   ],
   "catchment_counties": [
@@ -60,7 +60,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 26677,
-    "hospital_emp_share": 0.0339,
-    "avg_govt_payer_share": 0.3003
+    "hospital_emp_share": 0.0219,
+    "avg_govt_payer_share": 0.4548
   }
 }

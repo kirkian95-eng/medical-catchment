@@ -1,7 +1,7 @@
 {
   "cbsa_code": "10700",
   "cbsa_name": "Albertville, AL",
-  "mdi": 0.3059,
+  "mdi": 0.5415,
   "bbox": [
     -87.66,
     33.22,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.218,
       "lon": -86.1578,
-      "govt_payer_share": 0.288,
-      "medicare_discharges": 1410
+      "govt_payer_share": 0.483,
+      "medicare_discharges": 1419
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 40154,
-    "hospital_emp_share": 0.0328,
-    "avg_govt_payer_share": 0.2883
+    "hospital_emp_share": 0.0339,
+    "avg_govt_payer_share": 0.4826
   }
 }

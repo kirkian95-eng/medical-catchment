@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42300",
   "cbsa_name": "Sault Ste. Marie, MI",
-  "mdi": 0.2786,
+  "mdi": 0.601,
   "bbox": [
     -85.85,
     45.5,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.4975,
       "lon": -84.35,
-      "govt_payer_share": 0.249,
-      "medicare_discharges": 388
+      "govt_payer_share": 0.287,
+      "medicare_discharges": 354
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 12605,
-    "hospital_emp_share": 0.0336,
-    "avg_govt_payer_share": 0.2492
+    "hospital_emp_share": 0.0484,
+    "avg_govt_payer_share": 0.2867
   }
 }

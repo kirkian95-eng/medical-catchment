@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20020",
   "cbsa_name": "Dothan, AL",
-  "mdi": 0.2898,
+  "mdi": 0.7389,
   "bbox": [
     -87.39,
     30.06,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 31.2133,
       "lon": -85.362,
-      "govt_payer_share": 0.391,
-      "medicare_discharges": 4059
+      "govt_payer_share": 0.364,
+      "medicare_discharges": 4028
     },
     {
       "facility_id": "010055",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 31.2381,
       "lon": -85.4571,
-      "govt_payer_share": 0.382,
-      "medicare_discharges": 2961
+      "govt_payer_share": 0.365,
+      "medicare_discharges": 2777
     },
     {
       "facility_id": "010062",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 31.0563,
       "lon": -85.8941,
-      "govt_payer_share": 0.208,
-      "medicare_discharges": 95
+      "govt_payer_share": 0.586,
+      "medicare_discharges": 84
     },
     {
       "facility_id": "011309",
@@ -130,7 +130,7 @@
     "num_counties": 8,
     "hospital_employment": 1698,
     "msa_total_employment": 56058,
-    "hospital_emp_share": 0.0283,
-    "avg_govt_payer_share": 0.3806
+    "hospital_emp_share": 0.0603,
+    "avg_govt_payer_share": 0.4034
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13460",
   "cbsa_name": "Bend, OR",
-  "mdi": 0.5307,
+  "mdi": 0.4534,
   "bbox": [
     -122.77,
     43.05,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.0658,
       "lon": -121.269,
-      "govt_payer_share": 0.601,
-      "medicare_discharges": 5526
+      "govt_payer_share": 0.461,
+      "medicare_discharges": 5396
     },
     {
       "facility_id": "381324",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.6375,
       "lon": -121.1206,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.486,
+      "medicare_discharges": 122
     },
     {
       "facility_id": "381313",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.1287,
       "lon": -120.5154,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.443,
+      "medicare_discharges": 213
     }
   ],
   "catchment_counties": [
@@ -95,7 +95,7 @@
     "num_counties": 5,
     "hospital_employment": 0,
     "msa_total_employment": 106535,
-    "hospital_emp_share": 0.0404,
-    "avg_govt_payer_share": 0.6196
+    "hospital_emp_share": 0.0227,
+    "avg_govt_payer_share": 0.462
   }
 }

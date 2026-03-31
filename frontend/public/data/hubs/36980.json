@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36980",
   "cbsa_name": "Owensboro, KY",
-  "mdi": 0.5479,
+  "mdi": 0.5201,
   "bbox": [
     -88.57,
     36.78,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.7769,
       "lon": -87.0694,
-      "govt_payer_share": 0.308,
-      "medicare_discharges": 3768
+      "govt_payer_share": 0.264,
+      "medicare_discharges": 3578
     }
   ],
   "catchment_counties": [
@@ -81,7 +81,7 @@
     "num_counties": 6,
     "hospital_employment": 0,
     "msa_total_employment": 46146,
-    "hospital_emp_share": 0.0581,
-    "avg_govt_payer_share": 0.3082
+    "hospital_emp_share": 0.0424,
+    "avg_govt_payer_share": 0.2638
   }
 }

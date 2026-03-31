@@ -1,7 +1,7 @@
 {
   "cbsa_code": "10760",
   "cbsa_name": "Alexander City, AL",
-  "mdi": 0.4456,
+  "mdi": 0.5768,
   "bbox": [
     -87.37,
     31.8,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.8858,
       "lon": -85.8692,
-      "govt_payer_share": 0.213,
-      "medicare_discharges": 393
+      "govt_payer_share": 0.418,
+      "medicare_discharges": 385
     },
     {
       "facility_id": "010052",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 32.8048,
       "lon": -85.7681,
-      "govt_payer_share": 0.195,
-      "medicare_discharges": 111
+      "govt_payer_share": 0.392,
+      "medicare_discharges": 105
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 12705,
-    "hospital_emp_share": 0.0525,
-    "avg_govt_payer_share": 0.2067
+    "hospital_emp_share": 0.041,
+    "avg_govt_payer_share": 0.4087
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48580",
   "cbsa_name": "Whitewater-Elkhorn, WI",
-  "mdi": 0.2954,
+  "mdi": 0.2983,
   "bbox": [
     -90.04,
     41.6,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.6577,
       "lon": -88.5099,
-      "govt_payer_share": 0.298,
-      "medicare_discharges": 841
+      "govt_payer_share": 0.339,
+      "medicare_discharges": 825
     },
     {
       "facility_id": "521357",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.5989,
       "lon": -88.5409,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.433,
+      "medicare_discharges": 365
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 43550,
-    "hospital_emp_share": 0.0268,
-    "avg_govt_payer_share": 0.3754
+    "hospital_emp_share": 0.0128,
+    "avg_govt_payer_share": 0.3583
   }
 }

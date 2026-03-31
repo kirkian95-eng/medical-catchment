@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17340",
   "cbsa_name": "Clearlake, CA",
-  "mdi": 0.8891,
+  "mdi": 0.7027,
   "bbox": [
     -124.41,
     37.94,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.9363,
       "lon": -122.6197,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.443,
+      "medicare_discharges": 487
     },
     {
       "facility_id": "051329",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.1076,
       "lon": -122.9063,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.447,
+      "medicare_discharges": 594
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 16568,
-    "hospital_emp_share": 0.0732,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0389,
+    "avg_govt_payer_share": 0.4451
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34500",
   "cbsa_name": "Mount Vernon, IL",
-  "mdi": 0.6779,
+  "mdi": 0.6514,
   "bbox": [
     -90.43,
     37.31,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.3117,
       "lon": -88.93,
-      "govt_payer_share": 0.474,
-      "medicare_discharges": 2769
+      "govt_payer_share": 0.481,
+      "medicare_discharges": 2714
     },
     {
       "facility_id": "140294",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 38.3305,
       "lon": -88.9024,
-      "govt_payer_share": 0.224,
-      "medicare_discharges": 238
+      "govt_payer_share": NaN,
+      "medicare_discharges": 159
     }
   ],
   "catchment_counties": [
@@ -68,7 +68,7 @@
     "num_counties": 3,
     "hospital_employment": 1321,
     "msa_total_employment": 19209,
-    "hospital_emp_share": 0.0688,
-    "avg_govt_payer_share": 0.4136
+    "hospital_emp_share": 0.0446,
+    "avg_govt_payer_share": 0.5097
   }
 }

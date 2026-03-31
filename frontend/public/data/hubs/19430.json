@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19430",
   "cbsa_name": "Dayton-Kettering-Beavercreek, OH",
-  "mdi": 0.4425,
+  "mdi": 0.3812,
   "bbox": [
     -85.78,
     38.63,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.744,
       "lon": -84.1864,
-      "govt_payer_share": 0.367,
-      "medicare_discharges": 9611
+      "govt_payer_share": 0.244,
+      "medicare_discharges": 9083
     },
     {
       "facility_id": "360079",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 39.6953,
       "lon": -84.191,
-      "govt_payer_share": 0.316,
-      "medicare_discharges": 4984
+      "govt_payer_share": 0.233,
+      "medicare_discharges": 4760
     },
     {
       "facility_id": "360133",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 39.7691,
       "lon": -84.2034,
-      "govt_payer_share": 0.262,
-      "medicare_discharges": 2395
+      "govt_payer_share": 0.203,
+      "medicare_discharges": 2260
     },
     {
       "facility_id": "360360",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.764,
       "lon": -84.0832,
-      "govt_payer_share": 0.343,
-      "medicare_discharges": 2414
+      "govt_payer_share": 0.266,
+      "medicare_discharges": 2291
     },
     {
       "facility_id": "360239",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 39.6293,
       "lon": -84.276,
-      "govt_payer_share": 0.263,
-      "medicare_discharges": 1334
+      "govt_payer_share": 0.2,
+      "medicare_discharges": 1257
     },
     {
       "facility_id": "360174",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.033,
       "lon": -84.1956,
-      "govt_payer_share": 0.305,
-      "medicare_discharges": 1740
+      "govt_payer_share": 0.323,
+      "medicare_discharges": 1665
     },
     {
       "facility_id": "360026",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.6691,
       "lon": -83.914,
-      "govt_payer_share": 0.19,
-      "medicare_discharges": 190
+      "govt_payer_share": 0.313,
+      "medicare_discharges": 187
     },
     {
       "facility_id": "360368",
@@ -94,19 +94,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.033,
       "lon": -84.1956,
-      "govt_payer_share": 0.355,
-      "medicare_discharges": 474
+      "govt_payer_share": 0.288,
+      "medicare_discharges": 461
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "39061",
-      "county_name": "Hamilton",
-      "state": "OH",
-      "pop_total": 827671,
-      "pop_65_plus": 132426,
-      "distance_to_hub_miles": 43.1
-    },
     {
       "county_fips": "39113",
       "county_name": "Montgomery",
@@ -114,38 +106,6 @@
       "pop_total": 536121,
       "pop_65_plus": 97598,
       "distance_to_hub_miles": 5.6
-    },
-    {
-      "county_fips": "39017",
-      "county_name": "Butler",
-      "state": "OH",
-      "pop_total": 388327,
-      "pop_65_plus": 59678,
-      "distance_to_hub_miles": 30.1
-    },
-    {
-      "county_fips": "39165",
-      "county_name": "Warren",
-      "state": "OH",
-      "pop_total": 243189,
-      "pop_65_plus": 36351,
-      "distance_to_hub_miles": 22.6
-    },
-    {
-      "county_fips": "39025",
-      "county_name": "Clermont",
-      "state": "OH",
-      "pop_total": 208851,
-      "pop_65_plus": 36276,
-      "distance_to_hub_miles": 48.8
-    },
-    {
-      "county_fips": "21117",
-      "county_name": "Kenton",
-      "state": "KY",
-      "pop_total": 169066,
-      "pop_65_plus": 25375,
-      "distance_to_hub_miles": 59.6
     },
     {
       "county_fips": "39057",
@@ -156,41 +116,25 @@
       "distance_to_hub_miles": 16.3
     },
     {
-      "county_fips": "21015",
-      "county_name": "Boone",
-      "state": "KY",
-      "pop_total": 136150,
-      "pop_65_plus": 19301,
-      "distance_to_hub_miles": 61.5
-    },
-    {
       "county_fips": "39109",
       "county_name": "Miami",
       "state": "OH",
       "pop_total": 108818,
       "pop_65_plus": 20647,
       "distance_to_hub_miles": 20.8
-    },
-    {
-      "county_fips": "21037",
-      "county_name": "Campbell",
-      "state": "KY",
-      "pop_total": 93122,
-      "pop_65_plus": 15494,
-      "distance_to_hub_miles": 56.8
     }
   ],
   "summary": {
     "total_beds": 2524,
-    "catchment_pop": 2878882,
-    "catchment_pop_65_plus": 472984,
-    "catchment_pct_65_plus": 0.1643,
-    "max_catchment_radius_miles": 61.5,
-    "avg_catchment_distance_miles": 32.9,
-    "num_counties": 10,
+    "catchment_pop": 812506,
+    "catchment_pop_65_plus": 148083,
+    "catchment_pct_65_plus": 0.1823,
+    "max_catchment_radius_miles": 20.8,
+    "avg_catchment_distance_miles": 9.8,
+    "num_counties": 3,
     "hospital_employment": 18605,
     "msa_total_employment": 368184,
-    "hospital_emp_share": 0.0505,
-    "avg_govt_payer_share": 0.3226
+    "hospital_emp_share": 0.0326,
+    "avg_govt_payer_share": 0.2408
   }
 }

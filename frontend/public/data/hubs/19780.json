@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19780",
   "cbsa_name": "Des Moines-West Des Moines, IA",
-  "mdi": 0.3003,
+  "mdi": 0.4573,
   "bbox": [
     -96.06,
     40.14,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.5898,
       "lon": -93.6365,
-      "govt_payer_share": 0.427,
-      "medicare_discharges": 8578
+      "govt_payer_share": 0.524,
+      "medicare_discharges": 8210
     },
     {
       "facility_id": "160083",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.5976,
       "lon": -93.6256,
-      "govt_payer_share": 0.37,
-      "medicare_discharges": 6173
+      "govt_payer_share": 0.316,
+      "medicare_discharges": 6144
     },
     {
       "facility_id": "160101",
@@ -39,8 +39,8 @@
       "ownership": "Government - Local",
       "lat": 41.6151,
       "lon": -93.6412,
-      "govt_payer_share": 0.292,
-      "medicare_discharges": 249
+      "govt_payer_share": 0.612,
+      "medicare_discharges": 286
     },
     {
       "facility_id": "160032",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.7108,
       "lon": -93.0398,
-      "govt_payer_share": 0.209,
-      "medicare_discharges": 271
+      "govt_payer_share": 0.538,
+      "medicare_discharges": 245
     },
     {
       "facility_id": "161314",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 41.6832,
       "lon": -94.5616,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 90
     },
     {
       "facility_id": "161322",
@@ -72,8 +72,8 @@
       "ownership": "Government - Local",
       "lat": 41.8364,
       "lon": -94.1213,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.635,
+      "medicare_discharges": 38
     },
     {
       "facility_id": "161326",
@@ -83,8 +83,8 @@
       "ownership": "Government - Local",
       "lat": 41.3265,
       "lon": -94.049,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.513,
+      "medicare_discharges": 123
     }
   ],
   "catchment_counties": [
@@ -211,7 +211,7 @@
     "num_counties": 14,
     "hospital_employment": 10907,
     "msa_total_employment": 384103,
-    "hospital_emp_share": 0.0275,
-    "avg_govt_payer_share": 0.3912
+    "hospital_emp_share": 0.0258,
+    "avg_govt_payer_share": 0.4566
   }
 }

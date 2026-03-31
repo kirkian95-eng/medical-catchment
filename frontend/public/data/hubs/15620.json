@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15620",
   "cbsa_name": "Cadillac, MI",
-  "mdi": 0.3061,
+  "mdi": 0.3878,
   "bbox": [
     -86.89,
     43.25,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 44.2463,
       "lon": -85.3899,
-      "govt_payer_share": 0.262,
-      "medicare_discharges": 668
+      "govt_payer_share": 0.32,
+      "medicare_discharges": 654
     }
   ],
   "catchment_counties": [
@@ -73,7 +73,7 @@
     "num_counties": 5,
     "hospital_employment": 0,
     "msa_total_employment": 13645,
-    "hospital_emp_share": 0.0347,
-    "avg_govt_payer_share": 0.2623
+    "hospital_emp_share": 0.0235,
+    "avg_govt_payer_share": 0.3201
   }
 }

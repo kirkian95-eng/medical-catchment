@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19760",
   "cbsa_name": "DeRidder, LA",
-  "mdi": 0.3373,
+  "mdi": 0.6145,
   "bbox": [
     -94.79,
     29.84,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.8415,
       "lon": -93.289,
-      "govt_payer_share": 0.286,
-      "medicare_discharges": 356
+      "govt_payer_share": 0.605,
+      "medicare_discharges": 363
     }
   ],
   "catchment_counties": [
@@ -57,7 +57,7 @@
     "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 8972,
-    "hospital_emp_share": 0.0373,
-    "avg_govt_payer_share": 0.2862
+    "hospital_emp_share": 0.0354,
+    "avg_govt_payer_share": 0.6047
   }
 }

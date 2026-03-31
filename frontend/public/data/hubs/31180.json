@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31180",
   "cbsa_name": "Lubbock, TX",
-  "mdi": 0.2744,
+  "mdi": 0.5135,
   "bbox": [
     -104.64,
     31.71,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 33.5905,
       "lon": -101.8881,
-      "govt_payer_share": 0.32,
-      "medicare_discharges": 3688
+      "govt_payer_share": 0.187,
+      "medicare_discharges": 3484
     },
     {
       "facility_id": "450040",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.5701,
       "lon": -101.891,
-      "govt_payer_share": 0.387,
-      "medicare_discharges": 4934
+      "govt_payer_share": 0.285,
+      "medicare_discharges": 4851
     },
     {
       "facility_id": "450162",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.5464,
       "lon": -101.8565,
-      "govt_payer_share": 0.123,
-      "medicare_discharges": 70
+      "govt_payer_share": NaN,
+      "medicare_discharges": 69
     },
     {
       "facility_id": "450876",
@@ -50,8 +50,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 33.6,
       "lon": -101.9829,
-      "govt_payer_share": 0.24,
-      "medicare_discharges": 578
+      "govt_payer_share": 0.346,
+      "medicare_discharges": 564
     },
     {
       "facility_id": "450755",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.5751,
       "lon": -102.3678,
-      "govt_payer_share": 0.177,
-      "medicare_discharges": 45
+      "govt_payer_share": 0.2,
+      "medicare_discharges": 47
     },
     {
       "facility_id": "451351",
@@ -72,8 +72,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 33.1587,
       "lon": -101.8393,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 64
     },
     {
       "facility_id": "451366",
@@ -83,8 +83,8 @@
       "ownership": "Government - Local",
       "lat": 33.6453,
       "lon": -102.8259,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 4
     },
     {
       "facility_id": "670327",
@@ -230,7 +230,7 @@
     "num_counties": 15,
     "hospital_employment": 4801,
     "msa_total_employment": 161073,
-    "hospital_emp_share": 0.0293,
-    "avg_govt_payer_share": 0.3289
+    "hospital_emp_share": 0.0438,
+    "avg_govt_payer_share": 0.2889
   }
 }

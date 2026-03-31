@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14100",
   "cbsa_name": "Bloomsburg-Berwick, PA",
-  "mdi": 0.2711,
+  "mdi": 0.2435,
   "bbox": [
     -77.95,
     40.01,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.0086,
       "lon": -76.4531,
-      "govt_payer_share": 0.301,
-      "medicare_discharges": 583
+      "govt_payer_share": 0.293,
+      "medicare_discharges": 524
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 24285,
-    "hospital_emp_share": 0.0289,
-    "avg_govt_payer_share": 0.3006
+    "hospital_emp_share": 0.0124,
+    "avg_govt_payer_share": 0.2931
   }
 }

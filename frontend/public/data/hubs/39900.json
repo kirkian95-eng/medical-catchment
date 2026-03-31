@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39900",
   "cbsa_name": "Reno, NV",
-  "mdi": 0.3207,
+  "mdi": 0.3514,
   "bbox": [
     -122.8,
     36.55,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.524,
       "lon": -119.7947,
-      "govt_payer_share": 0.369,
-      "medicare_discharges": 8468
+      "govt_payer_share": 0.38,
+      "medicare_discharges": 7770
     },
     {
       "facility_id": "290009",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 39.541,
       "lon": -119.8401,
-      "govt_payer_share": 0.244,
-      "medicare_discharges": 2078
+      "govt_payer_share": 0.386,
+      "medicare_discharges": 2037
     },
     {
       "facility_id": "290049",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.3716,
       "lon": -119.6759,
-      "govt_payer_share": 0.316,
-      "medicare_discharges": 1432
+      "govt_payer_share": 0.407,
+      "medicare_discharges": 1351
     },
     {
       "facility_id": "290032",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.5406,
       "lon": -119.544,
-      "govt_payer_share": 0.345,
-      "medicare_discharges": 1259
+      "govt_payer_share": 0.317,
+      "medicare_discharges": 1232
     },
     {
       "facility_id": "291314",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.8297,
       "lon": -119.1148,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.815,
+      "medicare_discharges": 30
     },
     {
       "facility_id": "291301",
@@ -72,8 +72,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 39.269,
       "lon": -119.9457,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 1
     }
   ],
   "catchment_counties": [
@@ -110,14 +110,6 @@
       "distance_to_hub_miles": 96.7
     },
     {
-      "county_fips": "32015",
-      "county_name": "Lander",
-      "state": "NV",
-      "pop_total": 5728,
-      "pop_65_plus": 803,
-      "distance_to_hub_miles": 148.4
-    },
-    {
       "county_fips": "32021",
       "county_name": "Mineral",
       "state": "NV",
@@ -136,15 +128,15 @@
   ],
   "summary": {
     "total_beds": 1436,
-    "catchment_pop": 550327,
-    "catchment_pop_65_plus": 94400,
-    "catchment_pct_65_plus": 0.1715,
+    "catchment_pop": 544599,
+    "catchment_pop_65_plus": 93597,
+    "catchment_pct_65_plus": 0.1719,
     "max_catchment_radius_miles": 157.2,
-    "avg_catchment_distance_miles": 82.5,
-    "num_counties": 7,
+    "avg_catchment_distance_miles": 81.8,
+    "num_counties": 6,
     "hospital_employment": 9178,
     "msa_total_employment": 252411,
-    "hospital_emp_share": 0.0338,
-    "avg_govt_payer_share": 0.3344
+    "hospital_emp_share": 0.0195,
+    "avg_govt_payer_share": 0.3846
   }
 }

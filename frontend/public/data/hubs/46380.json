@@ -1,7 +1,7 @@
 {
   "cbsa_code": "46380",
   "cbsa_name": "Ukiah, CA",
-  "mdi": 0.5081,
+  "mdi": 0.5646,
   "bbox": [
     -125.19,
     38.15,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.1538,
       "lon": -123.2038,
-      "govt_payer_share": 0.341,
-      "medicare_discharges": 1065
+      "govt_payer_share": 0.421,
+      "medicare_discharges": 1047
     },
     {
       "facility_id": "051310",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.4793,
       "lon": -123.3482,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.525,
+      "medicare_discharges": 659
     },
     {
       "facility_id": "051325",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.4439,
       "lon": -123.6859,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.566,
+      "medicare_discharges": 435
     }
   ],
   "catchment_counties": [
@@ -63,7 +63,7 @@
     "num_counties": 1,
     "hospital_employment": 1395,
     "msa_total_employment": 32162,
-    "hospital_emp_share": 0.0434,
-    "avg_govt_payer_share": 0.4366
+    "hospital_emp_share": 0.0319,
+    "avg_govt_payer_share": 0.4565
   }
 }

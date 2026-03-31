@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13420",
   "cbsa_name": "Bemidji, MN",
-  "mdi": 0.5712,
+  "mdi": 1.0,
   "bbox": [
     -96.93,
     46.24,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.5049,
       "lon": -94.8983,
-      "govt_payer_share": 0.426,
-      "medicare_discharges": 1431
+      "govt_payer_share": 0.62,
+      "medicare_discharges": 1395
     },
     {
       "facility_id": "240206",
@@ -28,8 +28,8 @@
       "ownership": "Government - Federal",
       "lat": 47.9434,
       "lon": -95.3387,
-      "govt_payer_share": 0.144,
-      "medicare_discharges": 14
+      "govt_payer_share": 0.687,
+      "medicare_discharges": 18
     }
   ],
   "catchment_counties": [
@@ -84,7 +84,7 @@
     "num_counties": 5,
     "hospital_employment": 211,
     "msa_total_employment": 20497,
-    "hospital_emp_share": 0.0555,
-    "avg_govt_payer_share": 0.38
+    "hospital_emp_share": 0.0805,
+    "avg_govt_payer_share": 0.6306
   }
 }

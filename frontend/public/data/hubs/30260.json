@@ -1,7 +1,7 @@
 {
   "cbsa_code": "30260",
   "cbsa_name": "Lewisburg, PA",
-  "mdi": 0.3858,
+  "mdi": 0.7198,
   "bbox": [
     -78.39,
     39.98,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.9799,
       "lon": -76.8854,
-      "govt_payer_share": 0.361,
-      "medicare_discharges": 1552
+      "govt_payer_share": 0.332,
+      "medicare_discharges": 1498
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 17406,
-    "hospital_emp_share": 0.0396,
-    "avg_govt_payer_share": 0.3611
+    "hospital_emp_share": 0.0662,
+    "avg_govt_payer_share": 0.3323
   }
 }

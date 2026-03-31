@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40620",
   "cbsa_name": "Rolla, MO",
-  "mdi": 0.6213,
+  "mdi": 0.646,
   "bbox": [
     -93.29,
     36.95,
@@ -17,19 +17,11 @@
       "ownership": "Government - Local",
       "lat": 37.9515,
       "lon": -91.7864,
-      "govt_payer_share": 0.288,
-      "medicare_discharges": 1732
+      "govt_payer_share": 0.418,
+      "medicare_discharges": 1707
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "29071",
-      "county_name": "Franklin",
-      "state": "MO",
-      "pop_total": 104858,
-      "pop_65_plus": 19098,
-      "distance_to_hub_miles": 50.0
-    },
     {
       "county_fips": "29169",
       "county_name": "Pulaski",
@@ -81,15 +73,15 @@
   ],
   "summary": {
     "total_beds": 240,
-    "catchment_pop": 264214,
-    "catchment_pop_65_plus": 44506,
-    "catchment_pct_65_plus": 0.1684,
-    "max_catchment_radius_miles": 50.0,
-    "avg_catchment_distance_miles": 32.2,
-    "num_counties": 7,
+    "catchment_pop": 159356,
+    "catchment_pop_65_plus": 25408,
+    "catchment_pct_65_plus": 0.1594,
+    "max_catchment_radius_miles": 37.0,
+    "avg_catchment_distance_miles": 20.4,
+    "num_counties": 6,
     "hospital_employment": 1472,
     "msa_total_employment": 19155,
-    "hospital_emp_share": 0.0768,
-    "avg_govt_payer_share": 0.2877
+    "hospital_emp_share": 0.049,
+    "avg_govt_payer_share": 0.4176
   }
 }

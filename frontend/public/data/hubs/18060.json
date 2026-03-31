@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18060",
   "cbsa_name": "Columbus, MS",
-  "mdi": 0.6373,
+  "mdi": 0.6367,
   "bbox": [
     -90.06,
     32.09,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.5253,
       "lon": -88.4289,
-      "govt_payer_share": 0.323,
-      "medicare_discharges": 2827
+      "govt_payer_share": 0.5,
+      "medicare_discharges": 2828
     },
     {
       "facility_id": "251307",
@@ -28,8 +28,8 @@
       "ownership": "Government - State",
       "lat": 33.0886,
       "lon": -88.5561,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.872,
+      "medicare_discharges": 113
     }
   ],
   "catchment_counties": [
@@ -76,7 +76,7 @@
     "num_counties": 4,
     "hospital_employment": 213,
     "msa_total_employment": 27117,
-    "hospital_emp_share": 0.0743,
-    "avg_govt_payer_share": 0.3486
+    "hospital_emp_share": 0.044,
+    "avg_govt_payer_share": 0.5262
   }
 }

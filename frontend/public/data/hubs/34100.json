@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34100",
   "cbsa_name": "Morristown, TN",
-  "mdi": 0.2365,
+  "mdi": 0.4599,
   "bbox": [
     -84.97,
     35.1,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 36.212,
       "lon": -83.3044,
-      "govt_payer_share": 0.303,
-      "medicare_discharges": 1308
+      "govt_payer_share": NaN,
+      "medicare_discharges": 1281
     },
     {
       "facility_id": "440056",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 36.1038,
       "lon": -83.4663,
-      "govt_payer_share": 0.274,
-      "medicare_discharges": 521
+      "govt_payer_share": NaN,
+      "medicare_discharges": 607
     }
   ],
   "catchment_counties": [
@@ -84,7 +84,7 @@
     "num_counties": 5,
     "hospital_employment": 0,
     "msa_total_employment": 47583,
-    "hospital_emp_share": 0.0258,
-    "avg_govt_payer_share": 0.2956
+    "hospital_emp_share": 0.0185,
+    "avg_govt_payer_share": 0.6
   }
 }

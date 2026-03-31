@@ -1,7 +1,7 @@
 {
   "cbsa_code": "32380",
   "cbsa_name": "Mason City, IA",
-  "mdi": 0.758,
+  "mdi": 0.9211,
   "bbox": [
     -94.72,
     42.15,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.1485,
       "lon": -93.2162,
-      "govt_payer_share": 0.366,
-      "medicare_discharges": 3761
+      "govt_payer_share": 0.473,
+      "medicare_discharges": 3619
     }
   ],
   "catchment_counties": [
@@ -89,7 +89,7 @@
     "num_counties": 7,
     "hospital_employment": 0,
     "msa_total_employment": 23176,
-    "hospital_emp_share": 0.0785,
-    "avg_govt_payer_share": 0.3663
+    "hospital_emp_share": 0.0701,
+    "avg_govt_payer_share": 0.4726
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35140",
   "cbsa_name": "Newberry, SC",
-  "mdi": 0.2479,
+  "mdi": 0.4019,
   "bbox": [
     -83.12,
     33.28,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 34.2834,
       "lon": -81.6168,
-      "govt_payer_share": 0.215,
-      "medicare_discharges": 539
+      "govt_payer_share": 0.392,
+      "medicare_discharges": 503
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 14883,
-    "hospital_emp_share": 0.0313,
-    "avg_govt_payer_share": 0.2155
+    "hospital_emp_share": 0.025,
+    "avg_govt_payer_share": 0.3924
   }
 }

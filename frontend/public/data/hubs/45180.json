@@ -1,7 +1,7 @@
 {
   "cbsa_code": "45180",
   "cbsa_name": "Talladega-Sylacauga, AL",
-  "mdi": 0.1494,
+  "mdi": 0.352,
   "bbox": [
     -87.75,
     32.16,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 33.1646,
       "lon": -86.2544,
-      "govt_payer_share": 0.213,
-      "medicare_discharges": 492
+      "govt_payer_share": 0.549,
+      "medicare_discharges": 498
     },
     {
       "facility_id": "010101",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.3634,
       "lon": -86.1107,
-      "govt_payer_share": 0.221,
-      "medicare_discharges": 331
+      "govt_payer_share": 0.275,
+      "medicare_discharges": 318
     }
   ],
   "catchment_counties": [
@@ -68,7 +68,7 @@
     "num_counties": 3,
     "hospital_employment": 767,
     "msa_total_employment": 31636,
-    "hospital_emp_share": 0.0231,
-    "avg_govt_payer_share": 0.2162
+    "hospital_emp_share": 0.0162,
+    "avg_govt_payer_share": 0.4338
   }
 }

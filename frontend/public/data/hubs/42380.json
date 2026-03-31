@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42380",
   "cbsa_name": "Sayre, PA",
-  "mdi": 0.7917,
+  "mdi": 0.7654,
   "bbox": [
     -78.3,
     40.76,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.9807,
       "lon": -76.5216,
-      "govt_payer_share": 0.406,
-      "medicare_discharges": 3709
+      "govt_payer_share": 0.268,
+      "medicare_discharges": 3353
     },
     {
       "facility_id": "391305",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.7595,
       "lon": -76.8041,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.371,
+      "medicare_discharges": 205
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 22482,
-    "hospital_emp_share": 0.0836,
-    "avg_govt_payer_share": 0.4263
+    "hospital_emp_share": 0.0767,
+    "avg_govt_payer_share": 0.276
   }
 }

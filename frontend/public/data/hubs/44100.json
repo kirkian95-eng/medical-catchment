@@ -1,12 +1,12 @@
 {
   "cbsa_code": "44100",
   "cbsa_name": "Springfield, IL",
-  "mdi": 0.5161,
+  "mdi": 0.4983,
   "bbox": [
-    -91.28,
-    38.51,
-    -88.02,
-    41.11
+    -91.15,
+    38.81,
+    -88.15,
+    40.81
   ],
   "hospitals": [
     {
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 39.8072,
       "lon": -89.6456,
-      "govt_payer_share": 0.331,
-      "medicare_discharges": 5329
+      "govt_payer_share": 0.307,
+      "medicare_discharges": 4818
     },
     {
       "facility_id": "140148",
@@ -28,27 +28,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.8091,
       "lon": -89.6545,
-      "govt_payer_share": 0.415,
-      "medicare_discharges": 6040
+      "govt_payer_share": 0.336,
+      "medicare_discharges": 5596
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "29183",
-      "county_name": "St. Charles",
-      "state": "MO",
-      "pop_total": 406262,
-      "pop_65_plus": 65171,
-      "distance_to_hub_miles": 89.5
-    },
-    {
-      "county_fips": "29510",
-      "county_name": "St. Louis",
-      "state": "MO",
-      "pop_total": 298018,
-      "pop_65_plus": 43123,
-      "distance_to_hub_miles": 87.0
-    },
     {
       "county_fips": "17167",
       "county_name": "Sangamon",
@@ -56,14 +40,6 @@
       "pop_total": 196122,
       "pop_65_plus": 36316,
       "distance_to_hub_miles": 3.5
-    },
-    {
-      "county_fips": "17117",
-      "county_name": "Macoupin",
-      "state": "IL",
-      "pop_total": 44907,
-      "pop_65_plus": 9288,
-      "distance_to_hub_miles": 40.5
     },
     {
       "county_fips": "17135",
@@ -80,14 +56,6 @@
       "pop_total": 28027,
       "pop_65_plus": 5301,
       "distance_to_hub_miles": 26.5
-    },
-    {
-      "county_fips": "17083",
-      "county_name": "Jersey",
-      "state": "IL",
-      "pop_total": 21462,
-      "pop_65_plus": 4276,
-      "distance_to_hub_miles": 62.6
     },
     {
       "county_fips": "17017",
@@ -112,27 +80,19 @@
       "pop_total": 12015,
       "pop_65_plus": 2402,
       "distance_to_hub_miles": 50.3
-    },
-    {
-      "county_fips": "17013",
-      "county_name": "Calhoun",
-      "state": "IL",
-      "pop_total": 4472,
-      "pop_65_plus": 1080,
-      "distance_to_hub_miles": 70.0
     }
   ],
   "summary": {
     "total_beds": 1293,
-    "catchment_pop": 1064876,
-    "catchment_pop_65_plus": 177666,
-    "catchment_pct_65_plus": 0.1668,
-    "max_catchment_radius_miles": 89.5,
-    "avg_catchment_distance_miles": 65.4,
-    "num_counties": 11,
+    "catchment_pop": 289755,
+    "catchment_pop_65_plus": 54728,
+    "catchment_pct_65_plus": 0.1889,
+    "max_catchment_radius_miles": 50.3,
+    "avg_catchment_distance_miles": 13.3,
+    "num_counties": 6,
     "hospital_employment": 6897,
     "msa_total_employment": 128309,
-    "hospital_emp_share": 0.053,
-    "avg_govt_payer_share": 0.3675
+    "hospital_emp_share": 0.039,
+    "avg_govt_payer_share": 0.3196
   }
 }

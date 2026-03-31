@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13660",
   "cbsa_name": "Big Rapids, MI",
-  "mdi": 0.2713,
+  "mdi": 0.3725,
   "bbox": [
     -86.98,
     42.69,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.6932,
       "lon": -85.4751,
-      "govt_payer_share": 0.26,
-      "medicare_discharges": 464
+      "govt_payer_share": 0.242,
+      "medicare_discharges": 445
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 13160,
-    "hospital_emp_share": 0.03,
-    "avg_govt_payer_share": 0.2605
+    "hospital_emp_share": 0.0248,
+    "avg_govt_payer_share": 0.2421
   }
 }

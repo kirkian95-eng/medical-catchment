@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18260",
   "cbsa_name": "Cookeville, TN",
-  "mdi": 0.448,
+  "mdi": 0.5735,
   "bbox": [
     -87.01,
     34.95,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 36.1706,
       "lon": -85.5093,
-      "govt_payer_share": 0.464,
-      "medicare_discharges": 4280
+      "govt_payer_share": 0.334,
+      "medicare_discharges": 3946
     },
     {
       "facility_id": "440187",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 36.3851,
       "lon": -85.3281,
-      "govt_payer_share": 0.242,
-      "medicare_discharges": 453
+      "govt_payer_share": 0.515,
+      "medicare_discharges": 449
     },
     {
       "facility_id": "440192",
@@ -39,19 +39,11 @@
       "ownership": "Proprietary",
       "lat": 35.9531,
       "lon": -85.4304,
-      "govt_payer_share": 0.203,
-      "medicare_discharges": 175
+      "govt_payer_share": NaN,
+      "medicare_discharges": 188
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "47189",
-      "county_name": "Wilson",
-      "state": "TN",
-      "pop_total": 149096,
-      "pop_65_plus": 23516,
-      "distance_to_hub_miles": 47.2
-    },
     {
       "county_fips": "47141",
       "county_name": "Putnam",
@@ -75,14 +67,6 @@
       "pop_total": 22576,
       "pop_65_plus": 4538,
       "distance_to_hub_miles": 13.9
-    },
-    {
-      "county_fips": "47159",
-      "county_name": "Smith",
-      "state": "TN",
-      "pop_total": 20034,
-      "pop_65_plus": 3291,
-      "distance_to_hub_miles": 28.3
     },
     {
       "county_fips": "47049",
@@ -127,15 +111,15 @@
   ],
   "summary": {
     "total_beds": 439,
-    "catchment_pop": 351584,
-    "catchment_pop_65_plus": 61958,
-    "catchment_pct_65_plus": 0.1762,
-    "max_catchment_radius_miles": 47.2,
-    "avg_catchment_distance_miles": 29.3,
-    "num_counties": 10,
+    "catchment_pop": 182454,
+    "catchment_pop_65_plus": 35151,
+    "catchment_pct_65_plus": 0.1927,
+    "max_catchment_radius_miles": 40.7,
+    "avg_catchment_distance_miles": 14.8,
+    "num_counties": 8,
     "hospital_employment": 2364,
     "msa_total_employment": 52173,
-    "hospital_emp_share": 0.044,
-    "avg_govt_payer_share": 0.3729
+    "hospital_emp_share": 0.0415,
+    "avg_govt_payer_share": 0.416
   }
 }

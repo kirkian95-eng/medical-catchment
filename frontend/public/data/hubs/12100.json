@@ -1,7 +1,7 @@
 {
   "cbsa_code": "12100",
   "cbsa_name": "Atlantic City-Hammonton, NJ",
-  "mdi": 0.3392,
+  "mdi": 0.4619,
   "bbox": [
     -76.32,
     38.12,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.3579,
       "lon": -74.434,
-      "govt_payer_share": 0.406,
-      "medicare_discharges": 7109
+      "govt_payer_share": 0.327,
+      "medicare_discharges": 6906
     },
     {
       "facility_id": "310047",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.3142,
       "lon": -74.592,
-      "govt_payer_share": 0.344,
-      "medicare_discharges": 3042
+      "govt_payer_share": 0.505,
+      "medicare_discharges": 3044
     },
     {
       "facility_id": "310011",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.1192,
       "lon": -74.8232,
-      "govt_payer_share": 0.377,
-      "medicare_discharges": 2607
+      "govt_payer_share": 0.506,
+      "medicare_discharges": 2561
     }
   ],
   "catchment_counties": [
@@ -71,7 +71,7 @@
     "num_counties": 2,
     "hospital_employment": 5236,
     "msa_total_employment": 166871,
-    "hospital_emp_share": 0.0314,
-    "avg_govt_payer_share": 0.3837
+    "hospital_emp_share": 0.0289,
+    "avg_govt_payer_share": 0.4124
   }
 }

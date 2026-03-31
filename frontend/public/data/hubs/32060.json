@@ -1,7 +1,7 @@
 {
   "cbsa_code": "32060",
   "cbsa_name": "Marion-Herrin, IL",
-  "mdi": 0.5291,
+  "mdi": 0.5033,
   "bbox": [
     -90.53,
     36.71,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.8199,
       "lon": -89.026,
-      "govt_payer_share": 0.612,
-      "medicare_discharges": 2012
+      "govt_payer_share": 0.471,
+      "medicare_discharges": 1940
     },
     {
       "facility_id": "140184",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 37.7112,
       "lon": -88.9146,
-      "govt_payer_share": 0.333,
-      "medicare_discharges": 948
+      "govt_payer_share": 0.408,
+      "medicare_discharges": 606
     }
   ],
   "catchment_counties": [
@@ -76,7 +76,7 @@
     "num_counties": 4,
     "hospital_employment": 1140,
     "msa_total_employment": 28238,
-    "hospital_emp_share": 0.0404,
-    "avg_govt_payer_share": 0.4813
+    "hospital_emp_share": 0.0327,
+    "avg_govt_payer_share": 0.4417
   }
 }

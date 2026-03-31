@@ -1,7 +1,7 @@
 {
   "cbsa_code": "47180",
   "cbsa_name": "Vincennes, IN",
-  "mdi": 0.6842,
+  "mdi": 0.8991,
   "bbox": [
     -89.03,
     37.67,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 38.6738,
       "lon": -87.5323,
-      "govt_payer_share": 0.329,
-      "medicare_discharges": 1719
+      "govt_payer_share": 0.449,
+      "medicare_discharges": 1690
     }
   ],
   "catchment_counties": [
@@ -81,7 +81,7 @@
     "num_counties": 6,
     "hospital_employment": 1399,
     "msa_total_employment": 17223,
-    "hospital_emp_share": 0.0812,
-    "avg_govt_payer_share": 0.3288
+    "hospital_emp_share": 0.0795,
+    "avg_govt_payer_share": 0.4491
   }
 }

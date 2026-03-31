@@ -1,7 +1,7 @@
 {
   "cbsa_code": "12220",
   "cbsa_name": "Auburn-Opelika, AL",
-  "mdi": 0.3427,
+  "mdi": 0.4597,
   "bbox": [
     -86.91,
     31.64,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.638,
       "lon": -85.4059,
-      "govt_payer_share": 0.297,
-      "medicare_discharges": 2563
+      "govt_payer_share": 0.414,
+      "medicare_discharges": 2323
     }
   ],
   "catchment_counties": [
@@ -57,7 +57,7 @@
     "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 65362,
-    "hospital_emp_share": 0.0359,
-    "avg_govt_payer_share": 0.2975
+    "hospital_emp_share": 0.0301,
+    "avg_govt_payer_share": 0.4142
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19580",
   "cbsa_name": "Defiance, OH",
-  "mdi": 0.2878,
+  "mdi": 0.4872,
   "bbox": [
     -85.87,
     40.3,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.2996,
       "lon": -84.3739,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.409,
+      "medicare_discharges": 282
     },
     {
       "facility_id": "360270",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 41.3034,
       "lon": -84.3583,
-      "govt_payer_share": 0.372,
-      "medicare_discharges": 491
+      "govt_payer_share": 0.478,
+      "medicare_discharges": 481
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 209,
     "msa_total_employment": 15264,
-    "hospital_emp_share": 0.0137,
-    "avg_govt_payer_share": 0.558
+    "hospital_emp_share": 0.032,
+    "avg_govt_payer_share": 0.4361
   }
 }

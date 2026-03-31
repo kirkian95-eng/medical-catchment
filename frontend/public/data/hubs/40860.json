@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40860",
   "cbsa_name": "Rutland, VT",
-  "mdi": 0.6139,
+  "mdi": 0.8121,
   "bbox": [
     -74.46,
     42.6,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.599,
       "lon": -72.9568,
-      "govt_payer_share": 0.347,
-      "medicare_discharges": 2242
+      "govt_payer_share": 0.617,
+      "medicare_discharges": 2266
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 25139,
-    "hospital_emp_share": 0.0671,
-    "avg_govt_payer_share": 0.3472
+    "hospital_emp_share": 0.0519,
+    "avg_govt_payer_share": 0.6174
   }
 }

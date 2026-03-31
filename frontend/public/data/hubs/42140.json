@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42140",
   "cbsa_name": "Santa Fe, NM",
-  "mdi": 0.387,
+  "mdi": 0.5719,
   "bbox": [
     -107.5,
     34.66,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.6576,
       "lon": -105.9465,
-      "govt_payer_share": 0.392,
-      "medicare_discharges": 3145
+      "govt_payer_share": 0.343,
+      "medicare_discharges": 3043
     },
     {
       "facility_id": "320090",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.6566,
       "lon": -105.9956,
-      "govt_payer_share": 0.295,
-      "medicare_discharges": 345
+      "govt_payer_share": 0.229,
+      "medicare_discharges": 335
     },
     {
       "facility_id": "320057",
@@ -63,7 +63,7 @@
     "num_counties": 1,
     "hospital_employment": 139,
     "msa_total_employment": 61095,
-    "hospital_emp_share": 0.0351,
-    "avg_govt_payer_share": 0.3893
+    "hospital_emp_share": 0.0422,
+    "avg_govt_payer_share": 0.3419
   }
 }

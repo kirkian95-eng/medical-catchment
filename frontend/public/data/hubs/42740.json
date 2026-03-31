@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42740",
   "cbsa_name": "Sedalia, MO",
-  "mdi": 0.303,
+  "mdi": 0.5959,
   "bbox": [
     -94.72,
     37.7,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 38.6991,
       "lon": -93.2219,
-      "govt_payer_share": 0.253,
-      "medicare_discharges": 956
+      "govt_payer_share": 0.45,
+      "medicare_discharges": 975
     }
   ],
   "catchment_counties": [
@@ -73,7 +73,7 @@
     "num_counties": 5,
     "hospital_employment": 713,
     "msa_total_employment": 19336,
-    "hospital_emp_share": 0.0369,
-    "avg_govt_payer_share": 0.2528
+    "hospital_emp_share": 0.0385,
+    "avg_govt_payer_share": 0.4497
   }
 }

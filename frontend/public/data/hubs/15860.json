@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15860",
   "cbsa_name": "Ca\u00f1on City, CO",
-  "mdi": 0.5931,
+  "mdi": 0.4067,
   "bbox": [
     -106.73,
     37.46,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.4558,
       "lon": -105.2301,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.457,
+      "medicare_discharges": 311
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 14147,
-    "hospital_emp_share": 0.0411,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0172,
+    "avg_govt_payer_share": 0.4572
   }
 }

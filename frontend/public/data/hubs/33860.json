@@ -1,7 +1,7 @@
 {
   "cbsa_code": "33860",
   "cbsa_name": "Montgomery, AL",
-  "mdi": 0.2844,
+  "mdi": 0.4429,
   "bbox": [
     -88.06,
     31.33,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.3273,
       "lon": -86.2745,
-      "govt_payer_share": 0.318,
-      "medicare_discharges": 2545
+      "govt_payer_share": 0.365,
+      "medicare_discharges": 2422
     },
     {
       "facility_id": "010024",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.3666,
       "lon": -86.2852,
-      "govt_payer_share": 0.326,
-      "medicare_discharges": 2555
+      "govt_payer_share": 0.352,
+      "medicare_discharges": 2415
     },
     {
       "facility_id": "010149",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.3879,
       "lon": -86.1761,
-      "govt_payer_share": 0.343,
-      "medicare_discharges": 1411
+      "govt_payer_share": 0.399,
+      "medicare_discharges": 1251
     },
     {
       "facility_id": "010108",
@@ -50,8 +50,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.5165,
       "lon": -86.5615,
-      "govt_payer_share": 0.302,
-      "medicare_discharges": 677
+      "govt_payer_share": 0.342,
+      "medicare_discharges": 663
     },
     {
       "facility_id": "010034",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.547,
       "lon": -85.9427,
-      "govt_payer_share": 0.177,
-      "medicare_discharges": 107
+      "govt_payer_share": 0.439,
+      "medicare_discharges": 116
     },
     {
       "facility_id": "010097",
@@ -72,8 +72,8 @@
       "ownership": "Proprietary",
       "lat": 32.6145,
       "lon": -86.1972,
-      "govt_payer_share": 0.203,
-      "medicare_discharges": 158
+      "govt_payer_share": 0.331,
+      "medicare_discharges": 154
     }
   ],
   "catchment_counties": [
@@ -129,6 +129,6 @@
     "hospital_employment": 5085,
     "msa_total_employment": 163458,
     "hospital_emp_share": 0.0306,
-    "avg_govt_payer_share": 0.3098
+    "avg_govt_payer_share": 0.3672
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14820",
   "cbsa_name": "Brevard, NC",
-  "mdi": 0.5796,
+  "mdi": 0.3702,
   "bbox": [
     -84.27,
     34.17,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.1733,
       "lon": -82.7708,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.432,
+      "medicare_discharges": 630
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 9648,
-    "hospital_emp_share": 0.0374,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0159,
+    "avg_govt_payer_share": 0.4325
   }
 }

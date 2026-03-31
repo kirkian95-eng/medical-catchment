@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44860",
   "cbsa_name": "Sulphur Springs, TX",
-  "mdi": 0.3287,
+  "mdi": 0.3928,
   "bbox": [
     -97.1,
     32.16,
@@ -17,19 +17,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.1564,
       "lon": -95.6,
-      "govt_payer_share": 0.314,
-      "medicare_discharges": 928
+      "govt_payer_share": 0.328,
+      "medicare_discharges": 952
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "48231",
-      "county_name": "Hunt",
-      "state": "TX",
-      "pop_total": 101596,
-      "pop_65_plus": 16142,
-      "distance_to_hub_miles": 28.2
-    },
     {
       "county_fips": "48223",
       "county_name": "Hopkins",
@@ -57,15 +49,15 @@
   ],
   "summary": {
     "total_beds": 96,
-    "catchment_pop": 156139,
-    "catchment_pop_65_plus": 26937,
-    "catchment_pct_65_plus": 0.1725,
-    "max_catchment_radius_miles": 28.2,
-    "avg_catchment_distance_miles": 21.2,
-    "num_counties": 4,
+    "catchment_pop": 54543,
+    "catchment_pop_65_plus": 10795,
+    "catchment_pct_65_plus": 0.1979,
+    "max_catchment_radius_miles": 22.7,
+    "avg_catchment_distance_miles": 8.1,
+    "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 14177,
-    "hospital_emp_share": 0.0352,
-    "avg_govt_payer_share": 0.3139
+    "hospital_emp_share": 0.0276,
+    "avg_govt_payer_share": 0.3282
   }
 }

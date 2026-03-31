@@ -1,7 +1,7 @@
 {
   "cbsa_code": "26020",
   "cbsa_name": "Hobbs, NM",
-  "mdi": 0.2198,
+  "mdi": 0.3246,
   "bbox": [
     -104.95,
     31.67,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.6747,
       "lon": -103.4468,
-      "govt_payer_share": 0.231,
-      "medicare_discharges": 261
+      "govt_payer_share": 0.277,
+      "medicare_discharges": 239
     },
     {
       "facility_id": "321305",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.993,
       "lon": -103.3828,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 165
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 739,
     "msa_total_employment": 32296,
-    "hospital_emp_share": 0.0229,
-    "avg_govt_payer_share": 0.3343
+    "hospital_emp_share": 0.0178,
+    "avg_govt_payer_share": 0.3507
   }
 }

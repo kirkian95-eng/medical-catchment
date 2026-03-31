@@ -1,7 +1,7 @@
 {
   "cbsa_code": "30780",
   "cbsa_name": "Little Rock-North Little Rock-Conway, AR",
-  "mdi": 0.8183,
+  "mdi": 0.5519,
   "bbox": [
     -94.2,
     33.57,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.7457,
       "lon": -92.3825,
-      "govt_payer_share": 0.375,
-      "medicare_discharges": 7156
+      "govt_payer_share": 0.34,
+      "medicare_discharges": 6803
     },
     {
       "facility_id": "040007",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.7495,
       "lon": -92.3514,
-      "govt_payer_share": 0.331,
-      "medicare_discharges": 4435
+      "govt_payer_share": 0.375,
+      "medicare_discharges": 4086
     },
     {
       "facility_id": "040016",
@@ -39,8 +39,8 @@
       "ownership": "Government - State",
       "lat": 34.7515,
       "lon": -92.3207,
-      "govt_payer_share": 0.406,
-      "medicare_discharges": 4347
+      "govt_payer_share": 0.306,
+      "medicare_discharges": 4209
     },
     {
       "facility_id": "040036",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.7832,
       "lon": -92.218,
-      "govt_payer_share": 0.5,
-      "medicare_discharges": 4033
+      "govt_payer_share": 0.431,
+      "medicare_discharges": 3900
     },
     {
       "facility_id": "040084",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 34.5749,
       "lon": -92.5845,
-      "govt_payer_share": 0.255,
-      "medicare_discharges": 1083
+      "govt_payer_share": 0.491,
+      "medicare_discharges": 1071
     },
     {
       "facility_id": "040029",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.0849,
       "lon": -92.4583,
-      "govt_payer_share": 0.478,
-      "medicare_discharges": 2458
+      "govt_payer_share": 0.413,
+      "medicare_discharges": 2422
     },
     {
       "facility_id": "040154",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.0564,
       "lon": -92.4193,
-      "govt_payer_share": 0.374,
-      "medicare_discharges": 1181
+      "govt_payer_share": 0.452,
+      "medicare_discharges": 1158
     },
     {
       "facility_id": "040134",
@@ -94,8 +94,8 @@
       "ownership": "Proprietary",
       "lat": 34.7463,
       "lon": -92.4172,
-      "govt_payer_share": 0.452,
-      "medicare_discharges": 2271
+      "govt_payer_share": 0.418,
+      "medicare_discharges": 2316
     },
     {
       "facility_id": "040137",
@@ -105,8 +105,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 34.9022,
       "lon": -92.2408,
-      "govt_payer_share": 0.45,
-      "medicare_discharges": 1054
+      "govt_payer_share": 0.371,
+      "medicare_discharges": 1024
     },
     {
       "facility_id": "040147",
@@ -116,8 +116,8 @@
       "ownership": "Physician",
       "lat": 34.8405,
       "lon": -92.326,
-      "govt_payer_share": 0.276,
-      "medicare_discharges": 772
+      "govt_payer_share": 0.491,
+      "medicare_discharges": 752
     },
     {
       "facility_id": "040164",
@@ -127,8 +127,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.9121,
       "lon": -92.1377,
-      "govt_payer_share": 0.137,
-      "medicare_discharges": 29
+      "govt_payer_share": 0.111,
+      "medicare_discharges": 19
     },
     {
       "facility_id": "040161",
@@ -138,8 +138,8 @@
       "ownership": "Proprietary",
       "lat": 34.6338,
       "lon": -92.699,
-      "govt_payer_share": 0.456,
-      "medicare_discharges": 736
+      "govt_payer_share": 0.385,
+      "medicare_discharges": 756
     }
   ],
   "catchment_counties": [
@@ -210,7 +210,7 @@
     "num_counties": 7,
     "hospital_employment": 28862,
     "msa_total_employment": 328266,
-    "hospital_emp_share": 0.0827,
-    "avg_govt_payer_share": 0.3798
+    "hospital_emp_share": 0.042,
+    "avg_govt_payer_share": 0.3717
   }
 }

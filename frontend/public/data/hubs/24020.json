@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24020",
   "cbsa_name": "Glens Falls, NY",
-  "mdi": 0.4382,
+  "mdi": 0.4543,
   "bbox": [
     -75.15,
     42.31,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.3072,
       "lon": -73.6462,
-      "govt_payer_share": 0.3,
-      "medicare_discharges": 2592
+      "govt_payer_share": 0.276,
+      "medicare_discharges": 2565
     }
   ],
   "catchment_counties": [
@@ -65,7 +65,7 @@
     "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 36319,
-    "hospital_emp_share": 0.0508,
-    "avg_govt_payer_share": 0.2999
+    "hospital_emp_share": 0.0339,
+    "avg_govt_payer_share": 0.2757
   }
 }

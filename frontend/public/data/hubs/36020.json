@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36020",
   "cbsa_name": "Oak Harbor, WA",
-  "mdi": 0.5027,
+  "mdi": 0.4524,
   "bbox": [
     -124.15,
     47.2,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 48.1982,
       "lon": -122.6541,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.407,
+      "medicare_discharges": 358
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 1,
     "msa_total_employment": 18070,
-    "hospital_emp_share": 0.0286,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0252,
+    "avg_govt_payer_share": 0.4073
   }
 }

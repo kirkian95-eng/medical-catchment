@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18460",
   "cbsa_name": "Cornelia, GA",
-  "mdi": 0.0891,
+  "mdi": 0.3711,
   "bbox": [
     -85.07,
     33.58,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.5788,
       "lon": -83.5711,
-      "govt_payer_share": 0.217,
-      "medicare_discharges": 231
+      "govt_payer_share": 0.568,
+      "medicare_discharges": 64
     }
   ],
   "catchment_counties": [
@@ -57,7 +57,7 @@
     "num_counties": 3,
     "hospital_employment": 218,
     "msa_total_employment": 14223,
-    "hospital_emp_share": 0.0153,
-    "avg_govt_payer_share": 0.2168
+    "hospital_emp_share": 0.0139,
+    "avg_govt_payer_share": 0.5682
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "46700",
   "cbsa_name": "Vallejo, CA",
-  "mdi": 0.2624,
+  "mdi": 0.4113,
   "bbox": [
     -123.75,
     37.13,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.1283,
       "lon": -122.2478,
-      "govt_payer_share": 0.192,
-      "medicare_discharges": 514
+      "govt_payer_share": 0.173,
+      "medicare_discharges": 454
     },
     {
       "facility_id": "050367",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.261,
       "lon": -122.0483,
-      "govt_payer_share": 0.779,
-      "medicare_discharges": 3475
+      "govt_payer_share": 0.39,
+      "medicare_discharges": 3460
     },
     {
       "facility_id": "050101",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.1415,
       "lon": -122.2469,
-      "govt_payer_share": 0.438,
-      "medicare_discharges": 1213
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 1173
     },
     {
       "facility_id": "050767",
@@ -50,19 +50,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.3901,
       "lon": -121.9375,
-      "govt_payer_share": 0.264,
-      "medicare_discharges": 345
+      "govt_payer_share": 0.129,
+      "medicare_discharges": 275
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "06013",
-      "county_name": "Contra Costa",
-      "state": "CA",
-      "pop_total": 1162648,
-      "pop_65_plus": 190307,
-      "distance_to_hub_miles": 21.6
-    },
     {
       "county_fips": "06095",
       "county_name": "Solano",
@@ -74,15 +66,15 @@
   ],
   "summary": {
     "total_beds": 781,
-    "catchment_pop": 1613643,
-    "catchment_pop_65_plus": 264848,
-    "catchment_pct_65_plus": 0.1641,
-    "max_catchment_radius_miles": 21.6,
-    "avg_catchment_distance_miles": 19.7,
-    "num_counties": 2,
+    "catchment_pop": 450995,
+    "catchment_pop_65_plus": 74541,
+    "catchment_pct_65_plus": 0.1653,
+    "max_catchment_radius_miles": 14.9,
+    "avg_catchment_distance_miles": 14.9,
+    "num_counties": 1,
     "hospital_employment": 3418,
     "msa_total_employment": 139939,
-    "hospital_emp_share": 0.0244,
-    "avg_govt_payer_share": 0.326
+    "hospital_emp_share": 0.0295,
+    "avg_govt_payer_share": 0.2302
   }
 }

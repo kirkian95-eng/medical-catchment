@@ -1,7 +1,7 @@
 {
   "cbsa_code": "12700",
   "cbsa_name": "Barnstable Town, MA",
-  "mdi": 0.5896,
+  "mdi": 0.5574,
   "bbox": [
     -72.13,
     40.57,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.6546,
       "lon": -70.2736,
-      "govt_payer_share": 0.784,
-      "medicare_discharges": 8747
+      "govt_payer_share": 0.615,
+      "medicare_discharges": 8453
     },
     {
       "facility_id": "220135",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.5695,
       "lon": -70.6272,
-      "govt_payer_share": 0.799,
-      "medicare_discharges": 3206
+      "govt_payer_share": 0.7,
+      "medicare_discharges": 3143
     }
   ],
   "catchment_counties": [
@@ -68,7 +68,7 @@
     "num_counties": 3,
     "hospital_employment": 3649,
     "msa_total_employment": 95986,
-    "hospital_emp_share": 0.038,
-    "avg_govt_payer_share": 0.7883
+    "hospital_emp_share": 0.0271,
+    "avg_govt_payer_share": 0.6381
   }
 }

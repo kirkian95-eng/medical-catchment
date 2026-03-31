@@ -1,7 +1,7 @@
 {
   "cbsa_code": "37940",
   "cbsa_name": "Peru, IN",
-  "mdi": 0.3677,
+  "mdi": 0.4496,
   "bbox": [
     -87.58,
     39.76,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 40.7565,
       "lon": -86.0839,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.509,
+      "medicare_discharges": 264
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 8767,
-    "hospital_emp_share": 0.0144,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0216,
+    "avg_govt_payer_share": 0.5092
   }
 }

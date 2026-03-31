@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43760",
   "cbsa_name": "Sonora, CA",
-  "mdi": 0.4303,
+  "mdi": 0.7799,
   "bbox": [
     -121.87,
     36.98,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 37.9769,
       "lon": -120.3697,
-      "govt_payer_share": 0.382,
-      "medicare_discharges": 1927
+      "govt_payer_share": 0.55,
+      "medicare_discharges": 1915
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 17392,
-    "hospital_emp_share": 0.0435,
-    "avg_govt_payer_share": 0.3822
+    "hospital_emp_share": 0.0502,
+    "avg_govt_payer_share": 0.5498
   }
 }

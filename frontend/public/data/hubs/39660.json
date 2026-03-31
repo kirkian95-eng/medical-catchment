@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39660",
   "cbsa_name": "Rapid City, SD",
-  "mdi": 0.582,
+  "mdi": 0.7887,
   "bbox": [
     -106.17,
     41.72,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.0586,
       "lon": -103.2245,
-      "govt_payer_share": 0.479,
-      "medicare_discharges": 5612
+      "govt_payer_share": 0.561,
+      "medicare_discharges": 5529
     },
     {
       "facility_id": "430091",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 44.0046,
       "lon": -103.0426,
-      "govt_payer_share": 0.422,
-      "medicare_discharges": 861
+      "govt_payer_share": 0.538,
+      "medicare_discharges": 844
     },
     {
       "facility_id": "431321",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 44.4025,
       "lon": -103.1888,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.701,
+      "medicare_discharges": 240
     },
     {
       "facility_id": "431323",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.7266,
       "lon": -103.6486,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.589,
+      "medicare_discharges": 171
     },
     {
       "facility_id": "430093",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 44.1218,
       "lon": -103.2012,
-      "govt_payer_share": 0.138,
-      "medicare_discharges": 11
+      "govt_payer_share": 0.371,
+      "medicare_discharges": 9
     }
   ],
   "catchment_counties": [
@@ -97,14 +97,6 @@
       "pop_total": 13695,
       "pop_65_plus": 1025,
       "distance_to_hub_miles": 60.8
-    },
-    {
-      "county_fips": "31013",
-      "county_name": "Box Butte",
-      "state": "NE",
-      "pop_total": 10778,
-      "pop_65_plus": 2058,
-      "distance_to_hub_miles": 128.2
     },
     {
       "county_fips": "46019",
@@ -253,15 +245,15 @@
   ],
   "summary": {
     "total_beds": 486,
-    "catchment_pop": 270624,
-    "catchment_pop_65_plus": 51583,
+    "catchment_pop": 259846,
+    "catchment_pop_65_plus": 49525,
     "catchment_pct_65_plus": 0.1906,
     "max_catchment_radius_miles": 138.8,
-    "avg_catchment_distance_miles": 49.9,
-    "num_counties": 23,
+    "avg_catchment_distance_miles": 46.7,
+    "num_counties": 22,
     "hospital_employment": 930,
     "msa_total_employment": 72343,
-    "hospital_emp_share": 0.0453,
-    "avg_govt_payer_share": 0.4869
+    "hospital_emp_share": 0.0497,
+    "avg_govt_payer_share": 0.5654
   }
 }

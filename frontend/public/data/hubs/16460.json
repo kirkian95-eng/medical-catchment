@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16460",
   "cbsa_name": "Centralia, IL",
-  "mdi": 0.6626,
+  "mdi": 0.7375,
   "bbox": [
     -90.64,
     37.51,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 38.511,
       "lon": -89.1405,
-      "govt_payer_share": 0.366,
-      "medicare_discharges": 1223
+      "govt_payer_share": 0.57,
+      "medicare_discharges": 1204
     },
     {
       "facility_id": "141345",
@@ -28,27 +28,11 @@
       "ownership": "Government - Local",
       "lat": 38.6386,
       "lon": -88.9273,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.738,
+      "medicare_discharges": 194
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "17119",
-      "county_name": "Madison",
-      "state": "IL",
-      "pop_total": 265512,
-      "pop_65_plus": 46996,
-      "distance_to_hub_miles": 47.8
-    },
-    {
-      "county_fips": "17163",
-      "county_name": "St. Clair",
-      "state": "IL",
-      "pop_total": 256791,
-      "pop_65_plus": 42018,
-      "distance_to_hub_miles": 44.7
-    },
     {
       "county_fips": "17121",
       "county_name": "Marion",
@@ -56,22 +40,6 @@
       "pop_total": 37543,
       "pop_65_plus": 7405,
       "distance_to_hub_miles": 12.9
-    },
-    {
-      "county_fips": "17027",
-      "county_name": "Clinton",
-      "state": "IL",
-      "pop_total": 36998,
-      "pop_65_plus": 6531,
-      "distance_to_hub_miles": 18.0
-    },
-    {
-      "county_fips": "17005",
-      "county_name": "Bond",
-      "state": "IL",
-      "pop_total": 16750,
-      "pop_65_plus": 3026,
-      "distance_to_hub_miles": 30.3
     },
     {
       "county_fips": "17189",
@@ -84,15 +52,15 @@
   ],
   "summary": {
     "total_beds": 150,
-    "catchment_pop": 627375,
-    "catchment_pop_65_plus": 108836,
-    "catchment_pct_65_plus": 0.1735,
-    "max_catchment_radius_miles": 47.8,
-    "avg_catchment_distance_miles": 41.6,
-    "num_counties": 6,
+    "catchment_pop": 51324,
+    "catchment_pop_65_plus": 10265,
+    "catchment_pct_65_plus": 0.2,
+    "max_catchment_radius_miles": 20.7,
+    "avg_catchment_distance_miles": 15.0,
+    "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 12623,
-    "hospital_emp_share": 0.063,
-    "avg_govt_payer_share": 0.4185
+    "hospital_emp_share": 0.045,
+    "avg_govt_payer_share": 0.5982
   }
 }

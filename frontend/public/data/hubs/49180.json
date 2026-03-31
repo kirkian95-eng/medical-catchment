@@ -1,7 +1,7 @@
 {
   "cbsa_code": "49180",
   "cbsa_name": "Winston-Salem, NC",
-  "mdi": 0.7746,
+  "mdi": 0.6226,
   "bbox": [
     -81.82,
     34.88,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.0763,
       "lon": -80.2995,
-      "govt_payer_share": 0.356,
-      "medicare_discharges": 7432
+      "govt_payer_share": 0.22,
+      "medicare_discharges": 7215
     },
     {
       "facility_id": "340047",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.0904,
       "lon": -80.2718,
-      "govt_payer_share": 0.321,
-      "medicare_discharges": 6317
+      "govt_payer_share": 0.232,
+      "medicare_discharges": 5985
     },
     {
       "facility_id": "340085",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.8823,
       "lon": -80.1119,
-      "govt_payer_share": 0.214,
-      "medicare_discharges": 420
+      "govt_payer_share": 0.172,
+      "medicare_discharges": 417
     },
     {
       "facility_id": "340148",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 36.0582,
       "lon": -80.3215,
-      "govt_payer_share": 0.129,
-      "medicare_discharges": 116
+      "govt_payer_share": 0.213,
+      "medicare_discharges": 112
     },
     {
       "facility_id": "341317",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 36.4475,
       "lon": -80.2188,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.442,
+      "medicare_discharges": 50
     }
   ],
   "catchment_counties": [
@@ -81,14 +81,6 @@
       "pop_total": 169498,
       "pop_65_plus": 31285,
       "distance_to_hub_miles": 20.4
-    },
-    {
-      "county_fips": "37159",
-      "county_name": "Rowan",
-      "state": "NC",
-      "pop_total": 147067,
-      "pop_65_plus": 26035,
-      "distance_to_hub_miles": 33.8
     },
     {
       "county_fips": "37169",
@@ -125,15 +117,15 @@
   ],
   "summary": {
     "total_beds": 2175,
-    "catchment_pop": 842970,
-    "catchment_pop_65_plus": 151725,
-    "catchment_pct_65_plus": 0.18,
+    "catchment_pop": 695903,
+    "catchment_pop_65_plus": 125690,
+    "catchment_pct_65_plus": 0.1806,
     "max_catchment_radius_miles": 41.2,
-    "avg_catchment_distance_miles": 15.5,
-    "num_counties": 7,
+    "avg_catchment_distance_miles": 11.7,
+    "num_counties": 6,
     "hospital_employment": 23246,
     "msa_total_employment": 246644,
-    "hospital_emp_share": 0.0861,
-    "avg_govt_payer_share": 0.3318
+    "hospital_emp_share": 0.0542,
+    "avg_govt_payer_share": 0.2304
   }
 }

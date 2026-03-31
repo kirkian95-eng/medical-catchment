@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40060",
   "cbsa_name": "Richmond, VA",
-  "mdi": 0.2719,
+  "mdi": 0.3493,
   "bbox": [
     -79.16,
     36.18,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 37.5397,
       "lon": -77.43,
-      "govt_payer_share": 0.393,
-      "medicare_discharges": 7119
+      "govt_payer_share": 0.213,
+      "medicare_discharges": 6827
     },
     {
       "facility_id": "490112",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 37.5197,
       "lon": -77.5106,
-      "govt_payer_share": 0.388,
-      "medicare_discharges": 9027
+      "govt_payer_share": 0.293,
+      "medicare_discharges": 8836
     },
     {
       "facility_id": "490059",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.5844,
       "lon": -77.5131,
-      "govt_payer_share": 0.419,
-      "medicare_discharges": 5386
+      "govt_payer_share": 0.267,
+      "medicare_discharges": 5209
     },
     {
       "facility_id": "490118",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 37.588,
       "lon": -77.5702,
-      "govt_payer_share": 0.438,
-      "medicare_discharges": 5379
+      "govt_payer_share": 0.297,
+      "medicare_discharges": 5460
     },
     {
       "facility_id": "490067",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 37.1832,
       "lon": -77.3622,
-      "govt_payer_share": 0.391,
-      "medicare_discharges": 3165
+      "govt_payer_share": 0.288,
+      "medicare_discharges": 3098
     },
     {
       "facility_id": "490069",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 37.6261,
       "lon": -77.3893,
-      "govt_payer_share": 0.603,
-      "medicare_discharges": 5267
+      "govt_payer_share": 0.343,
+      "medicare_discharges": 5170
     },
     {
       "facility_id": "490020",
@@ -83,8 +83,8 @@
       "ownership": "Proprietary",
       "lat": 37.2747,
       "lon": -77.2274,
-      "govt_payer_share": 0.277,
-      "medicare_discharges": 1241
+      "govt_payer_share": 0.306,
+      "medicare_discharges": 1211
     },
     {
       "facility_id": "490136",
@@ -94,8 +94,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 37.4662,
       "lon": -77.6599,
-      "govt_payer_share": 0.561,
-      "medicare_discharges": 3294
+      "govt_payer_share": 0.279,
+      "medicare_discharges": 3286
     },
     {
       "facility_id": "490094",
@@ -105,8 +105,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.5578,
       "lon": -77.3789,
-      "govt_payer_share": 0.29,
-      "medicare_discharges": 186
+      "govt_payer_share": 0.162,
+      "medicare_discharges": 165
     },
     {
       "facility_id": "490104",
@@ -116,8 +116,8 @@
       "ownership": "Government - State",
       "lat": 37.2151,
       "lon": -77.4704,
-      "govt_payer_share": 0.53,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 6
     }
   ],
   "catchment_counties": [
@@ -144,22 +144,6 @@
       "pop_total": 227171,
       "pop_65_plus": 31242,
       "distance_to_hub_miles": 1.9
-    },
-    {
-      "county_fips": "51179",
-      "county_name": "Stafford",
-      "state": "VA",
-      "pop_total": 157606,
-      "pop_65_plus": 17275,
-      "distance_to_hub_miles": 63.4
-    },
-    {
-      "county_fips": "51177",
-      "county_name": "Spotsylvania",
-      "state": "VA",
-      "pop_total": 141097,
-      "pop_65_plus": 20566,
-      "distance_to_hub_miles": 48.3
     },
     {
       "county_fips": "51085",
@@ -200,14 +184,6 @@
       "pop_total": 30503,
       "pop_65_plus": 5875,
       "distance_to_hub_miles": 25.0
-    },
-    {
-      "county_fips": "51630",
-      "county_name": "Fredericksburg",
-      "state": "VA",
-      "pop_total": 28258,
-      "pop_65_plus": 3157,
-      "distance_to_hub_miles": 55.0
     },
     {
       "county_fips": "51053",
@@ -348,15 +324,15 @@
   ],
   "summary": {
     "total_beds": 3184,
-    "catchment_pop": 1776645,
-    "catchment_pop_65_plus": 278828,
-    "catchment_pct_65_plus": 0.1569,
-    "max_catchment_radius_miles": 63.4,
-    "avg_catchment_distance_miles": 22.3,
-    "num_counties": 28,
+    "catchment_pop": 1449684,
+    "catchment_pop_65_plus": 237830,
+    "catchment_pct_65_plus": 0.1641,
+    "max_catchment_radius_miles": 57.5,
+    "avg_catchment_distance_miles": 14.6,
+    "num_counties": 25,
     "hospital_employment": 13889,
     "msa_total_employment": 568671,
-    "hospital_emp_share": 0.0229,
-    "avg_govt_payer_share": 0.4131
+    "hospital_emp_share": 0.026,
+    "avg_govt_payer_share": 0.2703
   }
 }

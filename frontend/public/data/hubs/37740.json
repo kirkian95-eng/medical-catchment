@@ -1,7 +1,7 @@
 {
   "cbsa_code": "37740",
   "cbsa_name": "Payson, AZ",
-  "mdi": 0.4719,
+  "mdi": 0.9221,
   "bbox": [
     -112.82,
     32.32,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 34.2311,
       "lon": -111.3212,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.498,
+      "medicare_discharges": 386
     },
     {
       "facility_id": "031314",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.559,
       "lon": -110.7691,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 458
     },
     {
       "facility_id": "031320",
@@ -39,8 +39,8 @@
       "ownership": "Tribal",
       "lat": 33.3247,
       "lon": -110.3108,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.449,
+      "medicare_discharges": 53
     }
   ],
   "catchment_counties": [
@@ -63,7 +63,7 @@
     "num_counties": 1,
     "hospital_employment": 9,
     "msa_total_employment": 14977,
-    "hospital_emp_share": 0.0279,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0902,
+    "avg_govt_payer_share": 0.522
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14540",
   "cbsa_name": "Bowling Green, KY",
-  "mdi": 0.4298,
+  "mdi": 0.405,
   "bbox": [
     -87.95,
     35.77,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.9948,
       "lon": -86.4324,
-      "govt_payer_share": 0.387,
-      "medicare_discharges": 3581
+      "govt_payer_share": 0.266,
+      "medicare_discharges": 3546
     },
     {
       "facility_id": "180124",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 36.8769,
       "lon": -86.4512,
-      "govt_payer_share": 0.277,
-      "medicare_discharges": 1681
+      "govt_payer_share": 0.32,
+      "medicare_discharges": 1698
     },
     {
       "facility_id": "181324",
@@ -39,19 +39,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.7701,
       "lon": -86.1807,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.494,
+      "medicare_discharges": 71
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "47165",
-      "county_name": "Sumner",
-      "state": "TN",
-      "pop_total": 196845,
-      "pop_65_plus": 32071,
-      "distance_to_hub_miles": 33.0
-    },
     {
       "county_fips": "21227",
       "county_name": "Warren",
@@ -75,14 +67,6 @@
       "pop_total": 26465,
       "pop_65_plus": 4724,
       "distance_to_hub_miles": 35.9
-    },
-    {
-      "county_fips": "47111",
-      "county_name": "Macon",
-      "state": "TN",
-      "pop_total": 25365,
-      "pop_65_plus": 3957,
-      "distance_to_hub_miles": 36.9
     },
     {
       "county_fips": "21003",
@@ -115,27 +99,19 @@
       "pop_total": 12179,
       "pop_65_plus": 2589,
       "distance_to_hub_miles": 21.0
-    },
-    {
-      "county_fips": "47169",
-      "county_name": "Trousdale",
-      "state": "TN",
-      "pop_total": 11596,
-      "pop_65_plus": 1481,
-      "distance_to_hub_miles": 41.1
     }
   ],
   "summary": {
     "total_beds": 618,
-    "catchment_pop": 487967,
-    "catchment_pop_65_plus": 76804,
-    "catchment_pct_65_plus": 0.1574,
-    "max_catchment_radius_miles": 41.1,
-    "avg_catchment_distance_miles": 23.1,
-    "num_counties": 10,
+    "catchment_pop": 254161,
+    "catchment_pop_65_plus": 39295,
+    "catchment_pct_65_plus": 0.1546,
+    "max_catchment_radius_miles": 35.9,
+    "avg_catchment_distance_miles": 13.2,
+    "num_counties": 7,
     "hospital_employment": 3580,
     "msa_total_employment": 74217,
-    "hospital_emp_share": 0.0454,
-    "avg_govt_payer_share": 0.361
+    "hospital_emp_share": 0.0299,
+    "avg_govt_payer_share": 0.2937
   }
 }

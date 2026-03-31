@@ -1,7 +1,7 @@
 {
   "cbsa_code": "45380",
   "cbsa_name": "Taylorville, IL",
-  "mdi": 0.5791,
+  "mdi": 0.7185,
   "bbox": [
     -90.79,
     38.4,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.5597,
       "lon": -89.287,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.623,
+      "medicare_discharges": 255
     },
     {
       "facility_id": "141341",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.4018,
       "lon": -89.1059,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.762,
+      "medicare_discharges": 128
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 9395,
-    "hospital_emp_share": 0.0376,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0434,
+    "avg_govt_payer_share": 0.6925
   }
 }

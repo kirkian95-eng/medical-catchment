@@ -1,7 +1,7 @@
 {
   "cbsa_code": "41260",
   "cbsa_name": "St. Marys, PA",
-  "mdi": 0.3695,
+  "mdi": 0.4135,
   "bbox": [
     -80.02,
     40.45,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.455,
       "lon": -78.5202,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.495,
+      "medicare_discharges": 335
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 13478,
-    "hospital_emp_share": 0.0151,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.017,
+    "avg_govt_payer_share": 0.4946
   }
 }

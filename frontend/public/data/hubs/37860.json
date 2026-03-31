@@ -1,7 +1,7 @@
 {
   "cbsa_code": "37860",
   "cbsa_name": "Pensacola-Ferry Pass-Brent, FL",
-  "mdi": 0.4359,
+  "mdi": 0.5115,
   "bbox": [
     -88.73,
     29.25,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.4689,
       "lon": -87.2297,
-      "govt_payer_share": 0.277,
-      "medicare_discharges": 4258
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 4055
     },
     {
       "facility_id": "100025",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.4739,
       "lon": -87.212,
-      "govt_payer_share": 0.352,
-      "medicare_discharges": 5724
+      "govt_payer_share": 0.303,
+      "medicare_discharges": 5540
     },
     {
       "facility_id": "100231",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 30.5147,
       "lon": -87.2173,
-      "govt_payer_share": 0.304,
-      "medicare_discharges": 4565
+      "govt_payer_share": 0.278,
+      "medicare_discharges": 4390
     },
     {
       "facility_id": "100124",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 30.6314,
       "lon": -87.0649,
-      "govt_payer_share": 0.289,
-      "medicare_discharges": 1056
+      "govt_payer_share": 0.319,
+      "medicare_discharges": 989
     },
     {
       "facility_id": "100266",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 30.3407,
       "lon": -87.1166,
-      "govt_payer_share": 0.363,
-      "medicare_discharges": 1179
+      "govt_payer_share": 0.378,
+      "medicare_discharges": 1236
     },
     {
       "facility_id": "101315",
@@ -128,7 +128,7 @@
     "num_counties": 5,
     "hospital_employment": 9197,
     "msa_total_employment": 188905,
-    "hospital_emp_share": 0.0487,
-    "avg_govt_payer_share": 0.316
+    "hospital_emp_share": 0.0412,
+    "avg_govt_payer_share": 0.2954
   }
 }

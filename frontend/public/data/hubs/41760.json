@@ -1,7 +1,7 @@
 {
   "cbsa_code": "41760",
   "cbsa_name": "Sandpoint, ID",
-  "mdi": 0.4797,
+  "mdi": 0.4106,
   "bbox": [
     -118.0,
     47.43,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 48.4349,
       "lon": -116.5043,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.423,
+      "medicare_discharges": 319
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 436,
     "msa_total_employment": 15916,
-    "hospital_emp_share": 0.0274,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0227,
+    "avg_govt_payer_share": 0.423
   }
 }

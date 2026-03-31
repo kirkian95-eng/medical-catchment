@@ -1,7 +1,7 @@
 {
   "cbsa_code": "46300",
   "cbsa_name": "Twin Falls, ID",
-  "mdi": 0.3475,
+  "mdi": 0.5472,
   "bbox": [
     -115.98,
     41.57,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.5656,
       "lon": -114.4776,
-      "govt_payer_share": 0.301,
-      "medicare_discharges": 1953
+      "govt_payer_share": 0.342,
+      "medicare_discharges": 1853
     },
     {
       "facility_id": "131310",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.7285,
       "lon": -114.4321,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.668,
+      "medicare_discharges": 38
     }
   ],
   "catchment_counties": [
@@ -84,7 +84,7 @@
     "num_counties": 5,
     "hospital_employment": 0,
     "msa_total_employment": 53126,
-    "hospital_emp_share": 0.0345,
-    "avg_govt_payer_share": 0.3391
+    "hospital_emp_share": 0.0379,
+    "avg_govt_payer_share": 0.3743
   }
 }

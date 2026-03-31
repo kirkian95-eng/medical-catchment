@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16220",
   "cbsa_name": "Casper, WY",
-  "mdi": 0.4311,
+  "mdi": 0.449,
   "bbox": [
     -107.87,
     41.53,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 42.8487,
       "lon": -106.3085,
-      "govt_payer_share": 0.48,
-      "medicare_discharges": 3291
+      "govt_payer_share": 0.541,
+      "medicare_discharges": 3246
     },
     {
       "facility_id": "530034",
@@ -28,8 +28,8 @@
       "ownership": "Physician",
       "lat": 42.7716,
       "lon": -106.1861,
-      "govt_payer_share": 0.147,
-      "medicare_discharges": 65
+      "govt_payer_share": 0.721,
+      "medicare_discharges": 45
     }
   ],
   "catchment_counties": [
@@ -68,7 +68,7 @@
     "num_counties": 3,
     "hospital_employment": 1526,
     "msa_total_employment": 39441,
-    "hospital_emp_share": 0.0387,
-    "avg_govt_payer_share": 0.4576
+    "hospital_emp_share": 0.0204,
+    "avg_govt_payer_share": 0.5532
   }
 }

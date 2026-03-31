@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17540",
   "cbsa_name": "Clinton, IA",
-  "mdi": 0.6744,
+  "mdi": 0.5947,
   "bbox": [
     -92.02,
     40.84,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.8612,
       "lon": -90.188,
-      "govt_payer_share": 0.252,
-      "medicare_discharges": 1024
+      "govt_payer_share": 0.415,
+      "medicare_discharges": 939
     },
     {
       "facility_id": "161313",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.8383,
       "lon": -90.5197,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 47
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 19385,
-    "hospital_emp_share": 0.0669,
-    "avg_govt_payer_share": 0.4144
+    "hospital_emp_share": 0.0389,
+    "avg_govt_payer_share": 0.4851
   }
 }

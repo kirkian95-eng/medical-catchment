@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39060",
   "cbsa_name": "Pottsville, PA",
-  "mdi": 0.3952,
+  "mdi": 0.4411,
   "bbox": [
     -77.69,
     39.65,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.6838,
       "lon": -76.1888,
-      "govt_payer_share": 0.305,
-      "medicare_discharges": 1295
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 1285
     },
     {
       "facility_id": "390332",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.6497,
       "lon": -76.0609,
-      "govt_payer_share": 0.583,
-      "medicare_discharges": 1423
+      "govt_payer_share": 0.408,
+      "medicare_discharges": 1451
     },
     {
       "facility_id": "390183",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.8197,
       "lon": -75.9161,
-      "govt_payer_share": 0.474,
-      "medicare_discharges": 901
+      "govt_payer_share": 0.395,
+      "medicare_discharges": 844
     }
   ],
   "catchment_counties": [
@@ -63,7 +63,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 49507,
-    "hospital_emp_share": 0.0378,
-    "avg_govt_payer_share": 0.3893
+    "hospital_emp_share": 0.0291,
+    "avg_govt_payer_share": 0.3583
   }
 }

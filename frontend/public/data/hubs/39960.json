@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39960",
   "cbsa_name": "Rice Lake, WI",
-  "mdi": 0.5025,
+  "mdi": 0.5797,
   "bbox": [
     -93.58,
     44.39,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.5078,
       "lon": -91.7544,
-      "govt_payer_share": 0.285,
-      "medicare_discharges": 439
+      "govt_payer_share": 0.35,
+      "medicare_discharges": 438
     },
     {
       "facility_id": "521315",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.3925,
       "lon": -91.8826,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.587,
+      "medicare_discharges": 379
     },
     {
       "facility_id": "521353",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 45.5679,
       "lon": -92.0765,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.598,
+      "medicare_discharges": 103
     }
   ],
   "catchment_counties": [
@@ -103,7 +103,7 @@
     "num_counties": 6,
     "hospital_employment": 923,
     "msa_total_employment": 21428,
-    "hospital_emp_share": 0.0431,
-    "avg_govt_payer_share": 0.4503
+    "hospital_emp_share": 0.0311,
+    "avg_govt_payer_share": 0.4514
   }
 }

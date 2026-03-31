@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16100",
   "cbsa_name": "Carlsbad-Artesia, NM",
-  "mdi": 0.156,
+  "mdi": 0.3364,
   "bbox": [
     -105.76,
     31.32,
@@ -17,7 +17,7 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 32.4422,
       "lon": -104.2589,
-      "govt_payer_share": 0.231,
+      "govt_payer_share": 0.304,
       "medicare_discharges": 557
     },
     {
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 32.7746,
       "lon": -104.2242,
-      "govt_payer_share": 0.217,
-      "medicare_discharges": 203
+      "govt_payer_share": NaN,
+      "medicare_discharges": 190
     }
   ],
   "catchment_counties": [
@@ -60,7 +60,7 @@
     "num_counties": 2,
     "hospital_employment": 747,
     "msa_total_employment": 31163,
-    "hospital_emp_share": 0.024,
-    "avg_govt_payer_share": 0.227
+    "hospital_emp_share": 0.0185,
+    "avg_govt_payer_share": 0.3918
   }
 }

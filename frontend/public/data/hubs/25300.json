@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25300",
   "cbsa_name": "Hannibal, MO",
-  "mdi": 0.4079,
+  "mdi": 0.9154,
   "bbox": [
     -92.95,
     38.71,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 39.7068,
       "lon": -91.4466,
-      "govt_payer_share": 0.498,
-      "medicare_discharges": 1789
+      "govt_payer_share": 0.463,
+      "medicare_discharges": 1809
     }
   ],
   "catchment_counties": [
@@ -57,7 +57,7 @@
     "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 12833,
-    "hospital_emp_share": 0.0315,
-    "avg_govt_payer_share": 0.4977
+    "hospital_emp_share": 0.0699,
+    "avg_govt_payer_share": 0.4633
   }
 }

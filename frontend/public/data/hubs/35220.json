@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35220",
   "cbsa_name": "New Castle, IN",
-  "mdi": 0.6537,
+  "mdi": 0.5688,
   "bbox": [
     -86.87,
     38.94,
@@ -17,19 +17,11 @@
       "ownership": "Government - Local",
       "lat": 39.9412,
       "lon": -85.3652,
-      "govt_payer_share": 0.27,
-      "medicare_discharges": 572
+      "govt_payer_share": 0.32,
+      "medicare_discharges": 562
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "18059",
-      "county_name": "Hancock",
-      "state": "IN",
-      "pop_total": 80170,
-      "pop_65_plus": 13701,
-      "distance_to_hub_miles": 23.1
-    },
     {
       "county_fips": "18065",
       "county_name": "Henry",
@@ -49,15 +41,15 @@
   ],
   "summary": {
     "total_beds": 90,
-    "catchment_pop": 145799,
-    "catchment_pop_65_plus": 26143,
-    "catchment_pct_65_plus": 0.1793,
-    "max_catchment_radius_miles": 23.1,
-    "avg_catchment_distance_miles": 15.9,
-    "num_counties": 3,
+    "catchment_pop": 65629,
+    "catchment_pop_65_plus": 12442,
+    "catchment_pct_65_plus": 0.1896,
+    "max_catchment_radius_miles": 22.8,
+    "avg_catchment_distance_miles": 7.1,
+    "num_counties": 2,
     "hospital_employment": 891,
     "msa_total_employment": 13206,
-    "hospital_emp_share": 0.0675,
-    "avg_govt_payer_share": 0.2699
+    "hospital_emp_share": 0.035,
+    "avg_govt_payer_share": 0.3203
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40340",
   "cbsa_name": "Rochester, MN",
-  "mdi": 0.8058,
+  "mdi": 0.9156,
   "bbox": [
     -93.98,
     43.02,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 44.0215,
       "lon": -92.4824,
-      "govt_payer_share": 0.351,
-      "medicare_discharges": 16128
+      "govt_payer_share": 0.457,
+      "medicare_discharges": 15035
     },
     {
       "facility_id": "240006",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.0205,
       "lon": -92.4409,
-      "govt_payer_share": 0.205,
-      "medicare_discharges": 235
+      "govt_payer_share": 0.207,
+      "medicare_discharges": 229
     },
     {
       "facility_id": "241335",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 44.3576,
       "lon": -92.0492,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.439,
+      "medicare_discharges": 43
     },
     {
       "facility_id": "241338",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.3928,
       "lon": -92.3339,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.64,
+      "medicare_discharges": 78
     }
   ],
   "catchment_counties": [
@@ -114,7 +114,7 @@
     "num_counties": 6,
     "hospital_employment": 64,
     "msa_total_employment": 108624,
-    "hospital_emp_share": 0.1433,
-    "avg_govt_payer_share": 0.3531
+    "hospital_emp_share": 0.0855,
+    "avg_govt_payer_share": 0.4515
   }
 }

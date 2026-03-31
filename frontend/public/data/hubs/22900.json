@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22900",
   "cbsa_name": "Fort Smith, AR-OK",
-  "mdi": 0.3765,
+  "mdi": 0.4613,
   "bbox": [
     -96.26,
     34.35,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.3747,
       "lon": -94.4212,
-      "govt_payer_share": 0.314,
-      "medicare_discharges": 3530
+      "govt_payer_share": 0.365,
+      "medicare_discharges": 3388
     },
     {
       "facility_id": "040062",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.3547,
       "lon": -94.3552,
-      "govt_payer_share": 0.353,
-      "medicare_discharges": 4280
+      "govt_payer_share": 0.291,
+      "medicare_discharges": 4317
     },
     {
       "facility_id": "040018",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.4689,
       "lon": -94.3482,
-      "govt_payer_share": 0.53,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.438,
+      "medicare_discharges": 2
     },
     {
       "facility_id": "370112",
@@ -50,8 +50,8 @@
       "ownership": "Government - Local",
       "lat": 35.5014,
       "lon": -94.7575,
-      "govt_payer_share": 0.246,
-      "medicare_discharges": 183
+      "govt_payer_share": 0.421,
+      "medicare_discharges": 167
     }
   ],
   "catchment_counties": [
@@ -130,7 +130,7 @@
     "num_counties": 8,
     "hospital_employment": 3622,
     "msa_total_employment": 95441,
-    "hospital_emp_share": 0.038,
-    "avg_govt_payer_share": 0.3474
+    "hospital_emp_share": 0.0331,
+    "avg_govt_payer_share": 0.3482
   }
 }

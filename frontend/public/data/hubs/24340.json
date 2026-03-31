@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24340",
   "cbsa_name": "Grand Rapids-Wyoming-Kentwood, MI",
-  "mdi": 0.4773,
+  "mdi": 0.3776,
   "bbox": [
     -87.65,
     41.64,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.9704,
       "lon": -85.6663,
-      "govt_payer_share": 0.324,
-      "medicare_discharges": 8149
+      "govt_payer_share": 0.187,
+      "medicare_discharges": 7509
     },
     {
       "facility_id": "230059",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 42.9621,
       "lon": -85.6594,
-      "govt_payer_share": 0.374,
-      "medicare_discharges": 2373
+      "govt_payer_share": 0.214,
+      "medicare_discharges": 2104
     },
     {
       "facility_id": "230236",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.8568,
       "lon": -85.7229,
-      "govt_payer_share": 0.264,
-      "medicare_discharges": 1319
+      "govt_payer_share": 0.165,
+      "medicare_discharges": 1255
     },
     {
       "facility_id": "230072",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.7748,
       "lon": -86.1128,
-      "govt_payer_share": 0.249,
-      "medicare_discharges": 1031
+      "govt_payer_share": 0.298,
+      "medicare_discharges": 1021
     },
     {
       "facility_id": "230208",
@@ -61,7 +61,7 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 43.1839,
       "lon": -84.856,
-      "govt_payer_share": 0.18,
+      "govt_payer_share": 0.294,
       "medicare_discharges": 140
     },
     {
@@ -72,8 +72,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 43.0092,
       "lon": -86.152,
-      "govt_payer_share": 0.194,
-      "medicare_discharges": 148
+      "govt_payer_share": 0.251,
+      "medicare_discharges": 166
     },
     {
       "facility_id": "230003",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.8196,
       "lon": -85.9879,
-      "govt_payer_share": 0.218,
-      "medicare_discharges": 286
+      "govt_payer_share": 0.135,
+      "medicare_discharges": 302
     },
     {
       "facility_id": "230035",
@@ -94,8 +94,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 43.175,
       "lon": -85.2688,
-      "govt_payer_share": 0.334,
-      "medicare_discharges": 516
+      "govt_payer_share": 0.258,
+      "medicare_discharges": 494
     },
     {
       "facility_id": "231312",
@@ -105,8 +105,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.2098,
       "lon": -85.0492,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 10
     },
     {
       "facility_id": "231331",
@@ -116,8 +116,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.9861,
       "lon": -85.0579,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.282,
+      "medicare_discharges": 159
     },
     {
       "facility_id": "231339",
@@ -127,8 +127,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 42.6443,
       "lon": -85.3023,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.234,
+      "medicare_discharges": 298
     }
   ],
   "catchment_counties": [
@@ -175,7 +175,7 @@
     "num_counties": 4,
     "hospital_employment": 32957,
     "msa_total_employment": 594287,
-    "hospital_emp_share": 0.0555,
-    "avg_govt_payer_share": 0.3145
+    "hospital_emp_share": 0.0311,
+    "avg_govt_payer_share": 0.2123
   }
 }

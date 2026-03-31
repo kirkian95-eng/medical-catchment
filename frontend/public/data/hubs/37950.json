@@ -1,7 +1,7 @@
 {
   "cbsa_code": "37950",
   "cbsa_name": "Petoskey, MI",
-  "mdi": 0.6732,
+  "mdi": 0.5403,
   "bbox": [
     -86.62,
     44.06,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 45.374,
       "lon": -84.9692,
-      "govt_payer_share": 0.304,
-      "medicare_discharges": 2245
+      "govt_payer_share": 0.332,
+      "medicare_discharges": 2217
     }
   ],
   "catchment_counties": [
@@ -105,7 +105,7 @@
     "num_counties": 9,
     "hospital_employment": 0,
     "msa_total_employment": 17516,
-    "hospital_emp_share": 0.0761,
-    "avg_govt_payer_share": 0.3045
+    "hospital_emp_share": 0.0431,
+    "avg_govt_payer_share": 0.3316
   }
 }

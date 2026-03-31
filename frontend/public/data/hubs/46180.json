@@ -1,7 +1,7 @@
 {
   "cbsa_code": "46180",
   "cbsa_name": "Tupelo, MS",
-  "mdi": 0.6684,
+  "mdi": 0.7522,
   "bbox": [
     -90.22,
     33.24,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.2441,
       "lon": -88.7176,
-      "govt_payer_share": 0.409,
-      "medicare_discharges": 7354
+      "govt_payer_share": 0.534,
+      "medicare_discharges": 7203
     },
     {
       "facility_id": "250044",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 34.6525,
       "lon": -88.5368,
-      "govt_payer_share": 0.223,
-      "medicare_discharges": 309
+      "govt_payer_share": 0.673,
+      "medicare_discharges": 293
     }
   ],
   "catchment_counties": [
@@ -100,7 +100,7 @@
     "num_counties": 7,
     "hospital_employment": 119,
     "msa_total_employment": 60386,
-    "hospital_emp_share": 0.0752,
-    "avg_govt_payer_share": 0.3813
+    "hospital_emp_share": 0.0409,
+    "avg_govt_payer_share": 0.5549
   }
 }

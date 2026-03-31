@@ -1,7 +1,7 @@
 {
   "cbsa_code": "32580",
   "cbsa_name": "McAllen-Edinburg-Mission, TX",
-  "mdi": 0.3557,
+  "mdi": 0.3634,
   "bbox": [
     -99.81,
     25.15,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 26.2634,
       "lon": -98.1839,
-      "govt_payer_share": 0.27,
-      "medicare_discharges": 2659
+      "govt_payer_share": 0.142,
+      "medicare_discharges": 2538
     },
     {
       "facility_id": "450869",
@@ -28,8 +28,8 @@
       "ownership": "Physician",
       "lat": 26.2526,
       "lon": -98.2042,
-      "govt_payer_share": 0.26,
-      "medicare_discharges": 1928
+      "govt_payer_share": 0.116,
+      "medicare_discharges": 1845
     },
     {
       "facility_id": "450711",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 26.1858,
       "lon": -98.2225,
-      "govt_payer_share": 0.274,
-      "medicare_discharges": 1344
+      "govt_payer_share": 0.182,
+      "medicare_discharges": 1460
     },
     {
       "facility_id": "450176",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 26.1943,
       "lon": -98.3131,
-      "govt_payer_share": 0.273,
-      "medicare_discharges": 1122
+      "govt_payer_share": 0.239,
+      "medicare_discharges": 1123
     },
     {
       "facility_id": "450128",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 26.1521,
       "lon": -97.9775,
-      "govt_payer_share": 0.27,
-      "medicare_discharges": 845
+      "govt_payer_share": 0.206,
+      "medicare_discharges": 811
     },
     {
       "facility_id": "450825",
@@ -72,8 +72,8 @@
       "ownership": "Proprietary",
       "lat": 26.2807,
       "lon": -98.1833,
-      "govt_payer_share": 0.131,
-      "medicare_discharges": 17
+      "govt_payer_share": NaN,
+      "medicare_discharges": 10
     }
   ],
   "catchment_counties": [
@@ -120,7 +120,7 @@
     "num_counties": 4,
     "hospital_employment": 11103,
     "msa_total_employment": 287428,
-    "hospital_emp_share": 0.0386,
-    "avg_govt_payer_share": 0.2678
+    "hospital_emp_share": 0.0323,
+    "avg_govt_payer_share": 0.1627
   }
 }

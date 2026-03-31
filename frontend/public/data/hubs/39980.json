@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39980",
   "cbsa_name": "Richmond, IN",
-  "mdi": 0.5416,
+  "mdi": 0.5811,
   "bbox": [
     -86.38,
     38.86,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.8629,
       "lon": -84.8846,
-      "govt_payer_share": 0.446,
-      "medicare_discharges": 4239
+      "govt_payer_share": 0.401,
+      "medicare_discharges": 4106
     }
   ],
   "catchment_counties": [
@@ -47,14 +47,6 @@
       "distance_to_hub_miles": 21.9
     },
     {
-      "county_fips": "18047",
-      "county_name": "Franklin",
-      "state": "IN",
-      "pop_total": 22850,
-      "pop_65_plus": 4384,
-      "distance_to_hub_miles": 32.4
-    },
-    {
       "county_fips": "18161",
       "county_name": "Union",
       "state": "IN",
@@ -65,15 +57,15 @@
   ],
   "summary": {
     "total_beds": 223,
-    "catchment_pop": 160733,
-    "catchment_pop_65_plus": 31309,
-    "catchment_pct_65_plus": 0.1948,
-    "max_catchment_radius_miles": 32.4,
-    "avg_catchment_distance_miles": 15.1,
-    "num_counties": 5,
+    "catchment_pop": 137883,
+    "catchment_pop_65_plus": 26925,
+    "catchment_pct_65_plus": 0.1953,
+    "max_catchment_radius_miles": 21.9,
+    "avg_catchment_distance_miles": 12.2,
+    "num_counties": 4,
     "hospital_employment": 367,
     "msa_total_employment": 29372,
-    "hospital_emp_share": 0.0567,
-    "avg_govt_payer_share": 0.4456
+    "hospital_emp_share": 0.0424,
+    "avg_govt_payer_share": 0.4008
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "46980",
   "cbsa_name": "Vicksburg, MS",
-  "mdi": 0.744,
+  "mdi": 0.3981,
   "bbox": [
     -92.33,
     31.38,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 32.3755,
       "lon": -90.8273,
-      "govt_payer_share": 0.249,
-      "medicare_discharges": 1382
+      "govt_payer_share": 0.441,
+      "medicare_discharges": 1339
     }
   ],
   "catchment_counties": [
@@ -81,7 +81,7 @@
     "num_counties": 6,
     "hospital_employment": 0,
     "msa_total_employment": 19155,
-    "hospital_emp_share": 0.1055,
-    "avg_govt_payer_share": 0.2491
+    "hospital_emp_share": 0.0211,
+    "avg_govt_payer_share": 0.4405
   }
 }

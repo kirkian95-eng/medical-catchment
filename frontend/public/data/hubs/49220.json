@@ -1,7 +1,7 @@
 {
   "cbsa_code": "49220",
   "cbsa_name": "Wisconsin Rapids-Marshfield, WI",
-  "mdi": 0.7721,
+  "mdi": 0.826,
   "bbox": [
     -91.68,
     43.38,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 44.678,
       "lon": -90.1798,
-      "govt_payer_share": 0.299,
-      "medicare_discharges": 2505
+      "govt_payer_share": 0.296,
+      "medicare_discharges": 2471
     },
     {
       "facility_id": "520033",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.3823,
       "lon": -89.8306,
-      "govt_payer_share": 0.283,
-      "medicare_discharges": 554
+      "govt_payer_share": 0.241,
+      "medicare_discharges": 515
     }
   ],
   "catchment_counties": [
@@ -76,7 +76,7 @@
     "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 36616,
-    "hospital_emp_share": 0.1022,
-    "avg_govt_payer_share": 0.2963
+    "hospital_emp_share": 0.0814,
+    "avg_govt_payer_share": 0.2871
   }
 }

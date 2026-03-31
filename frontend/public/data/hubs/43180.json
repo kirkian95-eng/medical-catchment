@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43180",
   "cbsa_name": "Shelbyville, TN",
-  "mdi": 0.2261,
+  "mdi": 0.2858,
   "bbox": [
     -87.98,
     34.46,
@@ -17,27 +17,11 @@
       "ownership": "Proprietary",
       "lat": 35.4557,
       "lon": -86.4848,
-      "govt_payer_share": 0.207,
-      "medicare_discharges": 318
+      "govt_payer_share": 0.345,
+      "medicare_discharges": 371
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "47149",
-      "county_name": "Rutherford",
-      "state": "TN",
-      "pop_total": 343727,
-      "pop_65_plus": 37289,
-      "distance_to_hub_miles": 27.0
-    },
-    {
-      "county_fips": "47187",
-      "county_name": "Williamson",
-      "state": "TN",
-      "pop_total": 248897,
-      "pop_65_plus": 34551,
-      "distance_to_hub_miles": 38.2
-    },
     {
       "county_fips": "47003",
       "county_name": "Bedford",
@@ -49,15 +33,15 @@
   ],
   "summary": {
     "total_beds": 104,
-    "catchment_pop": 643157,
-    "catchment_pop_65_plus": 79196,
-    "catchment_pct_65_plus": 0.1231,
-    "max_catchment_radius_miles": 38.2,
-    "avg_catchment_distance_miles": 29.6,
-    "num_counties": 3,
+    "catchment_pop": 50533,
+    "catchment_pop_65_plus": 7356,
+    "catchment_pct_65_plus": 0.1456,
+    "max_catchment_radius_miles": 4.3,
+    "avg_catchment_distance_miles": 4.3,
+    "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 17809,
-    "hospital_emp_share": 0.0304,
-    "avg_govt_payer_share": 0.2069
+    "hospital_emp_share": 0.0135,
+    "avg_govt_payer_share": 0.3446
   }
 }

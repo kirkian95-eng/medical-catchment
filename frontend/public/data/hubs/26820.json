@@ -1,7 +1,7 @@
 {
   "cbsa_code": "26820",
   "cbsa_name": "Idaho Falls, ID",
-  "mdi": 0.3503,
+  "mdi": 0.5402,
   "bbox": [
     -114.86,
     42.43,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 43.4696,
       "lon": -111.9904,
-      "govt_payer_share": 0.278,
-      "medicare_discharges": 2379
+      "govt_payer_share": 0.493,
+      "medicare_discharges": 2272
     },
     {
       "facility_id": "130074",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 43.4268,
       "lon": -112.0155,
-      "govt_payer_share": 0.338,
-      "medicare_discharges": 1059
+      "govt_payer_share": 0.477,
+      "medicare_discharges": 1049
     },
     {
       "facility_id": "130065",
@@ -39,8 +39,8 @@
       "ownership": "Physician",
       "lat": 43.4724,
       "lon": -111.9879,
-      "govt_payer_share": 0.174,
-      "medicare_discharges": 197
+      "govt_payer_share": 0.385,
+      "medicare_discharges": 191
     },
     {
       "facility_id": "131324",
@@ -50,8 +50,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 43.4439,
       "lon": -113.3643,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.872,
+      "medicare_discharges": 11
     }
   ],
   "catchment_counties": [
@@ -90,7 +90,7 @@
     "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 71718,
-    "hospital_emp_share": 0.043,
-    "avg_govt_payer_share": 0.2911
+    "hospital_emp_share": 0.0378,
+    "avg_govt_payer_share": 0.4912
   }
 }

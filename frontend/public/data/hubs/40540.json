@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40540",
   "cbsa_name": "Rock Springs, WY",
-  "mdi": 0.4383,
+  "mdi": 0.3445,
   "bbox": [
     -110.75,
     40.61,
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 20866,
-    "hospital_emp_share": 0.0254,
+    "hospital_emp_share": 0.006,
     "avg_govt_payer_share": 0.68
   }
 }

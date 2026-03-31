@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17900",
   "cbsa_name": "Columbia, SC",
-  "mdi": 0.3199,
+  "mdi": 0.433,
   "bbox": [
     -82.65,
     33.0,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.066,
       "lon": -81.0244,
-      "govt_payer_share": 0.352,
-      "medicare_discharges": 4938
+      "govt_payer_share": 0.264,
+      "medicare_discharges": 4660
     },
     {
       "facility_id": "420073",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.0046,
       "lon": -81.1158,
-      "govt_payer_share": 0.584,
-      "medicare_discharges": 9147
+      "govt_payer_share": 0.344,
+      "medicare_discharges": 8799
     },
     {
       "facility_id": "420086",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.0071,
       "lon": -81.0341,
-      "govt_payer_share": 0.251,
-      "medicare_discharges": 1784
+      "govt_payer_share": 0.252,
+      "medicare_discharges": 1695
     },
     {
       "facility_id": "420026",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.029,
       "lon": -80.9998,
-      "govt_payer_share": 0.33,
-      "medicare_discharges": 2775
+      "govt_payer_share": 0.332,
+      "medicare_discharges": 2869
     },
     {
       "facility_id": "420048",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 34.2525,
       "lon": -80.5895,
-      "govt_payer_share": 0.299,
-      "medicare_discharges": 951
+      "govt_payer_share": 0.374,
+      "medicare_discharges": 909
     },
     {
       "facility_id": "420106",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.0803,
       "lon": -81.1498,
-      "govt_payer_share": 0.381,
-      "medicare_discharges": 1156
+      "govt_payer_share": 0.248,
+      "medicare_discharges": 1130
     }
   ],
   "catchment_counties": [
@@ -94,14 +94,6 @@
       "distance_to_hub_miles": 17.5
     },
     {
-      "county_fips": "45057",
-      "county_name": "Lancaster",
-      "state": "SC",
-      "pop_total": 97611,
-      "pop_65_plus": 20803,
-      "distance_to_hub_miles": 47.7
-    },
-    {
       "county_fips": "45075",
       "county_name": "Orangeburg",
       "state": "SC",
@@ -116,14 +108,6 @@
       "pop_total": 65779,
       "pop_65_plus": 12225,
       "distance_to_hub_miles": 31.8
-    },
-    {
-      "county_fips": "45023",
-      "county_name": "Chester",
-      "state": "SC",
-      "pop_total": 32171,
-      "pop_65_plus": 5974,
-      "distance_to_hub_miles": 45.2
     },
     {
       "county_fips": "45039",
@@ -144,15 +128,15 @@
   ],
   "summary": {
     "total_beds": 1914,
-    "catchment_pop": 1026902,
-    "catchment_pop_65_plus": 168716,
-    "catchment_pct_65_plus": 0.1643,
-    "max_catchment_radius_miles": 47.7,
-    "avg_catchment_distance_miles": 20.4,
-    "num_counties": 8,
+    "catchment_pop": 897120,
+    "catchment_pop_65_plus": 141939,
+    "catchment_pct_65_plus": 0.1582,
+    "max_catchment_radius_miles": 44.0,
+    "avg_catchment_distance_miles": 16.5,
+    "num_counties": 6,
     "hospital_employment": 11417,
     "msa_total_employment": 372488,
-    "hospital_emp_share": 0.0294,
-    "avg_govt_payer_share": 0.3842
+    "hospital_emp_share": 0.032,
+    "avg_govt_payer_share": 0.2963
   }
 }

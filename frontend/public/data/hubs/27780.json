@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27780",
   "cbsa_name": "Johnstown, PA",
-  "mdi": 0.5746,
+  "mdi": 0.4901,
   "bbox": [
     -80.42,
     39.31,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 40.3051,
       "lon": -78.9186,
-      "govt_payer_share": 0.251,
-      "medicare_discharges": 1986
+      "govt_payer_share": 0.164,
+      "medicare_discharges": 2046
     },
     {
       "facility_id": "391317",
@@ -28,19 +28,11 @@
       "ownership": "Proprietary",
       "lat": 40.6896,
       "lon": -78.7268,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.259,
+      "medicare_discharges": 116
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "42129",
-      "county_name": "Westmoreland",
-      "state": "PA",
-      "pop_total": 354414,
-      "pop_65_plus": 82872,
-      "distance_to_hub_miles": 28.9
-    },
     {
       "county_fips": "42021",
       "county_name": "Cambria",
@@ -60,15 +52,15 @@
   ],
   "summary": {
     "total_beds": 506,
-    "catchment_pop": 535290,
-    "catchment_pop_65_plus": 124647,
-    "catchment_pct_65_plus": 0.2329,
+    "catchment_pop": 180876,
+    "catchment_pop_65_plus": 41775,
+    "catchment_pct_65_plus": 0.231,
     "max_catchment_radius_miles": 30.6,
-    "avg_catchment_distance_miles": 26.1,
-    "num_counties": 3,
+    "avg_catchment_distance_miles": 20.6,
+    "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 47552,
-    "hospital_emp_share": 0.064,
-    "avg_govt_payer_share": 0.2684
+    "hospital_emp_share": 0.0429,
+    "avg_govt_payer_share": 0.1675
   }
 }

@@ -1,12 +1,12 @@
 {
   "cbsa_code": "39300",
   "cbsa_name": "Providence-Warwick, RI-MA",
-  "mdi": 0.4183,
+  "mdi": 0.3886,
   "bbox": [
-    -73.42,
-    40.06,
-    -69.49,
-    43.3
+    -73.29,
+    40.36,
+    -69.62,
+    43.01
   ],
   "hospitals": [
     {
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.7104,
       "lon": -71.1466,
-      "govt_payer_share": 0.51,
-      "medicare_discharges": 10757
+      "govt_payer_share": 0.486,
+      "medicare_discharges": 10560
     },
     {
       "facility_id": "410009",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 41.705,
       "lon": -71.4788,
-      "govt_payer_share": 0.298,
-      "medicare_discharges": 2777
+      "govt_payer_share": 0.262,
+      "medicare_discharges": 2727
     },
     {
       "facility_id": "410005",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 41.8583,
       "lon": -71.4363,
-      "govt_payer_share": 0.208,
-      "medicare_discharges": 806
+      "govt_payer_share": 0.281,
+      "medicare_discharges": 793
     },
     {
       "facility_id": "410012",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.8395,
       "lon": -71.3892,
-      "govt_payer_share": 0.466,
-      "medicare_discharges": 4579
+      "govt_payer_share": 0.303,
+      "medicare_discharges": 4301
     },
     {
       "facility_id": "410004",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 41.839,
       "lon": -71.4393,
-      "govt_payer_share": 0.248,
-      "medicare_discharges": 801
+      "govt_payer_share": 0.217,
+      "medicare_discharges": 782
     },
     {
       "facility_id": "410011",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.0052,
       "lon": -71.4962,
-      "govt_payer_share": 0.254,
-      "medicare_discharges": 1071
+      "govt_payer_share": 0.206,
+      "medicare_discharges": 1037
     },
     {
       "facility_id": "410010",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.81,
       "lon": -71.4136,
-      "govt_payer_share": 0.19,
-      "medicare_discharges": 111
+      "govt_payer_share": 0.136,
+      "medicare_discharges": 92
     },
     {
       "facility_id": "220020",
@@ -94,8 +94,8 @@
       "ownership": "Proprietary",
       "lat": 41.6744,
       "lon": -71.1485,
-      "govt_payer_share": 0.579,
-      "medicare_discharges": 3205
+      "govt_payer_share": 0.452,
+      "medicare_discharges": 3160
     },
     {
       "facility_id": "220073",
@@ -105,8 +105,8 @@
       "ownership": "Proprietary",
       "lat": 41.9091,
       "lon": -71.1183,
-      "govt_payer_share": 0.636,
-      "medicare_discharges": 3160
+      "govt_payer_share": 0.559,
+      "medicare_discharges": 3129
     },
     {
       "facility_id": "410006",
@@ -116,8 +116,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.498,
       "lon": -71.3072,
-      "govt_payer_share": 0.315,
-      "medicare_discharges": 1202
+      "govt_payer_share": 0.336,
+      "medicare_discharges": 1148
     },
     {
       "facility_id": "220008",
@@ -127,8 +127,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 41.9426,
       "lon": -71.2755,
-      "govt_payer_share": 0.677,
-      "medicare_discharges": 3085
+      "govt_payer_share": 0.519,
+      "medicare_discharges": 2974
     },
     {
       "facility_id": "410013",
@@ -138,8 +138,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.3578,
       "lon": -71.7896,
-      "govt_payer_share": 0.322,
-      "medicare_discharges": 1062
+      "govt_payer_share": 0.38,
+      "medicare_discharges": 1005
     },
     {
       "facility_id": "410008",
@@ -149,35 +149,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.4322,
       "lon": -71.4963,
-      "govt_payer_share": 0.398,
-      "medicare_discharges": 1712
+      "govt_payer_share": 0.351,
+      "medicare_discharges": 1711
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "36103",
-      "county_name": "Suffolk",
-      "state": "NY",
-      "pop_total": 1524486,
-      "pop_65_plus": 263382,
-      "distance_to_hub_miles": 89.5
-    },
-    {
-      "county_fips": "25025",
-      "county_name": "Suffolk",
-      "state": "MA",
-      "pop_total": 785443,
-      "pop_65_plus": 98735,
-      "distance_to_hub_miles": 44.8
-    },
-    {
-      "county_fips": "25021",
-      "county_name": "Norfolk",
-      "state": "MA",
-      "pop_total": 722112,
-      "pop_65_plus": 124003,
-      "distance_to_hub_miles": 29.9
-    },
     {
       "county_fips": "44007",
       "county_name": "Providence",
@@ -193,14 +169,6 @@
       "pop_total": 576699,
       "pop_65_plus": 99426,
       "distance_to_hub_miles": 13.3
-    },
-    {
-      "county_fips": "25023",
-      "county_name": "Plymouth",
-      "state": "MA",
-      "pop_total": 529548,
-      "pop_65_plus": 99368,
-      "distance_to_hub_miles": 35.2
     },
     {
       "county_fips": "09180",
@@ -253,15 +221,15 @@
   ],
   "summary": {
     "total_beds": 2978,
-    "catchment_pop": 5608518,
-    "catchment_pop_65_plus": 949624,
-    "catchment_pct_65_plus": 0.1693,
-    "max_catchment_radius_miles": 89.5,
-    "avg_catchment_distance_miles": 44.9,
-    "num_counties": 12,
+    "catchment_pop": 2046929,
+    "catchment_pop_65_plus": 364136,
+    "catchment_pct_65_plus": 0.1779,
+    "max_catchment_radius_miles": 43.2,
+    "avg_catchment_distance_miles": 19.6,
+    "num_counties": 8,
     "hospital_employment": 28317,
     "msa_total_employment": 687284,
-    "hospital_emp_share": 0.0403,
-    "avg_govt_payer_share": 0.3905
+    "hospital_emp_share": 0.0267,
+    "avg_govt_payer_share": 0.3504
   }
 }

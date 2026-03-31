@@ -1,7 +1,7 @@
 {
   "cbsa_code": "37540",
   "cbsa_name": "Paris, TN",
-  "mdi": 0.464,
+  "mdi": 0.6343,
   "bbox": [
     -89.84,
     35.31,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 36.3069,
       "lon": -88.3375,
-      "govt_payer_share": 0.23,
-      "medicare_discharges": 560
+      "govt_payer_share": 0.453,
+      "medicare_discharges": 556
     }
   ],
   "catchment_counties": [
@@ -57,7 +57,7 @@
     "num_counties": 3,
     "hospital_employment": 648,
     "msa_total_employment": 11724,
-    "hospital_emp_share": 0.0553,
-    "avg_govt_payer_share": 0.2301
+    "hospital_emp_share": 0.0427,
+    "avg_govt_payer_share": 0.4529
   }
 }

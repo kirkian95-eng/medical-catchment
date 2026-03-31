@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22140",
   "cbsa_name": "Farmington, NM",
-  "mdi": 0.261,
+  "mdi": 0.8287,
   "bbox": [
     -110.73,
     35.29,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.7244,
       "lon": -108.2171,
-      "govt_payer_share": 0.365,
-      "medicare_discharges": 2320
+      "govt_payer_share": 0.368,
+      "medicare_discharges": 2322
     },
     {
       "facility_id": "320059",
@@ -28,8 +28,8 @@
       "ownership": "Government - Federal",
       "lat": 36.8625,
       "lon": -108.9358,
-      "govt_payer_share": 0.35,
-      "medicare_discharges": 454
+      "govt_payer_share": 0.519,
+      "medicare_discharges": 478
     }
   ],
   "catchment_counties": [
@@ -68,7 +68,7 @@
     "num_counties": 3,
     "hospital_employment": 1007,
     "msa_total_employment": 45806,
-    "hospital_emp_share": 0.022,
-    "avg_govt_payer_share": 0.362
+    "hospital_emp_share": 0.0705,
+    "avg_govt_payer_share": 0.402
   }
 }

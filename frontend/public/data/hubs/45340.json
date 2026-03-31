@@ -1,7 +1,7 @@
 {
   "cbsa_code": "45340",
   "cbsa_name": "Taos, NM",
-  "mdi": 0.6563,
+  "mdi": 0.4623,
   "bbox": [
     -107.08,
     35.37,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.3675,
       "lon": -105.5774,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.278,
+      "medicare_discharges": 313
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 10870,
-    "hospital_emp_share": 0.044,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0316,
+    "avg_govt_payer_share": 0.2775
   }
 }

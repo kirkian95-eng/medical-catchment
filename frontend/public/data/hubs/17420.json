@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17420",
   "cbsa_name": "Cleveland, TN",
-  "mdi": 0.3983,
+  "mdi": 0.2357,
   "bbox": [
     -86.37,
     34.18,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 35.1767,
       "lon": -84.8687,
-      "govt_payer_share": 0.265,
-      "medicare_discharges": 1936
+      "govt_payer_share": 0.237,
+      "medicare_discharges": 1663
     }
   ],
   "catchment_counties": [
@@ -65,7 +65,7 @@
     "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 42721,
-    "hospital_emp_share": 0.044,
-    "avg_govt_payer_share": 0.2654
+    "hospital_emp_share": 0.0148,
+    "avg_govt_payer_share": 0.237
   }
 }

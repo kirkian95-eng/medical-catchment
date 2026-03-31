@@ -1,7 +1,7 @@
 {
   "cbsa_code": "29200",
   "cbsa_name": "Lafayette-West Lafayette, IN",
-  "mdi": 0.4706,
+  "mdi": 0.362,
   "bbox": [
     -88.91,
     39.31,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.4006,
       "lon": -86.805,
-      "govt_payer_share": 0.466,
-      "medicare_discharges": 3303
+      "govt_payer_share": 0.362,
+      "medicare_discharges": 3239
     },
     {
       "facility_id": "150109",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 40.3927,
       "lon": -86.8383,
-      "govt_payer_share": 0.396,
-      "medicare_discharges": 2408
+      "govt_payer_share": 0.284,
+      "medicare_discharges": 2328
     },
     {
       "facility_id": "151307",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 40.309,
       "lon": -87.4127,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.517,
+      "medicare_discharges": 181
     }
   ],
   "catchment_counties": [
@@ -87,7 +87,7 @@
     "num_counties": 4,
     "hospital_employment": 4647,
     "msa_total_employment": 94482,
-    "hospital_emp_share": 0.0455,
-    "avg_govt_payer_share": 0.4415
+    "hospital_emp_share": 0.0225,
+    "avg_govt_payer_share": 0.3313
   }
 }

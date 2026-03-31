@@ -1,7 +1,7 @@
 {
   "cbsa_code": "32390",
   "cbsa_name": "Massena-Ogdensburg, NY",
-  "mdi": 0.7308,
+  "mdi": 0.5463,
   "bbox": [
     -76.97,
     43.33,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.6761,
       "lon": -74.9816,
-      "govt_payer_share": 0.463,
-      "medicare_discharges": 1178
+      "govt_payer_share": 0.307,
+      "medicare_discharges": 1163
     },
     {
       "facility_id": "331315",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.3267,
       "lon": -75.4676,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.292,
+      "medicare_discharges": 99
     },
     {
       "facility_id": "331322",
@@ -63,7 +63,7 @@
     "num_counties": 1,
     "hospital_employment": 2154,
     "msa_total_employment": 34614,
-    "hospital_emp_share": 0.0622,
-    "avg_govt_payer_share": 0.5385
+    "hospital_emp_share": 0.0376,
+    "avg_govt_payer_share": 0.369
   }
 }

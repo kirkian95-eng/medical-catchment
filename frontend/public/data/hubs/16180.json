@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16180",
   "cbsa_name": "Carson City, NV",
-  "mdi": 0.4124,
+  "mdi": 0.5998,
   "bbox": [
     -121.28,
     38.16,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.1626,
       "lon": -119.777,
-      "govt_payer_share": 0.476,
-      "medicare_discharges": 3367
+      "govt_payer_share": 0.574,
+      "medicare_discharges": 3333
     }
   ],
   "catchment_counties": [
@@ -65,7 +65,7 @@
     "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 31327,
-    "hospital_emp_share": 0.0365,
-    "avg_govt_payer_share": 0.4759
+    "hospital_emp_share": 0.0359,
+    "avg_govt_payer_share": 0.5742
   }
 }

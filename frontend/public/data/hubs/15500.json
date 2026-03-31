@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15500",
   "cbsa_name": "Burlington, NC",
-  "mdi": 0.4782,
+  "mdi": 0.2537,
   "bbox": [
     -81.0,
     35.06,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.064,
       "lon": -79.502,
-      "govt_payer_share": 0.295,
-      "medicare_discharges": 1870
+      "govt_payer_share": 0.223,
+      "medicare_discharges": 1865
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 114,
     "msa_total_employment": 66553,
-    "hospital_emp_share": 0.0471,
-    "avg_govt_payer_share": 0.2953
+    "hospital_emp_share": 0.0179,
+    "avg_govt_payer_share": 0.2232
   }
 }

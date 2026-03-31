@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36900",
   "cbsa_name": "Ottumwa, IA",
-  "mdi": 0.6213,
+  "mdi": 0.3145,
   "bbox": [
     -93.89,
     40.03,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 41.0276,
       "lon": -92.3905,
-      "govt_payer_share": 0.175,
-      "medicare_discharges": 384
+      "govt_payer_share": 0.298,
+      "medicare_discharges": 420
     }
   ],
   "catchment_counties": [
@@ -137,7 +137,7 @@
     "num_counties": 13,
     "hospital_employment": 373,
     "msa_total_employment": 15210,
-    "hospital_emp_share": 0.0845,
-    "avg_govt_payer_share": 0.175
+    "hospital_emp_share": 0.0196,
+    "avg_govt_payer_share": 0.2982
   }
 }

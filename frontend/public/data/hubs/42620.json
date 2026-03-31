@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42620",
   "cbsa_name": "Searcy, AR",
-  "mdi": 0.7482,
+  "mdi": 0.6559,
   "bbox": [
     -93.2,
     34.25,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.2505,
       "lon": -91.6959,
-      "govt_payer_share": 0.256,
-      "medicare_discharges": 3083
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 2982
     }
   ],
   "catchment_counties": [
@@ -73,7 +73,7 @@
     "num_counties": 5,
     "hospital_employment": 0,
     "msa_total_employment": 25144,
-    "hospital_emp_share": 0.1395,
-    "avg_govt_payer_share": 0.2562
+    "hospital_emp_share": 0.0474,
+    "avg_govt_payer_share": 0.3656
   }
 }

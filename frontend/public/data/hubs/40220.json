@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40220",
   "cbsa_name": "Roanoke, VA",
-  "mdi": 0.6775,
+  "mdi": 0.7612,
   "bbox": [
     -81.61,
     35.89,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.252,
       "lon": -79.942,
-      "govt_payer_share": 0.377,
-      "medicare_discharges": 8051
+      "govt_payer_share": 0.328,
+      "medicare_discharges": 7643
     },
     {
       "facility_id": "490048",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 37.3025,
       "lon": -80.1143,
-      "govt_payer_share": 0.319,
-      "medicare_discharges": 4952
+      "govt_payer_share": 0.341,
+      "medicare_discharges": 4751
     },
     {
       "facility_id": "490089",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.9614,
       "lon": -79.8664,
-      "govt_payer_share": 0.414,
-      "medicare_discharges": 628
+      "govt_payer_share": 0.398,
+      "medicare_discharges": 610
     }
   ],
   "catchment_counties": [
@@ -127,7 +127,7 @@
     "num_counties": 9,
     "hospital_employment": 1713,
     "msa_total_employment": 100319,
-    "hospital_emp_share": 0.0654,
-    "avg_govt_payer_share": 0.3555
+    "hospital_emp_share": 0.0701,
+    "avg_govt_payer_share": 0.3352
   }
 }

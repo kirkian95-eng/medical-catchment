@@ -1,7 +1,7 @@
 {
   "cbsa_code": "47080",
   "cbsa_name": "Vidalia, GA",
-  "mdi": 0.3886,
+  "mdi": 0.3882,
   "bbox": [
     -83.91,
     31.22,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 32.224,
       "lon": -82.4137,
-      "govt_payer_share": 0.308,
-      "medicare_discharges": 792
+      "govt_payer_share": 0.254,
+      "medicare_discharges": 808
     }
   ],
   "catchment_counties": [
@@ -73,7 +73,7 @@
     "num_counties": 5,
     "hospital_employment": 0,
     "msa_total_employment": 12425,
-    "hospital_emp_share": 0.038,
-    "avg_govt_payer_share": 0.3076
+    "hospital_emp_share": 0.0292,
+    "avg_govt_payer_share": 0.2537
   }
 }

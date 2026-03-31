@@ -1,7 +1,7 @@
 {
   "cbsa_code": "45500",
   "cbsa_name": "Texarkana, TX-AR",
-  "mdi": 0.3561,
+  "mdi": 0.5314,
   "bbox": [
     -95.65,
     32.37,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 33.4625,
       "lon": -94.0747,
-      "govt_payer_share": 0.271,
-      "medicare_discharges": 4126
+      "govt_payer_share": 0.405,
+      "medicare_discharges": 3853
     },
     {
       "facility_id": "450200",
@@ -28,8 +28,8 @@
       "ownership": "Physician",
       "lat": 33.3718,
       "lon": -94.1398,
-      "govt_payer_share": 0.227,
-      "medicare_discharges": 1197
+      "govt_payer_share": 0.328,
+      "medicare_discharges": 1158
     },
     {
       "facility_id": "041320",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.6702,
       "lon": -94.1479,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.663,
+      "medicare_discharges": 48
     }
   ],
   "catchment_counties": [
@@ -135,7 +135,7 @@
     "num_counties": 10,
     "hospital_employment": 2526,
     "msa_total_employment": 44572,
-    "hospital_emp_share": 0.0444,
-    "avg_govt_payer_share": 0.2655
+    "hospital_emp_share": 0.0393,
+    "avg_govt_payer_share": 0.3855
   }
 }

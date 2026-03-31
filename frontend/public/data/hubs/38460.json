@@ -1,7 +1,7 @@
 {
   "cbsa_code": "38460",
   "cbsa_name": "Plattsburgh, NY",
-  "mdi": 0.5282,
+  "mdi": 0.6786,
   "bbox": [
     -74.97,
     43.7,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.7001,
       "lon": -73.4668,
-      "govt_payer_share": 0.444,
-      "medicare_discharges": 2639
+      "govt_payer_share": 0.416,
+      "medicare_discharges": 2668
     }
   ],
   "catchment_counties": [
@@ -57,7 +57,7 @@
     "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 32733,
-    "hospital_emp_share": 0.0513,
-    "avg_govt_payer_share": 0.4435
+    "hospital_emp_share": 0.0536,
+    "avg_govt_payer_share": 0.4157
   }
 }

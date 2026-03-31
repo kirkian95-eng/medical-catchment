@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16060",
   "cbsa_name": "Carbondale, IL",
-  "mdi": 0.5336,
+  "mdi": 0.6172,
   "bbox": [
     -90.85,
     36.73,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.7277,
       "lon": -89.2219,
-      "govt_payer_share": 0.512,
-      "medicare_discharges": 2445
+      "govt_payer_share": 0.348,
+      "medicare_discharges": 2417
     },
     {
       "facility_id": "141334",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.7712,
       "lon": -89.3533,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.459,
+      "medicare_discharges": 110
     }
   ],
   "catchment_counties": [
@@ -68,7 +68,7 @@
     "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 24672,
-    "hospital_emp_share": 0.0445,
-    "avg_govt_payer_share": 0.5378
+    "hospital_emp_share": 0.0528,
+    "avg_govt_payer_share": 0.3648
   }
 }

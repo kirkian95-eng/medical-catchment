@@ -1,12 +1,12 @@
 {
   "cbsa_code": "45820",
   "cbsa_name": "Topeka, KS",
-  "mdi": 0.6375,
+  "mdi": 0.7236,
   "bbox": [
     -97.2,
-    37.98,
+    38.05,
     -93.75,
-    40.54
+    40.47
   ],
   "hospitals": [
     {
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.0514,
       "lon": -95.6962,
-      "govt_payer_share": 0.341,
-      "medicare_discharges": 6320
+      "govt_payer_share": 0.323,
+      "medicare_discharges": 5898
     },
     {
       "facility_id": "170016",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 39.0561,
       "lon": -95.6962,
-      "govt_payer_share": 0.26,
-      "medicare_discharges": 2513
+      "govt_payer_share": 0.352,
+      "medicare_discharges": 2430
     },
     {
       "facility_id": "171314",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.3286,
       "lon": -95.2461,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 2
     },
     {
       "facility_id": "171319",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.4683,
       "lon": -95.7038,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.631,
+      "medicare_discharges": 85
     }
   ],
   "catchment_counties": [
@@ -104,14 +104,6 @@
       "distance_to_hub_miles": 53.0
     },
     {
-      "county_fips": "20107",
-      "county_name": "Linn",
-      "state": "KS",
-      "pop_total": 9696,
-      "pop_65_plus": 2146,
-      "distance_to_hub_miles": 74.1
-    },
-    {
       "county_fips": "20003",
       "county_name": "Anderson",
       "state": "KS",
@@ -130,15 +122,15 @@
   ],
   "summary": {
     "total_beds": 1001,
-    "catchment_pop": 277018,
-    "catchment_pop_65_plus": 52496,
-    "catchment_pct_65_plus": 0.1895,
-    "max_catchment_radius_miles": 74.1,
-    "avg_catchment_distance_miles": 16.1,
-    "num_counties": 9,
+    "catchment_pop": 267322,
+    "catchment_pop_65_plus": 50350,
+    "catchment_pct_65_plus": 0.1883,
+    "max_catchment_radius_miles": 62.2,
+    "avg_catchment_distance_miles": 14.0,
+    "num_counties": 8,
     "hospital_employment": 1838,
     "msa_total_employment": 108126,
-    "hospital_emp_share": 0.0618,
-    "avg_govt_payer_share": 0.3233
+    "hospital_emp_share": 0.0563,
+    "avg_govt_payer_share": 0.3448
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13540",
   "cbsa_name": "Bennington, VT",
-  "mdi": 0.4951,
+  "mdi": 0.6836,
   "bbox": [
     -74.71,
     41.87,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.8733,
       "lon": -73.207,
-      "govt_payer_share": 0.287,
-      "medicare_discharges": 1186
+      "govt_payer_share": 0.535,
+      "medicare_discharges": 1159
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 16733,
-    "hospital_emp_share": 0.0577,
-    "avg_govt_payer_share": 0.2868
+    "hospital_emp_share": 0.0492,
+    "avg_govt_payer_share": 0.5348
   }
 }

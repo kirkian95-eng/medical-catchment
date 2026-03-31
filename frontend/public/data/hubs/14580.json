@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14580",
   "cbsa_name": "Bozeman, MT",
-  "mdi": 0.2738,
+  "mdi": 0.4419,
   "bbox": [
     -112.89,
     44.29,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.6693,
       "lon": -111.0177,
-      "govt_payer_share": 0.372,
-      "medicare_discharges": 1863
+      "govt_payer_share": 0.452,
+      "medicare_discharges": 1840
     },
     {
       "facility_id": "271389",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.2871,
       "lon": -111.3887,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.375,
+      "medicare_discharges": 2
     }
   ],
   "catchment_counties": [
@@ -76,7 +76,7 @@
     "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 70681,
-    "hospital_emp_share": 0.0263,
-    "avg_govt_payer_share": 0.3803
+    "hospital_emp_share": 0.025,
+    "avg_govt_payer_share": 0.4498
   }
 }

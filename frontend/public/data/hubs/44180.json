@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44180",
   "cbsa_name": "Springfield, MO",
-  "mdi": 0.6868,
+  "mdi": 0.6891,
   "bbox": [
     -94.92,
     36.14,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.1433,
       "lon": -93.2781,
-      "govt_payer_share": 0.312,
-      "medicare_discharges": 6095
+      "govt_payer_share": 0.301,
+      "medicare_discharges": 5785
     },
     {
       "facility_id": "260065",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.1758,
       "lon": -93.2717,
-      "govt_payer_share": 0.299,
-      "medicare_discharges": 6114
+      "govt_payer_share": 0.276,
+      "medicare_discharges": 6137
     },
     {
       "facility_id": "260195",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 37.6266,
       "lon": -93.4208,
-      "govt_payer_share": 0.244,
-      "medicare_discharges": 436
+      "govt_payer_share": 0.26,
+      "medicare_discharges": 442
     }
   ],
   "catchment_counties": [
@@ -151,7 +151,7 @@
     "num_counties": 12,
     "hospital_employment": 1868,
     "msa_total_employment": 186288,
-    "hospital_emp_share": 0.0665,
-    "avg_govt_payer_share": 0.3029
+    "hospital_emp_share": 0.0555,
+    "avg_govt_payer_share": 0.2872
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "41660",
   "cbsa_name": "San Angelo, TX",
-  "mdi": 0.4341,
+  "mdi": 0.4737,
   "bbox": [
     -101.94,
     30.35,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 31.4645,
       "lon": -100.4354,
-      "govt_payer_share": 0.314,
-      "medicare_discharges": 4554
+      "govt_payer_share": 0.375,
+      "medicare_discharges": 4410
     }
   ],
   "catchment_counties": [
@@ -113,7 +113,7 @@
     "num_counties": 10,
     "hospital_employment": 2727,
     "msa_total_employment": 49586,
-    "hospital_emp_share": 0.0541,
-    "avg_govt_payer_share": 0.3141
+    "hospital_emp_share": 0.0378,
+    "avg_govt_payer_share": 0.3748
   }
 }

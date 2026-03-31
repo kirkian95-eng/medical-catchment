@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24900",
   "cbsa_name": "Greenwood, MS",
-  "mdi": 0.7188,
+  "mdi": 0.5002,
   "bbox": [
     -91.64,
     32.53,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 33.5277,
       "lon": -90.1387,
-      "govt_payer_share": 0.207,
-      "medicare_discharges": 285
+      "govt_payer_share": 0.511,
+      "medicare_discharges": 288
     }
   ],
   "catchment_counties": [
@@ -57,7 +57,7 @@
     "num_counties": 3,
     "hospital_employment": 375,
     "msa_total_employment": 13291,
-    "hospital_emp_share": 0.1,
-    "avg_govt_payer_share": 0.2066
+    "hospital_emp_share": 0.026,
+    "avg_govt_payer_share": 0.5112
   }
 }

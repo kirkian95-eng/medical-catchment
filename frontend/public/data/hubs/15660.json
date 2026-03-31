@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15660",
   "cbsa_name": "Calhoun, GA",
-  "mdi": 0.3641,
+  "mdi": 0.4943,
   "bbox": [
     -86.42,
     33.51,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 34.5117,
       "lon": -84.9204,
-      "govt_payer_share": 0.449,
-      "medicare_discharges": 975
+      "govt_payer_share": 0.299,
+      "medicare_discharges": 958
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 24712,
-    "hospital_emp_share": 0.0308,
-    "avg_govt_payer_share": 0.4487
+    "hospital_emp_share": 0.0372,
+    "avg_govt_payer_share": 0.299
   }
 }

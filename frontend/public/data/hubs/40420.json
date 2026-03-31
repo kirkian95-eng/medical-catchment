@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40420",
   "cbsa_name": "Rockford, IL",
-  "mdi": 0.5948,
+  "mdi": 0.5036,
   "bbox": [
     -90.6,
     41.27,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.2981,
       "lon": -89.0969,
-      "govt_payer_share": 0.24,
-      "medicare_discharges": 1976
+      "govt_payer_share": 0.302,
+      "medicare_discharges": 1828
     },
     {
       "facility_id": "140228",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.2668,
       "lon": -89.0728,
-      "govt_payer_share": 0.335,
-      "medicare_discharges": 3182
+      "govt_payer_share": 0.319,
+      "medicare_discharges": 2852
     },
     {
       "facility_id": "140233",
@@ -39,27 +39,11 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 42.266,
       "lon": -89.0067,
-      "govt_payer_share": 0.477,
-      "medicare_discharges": 3864
+      "govt_payer_share": 0.36,
+      "medicare_discharges": 3705
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "17089",
-      "county_name": "Kane",
-      "state": "IL",
-      "pop_total": 517254,
-      "pop_65_plus": 75215,
-      "distance_to_hub_miles": 40.3
-    },
-    {
-      "county_fips": "17111",
-      "county_name": "McHenry",
-      "state": "IL",
-      "pop_total": 311133,
-      "pop_65_plus": 48285,
-      "distance_to_hub_miles": 31.5
-    },
     {
       "county_fips": "17201",
       "county_name": "Winnebago",
@@ -67,14 +51,6 @@
       "pop_total": 284591,
       "pop_65_plus": 51253,
       "distance_to_hub_miles": 6.2
-    },
-    {
-      "county_fips": "17037",
-      "county_name": "DeKalb",
-      "state": "IL",
-      "pop_total": 100686,
-      "pop_65_plus": 13559,
-      "distance_to_hub_miles": 30.7
     },
     {
       "county_fips": "17007",
@@ -95,15 +71,15 @@
   ],
   "summary": {
     "total_beds": 1082,
-    "catchment_pop": 1318795,
-    "catchment_pop_65_plus": 206965,
-    "catchment_pct_65_plus": 0.1569,
-    "max_catchment_radius_miles": 40.3,
-    "avg_catchment_distance_miles": 28.3,
-    "num_counties": 6,
+    "catchment_pop": 389722,
+    "catchment_pop_65_plus": 69906,
+    "catchment_pct_65_plus": 0.1794,
+    "max_catchment_radius_miles": 20.9,
+    "avg_catchment_distance_miles": 9.1,
+    "num_counties": 3,
     "hospital_employment": 8949,
     "msa_total_employment": 125284,
-    "hospital_emp_share": 0.0651,
-    "avg_govt_payer_share": 0.3308
+    "hospital_emp_share": 0.0374,
+    "avg_govt_payer_share": 0.3221
   }
 }

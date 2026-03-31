@@ -1,12 +1,12 @@
 {
   "cbsa_code": "30020",
   "cbsa_name": "Lawton, OK",
-  "mdi": 0.6595,
+  "mdi": 0.8173,
   "bbox": [
-    -99.99,
-    33.39,
-    -96.92,
-    35.94
+    -100.34,
+    33.11,
+    -96.57,
+    36.22
   ],
   "hospitals": [
     {
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.609,
       "lon": -98.4366,
-      "govt_payer_share": 0.407,
-      "medicare_discharges": 3499
+      "govt_payer_share": 0.63,
+      "medicare_discharges": 3407
     },
     {
       "facility_id": "370097",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 34.5943,
       "lon": -98.4613,
-      "govt_payer_share": 0.202,
-      "medicare_discharges": 631
+      "govt_payer_share": 0.5,
+      "medicare_discharges": 646
     },
     {
       "facility_id": "370170",
@@ -39,8 +39,8 @@
       "ownership": "Government - Federal",
       "lat": 34.7283,
       "lon": -98.4746,
-      "govt_payer_share": 0.221,
-      "medicare_discharges": 75
+      "govt_payer_share": 0.529,
+      "medicare_discharges": 76
     }
   ],
   "catchment_counties": [
@@ -101,6 +101,14 @@
       "distance_to_hub_miles": 67.0
     },
     {
+      "county_fips": "40129",
+      "county_name": "Roger Mills",
+      "state": "OK",
+      "pop_total": 3423,
+      "pop_65_plus": 727,
+      "distance_to_hub_miles": 102.6
+    },
+    {
       "county_fips": "40057",
       "county_name": "Harmon",
       "state": "OK",
@@ -111,15 +119,15 @@
   ],
   "summary": {
     "total_beds": 490,
-    "catchment_pop": 197874,
-    "catchment_pop_65_plus": 28375,
-    "catchment_pct_65_plus": 0.1434,
-    "max_catchment_radius_miles": 83.4,
-    "avg_catchment_distance_miles": 24.9,
-    "num_counties": 8,
+    "catchment_pop": 201297,
+    "catchment_pop_65_plus": 29102,
+    "catchment_pct_65_plus": 0.1446,
+    "max_catchment_radius_miles": 102.6,
+    "avg_catchment_distance_miles": 26.2,
+    "num_counties": 9,
     "hospital_employment": 627,
     "msa_total_employment": 40942,
-    "hospital_emp_share": 0.0685,
-    "avg_govt_payer_share": 0.3137
+    "hospital_emp_share": 0.055,
+    "avg_govt_payer_share": 0.5719
   }
 }

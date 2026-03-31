@@ -1,7 +1,7 @@
 {
   "cbsa_code": "29900",
   "cbsa_name": "Laurinburg, NC",
-  "mdi": 0.6193,
+  "mdi": 0.7921,
   "bbox": [
     -80.97,
     33.75,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.751,
       "lon": -79.467,
-      "govt_payer_share": 0.371,
-      "medicare_discharges": 1044
+      "govt_payer_share": 0.248,
+      "medicare_discharges": 1041
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 27,
     "msa_total_employment": 11762,
-    "hospital_emp_share": 0.046,
-    "avg_govt_payer_share": 0.371
+    "hospital_emp_share": 0.0689,
+    "avg_govt_payer_share": 0.2482
   }
 }

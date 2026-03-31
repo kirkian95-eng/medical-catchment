@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35340",
   "cbsa_name": "New Iberia, LA",
-  "mdi": 0.3365,
+  "mdi": 0.3761,
   "bbox": [
     -93.28,
     28.99,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 29.9886,
       "lon": -91.7845,
-      "govt_payer_share": 0.309,
-      "medicare_discharges": 1066
+      "govt_payer_share": 0.34,
+      "medicare_discharges": 1095
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 23672,
-    "hospital_emp_share": 0.0374,
-    "avg_govt_payer_share": 0.3089
+    "hospital_emp_share": 0.0261,
+    "avg_govt_payer_share": 0.3404
   }
 }

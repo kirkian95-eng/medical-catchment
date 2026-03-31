@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13980",
   "cbsa_name": "Blacksburg-Christiansburg-Radford, VA",
-  "mdi": 0.3636,
+  "mdi": 0.3966,
   "bbox": [
     -82.32,
     36.06,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 37.065,
       "lon": -80.8183,
-      "govt_payer_share": 0.219,
-      "medicare_discharges": 485
+      "govt_payer_share": 0.293,
+      "medicare_discharges": 359
     },
     {
       "facility_id": "490042",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.0892,
       "lon": -80.5073,
-      "govt_payer_share": 0.417,
-      "medicare_discharges": 1974
+      "govt_payer_share": 0.395,
+      "medicare_discharges": 1863
     },
     {
       "facility_id": "490110",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 37.2605,
       "lon": -80.4167,
-      "govt_payer_share": 0.344,
-      "medicare_discharges": 1769
+      "govt_payer_share": 0.372,
+      "medicare_discharges": 1779
     },
     {
       "facility_id": "491302",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.2479,
       "lon": -80.7776,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.459,
+      "medicare_discharges": 350
     }
   ],
   "catchment_counties": [
@@ -114,7 +114,7 @@
     "num_counties": 6,
     "hospital_employment": 0,
     "msa_total_employment": 64168,
-    "hospital_emp_share": 0.0373,
-    "avg_govt_payer_share": 0.3455
+    "hospital_emp_share": 0.0245,
+    "avg_govt_payer_share": 0.3588
   }
 }

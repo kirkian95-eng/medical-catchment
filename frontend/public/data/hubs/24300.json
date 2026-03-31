@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24300",
   "cbsa_name": "Grand Junction, CO",
-  "mdi": 0.6804,
+  "mdi": 0.6326,
   "bbox": [
     -110.38,
     38.07,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 39.0718,
       "lon": -108.546,
-      "govt_payer_share": 0.316,
-      "medicare_discharges": 2836
+      "govt_payer_share": 0.41,
+      "medicare_discharges": 2784
     },
     {
       "facility_id": "060054",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.1062,
       "lon": -108.6141,
-      "govt_payer_share": 0.293,
-      "medicare_discharges": 580
+      "govt_payer_share": 0.642,
+      "medicare_discharges": 578
     },
     {
       "facility_id": "061302",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.1566,
       "lon": -108.8788,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.426,
+      "medicare_discharges": 56
     }
   ],
   "catchment_counties": [
@@ -79,7 +79,7 @@
     "num_counties": 3,
     "hospital_employment": 4608,
     "msa_total_employment": 65495,
-    "hospital_emp_share": 0.0704,
-    "avg_govt_payer_share": 0.3343
+    "hospital_emp_share": 0.0433,
+    "avg_govt_payer_share": 0.4429
   }
 }

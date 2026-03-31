@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43580",
   "cbsa_name": "Sioux City, IA-NE-SD",
-  "mdi": 0.3677,
+  "mdi": 0.4114,
   "bbox": [
     -98.01,
     41.41,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.4937,
       "lon": -96.3942,
-      "govt_payer_share": 0.321,
-      "medicare_discharges": 2016
+      "govt_payer_share": 0.379,
+      "medicare_discharges": 1839
     },
     {
       "facility_id": "160146",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.5179,
       "lon": -96.4052,
-      "govt_payer_share": 0.373,
-      "medicare_discharges": 2035
+      "govt_payer_share": 0.403,
+      "medicare_discharges": 1958
     },
     {
       "facility_id": "430089",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 42.5233,
       "lon": -96.5097,
-      "govt_payer_share": 0.214,
-      "medicare_discharges": 334
+      "govt_payer_share": NaN,
+      "medicare_discharges": 316
     }
   ],
   "catchment_counties": [
@@ -167,7 +167,7 @@
     "num_counties": 14,
     "hospital_employment": 0,
     "msa_total_employment": 61358,
-    "hospital_emp_share": 0.0406,
-    "avg_govt_payer_share": 0.3339
+    "hospital_emp_share": 0.0259,
+    "avg_govt_payer_share": 0.4052
   }
 }

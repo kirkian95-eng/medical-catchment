@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35440",
   "cbsa_name": "Newport, OR",
-  "mdi": 0.5261,
+  "mdi": 0.5793,
   "bbox": [
     -125.56,
     43.63,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.6299,
       "lon": -124.0595,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.379,
+      "medicare_discharges": 450
     },
     {
       "facility_id": "381302",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.9853,
       "lon": -123.9959,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.377,
+      "medicare_discharges": 305
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 18547,
-    "hospital_emp_share": 0.0321,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.037,
+    "avg_govt_payer_share": 0.3789
   }
 }

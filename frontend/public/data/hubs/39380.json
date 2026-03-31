@@ -1,12 +1,12 @@
 {
   "cbsa_code": "39380",
   "cbsa_name": "Pueblo, CO",
-  "mdi": 0.663,
+  "mdi": 0.6345,
   "bbox": [
-    -107.06,
-    36.18,
-    -102.27,
-    40.15
+    -106.66,
+    36.49,
+    -102.67,
+    39.83
   ],
   "hospitals": [
     {
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 38.0441,
       "lon": -104.7144,
-      "govt_payer_share": 0.174,
-      "medicare_discharges": 383
+      "govt_payer_share": 0.425,
+      "medicare_discharges": 373
     },
     {
       "facility_id": "060020",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.2816,
       "lon": -104.6137,
-      "govt_payer_share": 0.344,
-      "medicare_discharges": 3222
+      "govt_payer_share": 0.509,
+      "medicare_discharges": 3008
     }
   ],
   "catchment_counties": [
@@ -138,14 +138,6 @@
       "distance_to_hub_miles": 73.4
     },
     {
-      "county_fips": "08009",
-      "county_name": "Baca",
-      "state": "CO",
-      "pop_total": 3496,
-      "pop_65_plus": 835,
-      "distance_to_hub_miles": 128.8
-    },
-    {
       "county_fips": "08061",
       "county_name": "Kiowa",
       "state": "CO",
@@ -156,15 +148,15 @@
   ],
   "summary": {
     "total_beds": 758,
-    "catchment_pop": 286917,
-    "catchment_pop_65_plus": 58305,
-    "catchment_pct_65_plus": 0.2032,
-    "max_catchment_radius_miles": 128.8,
-    "avg_catchment_distance_miles": 36.8,
-    "num_counties": 15,
+    "catchment_pop": 283421,
+    "catchment_pop_65_plus": 57470,
+    "catchment_pct_65_plus": 0.2028,
+    "max_catchment_radius_miles": 106.9,
+    "avg_catchment_distance_miles": 35.6,
+    "num_counties": 14,
     "hospital_employment": 856,
     "msa_total_employment": 62976,
-    "hospital_emp_share": 0.0784,
-    "avg_govt_payer_share": 0.2522
+    "hospital_emp_share": 0.0425,
+    "avg_govt_payer_share": 0.4638
   }
 }

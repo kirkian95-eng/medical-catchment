@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22520",
   "cbsa_name": "Florence-Muscle Shoals, AL",
-  "mdi": 0.7785,
+  "mdi": 0.5472,
   "bbox": [
     -89.2,
     33.75,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 34.8027,
       "lon": -87.6529,
-      "govt_payer_share": 0.411,
-      "medicare_discharges": 3621
+      "govt_payer_share": 0.382,
+      "medicare_discharges": 3400
     },
     {
       "facility_id": "010157",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 34.7685,
       "lon": -87.5628,
-      "govt_payer_share": 0.21,
-      "medicare_discharges": 159
+      "govt_payer_share": 0.353,
+      "medicare_discharges": 148
     },
     {
       "facility_id": "010019",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.7456,
       "lon": -87.699,
-      "govt_payer_share": 0.326,
-      "medicare_discharges": 1535
+      "govt_payer_share": 0.503,
+      "medicare_discharges": 1527
     }
   ],
   "catchment_counties": [
@@ -79,7 +79,7 @@
     "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 54873,
-    "hospital_emp_share": 0.0846,
-    "avg_govt_payer_share": 0.334
+    "hospital_emp_share": 0.039,
+    "avg_govt_payer_share": 0.4052
   }
 }

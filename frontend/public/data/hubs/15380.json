@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15380",
   "cbsa_name": "Buffalo-Cheektowaga, NY",
-  "mdi": 0.3698,
+  "mdi": 0.3645,
   "bbox": [
     -80.55,
     41.52,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.9004,
       "lon": -78.8655,
-      "govt_payer_share": 0.356,
-      "medicare_discharges": 6888
+      "govt_payer_share": 0.196,
+      "medicare_discharges": 6557
     },
     {
       "facility_id": "330219",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 42.9345,
       "lon": -78.8102,
-      "govt_payer_share": 0.34,
-      "medicare_discharges": 2416
+      "govt_payer_share": 0.202,
+      "medicare_discharges": 2296
     },
     {
       "facility_id": "330078",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.9292,
       "lon": -78.8497,
-      "govt_payer_share": 0.244,
-      "medicare_discharges": 1135
+      "govt_payer_share": 0.136,
+      "medicare_discharges": 1030
     },
     {
       "facility_id": "330279",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.8491,
       "lon": -78.8137,
-      "govt_payer_share": 0.344,
-      "medicare_discharges": 3172
+      "govt_payer_share": 0.193,
+      "medicare_discharges": 2929
     },
     {
       "facility_id": "330102",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.9719,
       "lon": -78.8768,
-      "govt_payer_share": 0.299,
-      "medicare_discharges": 1181
+      "govt_payer_share": 0.209,
+      "medicare_discharges": 1110
     },
     {
       "facility_id": "330188",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.1732,
       "lon": -78.9931,
-      "govt_payer_share": 0.256,
-      "medicare_discharges": 550
+      "govt_payer_share": 0.156,
+      "medicare_discharges": 528
     },
     {
       "facility_id": "330065",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 43.0939,
       "lon": -79.0503,
-      "govt_payer_share": 0.288,
-      "medicare_discharges": 535
+      "govt_payer_share": 0.448,
+      "medicare_discharges": 511
     },
     {
       "facility_id": "330111",
@@ -94,8 +94,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.525,
       "lon": -78.7121,
-      "govt_payer_share": 0.212,
-      "medicare_discharges": 144
+      "govt_payer_share": 0.225,
+      "medicare_discharges": 142
     }
   ],
   "catchment_counties": [
@@ -126,7 +126,7 @@
     "num_counties": 2,
     "hospital_employment": 20922,
     "msa_total_employment": 527847,
-    "hospital_emp_share": 0.0396,
-    "avg_govt_payer_share": 0.3189
+    "hospital_emp_share": 0.0308,
+    "avg_govt_payer_share": 0.2019
   }
 }

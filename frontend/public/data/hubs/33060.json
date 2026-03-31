@@ -1,7 +1,7 @@
 {
   "cbsa_code": "33060",
   "cbsa_name": "Miami, OK",
-  "mdi": 0.4094,
+  "mdi": 0.4352,
   "bbox": [
     -96.38,
     35.87,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 36.8723,
       "lon": -94.8803,
-      "govt_payer_share": 0.21,
-      "medicare_discharges": 327
+      "govt_payer_share": 0.533,
+      "medicare_discharges": 295
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 12907,
-    "hospital_emp_share": 0.0474,
-    "avg_govt_payer_share": 0.2097
+    "hospital_emp_share": 0.0168,
+    "avg_govt_payer_share": 0.5331
   }
 }

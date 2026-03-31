@@ -1,7 +1,7 @@
 {
   "cbsa_code": "26460",
   "cbsa_name": "Hudson, NY",
-  "mdi": 0.5096,
+  "mdi": 0.6033,
   "bbox": [
     -75.25,
     41.23,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.2264,
       "lon": -73.7536,
-      "govt_payer_share": 0.465,
-      "medicare_discharges": 1116
+      "govt_payer_share": 0.34,
+      "medicare_discharges": 1098
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 20853,
-    "hospital_emp_share": 0.0463,
-    "avg_govt_payer_share": 0.4654
+    "hospital_emp_share": 0.0497,
+    "avg_govt_payer_share": 0.3397
   }
 }

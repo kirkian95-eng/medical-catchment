@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19860",
   "cbsa_name": "Dickinson, ND",
-  "mdi": 0.4424,
+  "mdi": 0.3137,
   "bbox": [
     -104.36,
     45.66,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 46.8873,
       "lon": -102.8219,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.514,
+      "medicare_discharges": 449
     }
   ],
   "catchment_counties": [
@@ -105,7 +105,7 @@
     "num_counties": 9,
     "hospital_employment": 0,
     "msa_total_employment": 19047,
-    "hospital_emp_share": 0.0259,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0064,
+    "avg_govt_payer_share": 0.5142
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20580",
   "cbsa_name": "Eagle Pass, TX",
-  "mdi": 0.2886,
+  "mdi": 0.2278,
   "bbox": [
     -101.95,
     27.71,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 28.7122,
       "lon": -100.454,
-      "govt_payer_share": 0.302,
-      "medicare_discharges": 467
+      "govt_payer_share": 0.161,
+      "medicare_discharges": 476
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 18351,
-    "hospital_emp_share": 0.0286,
-    "avg_govt_payer_share": 0.3018
+    "hospital_emp_share": 0.0174,
+    "avg_govt_payer_share": 0.1613
   }
 }

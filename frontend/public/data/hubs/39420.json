@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39420",
   "cbsa_name": "Pullman, WA",
-  "mdi": 0.469,
+  "mdi": 0.6295,
   "bbox": [
     -118.88,
     45.73,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 46.8689,
       "lon": -117.3752,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.733,
+      "medicare_discharges": 177
     },
     {
       "facility_id": "501331",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 46.7304,
       "lon": -117.2184,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.341,
+      "medicare_discharges": 340
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 19533,
-    "hospital_emp_share": 0.0281,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0409,
+    "avg_govt_payer_share": 0.5367
   }
 }

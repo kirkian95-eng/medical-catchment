@@ -1,7 +1,7 @@
 {
   "cbsa_code": "11900",
   "cbsa_name": "Athens, OH",
-  "mdi": 0.0783,
+  "mdi": 0.4148,
   "bbox": [
     -83.57,
     38.31,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 39.3117,
       "lon": -82.0739,
-      "govt_payer_share": 0.246,
-      "medicare_discharges": 799
+      "govt_payer_share": 0.383,
+      "medicare_discharges": 791
     }
   ],
   "catchment_counties": [
@@ -57,7 +57,7 @@
     "num_counties": 3,
     "hospital_employment": 228,
     "msa_total_employment": 21027,
-    "hospital_emp_share": 0.0108,
-    "avg_govt_payer_share": 0.2459
+    "hospital_emp_share": 0.0235,
+    "avg_govt_payer_share": 0.383
   }
 }

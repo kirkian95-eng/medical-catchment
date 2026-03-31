@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39940",
   "cbsa_name": "Rexburg, ID",
-  "mdi": 0.2487,
+  "mdi": 0.4686,
   "bbox": [
     -113.31,
     42.81,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 43.8086,
       "lon": -111.8086,
-      "govt_payer_share": 0.191,
-      "medicare_discharges": 213
+      "govt_payer_share": 0.471,
+      "medicare_discharges": 204
     }
   ],
   "catchment_counties": [
@@ -65,7 +65,7 @@
     "num_counties": 4,
     "hospital_employment": 735,
     "msa_total_employment": 17201,
-    "hospital_emp_share": 0.0353,
-    "avg_govt_payer_share": 0.1914
+    "hospital_emp_share": 0.0257,
+    "avg_govt_payer_share": 0.4711
   }
 }

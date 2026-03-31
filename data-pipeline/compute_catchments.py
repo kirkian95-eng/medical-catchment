@@ -62,12 +62,23 @@ def assign_counties_to_hubs(rankings, hospitals, counties_gdf, population):
     """
     Assign each county to the nearest hub using size-weighted distance.
     effective_distance = actual_distance / log2(hub_beds + 1)
+    Counties in excluded mega-metros (pop > 2M) are skipped.
     """
     # Build hub list with coordinates and total beds
     hub_cbsas = {r['cbsa_code'] for r in rankings}
 
-    # Map hospitals to CBSAs
+    # Identify mega-metro counties to exclude from catchment assignment
+    pop_by_county = dict(zip(population['county_fips'], population['pop_total']))
     xw_path = os.path.join(OUTPUT_DIR, 'cbsa_crosswalk.csv')
+    xw = pd.read_csv(xw_path, dtype=str) if os.path.exists(xw_path) else pd.DataFrame()
+    mega_metro_counties = set()
+    if not xw.empty:
+        cbsa_pop = population.groupby('cbsa_code')['pop_total'].sum()
+        mega_cbsas = set(cbsa_pop[cbsa_pop > 2_000_000].index) - hub_cbsas
+        mega_metro_counties = set(xw[xw['cbsa_code'].isin(mega_cbsas)]['county_fips'])
+    print(f'Excluding {len(mega_metro_counties)} mega-metro counties from catchment assignment')
+
+    # Map hospitals to CBSAs
     xw = pd.read_csv(xw_path, dtype=str) if os.path.exists(xw_path) else pd.DataFrame()
     if not xw.empty:
         county_to_cbsa = dict(zip(xw['county_fips'], xw['cbsa_code']))
@@ -113,8 +124,15 @@ def assign_counties_to_hubs(rankings, hospitals, counties_gdf, population):
     pop_65_map = dict(zip(population['county_fips'], population['pop_65_plus']))
 
     county_assignments = []
+    skipped_mega = 0
     for _, county in counties_gdf.iterrows():
         cfips = county['county_fips']
+
+        # Skip counties that belong to excluded mega-metros
+        if cfips in mega_metro_counties:
+            skipped_mega += 1
+            continue
+
         clat = county['centroid_lat']
         clon = county['centroid_lon']
 
@@ -126,6 +144,17 @@ def assign_counties_to_hubs(rankings, hospitals, counties_gdf, population):
         best_hub = hub_codes[best_idx]
         best_dist = distances[best_idx]
 
+        # Cap at 120 miles — if nearest hub is farther, assign to closest by beds
+        if best_dist > MAX_CATCHMENT_MILES:
+            within_range = distances <= MAX_CATCHMENT_MILES
+            if within_range.any():
+                # Among hubs within range, pick the one with most beds
+                candidates = np.where(within_range)[0]
+                best_idx = candidates[np.argmax(hub_beds[candidates])]
+                best_hub = hub_codes[best_idx]
+                best_dist = distances[best_idx]
+            # else: keep the nearest hub even though it's >120mi (no orphan counties)
+
         county_assignments.append({
             'county_fips': cfips,
             'assigned_hub': best_hub,
@@ -135,7 +164,7 @@ def assign_counties_to_hubs(rankings, hospitals, counties_gdf, population):
         })
 
     assignments_df = pd.DataFrame(county_assignments)
-    print(f'Assigned {len(assignments_df)} counties to {assignments_df["assigned_hub"].nunique()} hubs')
+    print(f'Assigned {len(assignments_df)} counties to {assignments_df["assigned_hub"].nunique()} hubs (skipped {skipped_mega} mega-metro counties)')
 
     return assignments_df
 

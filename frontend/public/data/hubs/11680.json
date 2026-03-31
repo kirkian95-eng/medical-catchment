@@ -1,7 +1,7 @@
 {
   "cbsa_code": "11680",
   "cbsa_name": "Arkansas City-Winfield, KS",
-  "mdi": 0.5597,
+  "mdi": 0.4144,
   "bbox": [
     -98.48,
     36.24,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 37.2448,
       "lon": -96.982,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.489,
+      "medicare_discharges": 388
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 510,
     "msa_total_employment": 13509,
-    "hospital_emp_share": 0.0378,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0191,
+    "avg_govt_payer_share": 0.4887
   }
 }

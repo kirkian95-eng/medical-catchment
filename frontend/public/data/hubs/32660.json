@@ -1,7 +1,7 @@
 {
   "cbsa_code": "32660",
   "cbsa_name": "McMinnville, TN",
-  "mdi": 0.4133,
+  "mdi": 0.3193,
   "bbox": [
     -87.24,
     34.7,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.699,
       "lon": -85.742,
-      "govt_payer_share": 0.214,
-      "medicare_discharges": 574
+      "govt_payer_share": 0.354,
+      "medicare_discharges": 569
     }
   ],
   "catchment_counties": [
@@ -39,14 +39,6 @@
       "distance_to_hub_miles": 20.1
     },
     {
-      "county_fips": "47015",
-      "county_name": "Cannon",
-      "state": "TN",
-      "pop_total": 14481,
-      "pop_65_plus": 2515,
-      "distance_to_hub_miles": 19.5
-    },
-    {
       "county_fips": "47061",
       "county_name": "Grundy",
       "state": "TN",
@@ -65,15 +57,15 @@
   ],
   "summary": {
     "total_beds": 125,
-    "catchment_pop": 95585,
-    "catchment_pop_65_plus": 17871,
-    "catchment_pct_65_plus": 0.187,
+    "catchment_pop": 81104,
+    "catchment_pop_65_plus": 15356,
+    "catchment_pct_65_plus": 0.1893,
     "max_catchment_radius_miles": 21.5,
-    "avg_catchment_distance_miles": 12.4,
-    "num_counties": 5,
+    "avg_catchment_distance_miles": 11.1,
+    "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 13137,
-    "hospital_emp_share": 0.05,
-    "avg_govt_payer_share": 0.2142
+    "hospital_emp_share": 0.0152,
+    "avg_govt_payer_share": 0.3544
   }
 }

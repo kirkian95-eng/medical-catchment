@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23380",
   "cbsa_name": "Fremont, OH",
-  "mdi": 0.4264,
+  "mdi": 0.3884,
   "bbox": [
     -84.64,
     40.28,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 41.3394,
       "lon": -83.1351,
-      "govt_payer_share": 0.194,
-      "medicare_discharges": 524
+      "govt_payer_share": 0.428,
+      "medicare_discharges": 516
     },
     {
       "facility_id": "360107",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 41.285,
       "lon": -82.8819,
-      "govt_payer_share": 0.206,
-      "medicare_discharges": 325
+      "govt_payer_share": 0.379,
+      "medicare_discharges": 319
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 25391,
-    "hospital_emp_share": 0.0539,
-    "avg_govt_payer_share": 0.1975
+    "hospital_emp_share": 0.0227,
+    "avg_govt_payer_share": 0.4142
   }
 }

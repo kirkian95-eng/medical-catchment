@@ -1,7 +1,7 @@
 {
   "cbsa_code": "32460",
   "cbsa_name": "Mayfield, KY",
-  "mdi": 0.3978,
+  "mdi": 0.5316,
   "bbox": [
     -90.15,
     35.76,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 36.7578,
       "lon": -88.6522,
-      "govt_payer_share": 0.318,
-      "medicare_discharges": 716
+      "govt_payer_share": 0.324,
+      "medicare_discharges": 712
     }
   ],
   "catchment_counties": [
@@ -57,7 +57,7 @@
     "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 11563,
-    "hospital_emp_share": 0.0417,
-    "avg_govt_payer_share": 0.3184
+    "hospital_emp_share": 0.04,
+    "avg_govt_payer_share": 0.3243
   }
 }

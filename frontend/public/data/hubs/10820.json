@@ -1,7 +1,7 @@
 {
   "cbsa_code": "10820",
   "cbsa_name": "Alexandria, MN",
-  "mdi": 0.369,
+  "mdi": 0.476,
   "bbox": [
     -96.88,
     44.87,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 45.8727,
       "lon": -95.3772,
-      "govt_payer_share": 0.228,
-      "medicare_discharges": 731
+      "govt_payer_share": 0.337,
+      "medicare_discharges": 721
     }
   ],
   "catchment_counties": [
@@ -73,7 +73,7 @@
     "num_counties": 5,
     "hospital_employment": 941,
     "msa_total_employment": 19412,
-    "hospital_emp_share": 0.0485,
-    "avg_govt_payer_share": 0.2278
+    "hospital_emp_share": 0.0372,
+    "avg_govt_payer_share": 0.3373
   }
 }

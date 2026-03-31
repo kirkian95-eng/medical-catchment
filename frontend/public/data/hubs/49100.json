@@ -1,7 +1,7 @@
 {
   "cbsa_code": "49100",
   "cbsa_name": "Winona, MN",
-  "mdi": 0.2351,
+  "mdi": 0.4324,
   "bbox": [
     -93.12,
     43.03,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.0335,
       "lon": -91.6222,
-      "govt_payer_share": 0.26,
-      "medicare_discharges": 322
+      "govt_payer_share": 0.346,
+      "medicare_discharges": 357
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 23912,
-    "hospital_emp_share": 0.0281,
-    "avg_govt_payer_share": 0.2598
+    "hospital_emp_share": 0.0297,
+    "avg_govt_payer_share": 0.3457
   }
 }

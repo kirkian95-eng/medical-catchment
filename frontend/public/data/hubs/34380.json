@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34380",
   "cbsa_name": "Mount Pleasant, MI",
-  "mdi": 0.2267,
+  "mdi": 0.3028,
   "bbox": [
     -86.26,
     42.6,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.5986,
       "lon": -84.7606,
-      "govt_payer_share": 0.209,
-      "medicare_discharges": 443
+      "govt_payer_share": 0.275,
+      "medicare_discharges": 422
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 26691,
-    "hospital_emp_share": 0.0301,
-    "avg_govt_payer_share": 0.2092
+    "hospital_emp_share": 0.012,
+    "avg_govt_payer_share": 0.2747
   }
 }

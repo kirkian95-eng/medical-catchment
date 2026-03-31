@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16580",
   "cbsa_name": "Champaign-Urbana, IL",
-  "mdi": 0.7087,
+  "mdi": 0.5889,
   "bbox": [
     -90.08,
     39.03,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.1173,
       "lon": -88.2151,
-      "govt_payer_share": 0.573,
-      "medicare_discharges": 6138
+      "govt_payer_share": 0.29,
+      "medicare_discharges": 5870
     },
     {
       "facility_id": "140113",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 40.1095,
       "lon": -88.211,
-      "govt_payer_share": 0.225,
-      "medicare_discharges": 788
+      "govt_payer_share": 0.296,
+      "medicare_discharges": 809
     },
     {
       "facility_id": "141317",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.4779,
       "lon": -88.3706,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.534,
+      "medicare_discharges": 337
     },
     {
       "facility_id": "141301",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.0293,
       "lon": -88.5837,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 54
     }
   ],
   "catchment_counties": [
@@ -98,7 +98,7 @@
     "num_counties": 4,
     "hospital_employment": 7229,
     "msa_total_employment": 104772,
-    "hospital_emp_share": 0.069,
-    "avg_govt_payer_share": 0.4305
+    "hospital_emp_share": 0.0458,
+    "avg_govt_payer_share": 0.3037
   }
 }

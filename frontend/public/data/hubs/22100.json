@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22100",
   "cbsa_name": "Farmington, MO",
-  "mdi": 0.4537,
+  "mdi": 0.4439,
   "bbox": [
     -91.94,
     36.78,
@@ -17,27 +17,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.7807,
       "lon": -90.4384,
-      "govt_payer_share": 0.328,
-      "medicare_discharges": 1142
+      "govt_payer_share": 0.411,
+      "medicare_discharges": 1131
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "29189",
-      "county_name": "St. Louis",
-      "state": "MO",
-      "pop_total": 999703,
-      "pop_65_plus": 184287,
-      "distance_to_hub_miles": 59.4
-    },
-    {
-      "county_fips": "29099",
-      "county_name": "Jefferson",
-      "state": "MO",
-      "pop_total": 226984,
-      "pop_65_plus": 35641,
-      "distance_to_hub_miles": 33.7
-    },
     {
       "county_fips": "29187",
       "county_name": "St. Francois",
@@ -45,14 +29,6 @@
       "pop_total": 66814,
       "pop_65_plus": 11293,
       "distance_to_hub_miles": 2.8
-    },
-    {
-      "county_fips": "17133",
-      "county_name": "Monroe",
-      "state": "IL",
-      "pop_total": 34905,
-      "pop_65_plus": 6423,
-      "distance_to_hub_miles": 37.2
     },
     {
       "county_fips": "29221",
@@ -97,15 +73,15 @@
   ],
   "summary": {
     "total_beds": 133,
-    "catchment_pop": 1398769,
-    "catchment_pop_65_plus": 251367,
-    "catchment_pct_65_plus": 0.1797,
-    "max_catchment_radius_miles": 59.4,
-    "avg_catchment_distance_miles": 50.2,
-    "num_counties": 9,
+    "catchment_pop": 137177,
+    "catchment_pop_65_plus": 25016,
+    "catchment_pct_65_plus": 0.1824,
+    "max_catchment_radius_miles": 41.0,
+    "avg_catchment_distance_miles": 13.6,
+    "num_counties": 6,
     "hospital_employment": 1194,
     "msa_total_employment": 22292,
-    "hospital_emp_share": 0.0536,
-    "avg_govt_payer_share": 0.3283
+    "hospital_emp_share": 0.0234,
+    "avg_govt_payer_share": 0.4105
   }
 }

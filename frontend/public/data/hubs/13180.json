@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13180",
   "cbsa_name": "Beaver Dam, WI",
-  "mdi": 0.3004,
+  "mdi": 0.4139,
   "bbox": [
     -90.33,
     42.2,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.4493,
       "lon": -88.8283,
-      "govt_payer_share": 0.192,
-      "medicare_discharges": 297
+      "govt_payer_share": 0.378,
+      "medicare_discharges": 294
     },
     {
       "facility_id": "520116",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.2035,
       "lon": -88.6989,
-      "govt_payer_share": 0.249,
-      "medicare_discharges": 712
+      "govt_payer_share": 0.381,
+      "medicare_discharges": 645
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 1402,
     "msa_total_employment": 36346,
-    "hospital_emp_share": 0.0386,
-    "avg_govt_payer_share": 0.2168
+    "hospital_emp_share": 0.0264,
+    "avg_govt_payer_share": 0.3795
   }
 }

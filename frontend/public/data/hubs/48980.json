@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48980",
   "cbsa_name": "Wilson, NC",
-  "mdi": 0.4169,
+  "mdi": 0.2866,
   "bbox": [
     -79.44,
     34.72,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.7202,
       "lon": -77.9447,
-      "govt_payer_share": 0.248,
-      "medicare_discharges": 1147
+      "govt_payer_share": 0.31,
+      "medicare_discharges": 1124
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 35767,
-    "hospital_emp_share": 0.0499,
-    "avg_govt_payer_share": 0.2482
+    "hospital_emp_share": 0.0156,
+    "avg_govt_payer_share": 0.3104
   }
 }

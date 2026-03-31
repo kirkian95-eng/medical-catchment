@@ -1,7 +1,7 @@
 {
   "cbsa_code": "38210",
   "cbsa_name": "Pikeville, KY",
-  "mdi": 0.805,
+  "mdi": 0.817,
   "bbox": [
     -84.28,
     36.43,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.4897,
       "lon": -82.5215,
-      "govt_payer_share": 0.379,
-      "medicare_discharges": 3067
+      "govt_payer_share": 0.278,
+      "medicare_discharges": 2984
     },
     {
       "facility_id": "180005",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 37.663,
       "lon": -82.7771,
-      "govt_payer_share": 0.261,
-      "medicare_discharges": 574
+      "govt_payer_share": 0.216,
+      "medicare_discharges": 545
     },
     {
       "facility_id": "180069",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 37.6607,
       "lon": -82.2843,
-      "govt_payer_share": 0.26,
-      "medicare_discharges": 500
+      "govt_payer_share": 0.285,
+      "medicare_discharges": 478
     },
     {
       "facility_id": "181305",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.571,
       "lon": -82.7767,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.312,
+      "medicare_discharges": 63
     },
     {
       "facility_id": "181331",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.4322,
       "lon": -82.7264,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.429,
+      "medicare_discharges": 66
     }
   ],
   "catchment_counties": [
@@ -173,7 +173,7 @@
     "num_counties": 12,
     "hospital_employment": 0,
     "msa_total_employment": 31334,
-    "hospital_emp_share": 0.1353,
-    "avg_govt_payer_share": 0.3518
+    "hospital_emp_share": 0.1208,
+    "avg_govt_payer_share": 0.2706
   }
 }

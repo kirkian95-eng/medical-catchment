@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48900",
   "cbsa_name": "Wilmington, NC",
-  "mdi": 0.4707,
+  "mdi": 0.4995,
   "bbox": [
     -79.79,
     32.95,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 34.206,
       "lon": -77.924,
-      "govt_payer_share": 0.502,
-      "medicare_discharges": 11021
+      "govt_payer_share": 0.341,
+      "medicare_discharges": 10620
     },
     {
       "facility_id": "340158",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 33.9498,
       "lon": -78.2938,
-      "govt_payer_share": 0.591,
-      "medicare_discharges": 1585
+      "govt_payer_share": 0.402,
+      "medicare_discharges": 1572
     },
     {
       "facility_id": "340168",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.292,
       "lon": -77.9724,
-      "govt_payer_share": 0.356,
-      "medicare_discharges": 412
+      "govt_payer_share": NaN,
+      "medicare_discharges": 407
     },
     {
       "facility_id": "341307",
@@ -50,8 +50,8 @@
       "ownership": "Government - Local",
       "lat": 34.5607,
       "lon": -77.9004,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.33,
+      "medicare_discharges": 45
     },
     {
       "facility_id": "341327",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 33.9666,
       "lon": -78.0576,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.604,
+      "medicare_discharges": 248
     }
   ],
   "catchment_counties": [
@@ -101,7 +101,7 @@
     "num_counties": 3,
     "hospital_employment": 538,
     "msa_total_employment": 182793,
-    "hospital_emp_share": 0.0393,
-    "avg_govt_payer_share": 0.5105
+    "hospital_emp_share": 0.0359,
+    "avg_govt_payer_share": 0.364
   }
 }

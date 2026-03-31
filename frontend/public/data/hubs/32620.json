@@ -1,7 +1,7 @@
 {
   "cbsa_code": "32620",
   "cbsa_name": "McComb, MS",
-  "mdi": 0.614,
+  "mdi": 0.8586,
   "bbox": [
     -91.97,
     30.11,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 31.2523,
       "lon": -90.4724,
-      "govt_payer_share": 0.343,
-      "medicare_discharges": 1384
+      "govt_payer_share": 0.52,
+      "medicare_discharges": 1292
     },
     {
       "facility_id": "251324",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 31.1247,
       "lon": -90.1262,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.879,
+      "medicare_discharges": 71
     },
     {
       "facility_id": "250049",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 31.1111,
       "lon": -90.4653,
-      "govt_payer_share": 0.249,
-      "medicare_discharges": 89
+      "govt_payer_share": 0.883,
+      "medicare_discharges": 102
     }
   ],
   "catchment_counties": [
@@ -79,7 +79,7 @@
     "num_counties": 3,
     "hospital_employment": 999,
     "msa_total_employment": 17152,
-    "hospital_emp_share": 0.0582,
-    "avg_govt_payer_share": 0.3822
+    "hospital_emp_share": 0.0539,
+    "avg_govt_payer_share": 0.6251
   }
 }

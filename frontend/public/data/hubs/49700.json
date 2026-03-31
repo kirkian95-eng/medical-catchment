@@ -1,7 +1,7 @@
 {
   "cbsa_code": "49700",
   "cbsa_name": "Yuba City, CA",
-  "mdi": 0.4404,
+  "mdi": 0.5022,
   "bbox": [
     -123.11,
     38.02,
@@ -17,8 +17,8 @@
       "ownership": "Government - Federal",
       "lat": 39.1386,
       "lon": -121.5952,
-      "govt_payer_share": 0.752,
-      "medicare_discharges": 4054
+      "govt_payer_share": 0.479,
+      "medicare_discharges": 4028
     },
     {
       "facility_id": "050766",
@@ -28,8 +28,8 @@
       "ownership": "Physician",
       "lat": 39.0155,
       "lon": -121.6112,
-      "govt_payer_share": 0.272,
-      "medicare_discharges": 132
+      "govt_payer_share": NaN,
+      "medicare_discharges": 130
     }
   ],
   "catchment_counties": [
@@ -68,7 +68,7 @@
     "num_counties": 3,
     "hospital_employment": 355,
     "msa_total_employment": 53545,
-    "hospital_emp_share": 0.025,
-    "avg_govt_payer_share": 0.7162
+    "hospital_emp_share": 0.0249,
+    "avg_govt_payer_share": 0.4883
   }
 }

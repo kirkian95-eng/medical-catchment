@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34180",
   "cbsa_name": "Moses Lake, WA",
-  "mdi": 0.3884,
+  "mdi": 0.5035,
   "bbox": [
     -121.34,
     46.13,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 47.131,
       "lon": -119.2645,
-      "govt_payer_share": 0.491,
-      "medicare_discharges": 797
+      "govt_payer_share": 0.46,
+      "medicare_discharges": 784
     },
     {
       "facility_id": "501308",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 48.0101,
       "lon": -119.1365,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.753,
+      "medicare_discharges": 152
     },
     {
       "facility_id": "501320",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 47.1686,
       "lon": -119.8429,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 36
     },
     {
       "facility_id": "501317",
@@ -50,8 +50,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 47.3383,
       "lon": -119.6352,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.668,
+      "medicare_discharges": 66
     }
   ],
   "catchment_counties": [
@@ -82,7 +82,7 @@
     "num_counties": 2,
     "hospital_employment": 941,
     "msa_total_employment": 42568,
-    "hospital_emp_share": 0.0221,
-    "avg_govt_payer_share": 0.6191
+    "hospital_emp_share": 0.0198,
+    "avg_govt_payer_share": 0.6144
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "37060",
   "cbsa_name": "Oxford, MS",
-  "mdi": 0.5931,
+  "mdi": 0.6389,
   "bbox": [
     -91.09,
     33.13,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.3466,
       "lon": -89.5203,
-      "govt_payer_share": 0.546,
-      "medicare_discharges": 4756
+      "govt_payer_share": 0.525,
+      "medicare_discharges": 4666
     },
     {
       "facility_id": "250061",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 34.135,
       "lon": -89.5909,
-      "govt_payer_share": 0.254,
-      "medicare_discharges": 157
+      "govt_payer_share": 0.786,
+      "medicare_discharges": 166
     }
   ],
   "catchment_counties": [
@@ -76,7 +76,7 @@
     "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 27751,
-    "hospital_emp_share": 0.0493,
-    "avg_govt_payer_share": 0.5085
+    "hospital_emp_share": 0.0402,
+    "avg_govt_payer_share": 0.5588
   }
 }

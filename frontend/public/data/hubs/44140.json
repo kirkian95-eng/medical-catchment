@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44140",
   "cbsa_name": "Springfield, MA",
-  "mdi": 0.6207,
+  "mdi": 0.6093,
   "bbox": [
     -74.14,
     41.11,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.1191,
       "lon": -72.6041,
-      "govt_payer_share": 0.569,
-      "medicare_discharges": 11850
+      "govt_payer_share": 0.432,
+      "medicare_discharges": 11468
     },
     {
       "facility_id": "220066",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.1148,
       "lon": -72.5956,
-      "govt_payer_share": 0.287,
-      "medicare_discharges": 1987
+      "govt_payer_share": 0.326,
+      "medicare_discharges": 1773
     },
     {
       "facility_id": "220024",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.2117,
       "lon": -72.6424,
-      "govt_payer_share": 0.416,
-      "medicare_discharges": 1614
+      "govt_payer_share": 0.485,
+      "medicare_discharges": 1628
     },
     {
       "facility_id": "220030",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 42.1889,
       "lon": -72.3065,
-      "govt_payer_share": 0.766,
-      "medicare_discharges": 1454
+      "govt_payer_share": 0.5,
+      "medicare_discharges": 1504
     }
   ],
   "catchment_counties": [
@@ -114,7 +114,7 @@
     "num_counties": 6,
     "hospital_employment": 12603,
     "msa_total_employment": 202689,
-    "hospital_emp_share": 0.0622,
-    "avg_govt_payer_share": 0.4797
+    "hospital_emp_share": 0.0473,
+    "avg_govt_payer_share": 0.4124
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35420",
   "cbsa_name": "New Philadelphia-Dover, OH",
-  "mdi": 0.323,
+  "mdi": 0.3164,
   "bbox": [
     -82.96,
     39.43,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 40.5139,
       "lon": -81.4564,
-      "govt_payer_share": 0.234,
-      "medicare_discharges": 995
+      "govt_payer_share": 0.247,
+      "medicare_discharges": 960
     },
     {
       "facility_id": "361302",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 40.4321,
       "lon": -81.2882,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.473,
+      "medicare_discharges": 48
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 37342,
-    "hospital_emp_share": 0.036,
-    "avg_govt_payer_share": 0.2799
+    "hospital_emp_share": 0.0219,
+    "avg_govt_payer_share": 0.2698
   }
 }

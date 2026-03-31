@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34340",
   "cbsa_name": "Mount Airy, NC",
-  "mdi": 0.2749,
+  "mdi": 0.6051,
   "bbox": [
     -82.29,
     35.28,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 36.4881,
       "lon": -80.6113,
-      "govt_payer_share": 0.307,
-      "medicare_discharges": 841
+      "govt_payer_share": 0.276,
+      "medicare_discharges": 868
     },
     {
       "facility_id": "340097",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.2756,
       "lon": -80.7857,
-      "govt_payer_share": 0.281,
-      "medicare_discharges": 620
+      "govt_payer_share": 0.27,
+      "medicare_discharges": 630
     }
   ],
   "catchment_counties": [
@@ -68,7 +68,7 @@
     "num_counties": 3,
     "hospital_employment": 899,
     "msa_total_employment": 28760,
-    "hospital_emp_share": 0.0313,
-    "avg_govt_payer_share": 0.2961
+    "hospital_emp_share": 0.0499,
+    "avg_govt_payer_share": 0.2735
   }
 }

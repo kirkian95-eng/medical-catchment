@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36460",
   "cbsa_name": "Olean, NY",
-  "mdi": 0.3659,
+  "mdi": 0.4171,
   "bbox": [
     -79.93,
     41.09,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 42.0902,
       "lon": -78.4268,
-      "govt_payer_share": 0.364,
-      "medicare_discharges": 1500
+      "govt_payer_share": 0.278,
+      "medicare_discharges": 1390
     }
   ],
   "catchment_counties": [
@@ -65,7 +65,7 @@
     "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 27603,
-    "hospital_emp_share": 0.0362,
-    "avg_govt_payer_share": 0.3642
+    "hospital_emp_share": 0.0326,
+    "avg_govt_payer_share": 0.2781
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31930",
   "cbsa_name": "Marietta, OH",
-  "mdi": 0.5719,
+  "mdi": 0.8768,
   "bbox": [
     -82.96,
     38.43,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 39.432,
       "lon": -81.4647,
-      "govt_payer_share": 0.448,
-      "medicare_discharges": 3254
+      "govt_payer_share": 0.377,
+      "medicare_discharges": 3241
     },
     {
       "facility_id": "361319",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.4298,
       "lon": -81.4321,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.404,
+      "medicare_discharges": 447
     }
   ],
   "catchment_counties": [
@@ -76,7 +76,7 @@
     "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 25162,
-    "hospital_emp_share": 0.054,
-    "avg_govt_payer_share": 0.4737
+    "hospital_emp_share": 0.1033,
+    "avg_govt_payer_share": 0.3802
   }
 }

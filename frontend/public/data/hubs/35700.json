@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35700",
   "cbsa_name": "Nogales, AZ",
-  "mdi": 0.3656,
+  "mdi": 0.077,
   "bbox": [
     -112.46,
     30.34,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 31.341,
       "lon": -110.9587,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.056,
+      "medicare_discharges": 27
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 13823,
-    "hospital_emp_share": 0.0153,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0085,
+    "avg_govt_payer_share": 0.056
   }
 }

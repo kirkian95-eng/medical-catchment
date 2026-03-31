@@ -1,7 +1,7 @@
 {
   "cbsa_code": "30500",
   "cbsa_name": "Lexington Park, MD",
-  "mdi": 0.3631,
+  "mdi": 0.3537,
   "bbox": [
     -78.1,
     37.56,
@@ -17,59 +17,11 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 38.56,
       "lon": -76.5982,
-      "govt_payer_share": 0.543,
-      "medicare_discharges": 2315
+      "govt_payer_share": 0.54,
+      "medicare_discharges": 2207
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "51059",
-      "county_name": "Fairfax",
-      "state": "VA",
-      "pop_total": 1145354,
-      "pop_65_plus": 162234,
-      "distance_to_hub_miles": 41.2
-    },
-    {
-      "county_fips": "24033",
-      "county_name": "Prince George's",
-      "state": "MD",
-      "pop_total": 957189,
-      "pop_65_plus": 135034,
-      "distance_to_hub_miles": 23.0
-    },
-    {
-      "county_fips": "11001",
-      "county_name": "District of Columbia",
-      "state": "DC",
-      "pop_total": 670587,
-      "pop_65_plus": 84451,
-      "distance_to_hub_miles": 32.8
-    },
-    {
-      "county_fips": "51013",
-      "county_name": "Arlington",
-      "state": "VA",
-      "pop_total": 235845,
-      "pop_65_plus": 26573,
-      "distance_to_hub_miles": 35.0
-    },
-    {
-      "county_fips": "24017",
-      "county_name": "Charles",
-      "state": "MD",
-      "pop_total": 167035,
-      "pop_65_plus": 21545,
-      "distance_to_hub_miles": 23.2
-    },
-    {
-      "county_fips": "51510",
-      "county_name": "Alexandria",
-      "state": "VA",
-      "pop_total": 157594,
-      "pop_65_plus": 19445,
-      "distance_to_hub_miles": 31.8
-    },
     {
       "county_fips": "24037",
       "county_name": "St. Mary's",
@@ -85,27 +37,19 @@
       "pop_total": 93244,
       "pop_65_plus": 14454,
       "distance_to_hub_miles": 4.0
-    },
-    {
-      "county_fips": "51610",
-      "county_name": "Falls Church",
-      "state": "VA",
-      "pop_total": 14576,
-      "pop_65_plus": 2001,
-      "distance_to_hub_miles": 38.4
     }
   ],
   "summary": {
     "total_beds": 106,
-    "catchment_pop": 3555238,
-    "catchment_pop_65_plus": 480907,
-    "catchment_pct_65_plus": 0.1353,
-    "max_catchment_radius_miles": 41.2,
-    "avg_catchment_distance_miles": 31.5,
-    "num_counties": 9,
+    "catchment_pop": 207058,
+    "catchment_pop_65_plus": 29624,
+    "catchment_pct_65_plus": 0.1431,
+    "max_catchment_radius_miles": 24.1,
+    "avg_catchment_distance_miles": 15.0,
+    "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 22057,
-    "hospital_emp_share": 0.0267,
-    "avg_govt_payer_share": 0.5432
+    "hospital_emp_share": 0.0109,
+    "avg_govt_payer_share": 0.5401
   }
 }

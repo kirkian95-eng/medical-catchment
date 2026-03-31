@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22420",
   "cbsa_name": "Flint, MI",
-  "mdi": 0.4361,
+  "mdi": 0.5048,
   "bbox": [
     -85.23,
     41.89,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 42.89,
       "lon": -83.6406,
-      "govt_payer_share": 0.344,
-      "medicare_discharges": 3432
+      "govt_payer_share": 0.252,
+      "medicare_discharges": 3158
     },
     {
       "facility_id": "230132",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 43.0215,
       "lon": -83.7052,
-      "govt_payer_share": 0.325,
-      "medicare_discharges": 1978
+      "govt_payer_share": 0.197,
+      "medicare_discharges": 1920
     },
     {
       "facility_id": "230141",
@@ -39,27 +39,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.0159,
       "lon": -83.7337,
-      "govt_payer_share": 0.373,
-      "medicare_discharges": 3585
+      "govt_payer_share": 0.279,
+      "medicare_discharges": 3476
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "26125",
-      "county_name": "Oakland",
-      "state": "MI",
-      "pop_total": 1272264,
-      "pop_65_plus": 222540,
-      "distance_to_hub_miles": 26.6
-    },
-    {
-      "county_fips": "26099",
-      "county_name": "Macomb",
-      "state": "MI",
-      "pop_total": 878453,
-      "pop_65_plus": 153699,
-      "distance_to_hub_miles": 44.7
-    },
     {
       "county_fips": "26049",
       "county_name": "Genesee",
@@ -67,22 +51,6 @@
       "pop_total": 405280,
       "pop_65_plus": 73019,
       "distance_to_hub_miles": 3.5
-    },
-    {
-      "county_fips": "26147",
-      "county_name": "St. Clair",
-      "state": "MI",
-      "pop_total": 160257,
-      "pop_65_plus": 31019,
-      "distance_to_hub_miles": 52.0
-    },
-    {
-      "county_fips": "26087",
-      "county_name": "Lapeer",
-      "state": "MI",
-      "pop_total": 88687,
-      "pop_65_plus": 16748,
-      "distance_to_hub_miles": 25.1
     },
     {
       "county_fips": "26151",
@@ -95,15 +63,15 @@
   ],
   "summary": {
     "total_beds": 1161,
-    "catchment_pop": 2845700,
-    "catchment_pop_65_plus": 506114,
-    "catchment_pct_65_plus": 0.1779,
+    "catchment_pop": 446039,
+    "catchment_pop_65_plus": 82108,
+    "catchment_pct_65_plus": 0.1841,
     "max_catchment_radius_miles": 61.8,
-    "avg_catchment_distance_miles": 30.8,
-    "num_counties": 6,
+    "avg_catchment_distance_miles": 8.8,
+    "num_counties": 2,
     "hospital_employment": 5688,
     "msa_total_employment": 132733,
-    "hospital_emp_share": 0.0429,
-    "avg_govt_payer_share": 0.3467
+    "hospital_emp_share": 0.0435,
+    "avg_govt_payer_share": 0.2425
   }
 }

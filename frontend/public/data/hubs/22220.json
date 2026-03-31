@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22220",
   "cbsa_name": "Fayetteville-Springdale-Rogers, AR",
-  "mdi": 0.3269,
+  "mdi": 0.3022,
   "bbox": [
     -95.97,
     35.11,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.1083,
       "lon": -94.1559,
-      "govt_payer_share": 0.325,
-      "medicare_discharges": 4246
+      "govt_payer_share": 0.305,
+      "medicare_discharges": 3962
     },
     {
       "facility_id": "040022",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 36.1814,
       "lon": -94.1363,
-      "govt_payer_share": 0.26,
-      "medicare_discharges": 1999
+      "govt_payer_share": 0.225,
+      "medicare_discharges": 1930
     },
     {
       "facility_id": "040010",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.3094,
       "lon": -94.1829,
-      "govt_payer_share": 0.347,
-      "medicare_discharges": 3599
+      "govt_payer_share": 0.384,
+      "medicare_discharges": 3561
     },
     {
       "facility_id": "040001",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 36.1653,
       "lon": -94.4561,
-      "govt_payer_share": 0.212,
-      "medicare_discharges": 354
+      "govt_payer_share": 0.349,
+      "medicare_discharges": 369
     },
     {
       "facility_id": "041331",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.4138,
       "lon": -94.465,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.451,
+      "medicare_discharges": 75
     }
   ],
   "catchment_counties": [
@@ -125,7 +125,7 @@
     "num_counties": 6,
     "hospital_employment": 9483,
     "msa_total_employment": 257443,
-    "hospital_emp_share": 0.0363,
-    "avg_govt_payer_share": 0.3083
+    "hospital_emp_share": 0.0194,
+    "avg_govt_payer_share": 0.3016
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40080",
   "cbsa_name": "Richmond-Berea, KY",
-  "mdi": 0.4038,
+  "mdi": 0.4022,
   "bbox": [
     -85.82,
     36.35,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.7624,
       "lon": -84.3046,
-      "govt_payer_share": 0.264,
-      "medicare_discharges": 725
+      "govt_payer_share": 0.212,
+      "medicare_discharges": 802
     },
     {
       "facility_id": "180115",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.3535,
       "lon": -84.3195,
-      "govt_payer_share": 0.347,
-      "medicare_discharges": 218
+      "govt_payer_share": 0.364,
+      "medicare_discharges": 217
     },
     {
       "facility_id": "181301",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.683,
       "lon": -83.991,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.368,
+      "medicare_discharges": 180
     },
     {
       "facility_id": "181329",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.5707,
       "lon": -84.2638,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.287,
+      "medicare_discharges": 136
     }
   ],
   "catchment_counties": [
@@ -106,7 +106,7 @@
     "num_counties": 5,
     "hospital_employment": 10,
     "msa_total_employment": 41889,
-    "hospital_emp_share": 0.0302,
-    "avg_govt_payer_share": 0.3909
+    "hospital_emp_share": 0.029,
+    "avg_govt_payer_share": 0.2658
   }
 }

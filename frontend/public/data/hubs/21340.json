@@ -1,7 +1,7 @@
 {
   "cbsa_code": "21340",
   "cbsa_name": "El Paso, TX",
-  "mdi": 0.2418,
+  "mdi": 0.2909,
   "bbox": [
     -109.84,
     29.06,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 31.7702,
       "lon": -106.4986,
-      "govt_payer_share": 0.272,
-      "medicare_discharges": 2912
+      "govt_payer_share": 0.133,
+      "medicare_discharges": 2785
     },
     {
       "facility_id": "450002",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 31.7717,
       "lon": -106.4999,
-      "govt_payer_share": 0.199,
-      "medicare_discharges": 950
+      "govt_payer_share": 0.178,
+      "medicare_discharges": 904
     },
     {
       "facility_id": "450024",
@@ -39,8 +39,8 @@
       "ownership": "Physician",
       "lat": 31.7704,
       "lon": -106.4332,
-      "govt_payer_share": 0.281,
-      "medicare_discharges": 1404
+      "govt_payer_share": 0.143,
+      "medicare_discharges": 1316
     },
     {
       "facility_id": "450668",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 31.7849,
       "lon": -106.4969,
-      "govt_payer_share": 0.269,
-      "medicare_discharges": 1465
+      "govt_payer_share": 0.215,
+      "medicare_discharges": 1459
     },
     {
       "facility_id": "670047",
@@ -61,8 +61,8 @@
       "ownership": "Proprietary",
       "lat": 31.7901,
       "lon": -106.2675,
-      "govt_payer_share": 0.314,
-      "medicare_discharges": 1409
+      "govt_payer_share": 0.167,
+      "medicare_discharges": 1373
     },
     {
       "facility_id": "670120",
@@ -72,8 +72,8 @@
       "ownership": "Proprietary",
       "lat": 31.8882,
       "lon": -106.5625,
-      "govt_payer_share": 0.319,
-      "medicare_discharges": 1011
+      "govt_payer_share": 0.214,
+      "medicare_discharges": 963
     },
     {
       "facility_id": "670124",
@@ -83,8 +83,8 @@
       "ownership": "Proprietary",
       "lat": 31.6786,
       "lon": -106.1151,
-      "govt_payer_share": 0.189,
-      "medicare_discharges": 77
+      "govt_payer_share": NaN,
+      "medicare_discharges": 75
     }
   ],
   "catchment_counties": [
@@ -103,14 +103,6 @@
       "pop_total": 219870,
       "pop_65_plus": 35342,
       "distance_to_hub_miles": 44.9
-    },
-    {
-      "county_fips": "35017",
-      "county_name": "Grant",
-      "state": "NM",
-      "pop_total": 28006,
-      "pop_65_plus": 7952,
-      "distance_to_hub_miles": 130.0
     },
     {
       "county_fips": "35029",
@@ -147,15 +139,15 @@
   ],
   "summary": {
     "total_beds": 2113,
-    "catchment_pop": 1158104,
-    "catchment_pop_65_plus": 162720,
-    "catchment_pct_65_plus": 0.1405,
+    "catchment_pop": 1130098,
+    "catchment_pop_65_plus": 154768,
+    "catchment_pct_65_plus": 0.137,
     "max_catchment_radius_miles": 180.5,
-    "avg_catchment_distance_miles": 25.8,
-    "num_counties": 7,
+    "avg_catchment_distance_miles": 23.2,
+    "num_counties": 6,
     "hospital_employment": 10175,
     "msa_total_employment": 325804,
-    "hospital_emp_share": 0.0311,
-    "avg_govt_payer_share": 0.2628
+    "hospital_emp_share": 0.0264,
+    "avg_govt_payer_share": 0.1673
   }
 }

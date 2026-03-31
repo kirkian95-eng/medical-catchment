@@ -1,7 +1,7 @@
 {
   "cbsa_code": "30900",
   "cbsa_name": "Logansport, IN",
-  "mdi": 0.6056,
+  "mdi": 0.4794,
   "bbox": [
     -87.86,
     39.76,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 40.763,
       "lon": -86.361,
-      "govt_payer_share": 0.211,
-      "medicare_discharges": 316
+      "govt_payer_share": 0.284,
+      "medicare_discharges": 306
     }
   ],
   "catchment_counties": [
@@ -57,7 +57,7 @@
     "num_counties": 3,
     "hospital_employment": 1090,
     "msa_total_employment": 14424,
-    "hospital_emp_share": 0.0756,
-    "avg_govt_payer_share": 0.2113
+    "hospital_emp_share": 0.0372,
+    "avg_govt_payer_share": 0.2843
   }
 }

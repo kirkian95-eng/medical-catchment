@@ -1,7 +1,7 @@
 {
   "cbsa_code": "30620",
   "cbsa_name": "Lima, OH",
-  "mdi": 0.6986,
+  "mdi": 0.6698,
   "bbox": [
     -85.59,
     39.71,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.7729,
       "lon": -84.0341,
-      "govt_payer_share": 0.349,
-      "medicare_discharges": 4525
+      "govt_payer_share": 0.299,
+      "medicare_discharges": 4358
     },
     {
       "facility_id": "360009",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 40.7357,
       "lon": -84.0881,
-      "govt_payer_share": 0.272,
-      "medicare_discharges": 1963
+      "govt_payer_share": 0.363,
+      "medicare_discharges": 1940
     },
     {
       "facility_id": "361322",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.8788,
       "lon": -83.884,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.865,
+      "medicare_discharges": 19
     },
     {
       "facility_id": "360263",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 40.7096,
       "lon": -84.0612,
-      "govt_payer_share": 0.95,
-      "medicare_discharges": 286
+      "govt_payer_share": 0.539,
+      "medicare_discharges": 284
     }
   ],
   "catchment_counties": [
@@ -98,7 +98,7 @@
     "num_counties": 4,
     "hospital_employment": 4007,
     "msa_total_employment": 49577,
-    "hospital_emp_share": 0.0808,
-    "avg_govt_payer_share": 0.3329
+    "hospital_emp_share": 0.0588,
+    "avg_govt_payer_share": 0.3439
   }
 }

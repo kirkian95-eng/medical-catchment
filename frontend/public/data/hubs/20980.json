@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20980",
   "cbsa_name": "El Dorado, AR",
-  "mdi": 0.3879,
+  "mdi": 0.3811,
   "bbox": [
     -94.17,
     32.22,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 33.2185,
       "lon": -92.6725,
-      "govt_payer_share": 0.269,
-      "medicare_discharges": 857
+      "govt_payer_share": 0.479,
+      "medicare_discharges": 837
     }
   ],
   "catchment_counties": [
@@ -73,7 +73,7 @@
     "num_counties": 5,
     "hospital_employment": 0,
     "msa_total_employment": 16703,
-    "hospital_emp_share": 0.0473,
-    "avg_govt_payer_share": 0.2692
+    "hospital_emp_share": 0.0177,
+    "avg_govt_payer_share": 0.4788
   }
 }

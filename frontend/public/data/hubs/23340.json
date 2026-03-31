@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23340",
   "cbsa_name": "Fremont, NE",
-  "mdi": 0.2379,
+  "mdi": 0.3145,
   "bbox": [
     -97.99,
     40.45,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.4515,
       "lon": -96.4923,
-      "govt_payer_share": 0.313,
-      "medicare_discharges": 949
+      "govt_payer_share": 0.413,
+      "medicare_discharges": 943
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 18651,
-    "hospital_emp_share": 0.025,
-    "avg_govt_payer_share": 0.3127
+    "hospital_emp_share": 0.0001,
+    "avg_govt_payer_share": 0.4134
   }
 }

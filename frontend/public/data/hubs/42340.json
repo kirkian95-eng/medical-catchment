@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42340",
   "cbsa_name": "Savannah, GA",
-  "mdi": 0.4461,
+  "mdi": 0.3783,
   "bbox": [
     -82.85,
     30.99,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 32.0318,
       "lon": -81.0917,
-      "govt_payer_share": 0.351,
-      "medicare_discharges": 5528
+      "govt_payer_share": 0.213,
+      "medicare_discharges": 5285
     },
     {
       "facility_id": "110024",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 32.0272,
       "lon": -81.1019,
-      "govt_payer_share": 0.309,
-      "medicare_discharges": 1902
+      "govt_payer_share": 0.291,
+      "medicare_discharges": 1900
     },
     {
       "facility_id": "110043",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 31.9854,
       "lon": -81.2357,
-      "govt_payer_share": 0.359,
-      "medicare_discharges": 3021
+      "govt_payer_share": 0.341,
+      "medicare_discharges": 3075
     },
     {
       "facility_id": "111306",
@@ -50,8 +50,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.4273,
       "lon": -81.35,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.31,
+      "medicare_discharges": 53
     }
   ],
   "catchment_counties": [
@@ -90,7 +90,7 @@
     "num_counties": 3,
     "hospital_employment": 8885,
     "msa_total_employment": 181696,
-    "hospital_emp_share": 0.0463,
-    "avg_govt_payer_share": 0.349
+    "hospital_emp_share": 0.0279,
+    "avg_govt_payer_share": 0.2649
   }
 }

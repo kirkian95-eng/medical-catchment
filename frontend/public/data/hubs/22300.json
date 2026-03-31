@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22300",
   "cbsa_name": "Findlay, OH",
-  "mdi": 0.2687,
+  "mdi": 0.3365,
   "bbox": [
     -85.15,
     40.02,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 41.0166,
       "lon": -83.6505,
-      "govt_payer_share": 0.29,
-      "medicare_discharges": 2021
+      "govt_payer_share": 0.281,
+      "medicare_discharges": 1969
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 44290,
-    "hospital_emp_share": 0.0322,
-    "avg_govt_payer_share": 0.2895
+    "hospital_emp_share": 0.0252,
+    "avg_govt_payer_share": 0.2809
   }
 }

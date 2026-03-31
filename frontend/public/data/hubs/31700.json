@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31700",
   "cbsa_name": "Manchester-Nashua, NH",
-  "mdi": 0.4567,
+  "mdi": 0.443,
   "bbox": [
     -73.44,
     41.75,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.9912,
       "lon": -71.4739,
-      "govt_payer_share": 0.406,
-      "medicare_discharges": 4039
+      "govt_payer_share": 0.367,
+      "medicare_discharges": 4085
     },
     {
       "facility_id": "300012",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.9828,
       "lon": -71.4359,
-      "govt_payer_share": 0.395,
-      "medicare_discharges": 3452
+      "govt_payer_share": 0.35,
+      "medicare_discharges": 3442
     },
     {
       "facility_id": "300011",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 42.7496,
       "lon": -71.4819,
-      "govt_payer_share": 0.315,
-      "medicare_discharges": 1810
+      "govt_payer_share": 0.396,
+      "medicare_discharges": 1774
     },
     {
       "facility_id": "300020",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.7563,
       "lon": -71.4608,
-      "govt_payer_share": 0.377,
-      "medicare_discharges": 2482
+      "govt_payer_share": 0.297,
+      "medicare_discharges": 2406
     },
     {
       "facility_id": "301309",
@@ -61,19 +61,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.89,
       "lon": -71.9359,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.405,
+      "medicare_discharges": 396
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "25009",
-      "county_name": "Essex",
-      "state": "MA",
-      "pop_total": 806103,
-      "pop_65_plus": 141798,
-      "distance_to_hub_miles": 35.5
-    },
     {
       "county_fips": "33011",
       "county_name": "Hillsborough",
@@ -81,27 +73,19 @@
       "pop_total": 422733,
       "pop_65_plus": 68925,
       "distance_to_hub_miles": 12.4
-    },
-    {
-      "county_fips": "33015",
-      "county_name": "Rockingham",
-      "state": "NH",
-      "pop_total": 315169,
-      "pop_65_plus": 59533,
-      "distance_to_hub_miles": 20.3
     }
   ],
   "summary": {
     "total_beds": 1047,
-    "catchment_pop": 1544005,
-    "catchment_pop_65_plus": 270256,
-    "catchment_pct_65_plus": 0.175,
-    "max_catchment_radius_miles": 35.5,
-    "avg_catchment_distance_miles": 26.1,
-    "num_counties": 3,
+    "catchment_pop": 422733,
+    "catchment_pop_65_plus": 68925,
+    "catchment_pct_65_plus": 0.163,
+    "max_catchment_radius_miles": 12.4,
+    "avg_catchment_distance_miles": 12.4,
+    "num_counties": 1,
     "hospital_employment": 10277,
     "msa_total_employment": 201952,
-    "hospital_emp_share": 0.0509,
-    "avg_govt_payer_share": 0.3862
+    "hospital_emp_share": 0.0338,
+    "avg_govt_payer_share": 0.3566
   }
 }

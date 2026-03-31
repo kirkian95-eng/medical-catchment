@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15460",
   "cbsa_name": "Burlington, IA-IL",
-  "mdi": 0.4857,
+  "mdi": 0.8308,
   "bbox": [
     -92.67,
     39.81,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.8104,
       "lon": -91.1703,
-      "govt_payer_share": 0.393,
-      "medicare_discharges": 2013
+      "govt_payer_share": 0.42,
+      "medicare_discharges": 2053
     }
   ],
   "catchment_counties": [
@@ -73,7 +73,7 @@
     "num_counties": 5,
     "hospital_employment": 0,
     "msa_total_employment": 19789,
-    "hospital_emp_share": 0.0442,
-    "avg_govt_payer_share": 0.393
+    "hospital_emp_share": 0.0591,
+    "avg_govt_payer_share": 0.4202
   }
 }

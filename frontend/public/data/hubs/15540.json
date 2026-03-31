@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15540",
   "cbsa_name": "Burlington-South Burlington, VT",
-  "mdi": 0.4331,
+  "mdi": 0.9063,
   "bbox": [
     -74.7,
     43.48,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 44.4806,
       "lon": -73.1967,
-      "govt_payer_share": 0.448,
-      "medicare_discharges": 6502
+      "govt_payer_share": 0.552,
+      "medicare_discharges": 6481
     },
     {
       "facility_id": "470024",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 44.8074,
       "lon": -73.0747,
-      "govt_payer_share": 0.388,
-      "medicare_discharges": 897
+      "govt_payer_share": 0.557,
+      "medicare_discharges": 938
     }
   ],
   "catchment_counties": [
@@ -92,7 +92,7 @@
     "num_counties": 6,
     "hospital_employment": 0,
     "msa_total_employment": 120451,
-    "hospital_emp_share": 0.0404,
-    "avg_govt_payer_share": 0.4421
+    "hospital_emp_share": 0.0661,
+    "avg_govt_payer_share": 0.5521
   }
 }

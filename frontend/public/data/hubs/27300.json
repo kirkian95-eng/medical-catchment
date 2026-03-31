@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27300",
   "cbsa_name": "Jacksonville, IL",
-  "mdi": 0.5696,
+  "mdi": 0.5473,
   "bbox": [
     -91.72,
     38.74,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.7383,
       "lon": -90.2201,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.438,
+      "medicare_discharges": 905
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 13714,
-    "hospital_emp_share": 0.0366,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0379,
+    "avg_govt_payer_share": 0.4379
   }
 }

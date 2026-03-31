@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40090",
   "cbsa_name": "Rifle, CO",
-  "mdi": 0.3149,
+  "mdi": 0.6276,
   "bbox": [
     -109.61,
     38.19,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.5326,
       "lon": -107.3227,
-      "govt_payer_share": 0.354,
-      "medicare_discharges": 953
+      "govt_payer_share": 0.486,
+      "medicare_discharges": 947
     },
     {
       "facility_id": "061317",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 39.751,
       "lon": -108.1137,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.562,
+      "medicare_discharges": 155
     },
     {
       "facility_id": "061324",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 39.1926,
       "lon": -106.8391,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.404,
+      "medicare_discharges": 196
     }
   ],
   "catchment_counties": [
@@ -71,7 +71,7 @@
     "num_counties": 2,
     "hospital_employment": 1028,
     "msa_total_employment": 44671,
-    "hospital_emp_share": 0.023,
-    "avg_govt_payer_share": 0.4813
+    "hospital_emp_share": 0.0414,
+    "avg_govt_payer_share": 0.4848
   }
 }

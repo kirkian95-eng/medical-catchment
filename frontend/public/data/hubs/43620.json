@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43620",
   "cbsa_name": "Sioux Falls, SD-MN",
-  "mdi": 0.8628,
+  "mdi": 0.9301,
   "bbox": [
     -100.03,
     40.9,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.6746,
       "lon": -96.7913,
-      "govt_payer_share": 0.402,
-      "medicare_discharges": 6816
+      "govt_payer_share": 0.536,
+      "medicare_discharges": 6518
     },
     {
       "facility_id": "430016",
@@ -29,7 +29,7 @@
       "lat": 43.6746,
       "lon": -96.7913,
       "govt_payer_share": 0.467,
-      "medicare_discharges": 6935
+      "medicare_discharges": 6985
     },
     {
       "facility_id": "430095",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 43.4775,
       "lon": -96.7048,
-      "govt_payer_share": 0.572,
-      "medicare_discharges": 1643
+      "govt_payer_share": 0.571,
+      "medicare_discharges": 1603
     },
     {
       "facility_id": "430090",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 43.5203,
       "lon": -96.7356,
-      "govt_payer_share": 0.23,
-      "medicare_discharges": 409
+      "govt_payer_share": 0.706,
+      "medicare_discharges": 403
     },
     {
       "facility_id": "241371",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.6615,
       "lon": -96.2272,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.669,
+      "medicare_discharges": 218
     },
     {
       "facility_id": "431331",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.8563,
       "lon": -96.7366,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.809,
+      "medicare_discharges": 103
     },
     {
       "facility_id": "431328",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.182,
       "lon": -97.1702,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.775,
+      "medicare_discharges": 32
     },
     {
       "facility_id": "431333",
@@ -94,8 +94,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.2831,
       "lon": -96.625,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.683,
+      "medicare_discharges": 53
     }
   ],
   "catchment_counties": [
@@ -300,14 +300,6 @@
       "distance_to_hub_miles": 60.6
     },
     {
-      "county_fips": "46053",
-      "county_name": "Gregory",
-      "state": "SD",
-      "pop_total": 3983,
-      "pop_65_plus": 1004,
-      "distance_to_hub_miles": 125.4
-    },
-    {
       "county_fips": "46085",
       "county_name": "Lyman",
       "state": "SD",
@@ -356,14 +348,6 @@
       "distance_to_hub_miles": 48.6
     },
     {
-      "county_fips": "46017",
-      "county_name": "Buffalo",
-      "state": "SD",
-      "pop_total": 1859,
-      "pop_65_plus": 140,
-      "distance_to_hub_miles": 124.5
-    },
-    {
       "county_fips": "46073",
       "county_name": "Jerauld",
       "state": "SD",
@@ -390,15 +374,15 @@
   ],
   "summary": {
     "total_beds": 1210,
-    "catchment_pop": 553444,
-    "catchment_pop_65_plus": 95254,
-    "catchment_pct_65_plus": 0.1721,
+    "catchment_pop": 547602,
+    "catchment_pop_65_plus": 94110,
+    "catchment_pct_65_plus": 0.1719,
     "max_catchment_radius_miles": 157.5,
-    "avg_catchment_distance_miles": 38.8,
-    "num_counties": 36,
+    "avg_catchment_distance_miles": 37.9,
+    "num_counties": 34,
     "hospital_employment": 17464,
     "msa_total_employment": 170278,
-    "hospital_emp_share": 0.1018,
-    "avg_govt_payer_share": 0.449
+    "hospital_emp_share": 0.0666,
+    "avg_govt_payer_share": 0.525
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "38420",
   "cbsa_name": "Platteville, WI",
-  "mdi": 0.7556,
+  "mdi": 0.6891,
   "bbox": [
     -92.22,
     41.75,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.143,
       "lon": -90.683,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.646,
+      "medicare_discharges": 60
     },
     {
       "facility_id": "521354",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.7457,
       "lon": -90.4923,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.372,
+      "medicare_discharges": 422
     },
     {
       "facility_id": "521322",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.844,
       "lon": -90.717,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.614,
+      "medicare_discharges": 168
     }
   ],
   "catchment_counties": [
@@ -63,7 +63,7 @@
     "num_counties": 1,
     "hospital_employment": 965,
     "msa_total_employment": 17352,
-    "hospital_emp_share": 0.0556,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0374,
+    "avg_govt_payer_share": 0.5332
   }
 }

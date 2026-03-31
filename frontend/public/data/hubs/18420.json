@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18420",
   "cbsa_name": "Corinth, MS",
-  "mdi": 0.6349,
+  "mdi": 0.4745,
   "bbox": [
     -90.06,
     33.93,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 34.9348,
       "lon": -88.5587,
-      "govt_payer_share": 0.459,
-      "medicare_discharges": 2705
+      "govt_payer_share": 0.637,
+      "medicare_discharges": 2744
     }
   ],
   "catchment_counties": [
@@ -73,7 +73,7 @@
     "num_counties": 5,
     "hospital_employment": 286,
     "msa_total_employment": 13538,
-    "hospital_emp_share": 0.0645,
-    "avg_govt_payer_share": 0.4585
+    "hospital_emp_share": 0.0202,
+    "avg_govt_payer_share": 0.6369
   }
 }

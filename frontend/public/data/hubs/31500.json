@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31500",
   "cbsa_name": "Madison, IN",
-  "mdi": 0.2335,
+  "mdi": 0.8099,
   "bbox": [
     -86.86,
     37.81,
@@ -17,19 +17,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.8115,
       "lon": -85.3621,
-      "govt_payer_share": 0.333,
-      "medicare_discharges": 856
+      "govt_payer_share": 0.533,
+      "medicare_discharges": 846
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "18029",
-      "county_name": "Dearborn",
-      "state": "IN",
-      "pop_total": 50709,
-      "pop_65_plus": 9248,
-      "distance_to_hub_miles": 31.1
-    },
     {
       "county_fips": "18077",
       "county_name": "Jefferson",
@@ -63,41 +55,25 @@
       "distance_to_hub_miles": 17.5
     },
     {
-      "county_fips": "21077",
-      "county_name": "Gallatin",
-      "state": "KY",
-      "pop_total": 8720,
-      "pop_65_plus": 1181,
-      "distance_to_hub_miles": 27.3
-    },
-    {
       "county_fips": "21223",
       "county_name": "Trimble",
       "state": "KY",
       "pop_total": 8510,
       "pop_65_plus": 1497,
       "distance_to_hub_miles": 13.8
-    },
-    {
-      "county_fips": "18115",
-      "county_name": "Ohio",
-      "state": "IN",
-      "pop_total": 5974,
-      "pop_65_plus": 1335,
-      "distance_to_hub_miles": 23.4
     }
   ],
   "summary": {
     "total_beds": 86,
-    "catchment_pop": 156698,
-    "catchment_pop_65_plus": 28225,
-    "catchment_pct_65_plus": 0.1801,
-    "max_catchment_radius_miles": 31.1,
-    "avg_catchment_distance_miles": 20.3,
-    "num_counties": 8,
+    "catchment_pop": 91295,
+    "catchment_pop_65_plus": 16461,
+    "catchment_pct_65_plus": 0.1803,
+    "max_catchment_radius_miles": 20.9,
+    "avg_catchment_distance_miles": 13.4,
+    "num_counties": 5,
     "hospital_employment": 322,
     "msa_total_employment": 12643,
-    "hospital_emp_share": 0.0255,
-    "avg_govt_payer_share": 0.3326
+    "hospital_emp_share": 0.057,
+    "avg_govt_payer_share": 0.533
   }
 }

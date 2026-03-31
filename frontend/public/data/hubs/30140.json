@@ -1,7 +1,7 @@
 {
   "cbsa_code": "30140",
   "cbsa_name": "Lebanon, PA",
-  "mdi": 0.7361,
+  "mdi": 0.2484,
   "bbox": [
     -77.92,
     39.34,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.3368,
       "lon": -76.4173,
-      "govt_payer_share": 0.39,
-      "medicare_discharges": 1891
+      "govt_payer_share": 0.278,
+      "medicare_discharges": 1776
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 3809,
     "msa_total_employment": 52576,
-    "hospital_emp_share": 0.0724,
-    "avg_govt_payer_share": 0.3899
+    "hospital_emp_share": 0.0137,
+    "avg_govt_payer_share": 0.2778
   }
 }

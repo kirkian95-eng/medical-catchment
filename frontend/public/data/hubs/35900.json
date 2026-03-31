@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35900",
   "cbsa_name": "North Wilkesboro, NC",
-  "mdi": 0.3834,
+  "mdi": 0.3856,
   "bbox": [
     -82.66,
     35.16,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 36.1584,
       "lon": -81.1574,
-      "govt_payer_share": 0.301,
-      "medicare_discharges": 837
+      "govt_payer_share": 0.294,
+      "medicare_discharges": 821
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 19025,
-    "hospital_emp_share": 0.04,
-    "avg_govt_payer_share": 0.3012
+    "hospital_emp_share": 0.0283,
+    "avg_govt_payer_share": 0.2942
   }
 }

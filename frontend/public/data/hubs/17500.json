@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17500",
   "cbsa_name": "Clewiston, FL",
-  "mdi": 0.3845,
+  "mdi": 0.3978,
   "bbox": [
     -82.54,
     25.54,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 26.5379,
       "lon": -81.0441,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 98
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 267,
     "msa_total_employment": 12538,
-    "hospital_emp_share": 0.0185,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.01,
+    "avg_govt_payer_share": 0.6
   }
 }

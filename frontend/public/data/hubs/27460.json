@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27460",
   "cbsa_name": "Jamestown-Dunkirk, NY",
-  "mdi": 0.2745,
+  "mdi": 0.3441,
   "bbox": [
     -81.07,
     41.09,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.0911,
       "lon": -79.2328,
-      "govt_payer_share": 0.448,
-      "medicare_discharges": 1128
+      "govt_payer_share": 0.327,
+      "medicare_discharges": 1111
     },
     {
       "facility_id": "330229",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.4868,
       "lon": -79.3136,
-      "govt_payer_share": 0.256,
-      "medicare_discharges": 272
+      "govt_payer_share": 0.291,
+      "medicare_discharges": 266
     },
     {
       "facility_id": "330166",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.3175,
       "lon": -79.5695,
-      "govt_payer_share": 0.367,
-      "medicare_discharges": 66
+      "govt_payer_share": 0.46,
+      "medicare_discharges": 65
     }
   ],
   "catchment_counties": [
@@ -63,7 +63,7 @@
     "num_counties": 1,
     "hospital_employment": 1244,
     "msa_total_employment": 45836,
-    "hospital_emp_share": 0.0271,
-    "avg_govt_payer_share": 0.3697
+    "hospital_emp_share": 0.0232,
+    "avg_govt_payer_share": 0.316
   }
 }

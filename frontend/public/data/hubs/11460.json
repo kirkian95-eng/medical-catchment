@@ -1,7 +1,7 @@
 {
   "cbsa_code": "11460",
   "cbsa_name": "Ann Arbor, MI",
-  "mdi": 0.613,
+  "mdi": 0.8135,
   "bbox": [
     -85.53,
     41.27,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.2814,
       "lon": -83.7279,
-      "govt_payer_share": 0.419,
-      "medicare_discharges": 8630
+      "govt_payer_share": 0.206,
+      "medicare_discharges": 7844
     },
     {
       "facility_id": "230156",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 42.2728,
       "lon": -83.7657,
-      "govt_payer_share": 0.459,
-      "medicare_discharges": 8394
+      "govt_payer_share": 0.255,
+      "medicare_discharges": 7559
     },
     {
       "facility_id": "230144",
@@ -39,8 +39,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 42.2751,
       "lon": -83.5863,
-      "govt_payer_share": 0.218,
-      "medicare_discharges": 35
+      "govt_payer_share": NaN,
+      "medicare_discharges": 33
     },
     {
       "facility_id": "230259",
@@ -50,19 +50,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.3122,
       "lon": -84.0341,
-      "govt_payer_share": 0.383,
-      "medicare_discharges": 1361
+      "govt_payer_share": 0.34,
+      "medicare_discharges": 1282
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "26163",
-      "county_name": "Wayne",
-      "state": "MI",
-      "pop_total": 1781641,
-      "pop_65_plus": 281455,
-      "distance_to_hub_miles": 24.5
-    },
     {
       "county_fips": "26161",
       "county_name": "Washtenaw",
@@ -70,27 +62,19 @@
       "pop_total": 370231,
       "pop_65_plus": 54677,
       "distance_to_hub_miles": 5.3
-    },
-    {
-      "county_fips": "26093",
-      "county_name": "Livingston",
-      "state": "MI",
-      "pop_total": 194302,
-      "pop_65_plus": 35600,
-      "distance_to_hub_miles": 24.0
     }
   ],
   "summary": {
     "total_beds": 1620,
-    "catchment_pop": 2346174,
-    "catchment_pop_65_plus": 371732,
-    "catchment_pct_65_plus": 0.1584,
-    "max_catchment_radius_miles": 24.5,
-    "avg_catchment_distance_miles": 21.4,
-    "num_counties": 3,
+    "catchment_pop": 370231,
+    "catchment_pop_65_plus": 54677,
+    "catchment_pct_65_plus": 0.1477,
+    "max_catchment_radius_miles": 5.3,
+    "avg_catchment_distance_miles": 5.3,
+    "num_counties": 1,
     "hospital_employment": 3128,
     "msa_total_employment": 216870,
-    "hospital_emp_share": 0.0598,
-    "avg_govt_payer_share": 0.4114
+    "hospital_emp_share": 0.1121,
+    "avg_govt_payer_share": 0.2641
   }
 }

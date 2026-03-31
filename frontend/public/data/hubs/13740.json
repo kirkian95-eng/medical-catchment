@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13740",
   "cbsa_name": "Billings, MT",
-  "mdi": 0.7996,
+  "mdi": 0.7227,
   "bbox": [
     -113.16,
     42.22,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.7903,
       "lon": -108.5143,
-      "govt_payer_share": 0.536,
-      "medicare_discharges": 5109
+      "govt_payer_share": 0.577,
+      "medicare_discharges": 2484
     },
     {
       "facility_id": "270049",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 45.7935,
       "lon": -108.5204,
-      "govt_payer_share": 0.396,
-      "medicare_discharges": 3456
+      "govt_payer_share": 0.557,
+      "medicare_discharges": 3410
     },
     {
       "facility_id": "271326",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.0871,
       "lon": -109.5584,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.364,
+      "medicare_discharges": 24
     },
     {
       "facility_id": "271330",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 45.6287,
       "lon": -109.2407,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.692,
+      "medicare_discharges": 27
     }
   ],
   "catchment_counties": [
@@ -78,14 +78,6 @@
       "pop_total": 13090,
       "pop_65_plus": 1703,
       "distance_to_hub_miles": 55.9
-    },
-    {
-      "county_fips": "30017",
-      "county_name": "Custer",
-      "state": "MT",
-      "pop_total": 11957,
-      "pop_65_plus": 2447,
-      "distance_to_hub_miles": 144.9
     },
     {
       "county_fips": "30009",
@@ -194,15 +186,15 @@
   ],
   "summary": {
     "total_beds": 610,
-    "catchment_pop": 273093,
-    "catchment_pop_65_plus": 53167,
-    "catchment_pct_65_plus": 0.1947,
+    "catchment_pop": 261136,
+    "catchment_pop_65_plus": 50720,
+    "catchment_pct_65_plus": 0.1942,
     "max_catchment_radius_miles": 198.0,
-    "avg_catchment_distance_miles": 48.0,
-    "num_counties": 17,
+    "avg_catchment_distance_miles": 43.6,
+    "num_counties": 16,
     "hospital_employment": 6809,
     "msa_total_employment": 93282,
-    "hospital_emp_share": 0.073,
-    "avg_govt_payer_share": 0.4753
+    "hospital_emp_share": 0.0546,
+    "avg_govt_payer_share": 0.5663
   }
 }

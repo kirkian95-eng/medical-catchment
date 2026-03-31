@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17980",
   "cbsa_name": "Columbus, GA-AL",
-  "mdi": 0.5636,
+  "mdi": 0.4513,
   "bbox": [
     -86.52,
     31.48,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 32.4814,
       "lon": -84.9826,
-      "govt_payer_share": 0.31,
-      "medicare_discharges": 2671
+      "govt_payer_share": 0.213,
+      "medicare_discharges": 2427
     },
     {
       "facility_id": "110129",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.5069,
       "lon": -84.961,
-      "govt_payer_share": 0.29,
-      "medicare_discharges": 2199
+      "govt_payer_share": 0.293,
+      "medicare_discharges": 2108
     },
     {
       "facility_id": "110200",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 32.5488,
       "lon": -84.9241,
-      "govt_payer_share": 0.434,
-      "medicare_discharges": 1685
+      "govt_payer_share": 0.322,
+      "medicare_discharges": 1724
     },
     {
       "facility_id": "010168",
@@ -50,8 +50,8 @@
       "ownership": "Government - State",
       "lat": 32.4981,
       "lon": -85.0236,
-      "govt_payer_share": 0.203,
-      "medicare_discharges": 475
+      "govt_payer_share": 0.244,
+      "medicare_discharges": 412
     }
   ],
   "catchment_counties": [
@@ -130,7 +130,7 @@
     "num_counties": 8,
     "hospital_employment": 7035,
     "msa_total_employment": 105084,
-    "hospital_emp_share": 0.0598,
-    "avg_govt_payer_share": 0.3075
+    "hospital_emp_share": 0.0368,
+    "avg_govt_payer_share": 0.258
   }
 }

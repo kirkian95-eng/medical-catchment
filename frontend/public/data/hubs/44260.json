@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44260",
   "cbsa_name": "Starkville, MS",
-  "mdi": 0.2335,
+  "mdi": 0.5712,
   "bbox": [
     -90.8,
     32.47,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 33.4748,
       "lon": -88.8215,
-      "govt_payer_share": 0.26,
-      "medicare_discharges": 450
+      "govt_payer_share": 0.631,
+      "medicare_discharges": 432
     },
     {
       "facility_id": "250020",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 33.5802,
       "lon": -89.3003,
-      "govt_payer_share": 0.29,
-      "medicare_discharges": 345
+      "govt_payer_share": 0.696,
+      "medicare_discharges": 299
     }
   ],
   "catchment_counties": [
@@ -84,7 +84,7 @@
     "num_counties": 5,
     "hospital_employment": 652,
     "msa_total_employment": 22362,
-    "hospital_emp_share": 0.0292,
-    "avg_govt_payer_share": 0.269
+    "hospital_emp_share": 0.0285,
+    "avg_govt_payer_share": 0.6511
   }
 }

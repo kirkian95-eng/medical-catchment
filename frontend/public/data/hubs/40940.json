@@ -1,12 +1,12 @@
 {
   "cbsa_code": "40940",
   "cbsa_name": "Safford, AZ",
-  "mdi": 0.5311,
+  "mdi": 0.5656,
   "bbox": [
     -111.23,
-    31.82,
+    31.68,
     -108.23,
-    33.82
+    33.96
   ],
   "hospitals": [
     {
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.821,
       "lon": -109.7331,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.434,
+      "medicare_discharges": 184
     }
   ],
   "catchment_counties": [
@@ -31,6 +31,14 @@
       "distance_to_hub_miles": 11.8
     },
     {
+      "county_fips": "35017",
+      "county_name": "Grant",
+      "state": "NM",
+      "pop_total": 28006,
+      "pop_65_plus": 7952,
+      "distance_to_hub_miles": 78.7
+    },
+    {
       "county_fips": "04011",
       "county_name": "Greenlee",
       "state": "AZ",
@@ -41,15 +49,15 @@
   ],
   "summary": {
     "total_beds": 25,
-    "catchment_pop": 47936,
-    "catchment_pop_65_plus": 6700,
-    "catchment_pct_65_plus": 0.1398,
-    "max_catchment_radius_miles": 39.5,
-    "avg_catchment_distance_miles": 17.3,
-    "num_counties": 2,
+    "catchment_pop": 75942,
+    "catchment_pop_65_plus": 14652,
+    "catchment_pct_65_plus": 0.1929,
+    "max_catchment_radius_miles": 78.7,
+    "avg_catchment_distance_miles": 39.9,
+    "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 10411,
-    "hospital_emp_share": 0.034,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0373,
+    "avg_govt_payer_share": 0.4339
   }
 }

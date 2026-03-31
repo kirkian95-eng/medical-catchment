@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48700",
   "cbsa_name": "Williamsport, PA",
-  "mdi": 0.6429,
+  "mdi": 0.6221,
   "bbox": [
     -78.76,
     40.2,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.2455,
       "lon": -77.016,
-      "govt_payer_share": 0.444,
-      "medicare_discharges": 3067
+      "govt_payer_share": 0.327,
+      "medicare_discharges": 2928
     },
     {
       "facility_id": "391300",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.2356,
       "lon": -77.2568,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 299
     },
     {
       "facility_id": "390337",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.2048,
       "lon": -76.7299,
-      "govt_payer_share": 0.363,
-      "medicare_discharges": 331
+      "govt_payer_share": 0.274,
+      "medicare_discharges": 285
     },
     {
       "facility_id": "391301",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.2048,
       "lon": -76.7299,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.376,
+      "medicare_discharges": 204
     }
   ],
   "catchment_counties": [
@@ -82,7 +82,7 @@
     "num_counties": 2,
     "hospital_employment": 3169,
     "msa_total_employment": 49438,
-    "hospital_emp_share": 0.0641,
-    "avg_govt_payer_share": 0.4724
+    "hospital_emp_share": 0.0523,
+    "avg_govt_payer_share": 0.3484
   }
 }

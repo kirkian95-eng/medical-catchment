@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14140",
   "cbsa_name": "Bluefield, WV-VA",
-  "mdi": 0.7477,
+  "mdi": 0.6821,
   "bbox": [
     -83.32,
     36.08,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 37.3632,
       "lon": -81.1111,
-      "govt_payer_share": 0.344,
-      "medicare_discharges": 2205
+      "govt_payer_share": 0.347,
+      "medicare_discharges": 2153
     },
     {
       "facility_id": "490117",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 37.0755,
       "lon": -81.5031,
-      "govt_payer_share": 0.181,
-      "medicare_discharges": 190
+      "govt_payer_share": 0.341,
+      "medicare_discharges": 199
     },
     {
       "facility_id": "490060",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 37.0933,
       "lon": -81.8214,
-      "govt_payer_share": 0.22,
-      "medicare_discharges": 653
+      "govt_payer_share": 0.265,
+      "medicare_discharges": 626
     }
   ],
   "catchment_counties": [
@@ -119,7 +119,7 @@
     "num_counties": 8,
     "hospital_employment": 1077,
     "msa_total_employment": 32650,
-    "hospital_emp_share": 0.1325,
-    "avg_govt_payer_share": 0.2552
+    "hospital_emp_share": 0.0581,
+    "avg_govt_payer_share": 0.3239
   }
 }

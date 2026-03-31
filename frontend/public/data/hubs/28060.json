@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28060",
   "cbsa_name": "Kalispell, MT",
-  "mdi": 0.4573,
+  "mdi": 0.8023,
   "bbox": [
     -115.83,
     47.22,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 48.2154,
       "lon": -114.3248,
-      "govt_payer_share": 0.432,
-      "medicare_discharges": 2461
+      "govt_payer_share": 0.501,
+      "medicare_discharges": 1830
     },
     {
       "facility_id": "271336",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 48.3828,
       "lon": -114.3327,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.409,
+      "medicare_discharges": 288
     }
   ],
   "catchment_counties": [
@@ -84,7 +84,7 @@
     "num_counties": 5,
     "hospital_employment": 0,
     "msa_total_employment": 49588,
-    "hospital_emp_share": 0.0404,
-    "avg_govt_payer_share": 0.4653
+    "hospital_emp_share": 0.0691,
+    "avg_govt_payer_share": 0.4887
   }
 }

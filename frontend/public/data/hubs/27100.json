@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27100",
   "cbsa_name": "Jackson, MI",
-  "mdi": 0.3959,
+  "mdi": 0.6528,
   "bbox": [
     -85.89,
     41.25,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 42.2506,
       "lon": -84.3936,
-      "govt_payer_share": 0.354,
-      "medicare_discharges": 4184
+      "govt_payer_share": 0.324,
+      "medicare_discharges": 4008
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 56667,
-    "hospital_emp_share": 0.0423,
-    "avg_govt_payer_share": 0.3535
+    "hospital_emp_share": 0.0545,
+    "avg_govt_payer_share": 0.3238
   }
 }

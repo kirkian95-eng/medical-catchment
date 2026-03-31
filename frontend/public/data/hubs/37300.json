@@ -1,7 +1,7 @@
 {
   "cbsa_code": "37300",
   "cbsa_name": "Palestine, TX",
-  "mdi": 0.3141,
+  "mdi": 0.2156,
   "bbox": [
     -97.13,
     30.73,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 31.7322,
       "lon": -95.6267,
-      "govt_payer_share": 0.21,
-      "medicare_discharges": 601
+      "govt_payer_share": 0.097,
+      "medicare_discharges": 604
     }
   ],
   "catchment_counties": [
@@ -65,7 +65,7 @@
     "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 20084,
-    "hospital_emp_share": 0.0427,
-    "avg_govt_payer_share": 0.2097
+    "hospital_emp_share": 0.0231,
+    "avg_govt_payer_share": 0.0973
   }
 }

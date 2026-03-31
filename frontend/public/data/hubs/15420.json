@@ -1,7 +1,7 @@
 {
   "cbsa_code": "15420",
   "cbsa_name": "Burley, ID",
-  "mdi": 0.3965,
+  "mdi": 0.5468,
   "bbox": [
     -115.28,
     41.53,
@@ -18,7 +18,7 @@
       "lat": 42.711,
       "lon": -113.6018,
       "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "medicare_discharges": 133
     },
     {
       "facility_id": "131326",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.5342,
       "lon": -113.7833,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.565,
+      "medicare_discharges": 306
     }
   ],
   "catchment_counties": [
@@ -60,7 +60,7 @@
     "num_counties": 2,
     "hospital_employment": 392,
     "msa_total_employment": 21663,
-    "hospital_emp_share": 0.0181,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0237,
+    "avg_govt_payer_share": 0.6228
   }
 }

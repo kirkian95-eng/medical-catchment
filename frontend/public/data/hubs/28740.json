@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28740",
   "cbsa_name": "Kingston, NY",
-  "mdi": 0.2919,
+  "mdi": 0.3794,
   "bbox": [
     -75.96,
     40.73,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.9226,
       "lon": -73.9997,
-      "govt_payer_share": 0.416,
-      "medicare_discharges": 2405
+      "govt_payer_share": 0.463,
+      "medicare_discharges": 2364
     },
     {
       "facility_id": "331310",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.7344,
       "lon": -74.4572,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 41
     }
   ],
   "catchment_counties": [
@@ -60,7 +60,7 @@
     "num_counties": 2,
     "hospital_employment": 1173,
     "msa_total_employment": 58282,
-    "hospital_emp_share": 0.0201,
-    "avg_govt_payer_share": 0.4431
+    "hospital_emp_share": 0.0164,
+    "avg_govt_payer_share": 0.4769
   }
 }

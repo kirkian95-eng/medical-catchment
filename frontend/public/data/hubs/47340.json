@@ -1,7 +1,7 @@
 {
   "cbsa_code": "47340",
   "cbsa_name": "Wabash, IN",
-  "mdi": 0.4216,
+  "mdi": 0.2891,
   "bbox": [
     -87.33,
     39.78,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.7845,
       "lon": -85.8305,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 415
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 12389,
-    "hospital_emp_share": 0.0206,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0124,
+    "avg_govt_payer_share": 0.366
   }
 }

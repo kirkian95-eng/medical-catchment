@@ -1,12 +1,12 @@
 {
   "cbsa_code": "36420",
   "cbsa_name": "Oklahoma City, OK",
-  "mdi": 0.4508,
+  "mdi": 0.7539,
   "bbox": [
-    -100.39,
-    33.06,
-    -94.2,
-    37.82
+    -99.58,
+    33.71,
+    -95.01,
+    37.18
   ],
   "hospitals": [
     {
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.4823,
       "lon": -97.5027,
-      "govt_payer_share": 0.323,
-      "medicare_discharges": 5761
+      "govt_payer_share": 0.573,
+      "medicare_discharges": 5512
     },
     {
       "facility_id": "370028",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.5314,
       "lon": -97.5778,
-      "govt_payer_share": 0.338,
-      "medicare_discharges": 6835
+      "govt_payer_share": 0.571,
+      "medicare_discharges": 6716
     },
     {
       "facility_id": "370037",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 35.478,
       "lon": -97.5242,
-      "govt_payer_share": 0.318,
-      "medicare_discharges": 5217
+      "govt_payer_share": 0.526,
+      "medicare_discharges": 5025
     },
     {
       "facility_id": "370008",
@@ -50,8 +50,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 35.1862,
       "lon": -97.5185,
-      "govt_payer_share": 0.332,
-      "medicare_discharges": 4597
+      "govt_payer_share": 0.557,
+      "medicare_discharges": 4495
     },
     {
       "facility_id": "370013",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 35.6089,
       "lon": -97.6022,
-      "govt_payer_share": 0.391,
-      "medicare_discharges": 5631
+      "govt_payer_share": 0.435,
+      "medicare_discharges": 5673
     },
     {
       "facility_id": "370106",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.4205,
       "lon": -97.5303,
-      "govt_payer_share": 0.318,
-      "medicare_discharges": 2338
+      "govt_payer_share": 0.519,
+      "medicare_discharges": 2300
     },
     {
       "facility_id": "370094",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.4481,
       "lon": -97.3945,
-      "govt_payer_share": 0.28,
-      "medicare_discharges": 1675
+      "govt_payer_share": 0.516,
+      "medicare_discharges": 1595
     },
     {
       "facility_id": "370215",
@@ -94,8 +94,8 @@
       "ownership": "Physician",
       "lat": 35.5813,
       "lon": -97.5737,
-      "govt_payer_share": 0.569,
-      "medicare_discharges": 2609
+      "govt_payer_share": 0.478,
+      "medicare_discharges": 2542
     },
     {
       "facility_id": "370236",
@@ -105,8 +105,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.7264,
       "lon": -97.4256,
-      "govt_payer_share": 0.314,
-      "medicare_discharges": 1006
+      "govt_payer_share": 0.465,
+      "medicare_discharges": 1053
     },
     {
       "facility_id": "370211",
@@ -116,8 +116,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.4838,
       "lon": -97.7643,
-      "govt_payer_share": 0.38,
-      "medicare_discharges": 957
+      "govt_payer_share": 0.535,
+      "medicare_discharges": 1039
     },
     {
       "facility_id": "370222",
@@ -127,8 +127,8 @@
       "ownership": "Physician",
       "lat": 35.5781,
       "lon": -97.5176,
-      "govt_payer_share": 0.256,
-      "medicare_discharges": 812
+      "govt_payer_share": 0.563,
+      "medicare_discharges": 798
     },
     {
       "facility_id": "370054",
@@ -138,8 +138,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 35.0485,
       "lon": -97.9387,
-      "govt_payer_share": 0.289,
-      "medicare_discharges": 450
+      "govt_payer_share": 0.577,
+      "medicare_discharges": 435
     },
     {
       "facility_id": "370203",
@@ -149,8 +149,8 @@
       "ownership": "Physician",
       "lat": 35.3879,
       "lon": -97.5788,
-      "govt_payer_share": 0.222,
-      "medicare_discharges": 385
+      "govt_payer_share": 0.381,
+      "medicare_discharges": 370
     },
     {
       "facility_id": "370234",
@@ -160,8 +160,8 @@
       "ownership": "Physician",
       "lat": 35.4003,
       "lon": -97.4331,
-      "govt_payer_share": 0.643,
-      "medicare_discharges": 1811
+      "govt_payer_share": 0.454,
+      "medicare_discharges": 1773
     },
     {
       "facility_id": "370158",
@@ -171,8 +171,8 @@
       "ownership": "Government - Local",
       "lat": 35.0164,
       "lon": -97.4498,
-      "govt_payer_share": 0.209,
-      "medicare_discharges": 143
+      "govt_payer_share": 0.584,
+      "medicare_discharges": 118
     },
     {
       "facility_id": "370240",
@@ -182,8 +182,8 @@
       "ownership": "Proprietary",
       "lat": 35.582,
       "lon": -97.6409,
-      "govt_payer_share": 0.189,
-      "medicare_discharges": 103
+      "govt_payer_share": 0.49,
+      "medicare_discharges": 92
     },
     {
       "facility_id": "370206",
@@ -193,8 +193,8 @@
       "ownership": "Physician",
       "lat": 35.6151,
       "lon": -97.5829,
-      "govt_payer_share": 0.4,
-      "medicare_discharges": 687
+      "govt_payer_share": 0.361,
+      "medicare_discharges": 619
     },
     {
       "facility_id": "371301",
@@ -204,8 +204,8 @@
       "ownership": "Government - Local",
       "lat": 35.4987,
       "lon": -96.707,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.893,
+      "medicare_discharges": 13
     },
     {
       "facility_id": "371316",
@@ -215,8 +215,8 @@
       "ownership": "Proprietary",
       "lat": 35.7431,
       "lon": -96.6562,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.598,
+      "medicare_discharges": 21
     },
     {
       "facility_id": "371317",
@@ -226,8 +226,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.8679,
       "lon": -97.4344,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.443,
+      "medicare_discharges": 70
     },
     {
       "facility_id": "370199",
@@ -237,8 +237,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.5813,
       "lon": -97.5737,
-      "govt_payer_share": 0.53,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.298,
+      "medicare_discharges": 10
     },
     {
       "facility_id": "370225",
@@ -248,8 +248,8 @@
       "ownership": "Physician",
       "lat": 35.7033,
       "lon": -97.4336,
-      "govt_payer_share": 0.14,
-      "medicare_discharges": 22
+      "govt_payer_share": 0.075,
+      "medicare_discharges": 20
     },
     {
       "facility_id": "370201",
@@ -259,8 +259,8 @@
       "ownership": "Physician",
       "lat": 35.4316,
       "lon": -97.4843,
-      "govt_payer_share": 0.189,
-      "medicare_discharges": 101
+      "govt_payer_share": 0.493,
+      "medicare_discharges": 99
     },
     {
       "facility_id": "370192",
@@ -270,8 +270,8 @@
       "ownership": "Physician",
       "lat": 35.5813,
       "lon": -97.5737,
-      "govt_payer_share": 0.164,
-      "medicare_discharges": 66
+      "govt_payer_share": 0.305,
+      "medicare_discharges": 65
     },
     {
       "facility_id": "370220",
@@ -281,8 +281,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 35.5781,
       "lon": -97.5176,
-      "govt_payer_share": 0.248,
-      "medicare_discharges": 110
+      "govt_payer_share": 0.358,
+      "medicare_discharges": 108
     },
     {
       "facility_id": "370212",
@@ -292,8 +292,8 @@
       "ownership": "Physician",
       "lat": 35.3864,
       "lon": -97.5257,
-      "govt_payer_share": 0.286,
-      "medicare_discharges": 99
+      "govt_payer_share": NaN,
+      "medicare_discharges": 98
     }
   ],
   "catchment_counties": [
@@ -384,35 +384,19 @@
       "pop_total": 4504,
       "pop_65_plus": 840,
       "distance_to_hub_miles": 90.3
-    },
-    {
-      "county_fips": "40045",
-      "county_name": "Ellis",
-      "state": "OK",
-      "pop_total": 3755,
-      "pop_65_plus": 890,
-      "distance_to_hub_miles": 135.0
-    },
-    {
-      "county_fips": "40129",
-      "county_name": "Roger Mills",
-      "state": "OK",
-      "pop_total": 3423,
-      "pop_65_plus": 727,
-      "distance_to_hub_miles": 122.8
     }
   ],
   "summary": {
     "total_beds": 4558,
-    "catchment_pop": 1483538,
-    "catchment_pop_65_plus": 214204,
-    "catchment_pct_65_plus": 0.1444,
-    "max_catchment_radius_miles": 135.0,
-    "avg_catchment_distance_miles": 18.7,
-    "num_counties": 13,
+    "catchment_pop": 1476360,
+    "catchment_pop_65_plus": 212587,
+    "catchment_pct_65_plus": 0.144,
+    "max_catchment_radius_miles": 90.3,
+    "avg_catchment_distance_miles": 18.1,
+    "num_counties": 11,
     "hospital_employment": 31719,
     "msa_total_employment": 657819,
-    "hospital_emp_share": 0.0482,
-    "avg_govt_payer_share": 0.3394
+    "hospital_emp_share": 0.0612,
+    "avg_govt_payer_share": 0.5327
   }
 }

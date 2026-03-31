@@ -1,7 +1,7 @@
 {
   "cbsa_code": "11220",
   "cbsa_name": "Amsterdam, NY",
-  "mdi": 0.4811,
+  "mdi": 0.6232,
   "bbox": [
     -75.67,
     41.94,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.9376,
       "lon": -74.1733,
-      "govt_payer_share": 0.3,
-      "medicare_discharges": 847
+      "govt_payer_share": 0.269,
+      "medicare_discharges": 805
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 18753,
-    "hospital_emp_share": 0.054,
-    "avg_govt_payer_share": 0.2997
+    "hospital_emp_share": 0.0498,
+    "avg_govt_payer_share": 0.269
   }
 }

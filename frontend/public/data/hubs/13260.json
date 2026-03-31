@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13260",
   "cbsa_name": "Bedford, IN",
-  "mdi": 0.6414,
+  "mdi": 0.3861,
   "bbox": [
     -87.95,
     37.86,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.8635,
       "lon": -86.4522,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.426,
+      "medicare_discharges": 690
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 12966,
-    "hospital_emp_share": 0.0449,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0201,
+    "avg_govt_payer_share": 0.4264
   }
 }

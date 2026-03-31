@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13020",
   "cbsa_name": "Bay City, MI",
-  "mdi": 0.6051,
+  "mdi": 0.526,
   "bbox": [
     -85.37,
     42.59,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.5893,
       "lon": -83.8687,
-      "govt_payer_share": 0.334,
-      "medicare_discharges": 3088
+      "govt_payer_share": 0.336,
+      "medicare_discharges": 3084
     }
   ],
   "catchment_counties": [
@@ -57,7 +57,7 @@
     "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 33933,
-    "hospital_emp_share": 0.0659,
-    "avg_govt_payer_share": 0.3336
+    "hospital_emp_share": 0.0401,
+    "avg_govt_payer_share": 0.3361
   }
 }

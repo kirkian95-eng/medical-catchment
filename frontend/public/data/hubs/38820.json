@@ -1,7 +1,7 @@
 {
   "cbsa_code": "38820",
   "cbsa_name": "Port Angeles, WA",
-  "mdi": 0.6413,
+  "mdi": 0.784,
   "bbox": [
     -125.89,
     46.95,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 48.1153,
       "lon": -123.4155,
-      "govt_payer_share": 0.341,
-      "medicare_discharges": 1520
+      "govt_payer_share": 0.437,
+      "medicare_discharges": 1497
     },
     {
       "facility_id": "501325",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 47.9464,
       "lon": -124.3931,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.637,
+      "medicare_discharges": 93
     }
   ],
   "catchment_counties": [
@@ -60,7 +60,7 @@
     "num_counties": 2,
     "hospital_employment": 1,
     "msa_total_employment": 24595,
-    "hospital_emp_share": 0.0522,
-    "avg_govt_payer_share": 0.4299
+    "hospital_emp_share": 0.0543,
+    "avg_govt_payer_share": 0.4897
   }
 }

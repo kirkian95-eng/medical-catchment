@@ -1,7 +1,7 @@
 {
   "cbsa_code": "41460",
   "cbsa_name": "Salina, KS",
-  "mdi": 0.7591,
+  "mdi": 0.7193,
   "bbox": [
     -99.48,
     37.41,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.8333,
       "lon": -97.6093,
-      "govt_payer_share": 0.266,
-      "medicare_discharges": 2392
+      "govt_payer_share": 0.428,
+      "medicare_discharges": 2400
     },
     {
       "facility_id": "171328",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 39.1424,
       "lon": -97.6958,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 70
     },
     {
       "facility_id": "170187",
@@ -39,8 +39,8 @@
       "ownership": "Physician",
       "lat": 38.8318,
       "lon": -97.6546,
-      "govt_payer_share": 0.355,
-      "medicare_discharges": 415
+      "govt_payer_share": NaN,
+      "medicare_discharges": 397
     }
   ],
   "catchment_counties": [
@@ -151,7 +151,7 @@
     "num_counties": 12,
     "hospital_employment": 0,
     "msa_total_employment": 31568,
-    "hospital_emp_share": 0.0813,
-    "avg_govt_payer_share": 0.2929
+    "hospital_emp_share": 0.0497,
+    "avg_govt_payer_share": 0.4441
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43220",
   "cbsa_name": "Shelton, WA",
-  "mdi": 0.4288,
+  "mdi": 0.6493,
   "bbox": [
     -124.65,
     46.24,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 47.2397,
       "lon": -123.1519,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.677,
+      "medicare_discharges": 618
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 14637,
-    "hospital_emp_share": 0.0224,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0321,
+    "avg_govt_payer_share": 0.6766
   }
 }

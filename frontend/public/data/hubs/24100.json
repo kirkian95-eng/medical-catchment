@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24100",
   "cbsa_name": "Gloversville, NY",
-  "mdi": 0.4315,
+  "mdi": 0.5404,
   "bbox": [
     -75.83,
     42.07,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.0681,
       "lon": -74.3308,
-      "govt_payer_share": 0.326,
-      "medicare_discharges": 504
+      "govt_payer_share": 0.283,
+      "medicare_discharges": 501
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 16118,
-    "hospital_emp_share": 0.0462,
-    "avg_govt_payer_share": 0.3262
+    "hospital_emp_share": 0.0441,
+    "avg_govt_payer_share": 0.2825
   }
 }

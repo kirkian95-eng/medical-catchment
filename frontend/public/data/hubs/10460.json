@@ -1,7 +1,7 @@
 {
   "cbsa_code": "10460",
   "cbsa_name": "Alamogordo, NM",
-  "mdi": 0.4529,
+  "mdi": 0.6787,
   "bbox": [
     -107.43,
     31.92,
@@ -17,7 +17,7 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.925,
       "lon": -105.9321,
-      "govt_payer_share": 0.321,
+      "govt_payer_share": 0.363,
       "medicare_discharges": 1055
     }
   ],
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 8,
     "msa_total_employment": 17520,
-    "hospital_emp_share": 0.0483,
-    "avg_govt_payer_share": 0.3212
+    "hospital_emp_share": 0.0513,
+    "avg_govt_payer_share": 0.3633
   }
 }

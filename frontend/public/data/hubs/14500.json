@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14500",
   "cbsa_name": "Boulder, CO",
-  "mdi": 0.1894,
+  "mdi": 0.3423,
   "bbox": [
     -106.74,
     38.95,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.9723,
       "lon": -105.0882,
-      "govt_payer_share": 0.218,
-      "medicare_discharges": 998
+      "govt_payer_share": 0.221,
+      "medicare_discharges": 940
     },
     {
       "facility_id": "060003",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.1814,
       "lon": -105.1269,
-      "govt_payer_share": 0.2,
-      "medicare_discharges": 556
+      "govt_payer_share": 0.463,
+      "medicare_discharges": 552
     },
     {
       "facility_id": "060027",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.016,
       "lon": -105.2364,
-      "govt_payer_share": 0.362,
-      "medicare_discharges": 2505
+      "govt_payer_share": 0.5,
+      "medicare_discharges": 2471
     },
     {
       "facility_id": "060103",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 39.951,
       "lon": -105.1482,
-      "govt_payer_share": 0.186,
-      "medicare_discharges": 493
+      "govt_payer_share": 0.431,
+      "medicare_discharges": 467
     },
     {
       "facility_id": "060128",
@@ -61,43 +61,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.1764,
       "lon": -104.9695,
-      "govt_payer_share": 0.396,
-      "medicare_discharges": 1208
+      "govt_payer_share": 0.405,
+      "medicare_discharges": 1110
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "08031",
-      "county_name": "Denver",
-      "state": "CO",
-      "pop_total": 710800,
-      "pop_65_plus": 85267,
-      "distance_to_hub_miles": 23.9
-    },
-    {
-      "county_fips": "08005",
-      "county_name": "Arapahoe",
-      "state": "CO",
-      "pop_total": 654453,
-      "pop_65_plus": 89962,
-      "distance_to_hub_miles": 50.1
-    },
-    {
-      "county_fips": "08059",
-      "county_name": "Jefferson",
-      "state": "CO",
-      "pop_total": 580519,
-      "pop_65_plus": 99108,
-      "distance_to_hub_miles": 32.6
-    },
-    {
-      "county_fips": "08001",
-      "county_name": "Adams",
-      "state": "CO",
-      "pop_total": 520149,
-      "pop_65_plus": 56225,
-      "distance_to_hub_miles": 43.5
-    },
     {
       "county_fips": "08013",
       "county_name": "Boulder",
@@ -107,49 +75,25 @@
       "distance_to_hub_miles": 12.5
     },
     {
-      "county_fips": "08014",
-      "county_name": "Broomfield",
-      "state": "CO",
-      "pop_total": 73946,
-      "pop_65_plus": 10853,
-      "distance_to_hub_miles": 7.6
-    },
-    {
       "county_fips": "08049",
       "county_name": "Grand",
       "state": "CO",
       "pop_total": 15724,
       "pop_65_plus": 3036,
       "distance_to_hub_miles": 52.5
-    },
-    {
-      "county_fips": "08019",
-      "county_name": "Clear Creek",
-      "state": "CO",
-      "pop_total": 9403,
-      "pop_65_plus": 1984,
-      "distance_to_hub_miles": 37.0
-    },
-    {
-      "county_fips": "08047",
-      "county_name": "Gilpin",
-      "state": "CO",
-      "pop_total": 5856,
-      "pop_65_plus": 934,
-      "distance_to_hub_miles": 24.8
     }
   ],
   "summary": {
     "total_beds": 798,
-    "catchment_pop": 2899508,
-    "catchment_pop_65_plus": 397608,
-    "catchment_pct_65_plus": 0.1371,
+    "catchment_pop": 344382,
+    "catchment_pop_65_plus": 53275,
+    "catchment_pct_65_plus": 0.1547,
     "max_catchment_radius_miles": 52.5,
-    "avg_catchment_distance_miles": 33.6,
-    "num_counties": 9,
+    "avg_catchment_distance_miles": 14.3,
+    "num_counties": 2,
     "hospital_employment": 5406,
     "msa_total_employment": 195224,
-    "hospital_emp_share": 0.0277,
-    "avg_govt_payer_share": 0.2604
+    "hospital_emp_share": 0.019,
+    "avg_govt_payer_share": 0.3899
   }
 }

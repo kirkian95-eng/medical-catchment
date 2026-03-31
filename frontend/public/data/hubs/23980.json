@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23980",
   "cbsa_name": "Glasgow, KY",
-  "mdi": 0.5123,
+  "mdi": 0.6978,
   "bbox": [
     -87.4,
     36.01,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 37.0112,
       "lon": -85.9038,
-      "govt_payer_share": 0.284,
-      "medicare_discharges": 1325
+      "govt_payer_share": 0.303,
+      "medicare_discharges": 1267
     }
   ],
   "catchment_counties": [
@@ -73,7 +73,7 @@
     "num_counties": 5,
     "hospital_employment": 0,
     "msa_total_employment": 15586,
-    "hospital_emp_share": 0.0546,
-    "avg_govt_payer_share": 0.284
+    "hospital_emp_share": 0.056,
+    "avg_govt_payer_share": 0.3025
   }
 }

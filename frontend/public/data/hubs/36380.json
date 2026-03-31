@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36380",
   "cbsa_name": "Okeechobee, FL",
-  "mdi": 0.4318,
+  "mdi": 0.6953,
   "bbox": [
     -82.41,
     26.48,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 27.478,
       "lon": -80.9087,
-      "govt_payer_share": 0.338,
-      "medicare_discharges": 1052
+      "govt_payer_share": NaN,
+      "medicare_discharges": 1035
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 11995,
-    "hospital_emp_share": 0.0434,
-    "avg_govt_payer_share": 0.3377
+    "hospital_emp_share": 0.0529,
+    "avg_govt_payer_share": 0.6
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42700",
   "cbsa_name": "Sebring, FL",
-  "mdi": 0.8204,
+  "mdi": 0.8056,
   "bbox": [
     -83.01,
     26.5,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 27.5386,
       "lon": -81.5066,
-      "govt_payer_share": 0.497,
-      "medicare_discharges": 3468
+      "govt_payer_share": 0.333,
+      "medicare_discharges": 3400
     },
     {
       "facility_id": "100049",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 27.5033,
       "lon": -81.3677,
-      "govt_payer_share": 0.319,
-      "medicare_discharges": 1175
+      "govt_payer_share": 0.376,
+      "medicare_discharges": 1209
     }
   ],
   "catchment_counties": [
@@ -60,7 +60,7 @@
     "num_counties": 2,
     "hospital_employment": 2225,
     "msa_total_employment": 28664,
-    "hospital_emp_share": 0.0776,
-    "avg_govt_payer_share": 0.4288
+    "hospital_emp_share": 0.0635,
+    "avg_govt_payer_share": 0.3495
   }
 }

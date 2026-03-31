@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31680",
   "cbsa_name": "Malvern, AR",
-  "mdi": 0.3968,
+  "mdi": 0.3297,
   "bbox": [
     -94.32,
     33.35,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.3464,
       "lon": -92.8155,
-      "govt_payer_share": 0.235,
-      "medicare_discharges": 181
+      "govt_payer_share": 0.398,
+      "medicare_discharges": 182
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 8103,
-    "hospital_emp_share": 0.0457,
-    "avg_govt_payer_share": 0.2353
+    "hospital_emp_share": 0.0165,
+    "avg_govt_payer_share": 0.3976
   }
 }

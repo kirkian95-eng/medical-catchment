@@ -1,12 +1,12 @@
 {
   "cbsa_code": "41100",
   "cbsa_name": "St. George, UT",
-  "mdi": 0.4571,
+  "mdi": 0.44,
   "bbox": [
-    -115.86,
-    35.26,
-    -111.25,
-    38.94
+    -115.24,
+    35.76,
+    -111.87,
+    38.44
   ],
   "hospitals": [
     {
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.1,
       "lon": -113.5551,
-      "govt_payer_share": 0.413,
-      "medicare_discharges": 5318
+      "govt_payer_share": 0.419,
+      "medicare_discharges": 5300
     }
   ],
   "catchment_counties": [
@@ -39,14 +39,6 @@
       "distance_to_hub_miles": 92.6
     },
     {
-      "county_fips": "49017",
-      "county_name": "Garfield",
-      "state": "UT",
-      "pop_total": 5121,
-      "pop_65_plus": 1174,
-      "distance_to_hub_miles": 127.0
-    },
-    {
       "county_fips": "32017",
       "county_name": "Lincoln",
       "state": "NV",
@@ -57,15 +49,15 @@
   ],
   "summary": {
     "total_beds": 300,
-    "catchment_pop": 200739,
-    "catchment_pop_65_plus": 43938,
-    "catchment_pct_65_plus": 0.2189,
-    "max_catchment_radius_miles": 127.0,
-    "avg_catchment_distance_miles": 20.4,
-    "num_counties": 4,
+    "catchment_pop": 195618,
+    "catchment_pop_65_plus": 42764,
+    "catchment_pct_65_plus": 0.2186,
+    "max_catchment_radius_miles": 92.6,
+    "avg_catchment_distance_miles": 17.6,
+    "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 83440,
-    "hospital_emp_share": 0.0412,
-    "avg_govt_payer_share": 0.4131
+    "hospital_emp_share": 0.024,
+    "avg_govt_payer_share": 0.4193
   }
 }

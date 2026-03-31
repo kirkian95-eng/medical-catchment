@@ -1,7 +1,7 @@
 {
   "cbsa_code": "13940",
   "cbsa_name": "Blackfoot, ID",
-  "mdi": 0.4219,
+  "mdi": 0.8182,
   "bbox": [
     -114.01,
     42.2,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.2947,
       "lon": -112.5125,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.568,
+      "medicare_discharges": 359
     },
     {
       "facility_id": "130073",
@@ -28,7 +28,7 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.1968,
       "lon": -112.356,
-      "govt_payer_share": 0.53,
+      "govt_payer_share": NaN,
       "medicare_discharges": 0
     }
   ],
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 378,
     "msa_total_employment": 15879,
-    "hospital_emp_share": 0.0238,
-    "avg_govt_payer_share": 0.6436
+    "hospital_emp_share": 0.0504,
+    "avg_govt_payer_share": 0.5756
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44340",
   "cbsa_name": "Statesboro, GA",
-  "mdi": 0.2803,
+  "mdi": 0.3979,
   "bbox": [
     -83.42,
     31.17,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 32.4169,
       "lon": -81.7699,
-      "govt_payer_share": 0.392,
-      "medicare_discharges": 1760
+      "govt_payer_share": 0.324,
+      "medicare_discharges": 1724
     },
     {
       "facility_id": "110142",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.1705,
       "lon": -81.921,
-      "govt_payer_share": 0.212,
-      "medicare_discharges": 136
+      "govt_payer_share": 0.311,
+      "medicare_discharges": 131
     }
   ],
   "catchment_counties": [
@@ -92,7 +92,7 @@
     "num_counties": 6,
     "hospital_employment": 1,
     "msa_total_employment": 32095,
-    "hospital_emp_share": 0.0335,
-    "avg_govt_payer_share": 0.3479
+    "hospital_emp_share": 0.027,
+    "avg_govt_payer_share": 0.3203
   }
 }

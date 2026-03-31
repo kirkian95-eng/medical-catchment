@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24820",
   "cbsa_name": "Greenville, OH",
-  "mdi": 0.539,
+  "mdi": 0.5185,
   "bbox": [
     -86.14,
     39.09,
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 18511,
-    "hospital_emp_share": 0.0335,
+    "hospital_emp_share": 0.0249,
     "avg_govt_payer_share": 0.68
   }
 }

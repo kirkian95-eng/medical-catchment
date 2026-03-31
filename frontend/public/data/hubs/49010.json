@@ -1,7 +1,7 @@
 {
   "cbsa_code": "49010",
   "cbsa_name": "Winchester, TN",
-  "mdi": 0.5764,
+  "mdi": 0.679,
   "bbox": [
     -87.59,
     34.18,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 35.1759,
       "lon": -86.091,
-      "govt_payer_share": 0.231,
-      "medicare_discharges": 641
+      "govt_payer_share": 0.437,
+      "medicare_discharges": 627
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 11909,
-    "hospital_emp_share": 0.0677,
-    "avg_govt_payer_share": 0.2305
+    "hospital_emp_share": 0.0494,
+    "avg_govt_payer_share": 0.4374
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24140",
   "cbsa_name": "Goldsboro, NC",
-  "mdi": 0.3691,
+  "mdi": 0.4772,
   "bbox": [
     -79.45,
     34.4,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.401,
       "lon": -77.9521,
-      "govt_payer_share": 0.34,
-      "medicare_discharges": 2518
+      "govt_payer_share": 0.367,
+      "medicare_discharges": 2314
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 1616,
     "msa_total_employment": 41175,
-    "hospital_emp_share": 0.0392,
-    "avg_govt_payer_share": 0.3396
+    "hospital_emp_share": 0.0325,
+    "avg_govt_payer_share": 0.3675
   }
 }

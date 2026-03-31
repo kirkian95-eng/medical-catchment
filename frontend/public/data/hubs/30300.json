@@ -1,7 +1,7 @@
 {
   "cbsa_code": "30300",
   "cbsa_name": "Lewiston, ID-WA",
-  "mdi": 0.4248,
+  "mdi": 0.6111,
   "bbox": [
     -118.79,
     45.38,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.4151,
       "lon": -117.0249,
-      "govt_payer_share": 0.273,
-      "medicare_discharges": 1197
+      "govt_payer_share": 0.55,
+      "medicare_discharges": 1254
     },
     {
       "facility_id": "501332",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.3755,
       "lon": -117.2903,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.521,
+      "medicare_discharges": 518
     }
   ],
   "catchment_counties": [
@@ -84,7 +84,7 @@
     "num_counties": 5,
     "hospital_employment": 0,
     "msa_total_employment": 28453,
-    "hospital_emp_share": 0.0447,
-    "avg_govt_payer_share": 0.3332
+    "hospital_emp_share": 0.0366,
+    "avg_govt_payer_share": 0.5456
   }
 }

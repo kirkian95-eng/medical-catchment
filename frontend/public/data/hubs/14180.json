@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14180",
   "cbsa_name": "Blytheville, AR",
-  "mdi": 0.3354,
+  "mdi": 0.2243,
   "bbox": [
     -91.42,
     34.94,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 35.9431,
       "lon": -89.9188,
-      "govt_payer_share": 0.223,
-      "medicare_discharges": 209
+      "govt_payer_share": 0.323,
+      "medicare_discharges": 208
     }
   ],
   "catchment_counties": [
@@ -65,7 +65,7 @@
     "num_counties": 4,
     "hospital_employment": 245,
     "msa_total_employment": 17998,
-    "hospital_emp_share": 0.0498,
-    "avg_govt_payer_share": 0.2234
+    "hospital_emp_share": 0.0109,
+    "avg_govt_payer_share": 0.3227
   }
 }

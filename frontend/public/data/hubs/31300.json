@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31300",
   "cbsa_name": "Lumberton, NC",
-  "mdi": 0.5828,
+  "mdi": 0.4644,
   "bbox": [
     -80.51,
     33.61,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.6077,
       "lon": -79.0144,
-      "govt_payer_share": 0.298,
-      "medicare_discharges": 1737
+      "govt_payer_share": 0.262,
+      "medicare_discharges": 1655
     }
   ],
   "catchment_counties": [
@@ -57,7 +57,7 @@
     "num_counties": 3,
     "hospital_employment": 21,
     "msa_total_employment": 38103,
-    "hospital_emp_share": 0.0474,
-    "avg_govt_payer_share": 0.298
+    "hospital_emp_share": 0.0375,
+    "avg_govt_payer_share": 0.2621
   }
 }

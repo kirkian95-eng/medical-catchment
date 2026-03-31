@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31140",
   "cbsa_name": "Louisville/Jefferson County, KY-IN",
-  "mdi": 0.4526,
+  "mdi": 0.396,
   "bbox": [
     -87.62,
     36.86,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.2482,
       "lon": -85.7518,
-      "govt_payer_share": 0.31,
-      "medicare_discharges": 12749
+      "govt_payer_share": 0.229,
+      "medicare_discharges": 12185
     },
     {
       "facility_id": "180040",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.2528,
       "lon": -85.7519,
-      "govt_payer_share": 0.258,
-      "medicare_discharges": 4648
+      "govt_payer_share": 0.16,
+      "medicare_discharges": 4583
     },
     {
       "facility_id": "180130",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.2396,
       "lon": -85.6383,
-      "govt_payer_share": 0.452,
-      "medicare_discharges": 8352
+      "govt_payer_share": 0.34,
+      "medicare_discharges": 8092
     },
     {
       "facility_id": "180141",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.2491,
       "lon": -85.745,
-      "govt_payer_share": 0.339,
-      "medicare_discharges": 2359
+      "govt_payer_share": 0.176,
+      "medicare_discharges": 2287
     },
     {
       "facility_id": "150009",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 38.2829,
       "lon": -85.7492,
-      "govt_payer_share": 0.302,
-      "medicare_discharges": 1895
+      "govt_payer_share": 0.279,
+      "medicare_discharges": 1831
     },
     {
       "facility_id": "150044",
@@ -72,8 +72,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.3005,
       "lon": -85.8349,
-      "govt_payer_share": 0.54,
-      "medicare_discharges": 4704
+      "govt_payer_share": 0.359,
+      "medicare_discharges": 5004
     },
     {
       "facility_id": "180138",
@@ -83,8 +83,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.3961,
       "lon": -85.3759,
-      "govt_payer_share": 0.186,
-      "medicare_discharges": 290
+      "govt_payer_share": 0.224,
+      "medicare_discharges": 304
     },
     {
       "facility_id": "180016",
@@ -94,8 +94,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.2129,
       "lon": -85.2086,
-      "govt_payer_share": 0.211,
-      "medicare_discharges": 265
+      "govt_payer_share": 0.326,
+      "medicare_discharges": 275
     },
     {
       "facility_id": "180025",
@@ -105,8 +105,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.863,
       "lon": -85.5228,
-      "govt_payer_share": 0.325,
-      "medicare_discharges": 471
+      "govt_payer_share": 0.289,
+      "medicare_discharges": 519
     },
     {
       "facility_id": "151314",
@@ -116,8 +116,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.607,
       "lon": -86.0935,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.432,
+      "medicare_discharges": 36
     },
     {
       "facility_id": "151331",
@@ -127,8 +127,8 @@
       "ownership": "Government - Local",
       "lat": 38.2062,
       "lon": -86.1226,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.251,
+      "medicare_discharges": 210
     },
     {
       "facility_id": "150172",
@@ -138,8 +138,8 @@
       "ownership": "Physician",
       "lat": 38.2838,
       "lon": -85.8477,
-      "govt_payer_share": 0.175,
-      "medicare_discharges": 90
+      "govt_payer_share": 0.227,
+      "medicare_discharges": 86
     }
   ],
   "catchment_counties": [
@@ -242,7 +242,7 @@
     "num_counties": 11,
     "hospital_employment": 32233,
     "msa_total_employment": 637146,
-    "hospital_emp_share": 0.0477,
-    "avg_govt_payer_share": 0.325
+    "hospital_emp_share": 0.0325,
+    "avg_govt_payer_share": 0.2298
   }
 }

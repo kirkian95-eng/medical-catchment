@@ -1,7 +1,7 @@
 {
   "cbsa_code": "10140",
   "cbsa_name": "Aberdeen, WA",
-  "mdi": 0.4553,
+  "mdi": 0.5781,
   "bbox": [
     -125.35,
     45.98,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.9791,
       "lon": -123.8461,
-      "govt_payer_share": 0.535,
-      "medicare_discharges": 1305
+      "govt_payer_share": 0.592,
+      "medicare_discharges": 1292
     },
     {
       "facility_id": "501304",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 47.0609,
       "lon": -123.3898,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.571,
+      "medicare_discharges": 273
     }
   ],
   "catchment_counties": [
@@ -60,7 +60,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 23447,
-    "hospital_emp_share": 0.0327,
-    "avg_govt_payer_share": 0.5718
+    "hospital_emp_share": 0.0282,
+    "avg_govt_payer_share": 0.5866
   }
 }

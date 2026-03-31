@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20460",
   "cbsa_name": "Durant, OK",
-  "mdi": 0.4027,
+  "mdi": 0.4522,
   "bbox": [
     -97.9,
     33.0,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 34.0048,
       "lon": -96.3958,
-      "govt_payer_share": 0.41,
-      "medicare_discharges": 2074
+      "govt_payer_share": 0.665,
+      "medicare_discharges": 1963
     }
   ],
   "catchment_counties": [
@@ -57,7 +57,7 @@
     "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 21302,
-    "hospital_emp_share": 0.0368,
-    "avg_govt_payer_share": 0.4104
+    "hospital_emp_share": 0.0172,
+    "avg_govt_payer_share": 0.6649
   }
 }

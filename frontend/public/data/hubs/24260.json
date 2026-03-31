@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24260",
   "cbsa_name": "Grand Island, NE",
-  "mdi": 0.3613,
+  "mdi": 0.4315,
   "bbox": [
     -99.95,
     39.83,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 40.9243,
       "lon": -98.3701,
-      "govt_payer_share": 0.34,
-      "medicare_discharges": 1310
+      "govt_payer_share": 0.334,
+      "medicare_discharges": 1152
     },
     {
       "facility_id": "280139",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.9267,
       "lon": -98.3615,
-      "govt_payer_share": 0.342,
-      "medicare_discharges": 734
+      "govt_payer_share": 0.532,
+      "medicare_discharges": 701
     },
     {
       "facility_id": "281338",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 41.2401,
       "lon": -98.4539,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.576,
+      "medicare_discharges": 81
     },
     {
       "facility_id": "281328",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.1636,
       "lon": -98.0164,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.619,
+      "medicare_discharges": 90
     }
   ],
   "catchment_counties": [
@@ -130,7 +130,7 @@
     "num_counties": 8,
     "hospital_employment": 1374,
     "msa_total_employment": 39568,
-    "hospital_emp_share": 0.0347,
-    "avg_govt_payer_share": 0.3659
+    "hospital_emp_share": 0.0238,
+    "avg_govt_payer_share": 0.4158
   }
 }

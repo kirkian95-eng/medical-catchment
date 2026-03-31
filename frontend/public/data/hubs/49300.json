@@ -1,7 +1,7 @@
 {
   "cbsa_code": "49300",
   "cbsa_name": "Wooster, OH",
-  "mdi": 0.1588,
+  "mdi": 0.2986,
   "bbox": [
     -83.43,
     39.82,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 40.8208,
       "lon": -81.9341,
-      "govt_payer_share": 0.217,
-      "medicare_discharges": 1133
+      "govt_payer_share": 0.262,
+      "medicare_discharges": 1122
     },
     {
       "facility_id": "361323",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.8314,
       "lon": -81.7644,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.153,
+      "medicare_discharges": 111
     }
   ],
   "catchment_counties": [
@@ -61,6 +61,6 @@
     "hospital_employment": 1054,
     "msa_total_employment": 48269,
     "hospital_emp_share": 0.0218,
-    "avg_govt_payer_share": 0.2673
+    "avg_govt_payer_share": 0.2502
   }
 }

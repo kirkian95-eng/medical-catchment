@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25200",
   "cbsa_name": "Hailey, ID",
-  "mdi": 0.3651,
+  "mdi": 0.4522,
   "bbox": [
     -116.08,
     42.74,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.7361,
       "lon": -114.5819,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.533,
+      "medicare_discharges": 273
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 14249,
-    "hospital_emp_share": 0.0151,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0175,
+    "avg_govt_payer_share": 0.5332
   }
 }

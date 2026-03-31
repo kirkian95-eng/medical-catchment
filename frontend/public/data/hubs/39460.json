@@ -1,7 +1,7 @@
 {
   "cbsa_code": "39460",
   "cbsa_name": "Punta Gorda, FL",
-  "mdi": 0.3787,
+  "mdi": 0.459,
   "bbox": [
     -83.6,
     25.92,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 26.9861,
       "lon": -82.097,
-      "govt_payer_share": 0.439,
-      "medicare_discharges": 3972
+      "govt_payer_share": 0.379,
+      "medicare_discharges": 3906
     },
     {
       "facility_id": "100077",
@@ -29,7 +29,7 @@
       "lat": 26.9898,
       "lon": -82.0967,
       "govt_payer_share": 0.383,
-      "medicare_discharges": 2862
+      "medicare_discharges": 2824
     },
     {
       "facility_id": "100047",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 26.9157,
       "lon": -82.0443,
-      "govt_payer_share": 0.248,
-      "medicare_discharges": 1240
+      "govt_payer_share": 0.356,
+      "medicare_discharges": 1301
     }
   ],
   "catchment_counties": [
@@ -71,7 +71,7 @@
     "num_counties": 2,
     "hospital_employment": 2084,
     "msa_total_employment": 53654,
-    "hospital_emp_share": 0.0388,
-    "avg_govt_payer_share": 0.3648
+    "hospital_emp_share": 0.0316,
+    "avg_govt_payer_share": 0.3738
   }
 }

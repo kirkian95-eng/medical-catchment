@@ -1,7 +1,7 @@
 {
   "cbsa_code": "12020",
   "cbsa_name": "Athens-Clarke County, GA",
-  "mdi": 0.5317,
+  "mdi": 0.4951,
   "bbox": [
     -84.93,
     32.94,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 33.9612,
       "lon": -83.3983,
-      "govt_payer_share": 0.489,
-      "medicare_discharges": 5517
+      "govt_payer_share": 0.275,
+      "medicare_discharges": 5358
     },
     {
       "facility_id": "110006",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 33.9403,
       "lon": -83.4336,
-      "govt_payer_share": 0.334,
-      "medicare_discharges": 2170
+      "govt_payer_share": 0.283,
+      "medicare_discharges": 2070
     }
   ],
   "catchment_counties": [
@@ -40,38 +40,6 @@
       "pop_total": 128864,
       "pop_65_plus": 14825,
       "distance_to_hub_miles": 2.5
-    },
-    {
-      "county_fips": "13217",
-      "county_name": "Newton",
-      "state": "GA",
-      "pop_total": 113298,
-      "pop_65_plus": 14952,
-      "distance_to_hub_miles": 37.3
-    },
-    {
-      "county_fips": "13297",
-      "county_name": "Walton",
-      "state": "GA",
-      "pop_total": 97752,
-      "pop_65_plus": 15545,
-      "distance_to_hub_miles": 22.0
-    },
-    {
-      "county_fips": "13247",
-      "county_name": "Rockdale",
-      "state": "GA",
-      "pop_total": 93641,
-      "pop_65_plus": 14130,
-      "distance_to_hub_miles": 40.9
-    },
-    {
-      "county_fips": "13013",
-      "county_name": "Barrow",
-      "state": "GA",
-      "pop_total": 84399,
-      "pop_65_plus": 10667,
-      "distance_to_hub_miles": 17.4
     },
     {
       "county_fips": "13157",
@@ -104,14 +72,6 @@
       "pop_total": 23480,
       "pop_65_plus": 4330,
       "distance_to_hub_miles": 31.0
-    },
-    {
-      "county_fips": "13211",
-      "county_name": "Morgan",
-      "state": "GA",
-      "pop_total": 20171,
-      "pop_65_plus": 4066,
-      "distance_to_hub_miles": 25.4
     },
     {
       "county_fips": "13105",
@@ -156,15 +116,15 @@
   ],
   "summary": {
     "total_beds": 511,
-    "catchment_pop": 775803,
-    "catchment_pop_65_plus": 116727,
-    "catchment_pct_65_plus": 0.1505,
-    "max_catchment_radius_miles": 40.9,
-    "avg_catchment_distance_miles": 22.2,
-    "num_counties": 15,
+    "catchment_pop": 366542,
+    "catchment_pop_65_plus": 57367,
+    "catchment_pct_65_plus": 0.1565,
+    "max_catchment_radius_miles": 40.6,
+    "avg_catchment_distance_miles": 13.8,
+    "num_counties": 10,
     "hospital_employment": 4873,
     "msa_total_employment": 72404,
-    "hospital_emp_share": 0.053,
-    "avg_govt_payer_share": 0.4298
+    "hospital_emp_share": 0.0395,
+    "avg_govt_payer_share": 0.2779
   }
 }

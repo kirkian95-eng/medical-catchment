@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14660",
   "cbsa_name": "Brainerd, MN",
-  "mdi": 0.5156,
+  "mdi": 0.7045,
   "bbox": [
     -96.0,
     45.32,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.3229,
       "lon": -94.1252,
-      "govt_payer_share": 0.32,
-      "medicare_discharges": 1322
+      "govt_payer_share": 0.351,
+      "medicare_discharges": 1301
     },
     {
       "facility_id": "241353",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 46.4823,
       "lon": -93.9459,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.366,
+      "medicare_discharges": 417
     },
     {
       "facility_id": "241358",
@@ -87,7 +87,7 @@
     "num_counties": 4,
     "hospital_employment": 244,
     "msa_total_employment": 41265,
-    "hospital_emp_share": 0.0437,
-    "avg_govt_payer_share": 0.4091
+    "hospital_emp_share": 0.0493,
+    "avg_govt_payer_share": 0.3709
   }
 }

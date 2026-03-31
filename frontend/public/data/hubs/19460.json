@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19460",
   "cbsa_name": "Decatur, AL",
-  "mdi": 0.1928,
+  "mdi": 0.3982,
   "bbox": [
     -88.81,
     33.45,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.5911,
       "lon": -86.9727,
-      "govt_payer_share": 0.257,
-      "medicare_discharges": 2089
+      "govt_payer_share": 0.403,
+      "medicare_discharges": 1970
     },
     {
       "facility_id": "010059",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.4472,
       "lon": -87.3086,
-      "govt_payer_share": 0.19,
-      "medicare_discharges": 96
+      "govt_payer_share": 0.393,
+      "medicare_discharges": 93
     }
   ],
   "catchment_counties": [
@@ -76,7 +76,7 @@
     "num_counties": 4,
     "hospital_employment": 1524,
     "msa_total_employment": 57136,
-    "hospital_emp_share": 0.0267,
-    "avg_govt_payer_share": 0.2454
+    "hospital_emp_share": 0.0233,
+    "avg_govt_payer_share": 0.401
   }
 }

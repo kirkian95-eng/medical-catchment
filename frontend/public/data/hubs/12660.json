@@ -1,7 +1,7 @@
 {
   "cbsa_code": "12660",
   "cbsa_name": "Baraboo, WI",
-  "mdi": 0.4268,
+  "mdi": 0.551,
   "bbox": [
     -91.5,
     42.29,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.4807,
       "lon": -89.7303,
-      "govt_payer_share": 0.275,
-      "medicare_discharges": 630
+      "govt_payer_share": 0.47,
+      "medicare_discharges": 562
     },
     {
       "facility_id": "520095",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.2871,
       "lon": -89.753,
-      "govt_payer_share": 0.285,
-      "medicare_discharges": 411
+      "govt_payer_share": 0.372,
+      "medicare_discharges": 401
     },
     {
       "facility_id": "521351",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.5335,
       "lon": -89.9973,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.554,
+      "medicare_discharges": 329
     }
   ],
   "catchment_counties": [
@@ -95,7 +95,7 @@
     "num_counties": 5,
     "hospital_employment": 1534,
     "msa_total_employment": 35936,
-    "hospital_emp_share": 0.0427,
-    "avg_govt_payer_share": 0.3398
+    "hospital_emp_share": 0.0312,
+    "avg_govt_payer_share": 0.4614
   }
 }

@@ -1,12 +1,12 @@
 {
   "cbsa_code": "29780",
   "cbsa_name": "Las Vegas, NM",
-  "mdi": 0.8757,
+  "mdi": 0.4367,
   "bbox": [
-    -106.43,
-    34.54,
-    -103.43,
-    36.54
+    -106.83,
+    34.03,
+    -103.04,
+    37.06
   ],
   "hospitals": [
     {
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 35.5421,
       "lon": -104.9335,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 137
     }
   ],
   "catchment_counties": [
@@ -47,6 +47,14 @@
       "distance_to_hub_miles": 32.4
     },
     {
+      "county_fips": "35059",
+      "county_name": "Union",
+      "state": "NM",
+      "pop_total": 4074,
+      "pop_65_plus": 898,
+      "distance_to_hub_miles": 104.4
+    },
+    {
       "county_fips": "35021",
       "county_name": "Harding",
       "state": "NM",
@@ -57,15 +65,15 @@
   ],
   "summary": {
     "total_beds": 62,
-    "catchment_pop": 36507,
-    "catchment_pop_65_plus": 8644,
-    "catchment_pct_65_plus": 0.2368,
-    "max_catchment_radius_miles": 66.2,
-    "avg_catchment_distance_miles": 16.6,
-    "num_counties": 4,
+    "catchment_pop": 40581,
+    "catchment_pop_65_plus": 9542,
+    "catchment_pct_65_plus": 0.2351,
+    "max_catchment_radius_miles": 104.4,
+    "avg_catchment_distance_miles": 25.4,
+    "num_counties": 5,
     "hospital_employment": 569,
     "msa_total_employment": 7600,
-    "hospital_emp_share": 0.0689,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0143,
+    "avg_govt_payer_share": 0.6
   }
 }

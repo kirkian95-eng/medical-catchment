@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36837",
   "cbsa_name": "Ottawa, IL",
-  "mdi": 0.4152,
+  "mdi": 0.3094,
   "bbox": [
     -90.94,
     40.39,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 41.3893,
       "lon": -89.4399,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.581,
+      "medicare_discharges": 256
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 10495,
-    "hospital_emp_share": 0.0213,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0027,
+    "avg_govt_payer_share": 0.5814
   }
 }

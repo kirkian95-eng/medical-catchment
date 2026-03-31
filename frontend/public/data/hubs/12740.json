@@ -1,7 +1,7 @@
 {
   "cbsa_code": "12740",
   "cbsa_name": "Barre, VT",
-  "mdi": 0.3399,
+  "mdi": 0.6503,
   "bbox": [
     -74.0,
     43.2,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.1965,
       "lon": -72.5015,
-      "govt_payer_share": 0.407,
-      "medicare_discharges": 1891
+      "govt_payer_share": 0.669,
+      "medicare_discharges": 1846
     }
   ],
   "catchment_counties": [
@@ -65,7 +65,7 @@
     "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 32988,
-    "hospital_emp_share": 0.0328,
-    "avg_govt_payer_share": 0.4066
+    "hospital_emp_share": 0.0393,
+    "avg_govt_payer_share": 0.6688
   }
 }

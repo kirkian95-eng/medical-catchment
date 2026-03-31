@@ -1,7 +1,7 @@
 {
   "cbsa_code": "24600",
   "cbsa_name": "Greencastle, IN",
-  "mdi": 0.5354,
+  "mdi": 0.4751,
   "bbox": [
     -88.39,
     38.65,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 39.6546,
       "lon": -86.894,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.486,
+      "medicare_discharges": 151
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 417,
     "msa_total_employment": 12421,
-    "hospital_emp_share": 0.0336,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.024,
+    "avg_govt_payer_share": 0.4862
   }
 }

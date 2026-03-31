@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18980",
   "cbsa_name": "Cullman, AL",
-  "mdi": 0.422,
+  "mdi": 0.5333,
   "bbox": [
     -88.24,
     33.23,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.231,
       "lon": -86.7404,
-      "govt_payer_share": 0.49,
-      "medicare_discharges": 2495
+      "govt_payer_share": 0.405,
+      "medicare_discharges": 2364
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 30706,
-    "hospital_emp_share": 0.0333,
-    "avg_govt_payer_share": 0.49
+    "hospital_emp_share": 0.036,
+    "avg_govt_payer_share": 0.405
   }
 }

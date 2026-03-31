@@ -1,7 +1,7 @@
 {
   "cbsa_code": "14220",
   "cbsa_name": "Bogalusa, LA",
-  "mdi": 0.4648,
+  "mdi": 0.7747,
   "bbox": [
     -91.6,
     29.78,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 30.7785,
       "lon": -89.8685,
-      "govt_payer_share": 0.257,
-      "medicare_discharges": 254
+      "govt_payer_share": 0.594,
+      "medicare_discharges": 313
     },
     {
       "facility_id": "191313",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.8437,
       "lon": -90.101,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.453,
+      "medicare_discharges": 54
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 10897,
-    "hospital_emp_share": 0.0433,
-    "avg_govt_payer_share": 0.3729
+    "hospital_emp_share": 0.051,
+    "avg_govt_payer_share": 0.5554
   }
 }

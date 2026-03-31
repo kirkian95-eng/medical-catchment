@@ -1,7 +1,7 @@
 {
   "cbsa_code": "20180",
   "cbsa_name": "DuBois, PA",
-  "mdi": 0.4944,
+  "mdi": 0.7845,
   "bbox": [
     -80.28,
     40.11,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 41.1141,
       "lon": -78.7751,
-      "govt_payer_share": 0.33,
-      "medicare_discharges": 2411
+      "govt_payer_share": 0.236,
+      "medicare_discharges": 2377
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 29310,
-    "hospital_emp_share": 0.0517,
-    "avg_govt_payer_share": 0.3297
+    "hospital_emp_share": 0.0696,
+    "avg_govt_payer_share": 0.2356
   }
 }

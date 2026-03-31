@@ -1,7 +1,7 @@
 {
   "cbsa_code": "48020",
   "cbsa_name": "Watertown-Fort Atkinson, WI",
-  "mdi": 0.2367,
+  "mdi": 0.3498,
   "bbox": [
     -90.33,
     41.93,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.9301,
       "lon": -88.8288,
-      "govt_payer_share": 0.24,
-      "medicare_discharges": 435
+      "govt_payer_share": 0.376,
+      "medicare_discharges": 402
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 33811,
-    "hospital_emp_share": 0.0296,
-    "avg_govt_payer_share": 0.24
+    "hospital_emp_share": 0.0175,
+    "avg_govt_payer_share": 0.3759
   }
 }

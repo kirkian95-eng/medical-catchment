@@ -1,7 +1,7 @@
 {
   "cbsa_code": "49740",
   "cbsa_name": "Yuma, AZ",
-  "mdi": 0.2812,
+  "mdi": 0.622,
   "bbox": [
     -116.13,
     31.68,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.6833,
       "lon": -114.6333,
-      "govt_payer_share": 0.305,
-      "medicare_discharges": 3253
+      "govt_payer_share": 0.589,
+      "medicare_discharges": 3235
     },
     {
       "facility_id": "030154",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 33.0176,
       "lon": -114.1105,
-      "govt_payer_share": 0.197,
-      "medicare_discharges": 78
+      "govt_payer_share": 0.311,
+      "medicare_discharges": 44
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 23,
     "msa_total_employment": 71370,
-    "hospital_emp_share": 0.0305,
-    "avg_govt_payer_share": 0.3021
+    "hospital_emp_share": 0.0325,
+    "avg_govt_payer_share": 0.5819
   }
 }

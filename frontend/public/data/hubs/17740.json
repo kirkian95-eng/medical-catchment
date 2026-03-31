@@ -1,7 +1,7 @@
 {
   "cbsa_code": "17740",
   "cbsa_name": "Coldwater, MI",
-  "mdi": 0.3417,
+  "mdi": 0.376,
   "bbox": [
     -86.53,
     40.91,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 41.9055,
       "lon": -85.0313,
-      "govt_payer_share": 0.277,
-      "medicare_discharges": 632
+      "govt_payer_share": 0.337,
+      "medicare_discharges": 615
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 14820,
-    "hospital_emp_share": 0.0387,
-    "avg_govt_payer_share": 0.2769
+    "hospital_emp_share": 0.0233,
+    "avg_govt_payer_share": 0.3373
   }
 }

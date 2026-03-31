@@ -1,7 +1,7 @@
 {
   "cbsa_code": "26500",
   "cbsa_name": "Huntingdon, PA",
-  "mdi": 0.2942,
+  "mdi": 0.2937,
   "bbox": [
     -79.45,
     39.52,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.516,
       "lon": -77.9501,
-      "govt_payer_share": 0.284,
-      "medicare_discharges": 487
+      "govt_payer_share": 0.22,
+      "medicare_discharges": 462
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 12436,
-    "hospital_emp_share": 0.0319,
-    "avg_govt_payer_share": 0.2837
+    "hospital_emp_share": 0.0196,
+    "avg_govt_payer_share": 0.22
   }
 }

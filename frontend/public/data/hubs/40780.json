@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40780",
   "cbsa_name": "Russellville, AR",
-  "mdi": 0.3681,
+  "mdi": 0.3848,
   "bbox": [
     -95.0,
     34.01,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 35.2831,
       "lon": -93.1503,
-      "govt_payer_share": 0.275,
-      "medicare_discharges": 1026
+      "govt_payer_share": 0.363,
+      "medicare_discharges": 999
     },
     {
       "facility_id": "040011",
@@ -28,7 +28,7 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.0149,
       "lon": -93.5012,
-      "govt_payer_share": 0.311,
+      "govt_payer_share": 0.582,
       "medicare_discharges": 508
     },
     {
@@ -39,8 +39,8 @@
       "ownership": "Government - Local",
       "lat": 35.1707,
       "lon": -93.2015,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.533,
+      "medicare_discharges": 102
     }
   ],
   "catchment_counties": [
@@ -87,7 +87,7 @@
     "num_counties": 4,
     "hospital_employment": 225,
     "msa_total_employment": 33336,
-    "hospital_emp_share": 0.0407,
-    "avg_govt_payer_share": 0.3386
+    "hospital_emp_share": 0.0197,
+    "avg_govt_payer_share": 0.4246
   }
 }

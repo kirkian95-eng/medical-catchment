@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25060",
   "cbsa_name": "Gulfport-Biloxi, MS",
-  "mdi": 0.5123,
+  "mdi": 0.6004,
   "bbox": [
     -90.98,
     29.27,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 30.3734,
       "lon": -88.5346,
-      "govt_payer_share": 0.26,
-      "medicare_discharges": 3405
+      "govt_payer_share": 0.412,
+      "medicare_discharges": 3364
     },
     {
       "facility_id": "250019",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 30.3668,
       "lon": -89.1153,
-      "govt_payer_share": 0.35,
-      "medicare_discharges": 4452
+      "govt_payer_share": 0.431,
+      "medicare_discharges": 4379
     },
     {
       "facility_id": "250007",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 30.3949,
       "lon": -88.8903,
-      "govt_payer_share": 0.23,
-      "medicare_discharges": 560
+      "govt_payer_share": 0.442,
+      "medicare_discharges": 577
     },
     {
       "facility_id": "250123",
@@ -50,8 +50,8 @@
       "ownership": "Proprietary",
       "lat": 30.4421,
       "lon": -89.0928,
-      "govt_payer_share": 0.267,
-      "medicare_discharges": 811
+      "govt_payer_share": 0.408,
+      "medicare_discharges": 808
     },
     {
       "facility_id": "250162",
@@ -61,8 +61,8 @@
       "ownership": "Government - Local",
       "lat": 30.2689,
       "lon": -89.4808,
-      "govt_payer_share": 0.171,
-      "medicare_discharges": 168
+      "govt_payer_share": 0.378,
+      "medicare_discharges": 154
     }
   ],
   "catchment_counties": [
@@ -109,7 +109,7 @@
     "num_counties": 4,
     "hospital_employment": 10171,
     "msa_total_employment": 153554,
-    "hospital_emp_share": 0.0651,
-    "avg_govt_payer_share": 0.2795
+    "hospital_emp_share": 0.0443,
+    "avg_govt_payer_share": 0.4184
   }
 }

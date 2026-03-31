@@ -1,7 +1,7 @@
 {
   "cbsa_code": "46500",
   "cbsa_name": "Urbana, OH",
-  "mdi": 0.4401,
+  "mdi": 0.2192,
   "bbox": [
     -85.29,
     39.12,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.1171,
       "lon": -83.7862,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.26,
+      "medicare_discharges": 151
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 10471,
-    "hospital_emp_share": 0.0229,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0116,
+    "avg_govt_payer_share": 0.2601
   }
 }

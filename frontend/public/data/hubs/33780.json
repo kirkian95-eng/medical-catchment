@@ -1,7 +1,7 @@
 {
   "cbsa_code": "33780",
   "cbsa_name": "Monroe, MI",
-  "mdi": 0.2578,
+  "mdi": 0.2934,
   "bbox": [
     -84.89,
     40.93,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 41.9254,
       "lon": -83.3888,
-      "govt_payer_share": 0.307,
-      "medicare_discharges": 1528
+      "govt_payer_share": 0.319,
+      "medicare_discharges": 1476
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 40590,
-    "hospital_emp_share": 0.0291,
-    "avg_govt_payer_share": 0.3071
+    "hospital_emp_share": 0.0183,
+    "avg_govt_payer_share": 0.3191
   }
 }

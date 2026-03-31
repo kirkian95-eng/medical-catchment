@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22190",
   "cbsa_name": "Fayetteville, TN",
-  "mdi": 0.3802,
+  "mdi": 0.4314,
   "bbox": [
     -88.06,
     34.15,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 35.1487,
       "lon": -86.5564,
-      "govt_payer_share": 0.203,
-      "medicare_discharges": 266
+      "govt_payer_share": 0.355,
+      "medicare_discharges": 258
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 10079,
-    "hospital_emp_share": 0.0468,
-    "avg_govt_payer_share": 0.2026
+    "hospital_emp_share": 0.0291,
+    "avg_govt_payer_share": 0.3553
   }
 }

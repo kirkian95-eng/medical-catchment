@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22660",
   "cbsa_name": "Fort Collins-Loveland, CO",
-  "mdi": 0.4774,
+  "mdi": 0.4214,
   "bbox": [
     -107.11,
     39.4,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.5717,
       "lon": -105.0578,
-      "govt_payer_share": 0.353,
-      "medicare_discharges": 2853
+      "govt_payer_share": 0.457,
+      "medicare_discharges": 2667
     },
     {
       "facility_id": "060119",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.4327,
       "lon": -104.9911,
-      "govt_payer_share": 0.532,
-      "medicare_discharges": 3575
+      "govt_payer_share": 0.408,
+      "medicare_discharges": 3344
     },
     {
       "facility_id": "060030",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.5446,
       "lon": -105.2451,
-      "govt_payer_share": 0.224,
-      "medicare_discharges": 499
+      "govt_payer_share": 0.413,
+      "medicare_discharges": 492
     },
     {
       "facility_id": "060126",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 40.5204,
       "lon": -105.0107,
-      "govt_payer_share": 0.24,
-      "medicare_discharges": 92
+      "govt_payer_share": 0.448,
+      "medicare_discharges": 90
     },
     {
       "facility_id": "061312",
@@ -61,8 +61,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 40.3979,
       "lon": -105.6149,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.624,
+      "medicare_discharges": 82
     }
   ],
   "catchment_counties": [
@@ -85,7 +85,7 @@
     "num_counties": 1,
     "hospital_employment": 9594,
     "msa_total_employment": 174756,
-    "hospital_emp_share": 0.0549,
-    "avg_govt_payer_share": 0.3893
+    "hospital_emp_share": 0.0244,
+    "avg_govt_payer_share": 0.4395
   }
 }

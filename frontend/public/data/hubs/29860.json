@@ -1,7 +1,7 @@
 {
   "cbsa_code": "29860",
   "cbsa_name": "Laurel, MS",
-  "mdi": 0.396,
+  "mdi": 0.5727,
   "bbox": [
     -90.77,
     30.69,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 31.6858,
       "lon": -89.142,
-      "govt_payer_share": 0.299,
-      "medicare_discharges": 1672
+      "govt_payer_share": 0.461,
+      "medicare_discharges": 1639
     },
     {
       "facility_id": "250018",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 31.9557,
       "lon": -89.2659,
-      "govt_payer_share": 0.53,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 3
     }
   ],
   "catchment_counties": [
@@ -68,7 +68,7 @@
     "num_counties": 3,
     "hospital_employment": 1563,
     "msa_total_employment": 31757,
-    "hospital_emp_share": 0.0492,
-    "avg_govt_payer_share": 0.3146
+    "hospital_emp_share": 0.0418,
+    "avg_govt_payer_share": 0.4702
   }
 }

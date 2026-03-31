@@ -1,7 +1,7 @@
 {
   "cbsa_code": "26140",
   "cbsa_name": "Homosassa Springs, FL",
-  "mdi": 0.5053,
+  "mdi": 0.5212,
   "bbox": [
     -84.15,
     27.83,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 28.8322,
       "lon": -82.3353,
-      "govt_payer_share": 0.49,
-      "medicare_discharges": 3818
+      "govt_payer_share": 0.36,
+      "medicare_discharges": 3628
     },
     {
       "facility_id": "100249",
@@ -28,19 +28,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 28.9567,
       "lon": -82.6476,
-      "govt_payer_share": 0.433,
-      "medicare_discharges": 2061
+      "govt_payer_share": 0.323,
+      "medicare_discharges": 2435
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "12053",
-      "county_name": "Hernando",
-      "state": "FL",
-      "pop_total": 196621,
-      "pop_65_plus": 52781,
-      "distance_to_hub_miles": 22.7
-    },
     {
       "county_fips": "12017",
       "county_name": "Citrus",
@@ -60,15 +52,15 @@
   ],
   "summary": {
     "total_beds": 332,
-    "catchment_pop": 483626,
-    "catchment_pop_65_plus": 185539,
-    "catchment_pct_65_plus": 0.3836,
+    "catchment_pop": 287005,
+    "catchment_pop_65_plus": 132758,
+    "catchment_pct_65_plus": 0.4626,
     "max_catchment_radius_miles": 25.7,
-    "avg_catchment_distance_miles": 19.0,
-    "num_counties": 3,
+    "avg_catchment_distance_miles": 16.4,
+    "num_counties": 2,
     "hospital_employment": 1566,
     "msa_total_employment": 34490,
-    "hospital_emp_share": 0.0454,
-    "avg_govt_payer_share": 0.4683
+    "hospital_emp_share": 0.0398,
+    "avg_govt_payer_share": 0.3457
   }
 }

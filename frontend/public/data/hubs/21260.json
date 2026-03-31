@@ -1,7 +1,7 @@
 {
   "cbsa_code": "21260",
   "cbsa_name": "Ellensburg, WA",
-  "mdi": 0.4194,
+  "mdi": 0.4953,
   "bbox": [
     -122.04,
     45.99,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 46.9868,
       "lon": -120.5368,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.391,
+      "medicare_discharges": 321
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 16776,
-    "hospital_emp_share": 0.0208,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0282,
+    "avg_govt_payer_share": 0.3914
   }
 }

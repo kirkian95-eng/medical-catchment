@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31420",
   "cbsa_name": "Macon-Bibb County, GA",
-  "mdi": 0.5401,
+  "mdi": 0.5629,
   "bbox": [
     -85.44,
     31.83,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.8331,
       "lon": -83.6361,
-      "govt_payer_share": 0.366,
-      "medicare_discharges": 4698
+      "govt_payer_share": 0.237,
+      "medicare_discharges": 4402
     },
     {
       "facility_id": "110164",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.8457,
       "lon": -83.6181,
-      "govt_payer_share": 0.333,
-      "medicare_discharges": 2172
+      "govt_payer_share": 0.294,
+      "medicare_discharges": 2051
     },
     {
       "facility_id": "110201",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 32.9076,
       "lon": -83.7351,
-      "govt_payer_share": 0.207,
-      "medicare_discharges": 530
+      "govt_payer_share": 0.306,
+      "medicare_discharges": 529
     },
     {
       "facility_id": "111318",
@@ -50,27 +50,11 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 33.0436,
       "lon": -83.9353,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.363,
+      "medicare_discharges": 66
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "13063",
-      "county_name": "Clayton",
-      "state": "GA",
-      "pop_total": 296312,
-      "pop_65_plus": 29607,
-      "distance_to_hub_miles": 63.0
-    },
-    {
-      "county_fips": "13151",
-      "county_name": "Henry",
-      "state": "GA",
-      "pop_total": 240853,
-      "pop_65_plus": 28988,
-      "distance_to_hub_miles": 50.9
-    },
     {
       "county_fips": "13021",
       "county_name": "Bibb",
@@ -78,14 +62,6 @@
       "pop_total": 156554,
       "pop_65_plus": 25285,
       "distance_to_hub_miles": 4.1
-    },
-    {
-      "county_fips": "13255",
-      "county_name": "Spalding",
-      "state": "GA",
-      "pop_total": 67415,
-      "pop_65_plus": 12423,
-      "distance_to_hub_miles": 46.5
     },
     {
       "county_fips": "13169",
@@ -112,36 +88,12 @@
       "distance_to_hub_miles": 37.8
     },
     {
-      "county_fips": "13035",
-      "county_name": "Butts",
-      "state": "GA",
-      "pop_total": 25522,
-      "pop_65_plus": 4072,
-      "distance_to_hub_miles": 35.2
-    },
-    {
-      "county_fips": "13231",
-      "county_name": "Pike",
-      "state": "GA",
-      "pop_total": 19145,
-      "pop_65_plus": 3010,
-      "distance_to_hub_miles": 46.1
-    },
-    {
       "county_fips": "13171",
       "county_name": "Lamar",
       "state": "GA",
       "pop_total": 18676,
       "pop_65_plus": 3266,
       "distance_to_hub_miles": 32.5
-    },
-    {
-      "county_fips": "13159",
-      "county_name": "Jasper",
-      "state": "GA",
-      "pop_total": 14882,
-      "pop_65_plus": 2572,
-      "distance_to_hub_miles": 32.4
     },
     {
       "county_fips": "13079",
@@ -170,15 +122,15 @@
   ],
   "summary": {
     "total_beds": 1015,
-    "catchment_pop": 952473,
-    "catchment_pop_65_plus": 130313,
-    "catchment_pct_65_plus": 0.1368,
-    "max_catchment_radius_miles": 63.0,
-    "avg_catchment_distance_miles": 42.4,
-    "num_counties": 14,
+    "catchment_pop": 288344,
+    "catchment_pop_65_plus": 49641,
+    "catchment_pct_65_plus": 0.1722,
+    "max_catchment_radius_miles": 40.5,
+    "avg_catchment_distance_miles": 14.0,
+    "num_counties": 8,
     "hospital_employment": 5826,
     "msa_total_employment": 87519,
-    "hospital_emp_share": 0.0616,
-    "avg_govt_payer_share": 0.3496
+    "hospital_emp_share": 0.0491,
+    "avg_govt_payer_share": 0.2608
   }
 }

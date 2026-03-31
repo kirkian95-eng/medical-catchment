@@ -1,7 +1,7 @@
 {
   "cbsa_code": "27380",
   "cbsa_name": "Jacksonville, TX",
-  "mdi": 0.3811,
+  "mdi": 0.3443,
   "bbox": [
     -96.77,
     30.95,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 31.9605,
       "lon": -95.2702,
-      "govt_payer_share": 0.203,
-      "medicare_discharges": 221
+      "govt_payer_share": 0.23,
+      "medicare_discharges": 254
     },
     {
       "facility_id": "451319",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 31.9463,
       "lon": -95.2519,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.312,
+      "medicare_discharges": 189
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 490,
     "msa_total_employment": 14703,
-    "hospital_emp_share": 0.0333,
-    "avg_govt_payer_share": 0.3238
+    "hospital_emp_share": 0.0245,
+    "avg_govt_payer_share": 0.2504
   }
 }

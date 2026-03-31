@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25940",
   "cbsa_name": "Hilton Head Island-Bluffton-Port Royal, SC",
-  "mdi": 0.1665,
+  "mdi": 0.3979,
   "bbox": [
     -82.54,
     31.22,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 32.4207,
       "lon": -80.6884,
-      "govt_payer_share": 0.342,
-      "medicare_discharges": 2417
+      "govt_payer_share": 0.363,
+      "medicare_discharges": 2405
     },
     {
       "facility_id": "420080",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 32.2248,
       "lon": -80.7138,
-      "govt_payer_share": 0.535,
-      "medicare_discharges": 2363
+      "govt_payer_share": 0.475,
+      "medicare_discharges": 2534
     },
     {
       "facility_id": "420101",
@@ -39,7 +39,7 @@
       "ownership": "Proprietary",
       "lat": 32.3236,
       "lon": -81.043,
-      "govt_payer_share": 0.384,
+      "govt_payer_share": 0.627,
       "medicare_discharges": 907
     }
   ],
@@ -79,7 +79,7 @@
     "num_counties": 3,
     "hospital_employment": 906,
     "msa_total_employment": 81814,
-    "hospital_emp_share": 0.0111,
-    "avg_govt_payer_share": 0.4016
+    "hospital_emp_share": 0.021,
+    "avg_govt_payer_share": 0.4275
   }
 }

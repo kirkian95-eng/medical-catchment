@@ -1,7 +1,7 @@
 {
   "cbsa_code": "33260",
   "cbsa_name": "Midland, TX",
-  "mdi": 0.2087,
+  "mdi": 0.2575,
   "bbox": [
     -103.6,
     31.0,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 31.9985,
       "lon": -102.1019,
-      "govt_payer_share": 0.251,
-      "medicare_discharges": 2203
+      "govt_payer_share": 0.306,
+      "medicare_discharges": 2087
     },
     {
       "facility_id": "451333",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 32.1894,
       "lon": -101.8829,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 48
     }
   ],
   "catchment_counties": [
@@ -76,7 +76,7 @@
     "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 117004,
-    "hospital_emp_share": 0.0292,
-    "avg_govt_payer_share": 0.2651
+    "hospital_emp_share": 0.0149,
+    "avg_govt_payer_share": 0.315
   }
 }

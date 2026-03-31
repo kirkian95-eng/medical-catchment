@@ -1,7 +1,7 @@
 {
   "cbsa_code": "35100",
   "cbsa_name": "New Bern, NC",
-  "mdi": 0.5426,
+  "mdi": 0.7277,
   "bbox": [
     -78.57,
     34.11,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 35.112,
       "lon": -77.0661,
-      "govt_payer_share": 0.485,
-      "medicare_discharges": 4703
+      "govt_payer_share": 0.375,
+      "medicare_discharges": 4517
     }
   ],
   "catchment_counties": [
@@ -65,7 +65,7 @@
     "num_counties": 4,
     "hospital_employment": 2220,
     "msa_total_employment": 40816,
-    "hospital_emp_share": 0.0481,
-    "avg_govt_payer_share": 0.4852
+    "hospital_emp_share": 0.0549,
+    "avg_govt_payer_share": 0.3748
   }
 }

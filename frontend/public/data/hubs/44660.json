@@ -1,7 +1,7 @@
 {
   "cbsa_code": "44660",
   "cbsa_name": "Stillwater, OK",
-  "mdi": 0.3929,
+  "mdi": 0.7925,
   "bbox": [
     -98.57,
     34.96,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 36.1158,
       "lon": -97.0744,
-      "govt_payer_share": 0.371,
-      "medicare_discharges": 1910
+      "govt_payer_share": 0.695,
+      "medicare_discharges": 1850
     },
     {
       "facility_id": "370099",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 35.9573,
       "lon": -96.7519,
-      "govt_payer_share": 0.186,
-      "medicare_discharges": 188
+      "govt_payer_share": NaN,
+      "medicare_discharges": 186
     }
   ],
   "catchment_counties": [
@@ -68,7 +68,7 @@
     "num_counties": 3,
     "hospital_employment": 1480,
     "msa_total_employment": 34625,
-    "hospital_emp_share": 0.0427,
-    "avg_govt_payer_share": 0.2907
+    "hospital_emp_share": 0.0578,
+    "avg_govt_payer_share": 0.6537
   }
 }

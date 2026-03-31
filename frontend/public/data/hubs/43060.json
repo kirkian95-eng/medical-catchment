@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43060",
   "cbsa_name": "Shawnee, OK",
-  "mdi": 0.4334,
+  "mdi": 0.5557,
   "bbox": [
     -98.44,
     34.36,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.3618,
       "lon": -96.9394,
-      "govt_payer_share": 0.346,
-      "medicare_discharges": 1247
+      "govt_payer_share": 0.519,
+      "medicare_discharges": 1204
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 995,
     "msa_total_employment": 22622,
-    "hospital_emp_share": 0.044,
-    "avg_govt_payer_share": 0.3463
+    "hospital_emp_share": 0.0324,
+    "avg_govt_payer_share": 0.5193
   }
 }

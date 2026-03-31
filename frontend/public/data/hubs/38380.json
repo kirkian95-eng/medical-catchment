@@ -1,7 +1,7 @@
 {
   "cbsa_code": "38380",
   "cbsa_name": "Plainview, TX",
-  "mdi": 0.4913,
+  "mdi": 0.3749,
   "bbox": [
     -103.23,
     33.18,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 34.2072,
       "lon": -101.7316,
-      "govt_payer_share": 0.183,
-      "medicare_discharges": 199
+      "govt_payer_share": 0.208,
+      "medicare_discharges": 191
     },
     {
       "facility_id": "451337",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 34.1796,
       "lon": -101.3878,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 49
     }
   ],
   "catchment_counties": [
@@ -76,7 +76,7 @@
     "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 12390,
-    "hospital_emp_share": 0.053,
-    "avg_govt_payer_share": 0.2825
+    "hospital_emp_share": 0.0249,
+    "avg_govt_payer_share": 0.2861
   }
 }

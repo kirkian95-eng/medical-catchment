@@ -1,7 +1,7 @@
 {
   "cbsa_code": "43700",
   "cbsa_name": "Somerset, KY",
-  "mdi": 0.5709,
+  "mdi": 0.503,
   "bbox": [
     -86.12,
     36.09,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 37.0875,
       "lon": -84.6185,
-      "govt_payer_share": 0.365,
-      "medicare_discharges": 2003
+      "govt_payer_share": 0.248,
+      "medicare_discharges": 1957
     }
   ],
   "catchment_counties": [
@@ -65,7 +65,7 @@
     "num_counties": 4,
     "hospital_employment": 0,
     "msa_total_employment": 25998,
-    "hospital_emp_share": 0.0565,
-    "avg_govt_payer_share": 0.3653
+    "hospital_emp_share": 0.0372,
+    "avg_govt_payer_share": 0.2478
   }
 }

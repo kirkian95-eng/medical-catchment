@@ -1,12 +1,12 @@
 {
   "cbsa_code": "21420",
   "cbsa_name": "Enid, OK",
-  "mdi": 0.7377,
+  "mdi": 0.6515,
   "bbox": [
-    -99.39,
-    35.24,
-    -96.29,
-    37.58
+    -99.85,
+    34.83,
+    -95.83,
+    37.99
   ],
   "hospitals": [
     {
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 36.4267,
       "lon": -97.792,
-      "govt_payer_share": 0.244,
-      "medicare_discharges": 1166
+      "govt_payer_share": 0.644,
+      "medicare_discharges": 1155
     },
     {
       "facility_id": "370016",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.3906,
       "lon": -97.8866,
-      "govt_payer_share": 0.232,
-      "medicare_discharges": 802
+      "govt_payer_share": 0.792,
+      "medicare_discharges": 832
     }
   ],
   "catchment_counties": [
@@ -80,19 +80,27 @@
       "pop_total": 4152,
       "pop_65_plus": 917,
       "distance_to_hub_miles": 26.8
+    },
+    {
+      "county_fips": "40045",
+      "county_name": "Ellis",
+      "state": "OK",
+      "pop_total": 3755,
+      "pop_65_plus": 890,
+      "distance_to_hub_miles": 107.8
     }
   ],
   "summary": {
     "total_beds": 412,
-    "catchment_pop": 109041,
-    "catchment_pop_65_plus": 18644,
-    "catchment_pct_65_plus": 0.171,
-    "max_catchment_radius_miles": 79.5,
-    "avg_catchment_distance_miles": 27.5,
-    "num_counties": 6,
+    "catchment_pop": 112796,
+    "catchment_pop_65_plus": 19534,
+    "catchment_pct_65_plus": 0.1732,
+    "max_catchment_radius_miles": 107.8,
+    "avg_catchment_distance_miles": 30.2,
+    "num_counties": 7,
     "hospital_employment": 0,
     "msa_total_employment": 23335,
-    "hospital_emp_share": 0.1028,
-    "avg_govt_payer_share": 0.2385
+    "hospital_emp_share": 0.0377,
+    "avg_govt_payer_share": 0.71
   }
 }

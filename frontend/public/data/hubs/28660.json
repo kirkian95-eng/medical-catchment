@@ -1,12 +1,12 @@
 {
   "cbsa_code": "28660",
   "cbsa_name": "Killeen-Temple, TX",
-  "mdi": 0.7992,
+  "mdi": 0.7356,
   "bbox": [
-    -99.84,
-    29.79,
-    -95.78,
-    32.7
+    -99.76,
+    29.98,
+    -95.87,
+    32.51
   ],
   "hospitals": [
     {
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 31.0787,
       "lon": -97.3659,
-      "govt_payer_share": 0.361,
-      "medicare_discharges": 6423
+      "govt_payer_share": 0.187,
+      "medicare_discharges": 5863
     },
     {
       "facility_id": "450152",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 31.1172,
       "lon": -97.7981,
-      "govt_payer_share": 0.241,
-      "medicare_discharges": 1307
+      "govt_payer_share": 0.313,
+      "medicare_discharges": 1289
     },
     {
       "facility_id": "670080",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 31.0546,
       "lon": -97.6417,
-      "govt_payer_share": 0.276,
-      "medicare_discharges": 927
+      "govt_payer_share": 0.261,
+      "medicare_discharges": 879
     },
     {
       "facility_id": "451323",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 31.1026,
       "lon": -98.2598,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.401,
+      "medicare_discharges": 136
     },
     {
       "facility_id": "451379",
@@ -61,27 +61,11 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 31.441,
       "lon": -97.7746,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.345,
+      "medicare_discharges": 300
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "48453",
-      "county_name": "Travis",
-      "state": "TX",
-      "pop_total": 1289054,
-      "pop_65_plus": 133532,
-      "distance_to_hub_miles": 54.8
-    },
-    {
-      "county_fips": "48491",
-      "county_name": "Williamson",
-      "state": "TX",
-      "pop_total": 617396,
-      "pop_65_plus": 77609,
-      "distance_to_hub_miles": 31.3
-    },
     {
       "county_fips": "48027",
       "county_name": "Bell",
@@ -99,22 +83,6 @@
       "distance_to_hub_miles": 36.8
     },
     {
-      "county_fips": "48209",
-      "county_name": "Hays",
-      "state": "TX",
-      "pop_total": 245351,
-      "pop_65_plus": 28057,
-      "distance_to_hub_miles": 77.9
-    },
-    {
-      "county_fips": "48021",
-      "county_name": "Bastrop",
-      "state": "TX",
-      "pop_total": 98435,
-      "pop_65_plus": 15129,
-      "distance_to_hub_miles": 69.6
-    },
-    {
       "county_fips": "48099",
       "county_name": "Coryell",
       "state": "TX",
@@ -129,14 +97,6 @@
       "pop_total": 49684,
       "pop_65_plus": 11477,
       "distance_to_hub_miles": 44.6
-    },
-    {
-      "county_fips": "48055",
-      "county_name": "Caldwell",
-      "state": "TX",
-      "pop_total": 46141,
-      "pop_65_plus": 7020,
-      "distance_to_hub_miles": 87.1
     },
     {
       "county_fips": "48331",
@@ -173,15 +133,15 @@
   ],
   "summary": {
     "total_beds": 1010,
-    "catchment_pop": 3148458,
-    "catchment_pop_65_plus": 383243,
-    "catchment_pct_65_plus": 0.1217,
-    "max_catchment_radius_miles": 87.1,
-    "avg_catchment_distance_miles": 44.4,
-    "num_counties": 13,
+    "catchment_pop": 852081,
+    "catchment_pop_65_plus": 121896,
+    "catchment_pct_65_plus": 0.1431,
+    "max_catchment_radius_miles": 74.1,
+    "avg_catchment_distance_miles": 23.3,
+    "num_counties": 8,
     "hospital_employment": 13132,
     "msa_total_employment": 148324,
-    "hospital_emp_share": 0.0885,
-    "avg_govt_payer_share": 0.3421
+    "hospital_emp_share": 0.0604,
+    "avg_govt_payer_share": 0.2314
   }
 }

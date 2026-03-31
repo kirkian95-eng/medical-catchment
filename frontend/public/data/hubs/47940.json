@@ -1,7 +1,7 @@
 {
   "cbsa_code": "47940",
   "cbsa_name": "Waterloo-Cedar Falls, IA",
-  "mdi": 0.549,
+  "mdi": 0.5969,
   "bbox": [
     -94.3,
     41.36,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 42.4642,
       "lon": -92.3451,
-      "govt_payer_share": 0.217,
-      "medicare_discharges": 1364
+      "govt_payer_share": 0.293,
+      "medicare_discharges": 1313
     },
     {
       "facility_id": "160110",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.5258,
       "lon": -92.3378,
-      "govt_payer_share": 0.363,
-      "medicare_discharges": 2528
+      "govt_payer_share": 0.525,
+      "medicare_discharges": 2448
     },
     {
       "facility_id": "160040",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 42.5314,
       "lon": -92.4859,
-      "govt_payer_share": 0.17,
-      "medicare_discharges": 224
+      "govt_payer_share": 0.452,
+      "medicare_discharges": 182
     },
     {
       "facility_id": "161303",
@@ -50,8 +50,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 42.3565,
       "lon": -92.795,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 107
     },
     {
       "facility_id": "161320",
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.838,
       "lon": -92.1153,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 43
     },
     {
       "facility_id": "161339",
@@ -72,8 +72,8 @@
       "ownership": "Government - Local",
       "lat": 42.7242,
       "lon": -92.4819,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.286,
+      "medicare_discharges": 215
     }
   ],
   "catchment_counties": [
@@ -152,7 +152,7 @@
     "num_counties": 8,
     "hospital_employment": 0,
     "msa_total_employment": 86000,
-    "hospital_emp_share": 0.0628,
-    "avg_govt_payer_share": 0.2967
+    "hospital_emp_share": 0.0459,
+    "avg_govt_payer_share": 0.3943
   }
 }

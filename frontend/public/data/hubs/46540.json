@@ -1,7 +1,7 @@
 {
   "cbsa_code": "46540",
   "cbsa_name": "Utica-Rome, NY",
-  "mdi": 0.364,
+  "mdi": 0.3892,
   "bbox": [
     -76.94,
     42.1,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.0988,
       "lon": -75.2757,
-      "govt_payer_share": 0.384,
-      "medicare_discharges": 3054
+      "govt_payer_share": 0.298,
+      "medicare_discharges": 2944
     },
     {
       "facility_id": "330215",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.2296,
       "lon": -75.4437,
-      "govt_payer_share": 0.28,
-      "medicare_discharges": 692
+      "govt_payer_share": 0.361,
+      "medicare_discharges": 693
     },
     {
       "facility_id": "331311",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 43.0982,
       "lon": -74.8484,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.473,
+      "medicare_discharges": 282
     }
   ],
   "catchment_counties": [
@@ -71,7 +71,7 @@
     "num_counties": 2,
     "hospital_employment": 4069,
     "msa_total_employment": 116420,
-    "hospital_emp_share": 0.035,
-    "avg_govt_payer_share": 0.3698
+    "hospital_emp_share": 0.0273,
+    "avg_govt_payer_share": 0.3225
   }
 }

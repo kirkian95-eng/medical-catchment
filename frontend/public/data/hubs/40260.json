@@ -1,7 +1,7 @@
 {
   "cbsa_code": "40260",
   "cbsa_name": "Roanoke Rapids, NC",
-  "mdi": 0.2282,
+  "mdi": 0.3749,
   "bbox": [
     -79.15,
     35.43,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 36.4344,
       "lon": -77.6487,
-      "govt_payer_share": 0.279,
-      "medicare_discharges": 922
+      "govt_payer_share": 0.356,
+      "medicare_discharges": 871
     }
   ],
   "catchment_counties": [
@@ -73,7 +73,7 @@
     "num_counties": 5,
     "hospital_employment": 505,
     "msa_total_employment": 15130,
-    "hospital_emp_share": 0.0252,
-    "avg_govt_payer_share": 0.2787
+    "hospital_emp_share": 0.0232,
+    "avg_govt_payer_share": 0.3563
   }
 }

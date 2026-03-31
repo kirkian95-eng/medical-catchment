@@ -1,7 +1,7 @@
 {
   "cbsa_code": "10540",
   "cbsa_name": "Albany, OR",
-  "mdi": 0.4117,
+  "mdi": 0.3989,
   "bbox": [
     -124.62,
     43.55,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 44.632,
       "lon": -123.1164,
-      "govt_payer_share": 0.29,
-      "medicare_discharges": 506
+      "govt_payer_share": 0.213,
+      "medicare_discharges": 472
     },
     {
       "facility_id": "381323",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Church",
       "lat": 44.5494,
       "lon": -122.9078,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.237,
+      "medicare_discharges": 310
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 48874,
-    "hospital_emp_share": 0.0369,
-    "avg_govt_payer_share": 0.4396
+    "hospital_emp_share": 0.0297,
+    "avg_govt_payer_share": 0.2221
   }
 }

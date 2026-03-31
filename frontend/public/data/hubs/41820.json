@@ -1,7 +1,7 @@
 {
   "cbsa_code": "41820",
   "cbsa_name": "Sanford, NC",
-  "mdi": 0.2516,
+  "mdi": 0.2797,
   "bbox": [
     -80.69,
     34.47,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 35.4692,
       "lon": -79.1886,
-      "govt_payer_share": 0.26,
-      "medicare_discharges": 785
+      "govt_payer_share": 0.367,
+      "medicare_discharges": 780
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 5,
     "msa_total_employment": 25997,
-    "hospital_emp_share": 0.0278,
-    "avg_govt_payer_share": 0.2603
+    "hospital_emp_share": 0.0128,
+    "avg_govt_payer_share": 0.3673
   }
 }

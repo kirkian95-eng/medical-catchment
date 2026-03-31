@@ -1,7 +1,7 @@
 {
   "cbsa_code": "16500",
   "cbsa_name": "Centralia, WA",
-  "mdi": 0.3693,
+  "mdi": 0.4422,
   "bbox": [
     -124.49,
     45.58,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 46.7118,
       "lon": -122.9868,
-      "govt_payer_share": 0.303,
-      "medicare_discharges": 1218
+      "govt_payer_share": 0.321,
+      "medicare_discharges": 1171
     },
     {
       "facility_id": "501319",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 46.5819,
       "lon": -122.2714,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.437,
+      "medicare_discharges": 44
     }
   ],
   "catchment_counties": [
@@ -52,7 +52,7 @@
     "num_counties": 1,
     "hospital_employment": 1,
     "msa_total_employment": 27254,
-    "hospital_emp_share": 0.0443,
-    "avg_govt_payer_share": 0.356
+    "hospital_emp_share": 0.0284,
+    "avg_govt_payer_share": 0.3373
   }
 }

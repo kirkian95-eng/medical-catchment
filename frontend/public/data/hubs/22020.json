@@ -1,7 +1,7 @@
 {
   "cbsa_code": "22020",
   "cbsa_name": "Fargo, ND-MN",
-  "mdi": 0.7701,
+  "mdi": 0.8117,
   "bbox": [
     -98.76,
     45.3,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.8845,
       "lon": -96.7886,
-      "govt_payer_share": 0.386,
-      "medicare_discharges": 7553
+      "govt_payer_share": 0.535,
+      "medicare_discharges": 7217
     },
     {
       "facility_id": "350070",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.8316,
       "lon": -96.8281,
-      "govt_payer_share": 0.634,
-      "medicare_discharges": 3175
+      "govt_payer_share": 0.435,
+      "medicare_discharges": 3037
     }
   ],
   "catchment_counties": [
@@ -132,7 +132,7 @@
     "num_counties": 11,
     "hospital_employment": 11772,
     "msa_total_employment": 126108,
-    "hospital_emp_share": 0.0807,
-    "avg_govt_payer_share": 0.4307
+    "hospital_emp_share": 0.0551,
+    "avg_govt_payer_share": 0.5167
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "31740",
   "cbsa_name": "Manhattan, KS",
-  "mdi": 0.17,
+  "mdi": 0.4075,
   "bbox": [
     -98.35,
     38.01,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.2022,
       "lon": -96.5983,
-      "govt_payer_share": 0.268,
-      "medicare_discharges": 1230
+      "govt_payer_share": 0.479,
+      "medicare_discharges": 1185
     },
     {
       "facility_id": "170074",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.013,
       "lon": -96.8506,
-      "govt_payer_share": 0.195,
-      "medicare_discharges": 246
+      "govt_payer_share": 0.437,
+      "medicare_discharges": 146
     },
     {
       "facility_id": "171337",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 39.2316,
       "lon": -96.2956,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 56
     },
     {
       "facility_id": "171354",
@@ -50,8 +50,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 39.4952,
       "lon": -96.1739,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 190
     },
     {
       "facility_id": "170190",
@@ -61,8 +61,8 @@
       "ownership": "Physician",
       "lat": 39.1399,
       "lon": -96.5287,
-      "govt_payer_share": 0.171,
-      "medicare_discharges": 97
+      "govt_payer_share": NaN,
+      "medicare_discharges": 82
     }
   ],
   "catchment_counties": [
@@ -133,7 +133,7 @@
     "num_counties": 7,
     "hospital_employment": 816,
     "msa_total_employment": 52424,
-    "hospital_emp_share": 0.0156,
-    "avg_govt_payer_share": 0.3092
+    "hospital_emp_share": 0.0176,
+    "avg_govt_payer_share": 0.4911
   }
 }

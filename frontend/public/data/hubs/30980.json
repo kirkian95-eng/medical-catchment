@@ -1,7 +1,7 @@
 {
   "cbsa_code": "30980",
   "cbsa_name": "Longview, TX",
-  "mdi": 0.4658,
+  "mdi": 0.3485,
   "bbox": [
     -96.29,
     31.16,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.5014,
       "lon": -94.7314,
-      "govt_payer_share": 0.283,
-      "medicare_discharges": 3836
+      "govt_payer_share": 0.231,
+      "medicare_discharges": 3565
     },
     {
       "facility_id": "450702",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 32.5331,
       "lon": -94.7302,
-      "govt_payer_share": 0.344,
-      "medicare_discharges": 2680
+      "govt_payer_share": 0.297,
+      "medicare_discharges": 2604
     },
     {
       "facility_id": "450475",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 32.1617,
       "lon": -94.7941,
-      "govt_payer_share": 0.172,
-      "medicare_discharges": 221
+      "govt_payer_share": 0.286,
+      "medicare_discharges": 281
     }
   ],
   "catchment_counties": [
@@ -103,7 +103,7 @@
     "num_counties": 6,
     "hospital_employment": 1521,
     "msa_total_employment": 88983,
-    "hospital_emp_share": 0.056,
-    "avg_govt_payer_share": 0.2794
+    "hospital_emp_share": 0.0264,
+    "avg_govt_payer_share": 0.2559
   }
 }

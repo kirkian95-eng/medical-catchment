@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42820",
   "cbsa_name": "Selma, AL",
-  "mdi": 0.7408,
+  "mdi": 0.4512,
   "bbox": [
     -88.55,
     31.42,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 32.4241,
       "lon": -87.0494,
-      "govt_payer_share": 0.244,
-      "medicare_discharges": 574
+      "govt_payer_share": 0.418,
+      "medicare_discharges": 557
     }
   ],
   "catchment_counties": [
@@ -57,7 +57,7 @@
     "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 11404,
-    "hospital_emp_share": 0.1019,
-    "avg_govt_payer_share": 0.2437
+    "hospital_emp_share": 0.0284,
+    "avg_govt_payer_share": 0.4176
   }
 }

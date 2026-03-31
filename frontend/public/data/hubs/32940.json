@@ -1,7 +1,7 @@
 {
   "cbsa_code": "32940",
   "cbsa_name": "Meridian, MS",
-  "mdi": 0.7886,
+  "mdi": 0.9364,
   "bbox": [
     -90.2,
     31.06,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.3709,
       "lon": -88.699,
-      "govt_payer_share": 0.38,
-      "medicare_discharges": 2622
+      "govt_payer_share": 0.552,
+      "medicare_discharges": 2591
     },
     {
       "facility_id": "250069",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.3699,
       "lon": -88.6977,
-      "govt_payer_share": 0.293,
-      "medicare_discharges": 1310
+      "govt_payer_share": 0.455,
+      "medicare_discharges": 1320
     },
     {
       "facility_id": "250081",
@@ -39,8 +39,8 @@
       "ownership": "Proprietary",
       "lat": 32.2761,
       "lon": -88.5929,
-      "govt_payer_share": 0.53,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 1
     },
     {
       "facility_id": "250151",
@@ -50,7 +50,7 @@
       "ownership": "Proprietary",
       "lat": 32.2761,
       "lon": -88.5929,
-      "govt_payer_share": 0.251,
+      "govt_payer_share": 0.736,
       "medicare_discharges": 119
     },
     {
@@ -61,8 +61,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.0588,
       "lon": -88.619,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.485,
+      "medicare_discharges": 37
     }
   ],
   "catchment_counties": [
@@ -141,7 +141,7 @@
     "num_counties": 8,
     "hospital_employment": 3371,
     "msa_total_employment": 34139,
-    "hospital_emp_share": 0.0987,
-    "avg_govt_payer_share": 0.3703
+    "hospital_emp_share": 0.0712,
+    "avg_govt_payer_share": 0.5634
   }
 }

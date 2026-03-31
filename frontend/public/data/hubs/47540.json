@@ -1,7 +1,7 @@
 {
   "cbsa_code": "47540",
   "cbsa_name": "Wapakoneta, OH",
-  "mdi": 0.2112,
+  "mdi": 0.2724,
   "bbox": [
     -85.87,
     39.54,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.5443,
       "lon": -84.37,
-      "govt_payer_share": 0.194,
-      "medicare_discharges": 471
+      "govt_payer_share": 0.326,
+      "medicare_discharges": 465
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 21909,
-    "hospital_emp_share": 0.0307,
-    "avg_govt_payer_share": 0.1937
+    "hospital_emp_share": 0.0149,
+    "avg_govt_payer_share": 0.326
   }
 }

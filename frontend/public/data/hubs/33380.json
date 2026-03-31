@@ -1,7 +1,7 @@
 {
   "cbsa_code": "33380",
   "cbsa_name": "Minden, LA",
-  "mdi": 0.5888,
+  "mdi": 0.6797,
   "bbox": [
     -94.98,
     31.64,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 32.6364,
       "lon": -93.2837,
-      "govt_payer_share": 0.289,
-      "medicare_discharges": 534
+      "govt_payer_share": 0.609,
+      "medicare_discharges": 555
     },
     {
       "facility_id": "190088",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 32.9914,
       "lon": -93.4799,
-      "govt_payer_share": 0.234,
-      "medicare_discharges": 193
+      "govt_payer_share": 0.448,
+      "medicare_discharges": 190
     }
   ],
   "catchment_counties": [
@@ -60,7 +60,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 11228,
-    "hospital_emp_share": 0.0658,
-    "avg_govt_payer_share": 0.2701
+    "hospital_emp_share": 0.0467,
+    "avg_govt_payer_share": 0.5542
   }
 }

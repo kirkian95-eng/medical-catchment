@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19540",
   "cbsa_name": "Decatur, IN",
-  "mdi": 0.8251,
+  "mdi": 0.5958,
   "bbox": [
     -86.41,
     39.82,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 40.8171,
       "lon": -84.9115,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.445,
+      "medicare_discharges": 316
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 932,
     "msa_total_employment": 13255,
-    "hospital_emp_share": 0.0703,
-    "avg_govt_payer_share": 0.68
+    "hospital_emp_share": 0.0424,
+    "avg_govt_payer_share": 0.4451
   }
 }

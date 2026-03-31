@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36660",
   "cbsa_name": "Opelousas, LA",
-  "mdi": 0.4444,
+  "mdi": 0.6222,
   "bbox": [
     -93.88,
     29.49,
@@ -17,8 +17,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 30.5434,
       "lon": -92.0759,
-      "govt_payer_share": 0.308,
-      "medicare_discharges": 1070
+      "govt_payer_share": 0.314,
+      "medicare_discharges": 1073
     },
     {
       "facility_id": "190318",
@@ -28,8 +28,8 @@
       "ownership": "Proprietary",
       "lat": 30.4949,
       "lon": -92.3845,
-      "govt_payer_share": 0.311,
-      "medicare_discharges": 343
+      "govt_payer_share": 0.686,
+      "medicare_discharges": 349
     }
   ],
   "catchment_counties": [
@@ -68,7 +68,7 @@
     "num_counties": 3,
     "hospital_employment": 427,
     "msa_total_employment": 23788,
-    "hospital_emp_share": 0.0503,
-    "avg_govt_payer_share": 0.3086
+    "hospital_emp_share": 0.0467,
+    "avg_govt_payer_share": 0.3969
   }
 }

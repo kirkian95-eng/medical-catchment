@@ -1,7 +1,7 @@
 {
   "cbsa_code": "30380",
   "cbsa_name": "Lewistown, PA",
-  "mdi": 0.5392,
+  "mdi": 0.5625,
   "bbox": [
     -79.07,
     39.62,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 40.6181,
       "lon": -77.567,
-      "govt_payer_share": 0.351,
-      "medicare_discharges": 1391
+      "govt_payer_share": 0.241,
+      "medicare_discharges": 1233
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 16202,
-    "hospital_emp_share": 0.0554,
-    "avg_govt_payer_share": 0.351
+    "hospital_emp_share": 0.0518,
+    "avg_govt_payer_share": 0.2406
   }
 }

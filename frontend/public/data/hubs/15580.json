@@ -1,12 +1,12 @@
 {
   "cbsa_code": "15580",
   "cbsa_name": "Butte-Silver Bow, MT",
-  "mdi": 0.4656,
+  "mdi": 0.5266,
   "bbox": [
-    -114.05,
-    45.01,
-    -111.05,
-    47.01
+    -114.36,
+    44.56,
+    -110.73,
+    47.45
   ],
   "hospitals": [
     {
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 46.0084,
       "lon": -112.5453,
-      "govt_payer_share": 0.345,
-      "medicare_discharges": 907
+      "govt_payer_share": 0.585,
+      "medicare_discharges": 903
     }
   ],
   "catchment_counties": [
@@ -53,19 +53,27 @@
       "pop_total": 9435,
       "pop_65_plus": 2354,
       "distance_to_hub_miles": 25.3
+    },
+    {
+      "county_fips": "16059",
+      "county_name": "Lemhi",
+      "state": "ID",
+      "pop_total": 8043,
+      "pop_65_plus": 2451,
+      "distance_to_hub_miles": 99.7
     }
   ],
   "summary": {
     "total_beds": 98,
-    "catchment_pop": 66483,
-    "catchment_pop_65_plus": 14163,
-    "catchment_pct_65_plus": 0.213,
-    "max_catchment_radius_miles": 62.9,
-    "avg_catchment_distance_miles": 21.8,
-    "num_counties": 4,
+    "catchment_pop": 74526,
+    "catchment_pop_65_plus": 16614,
+    "catchment_pct_65_plus": 0.2229,
+    "max_catchment_radius_miles": 99.7,
+    "avg_catchment_distance_miles": 30.2,
+    "num_counties": 5,
     "hospital_employment": 751,
     "msa_total_employment": 16398,
-    "hospital_emp_share": 0.0458,
-    "avg_govt_payer_share": 0.3451
+    "hospital_emp_share": 0.0254,
+    "avg_govt_payer_share": 0.5854
   }
 }

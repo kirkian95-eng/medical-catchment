@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25580",
   "cbsa_name": "Hastings, NE",
-  "mdi": 0.454,
+  "mdi": 0.6952,
   "bbox": [
     -100.03,
     39.11,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Other",
       "lat": 40.5927,
       "lon": -98.3876,
-      "govt_payer_share": 0.263,
-      "medicare_discharges": 892
+      "govt_payer_share": 0.399,
+      "medicare_discharges": 879
     },
     {
       "facility_id": "281316",
@@ -28,8 +28,8 @@
       "ownership": "Government - Local",
       "lat": 40.108,
       "lon": -98.5298,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": NaN,
+      "medicare_discharges": 10
     }
   ],
   "catchment_counties": [
@@ -92,7 +92,7 @@
     "num_counties": 6,
     "hospital_employment": 127,
     "msa_total_employment": 16676,
-    "hospital_emp_share": 0.0503,
-    "avg_govt_payer_share": 0.2936
+    "hospital_emp_share": 0.0489,
+    "avg_govt_payer_share": 0.4141
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "25780",
   "cbsa_name": "Henderson, NC",
-  "mdi": 0.4179,
+  "mdi": 0.4875,
   "bbox": [
     -79.91,
     35.32,
@@ -17,8 +17,8 @@
       "ownership": "Proprietary",
       "lat": 36.3222,
       "lon": -78.4101,
-      "govt_payer_share": 0.398,
-      "medicare_discharges": 900
+      "govt_payer_share": 0.236,
+      "medicare_discharges": 917
     }
   ],
   "catchment_counties": [
@@ -73,7 +73,7 @@
     "num_counties": 5,
     "hospital_employment": 0,
     "msa_total_employment": 14179,
-    "hospital_emp_share": 0.0374,
-    "avg_govt_payer_share": 0.3978
+    "hospital_emp_share": 0.0391,
+    "avg_govt_payer_share": 0.2363
   }
 }

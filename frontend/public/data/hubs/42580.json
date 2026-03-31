@@ -1,7 +1,7 @@
 {
   "cbsa_code": "42580",
   "cbsa_name": "Seaford, DE",
-  "mdi": 0.4705,
+  "mdi": 0.6469,
   "bbox": [
     -77.11,
     37.64,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.8858,
       "lon": -75.3891,
-      "govt_payer_share": 0.403,
-      "medicare_discharges": 2026
+      "govt_payer_share": 0.642,
+      "medicare_discharges": 2366
     },
     {
       "facility_id": "080007",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.7712,
       "lon": -75.1426,
-      "govt_payer_share": 0.744,
-      "medicare_discharges": 5144
+      "govt_payer_share": 0.487,
+      "medicare_discharges": 5226
     },
     {
       "facility_id": "080006",
@@ -39,8 +39,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 38.6422,
       "lon": -75.6053,
-      "govt_payer_share": 0.4,
-      "medicare_discharges": 1604
+      "govt_payer_share": 0.429,
+      "medicare_discharges": 1580
     }
   ],
   "catchment_counties": [
@@ -63,7 +63,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 90842,
-    "hospital_emp_share": 0.0375,
-    "avg_govt_payer_share": 0.522
+    "hospital_emp_share": 0.0402,
+    "avg_govt_payer_share": 0.5303
   }
 }

@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28900",
   "cbsa_name": "Klamath Falls, OR",
-  "mdi": 0.5117,
+  "mdi": 0.8327,
   "bbox": [
     -123.69,
     41.15,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.4434,
       "lon": -122.0741,
-      "govt_payer_share": 0.349,
-      "medicare_discharges": 1533
+      "govt_payer_share": 0.623,
+      "medicare_discharges": 1550
     }
   ],
   "catchment_counties": [
@@ -49,7 +49,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 23665,
-    "hospital_emp_share": 0.0529,
-    "avg_govt_payer_share": 0.349
+    "hospital_emp_share": 0.0541,
+    "avg_govt_payer_share": 0.623
   }
 }

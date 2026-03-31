@@ -1,7 +1,7 @@
 {
   "cbsa_code": "28450",
   "cbsa_name": "Kenosha, WI",
-  "mdi": 0.3294,
+  "mdi": 0.4837,
   "bbox": [
     -89.44,
     41.56,
@@ -17,8 +17,8 @@
       "ownership": "Government - Local",
       "lat": 42.5616,
       "lon": -87.829,
-      "govt_payer_share": 0.239,
-      "medicare_discharges": 1495
+      "govt_payer_share": 0.339,
+      "medicare_discharges": 1633
     },
     {
       "facility_id": "520189",
@@ -28,27 +28,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 42.5699,
       "lon": -87.9352,
-      "govt_payer_share": 0.655,
-      "medicare_discharges": 2051
+      "govt_payer_share": 0.304,
+      "medicare_discharges": 1969
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "17031",
-      "county_name": "Cook",
-      "state": "IL",
-      "pop_total": 5225367,
-      "pop_65_plus": 793931,
-      "distance_to_hub_miles": 47.3
-    },
-    {
-      "county_fips": "17097",
-      "county_name": "Lake",
-      "state": "IL",
-      "pop_total": 713159,
-      "pop_65_plus": 106790,
-      "distance_to_hub_miles": 19.7
-    },
     {
       "county_fips": "55059",
       "county_name": "Kenosha",
@@ -60,15 +44,15 @@
   ],
   "summary": {
     "total_beds": 454,
-    "catchment_pop": 6107219,
-    "catchment_pop_65_plus": 925762,
-    "catchment_pct_65_plus": 0.1516,
-    "max_catchment_radius_miles": 47.3,
-    "avg_catchment_distance_miles": 43.0,
-    "num_counties": 3,
+    "catchment_pop": 168693,
+    "catchment_pop_65_plus": 25041,
+    "catchment_pct_65_plus": 0.1484,
+    "max_catchment_radius_miles": 9.9,
+    "avg_catchment_distance_miles": 9.9,
+    "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 72811,
-    "hospital_emp_share": 0.0368,
-    "avg_govt_payer_share": 0.3065
+    "hospital_emp_share": 0.0347,
+    "avg_govt_payer_share": 0.3329
   }
 }

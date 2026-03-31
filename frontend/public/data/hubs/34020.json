@@ -1,7 +1,7 @@
 {
   "cbsa_code": "34020",
   "cbsa_name": "Morgan City, LA",
-  "mdi": 0.2577,
+  "mdi": 0.2475,
   "bbox": [
     -93.03,
     28.75,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 29.7521,
       "lon": -91.1036,
-      "govt_payer_share": 0.241,
-      "medicare_discharges": 252
+      "govt_payer_share": 0.301,
+      "medicare_discharges": 246
     },
     {
       "facility_id": "191310",
@@ -28,8 +28,8 @@
       "ownership": "Government - Hospital District or Authority",
       "lat": 29.801,
       "lon": -91.5264,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.35,
+      "medicare_discharges": 79
     }
   ],
   "catchment_counties": [
@@ -60,7 +60,7 @@
     "num_counties": 2,
     "hospital_employment": 0,
     "msa_total_employment": 20409,
-    "hospital_emp_share": 0.0276,
-    "avg_govt_payer_share": 0.3303
+    "hospital_emp_share": 0.0089,
+    "avg_govt_payer_share": 0.3115
   }
 }

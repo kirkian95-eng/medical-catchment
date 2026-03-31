@@ -1,7 +1,7 @@
 {
   "cbsa_code": "18700",
   "cbsa_name": "Corvallis, OR",
-  "mdi": 0.4148,
+  "mdi": 0.5765,
   "bbox": [
     -124.75,
     43.6,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 44.6035,
       "lon": -123.2531,
-      "govt_payer_share": 0.394,
-      "medicare_discharges": 2102
+      "govt_payer_share": 0.243,
+      "medicare_discharges": 1980
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 38757,
-    "hospital_emp_share": 0.043,
-    "avg_govt_payer_share": 0.3937
+    "hospital_emp_share": 0.0498,
+    "avg_govt_payer_share": 0.2429
   }
 }

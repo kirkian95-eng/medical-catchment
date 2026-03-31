@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23900",
   "cbsa_name": "Gettysburg, PA",
-  "mdi": 0.2497,
+  "mdi": 0.367,
   "bbox": [
     -78.73,
     38.82,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 39.8234,
       "lon": -77.2338,
-      "govt_payer_share": 0.534,
-      "medicare_discharges": 1835
+      "govt_payer_share": 0.403,
+      "medicare_discharges": 1787
     }
   ],
   "catchment_counties": [
@@ -41,7 +41,7 @@
     "num_counties": 1,
     "hospital_employment": 0,
     "msa_total_employment": 33677,
-    "hospital_emp_share": 0.0116,
-    "avg_govt_payer_share": 0.5336
+    "hospital_emp_share": 0.0194,
+    "avg_govt_payer_share": 0.4026
   }
 }

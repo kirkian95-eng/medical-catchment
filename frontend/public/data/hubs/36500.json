@@ -1,7 +1,7 @@
 {
   "cbsa_code": "36500",
   "cbsa_name": "Olympia-Lacey-Tumwater, WA",
-  "mdi": 0.4087,
+  "mdi": 0.3282,
   "bbox": [
     -124.45,
     46.04,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.0528,
       "lon": -122.8446,
-      "govt_payer_share": 0.564,
-      "medicare_discharges": 4907
+      "govt_payer_share": 0.315,
+      "medicare_discharges": 4610
     },
     {
       "facility_id": "500139",
@@ -28,19 +28,11 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 47.0419,
       "lon": -122.9523,
-      "govt_payer_share": 0.343,
-      "medicare_discharges": 1389
+      "govt_payer_share": 0.341,
+      "medicare_discharges": 1317
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "53053",
-      "county_name": "Pierce",
-      "state": "WA",
-      "pop_total": 918993,
-      "pop_65_plus": 130317,
-      "distance_to_hub_miles": 34.6
-    },
     {
       "county_fips": "53067",
       "county_name": "Thurston",
@@ -52,15 +44,15 @@
   ],
   "summary": {
     "total_beds": 450,
-    "catchment_pop": 1213265,
-    "catchment_pop_65_plus": 183110,
-    "catchment_pct_65_plus": 0.1509,
-    "max_catchment_radius_miles": 34.6,
-    "avg_catchment_distance_miles": 28.3,
-    "num_counties": 2,
+    "catchment_pop": 294272,
+    "catchment_pop_65_plus": 52793,
+    "catchment_pct_65_plus": 0.1794,
+    "max_catchment_radius_miles": 8.5,
+    "avg_catchment_distance_miles": 8.5,
+    "num_counties": 1,
     "hospital_employment": 3774,
     "msa_total_employment": 126811,
-    "hospital_emp_share": 0.0298,
-    "avg_govt_payer_share": 0.5097
+    "hospital_emp_share": 0.0204,
+    "avg_govt_payer_share": 0.3214
   }
 }

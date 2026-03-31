@@ -1,7 +1,7 @@
 {
   "cbsa_code": "19220",
   "cbsa_name": "Danville, KY",
-  "mdi": 0.6341,
+  "mdi": 0.7021,
   "bbox": [
     -86.27,
     36.55,
@@ -17,8 +17,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.6438,
       "lon": -84.7728,
-      "govt_payer_share": 0.301,
-      "medicare_discharges": 1551
+      "govt_payer_share": 0.277,
+      "medicare_discharges": 1536
     },
     {
       "facility_id": "181315",
@@ -28,8 +28,8 @@
       "ownership": "Voluntary non-profit - Private",
       "lat": 37.5468,
       "lon": -84.6625,
-      "govt_payer_share": 0.68,
-      "medicare_discharges": 0
+      "govt_payer_share": 0.306,
+      "medicare_discharges": 70
     }
   ],
   "catchment_counties": [
@@ -92,7 +92,7 @@
     "num_counties": 6,
     "hospital_employment": 0,
     "msa_total_employment": 18690,
-    "hospital_emp_share": 0.0647,
-    "avg_govt_payer_share": 0.3438
+    "hospital_emp_share": 0.0595,
+    "avg_govt_payer_share": 0.2806
   }
 }

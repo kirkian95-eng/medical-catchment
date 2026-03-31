@@ -1,7 +1,7 @@
 {
   "cbsa_code": "23580",
   "cbsa_name": "Gainesville, GA",
-  "mdi": 0.5431,
+  "mdi": 0.7559,
   "bbox": [
     -85.32,
     33.3,
@@ -17,51 +17,11 @@
       "ownership": "Government - Local",
       "lat": 34.3025,
       "lon": -83.8185,
-      "govt_payer_share": 0.634,
-      "medicare_discharges": 9423
+      "govt_payer_share": 0.298,
+      "medicare_discharges": 9084
     }
   ],
   "catchment_counties": [
-    {
-      "county_fips": "13121",
-      "county_name": "Fulton",
-      "state": "GA",
-      "pop_total": 1061944,
-      "pop_65_plus": 129111,
-      "distance_to_hub_miles": 51.3
-    },
-    {
-      "county_fips": "13135",
-      "county_name": "Gwinnett",
-      "state": "GA",
-      "pop_total": 957977,
-      "pop_65_plus": 101912,
-      "distance_to_hub_miles": 26.3
-    },
-    {
-      "county_fips": "13089",
-      "county_name": "DeKalb",
-      "state": "GA",
-      "pop_total": 761209,
-      "pop_65_plus": 99800,
-      "distance_to_hub_miles": 43.5
-    },
-    {
-      "county_fips": "13057",
-      "county_name": "Cherokee",
-      "state": "GA",
-      "pop_total": 268567,
-      "pop_65_plus": 40371,
-      "distance_to_hub_miles": 37.8
-    },
-    {
-      "county_fips": "13117",
-      "county_name": "Forsyth",
-      "state": "GA",
-      "pop_total": 253225,
-      "pop_65_plus": 31090,
-      "distance_to_hub_miles": 18.3
-    },
     {
       "county_fips": "13139",
       "county_name": "Hall",
@@ -69,22 +29,6 @@
       "pop_total": 204953,
       "pop_65_plus": 31704,
       "distance_to_hub_miles": 1.0
-    },
-    {
-      "county_fips": "13187",
-      "county_name": "Lumpkin",
-      "state": "GA",
-      "pop_total": 33405,
-      "pop_65_plus": 6014,
-      "distance_to_hub_miles": 21.4
-    },
-    {
-      "county_fips": "13085",
-      "county_name": "Dawson",
-      "state": "GA",
-      "pop_total": 27355,
-      "pop_65_plus": 5400,
-      "distance_to_hub_miles": 22.3
     },
     {
       "county_fips": "13291",
@@ -105,15 +49,15 @@
   ],
   "summary": {
     "total_beds": 461,
-    "catchment_pop": 3611896,
-    "catchment_pop_65_plus": 456892,
-    "catchment_pct_65_plus": 0.1265,
-    "max_catchment_radius_miles": 51.3,
-    "avg_catchment_distance_miles": 36.1,
-    "num_counties": 10,
+    "catchment_pop": 248214,
+    "catchment_pop_65_plus": 43194,
+    "catchment_pct_65_plus": 0.174,
+    "max_catchment_radius_miles": 38.0,
+    "avg_catchment_distance_miles": 6.0,
+    "num_counties": 3,
     "hospital_employment": 0,
     "msa_total_employment": 100195,
-    "hospital_emp_share": 0.0404,
-    "avg_govt_payer_share": 0.6345
+    "hospital_emp_share": 0.0576,
+    "avg_govt_payer_share": 0.2982
   }
 }
